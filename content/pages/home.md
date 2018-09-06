@@ -25,10 +25,7 @@ teamImage: ''
 teamButton:
   label: ''
   link: ''
-benfits:
-  - description: ''
-    icon: ''
-    title: ''
+benfits: []
 videoTitle: ''
 videoContent: asdsad
 videoURL: ''
