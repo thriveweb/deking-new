@@ -1,7 +1,7 @@
 ---
 template: FinancePage
 slug: about/finance
-title: estest
+title: test
 subtitle: test
 featuredImage: /images/uploads/1.jpg
 welcomeTitle: test
