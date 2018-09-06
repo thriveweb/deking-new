@@ -1,10 +1,6 @@
 ---
 template: HomePage
 slug: ''
-title: test
-featuredImage: ''
-subtitle: subtitle
-meta:
-  title: ''
+video: /images/banner-video.mp4
+title: titleszsssssszz
 ---
-#

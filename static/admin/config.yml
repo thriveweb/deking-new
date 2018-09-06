@@ -93,30 +93,30 @@ collections: # A list of collections the CMS should be able to edit
               - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
               - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
               - {name: noindex, label: Noindex, widget: boolean, required: false}
-    - name: "settings"
-      label: "Settings"
-      delete: false # Prevent users from deleting documents in this collection
-      editor:
-        preview: false
-      files:
-        - file: "content/settings/global.yml"
-          label: "Global Settings"
-          name: "global-settings"
-          fields:
-            - {label: Site Title, name: siteTitle, widget: string}
-            - {label: Site Url, name: siteUrl, widget: string, required: false}
-            - {label: Site Description, name: siteDescription, widget: text, required: false}
-            - {label: phone, name: phone, widget: string, required: false}
-            - {label: phone2, name: phone2, widget: string, required: false}
-            - {label: email, name: email, widget: string, required: false}
-            - {label: subscribeFormTitle, name: subscribeFormTitle, widget: string, required: false}
-            - label: Social Media Card
-              name: socialMediaCard
-              widget: object
-              fields:
-                - {label: Image, name: image, widget: image, required: false}
-                - {label: twitter, name: twitter, widget: string, required: false}
-                - {label: facebook, name: facebook, widget: string, required: false}
-                - {label: instagram, name: instagram, widget: string, required: false}
-                - {label: youtube, name: youtube, widget: string, required: false}
-            - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
+  - name: "settings"
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - file: "content/settings/global.yml"
+        label: "Global Settings"
+        name: "global-settings"
+        fields:
+          - {label: Site Title, name: siteTitle, widget: string}
+          - {label: Site Url, name: siteUrl, widget: string, required: false}
+          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: phone, name: phone, widget: string, required: false}
+          - {label: phone2, name: phone2, widget: string, required: false}
+          - {label: email, name: email, widget: string, required: false}
+          - {label: subscribeFormTitle, name: subscribeFormTitle, widget: string, required: false}
+          - label: Social Media Card
+            name: socialMediaCard
+            widget: object
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
+              - {label: twitter, name: twitter, widget: string, required: false}
+              - {label: facebook, name: facebook, widget: string, required: false}
+              - {label: instagram, name: instagram, widget: string, required: false}
+              - {label: youtube, name: youtube, widget: string, required: false}
+          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}

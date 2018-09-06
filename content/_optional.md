@@ -1,5 +1,13 @@
 ---
-featuredImage: /images/logo.svg
+optional: hello gatsby
+podLink: /images/logo.svg
+videoURL: /images/logo.svg
+bannerImage: /images/logo.svg
+meta:
+  canonicalLink: ''
+  description: ''
+  noindex: false
+  title: ''
 ---
 
-<!-- Use this to force Gatsby to correctly determine optional images/file schema -->
+<!--Use this to force Gatsby to deal with optional images-->
