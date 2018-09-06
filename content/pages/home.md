@@ -25,7 +25,8 @@ teamImage: ''
 teamButton:
   label: ''
   link: ''
-benfits: []
+benfits:
+  - {}
 videoTitle: ''
 videoContent: asdsad
 videoURL: ''
@@ -35,7 +36,8 @@ priceButton:
   label: ''
   link: ''
 partnersTitle: ''
-partnerLogos: []
+partnerLogos:
+  - {}
 meta:
   canonicalLink: ''
   description: ''
