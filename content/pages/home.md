@@ -27,6 +27,7 @@ teamButton:
   link: ''
 benfits:
   - author:
+      avatar: /images/uploads/10.jpg
       name: test
 videoTitle: ''
 videoContent: asdsad
