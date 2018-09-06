@@ -2,16 +2,9 @@
 template: ContactPage
 slug: contact
 title: Contact us
-featuredImage: /images/uploads/yvb-001af4i4351-edited-with-tooth-1-.jpg
-locationTitle: Our locations
-locations:
-  - address: test
-    fax: test
-    lat: test
-    lng: test
-    mapLink: test
-    phone: test
-    title: test
+featuredImage: /images/uploads/10.jpg
+locationTitle: test
+locations: []
 otherLocationTitle: test
 otherLocation:
   - email: example@example.com
