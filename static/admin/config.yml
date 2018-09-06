@@ -57,11 +57,10 @@ collections: # A list of collections the CMS should be able to edit
               - {name: label, label: label, widget: string, required: false, default: ''}
               - {name: link, label: Link, widget: string, required: false, default: ''}
           - name: "benfits"
-            label: "Benfits"
+            label: "Benefits"
             widget: "list"
-            default: [{icon: '', title: '', description: ''}]
             fields:
-              - {name: icon, label: Icons, widget: image}
+              - {name: icon, label: Icon, widget: image}
               - {name: title, label: Title, widget: string, default: ''}
               - {name: description, label: Description, widget: markdown, default: ''}
           - {name: videoTitle, label: Video Title, widget: string, required: false, default: ''}
