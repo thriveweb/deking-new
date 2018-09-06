@@ -205,7 +205,7 @@ collections: # A list of collections the CMS should be able to edit
               - {name: title, label: title, widget: string, default: ''}
               - {name: content, label: content, widget: markdown, default: ''}
           - {name: learnMore, label: learnMore, widget: string, default: ''}
-          - {name: learnMoreImage, label: learnMoreImage, widget: string, default: ''}
+          - {name: learnMoreImage, label: learnMoreImage, widget: image}
           - {name: learnMoreLink, label: learnMoreLink, widget: string, default: ''}
           - label: "Meta"
             required: false

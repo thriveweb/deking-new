@@ -50,6 +50,9 @@ whatWeDo:
 qualificationsLogos:
   - logo: /images/uploads/ng-32703.jpg
   - link: ''
+learnMoreImage: /images/uploads/ng-32703.jpg
+
+
 meta:
   canonicalLink: ''
   description: ''
