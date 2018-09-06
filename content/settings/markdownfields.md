@@ -74,6 +74,13 @@ teamMembers:
   - profileImage2: /images/uploads/ng-32703.jpg
   - occupation: ''
   - bio: ''
+gallery:
+  - image: /images/uploads/ng-32703.jpg
+feedback:
+  - image: /images/uploads/ng-32703.jpg
+  - title: ''
+  - description: ''
+  - from: ''
 meta:
   canonicalLink: ''
   description: ''
