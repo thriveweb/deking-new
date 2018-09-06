@@ -26,9 +26,9 @@ teamButton:
   label: ''
   link: ''
 benfits:
-  - description: t
-    icon: /images/uploads/25-year-warranty-shutterstock.jpg
-    title: test
+  - description: ''
+    icon: ''
+    title: ''
 videoTitle: ''
 videoContent: asdsad
 videoURL: ''
