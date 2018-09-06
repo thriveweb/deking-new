@@ -2,44 +2,46 @@
 template: HomePage
 slug: ''
 video: /images/banner-video.mp4
-title: titleszssssssz
+title: markdownfields
 featuredImage: /images/uploads/ng-32703.jpg
 featureButton:
-  label: t
-  link: t
-welcomeTitle: t
+  label: ''
+  link: ''
+welcomeTitle: ''
 welcomeButton:
-  label: t
-  link: t
-servicesTitle: t
-bannerTitle: t
-bannerDescription: t
+  label: ''
+  link: ''
+servicesTitle: ''
+bannerTitle: ''
+bannerDescription: ''
 bannerImage: ''
 bannerButton:
-  label: t
-  link: t
-teamTitle: t
-teamDescription: t
+  label: ''
+  link: ''
+teamTitle: ''
+teamDescription: ''
 teamImage: ''
 teamButton:
-  label: t
-  link: t
+  label: ''
+  link: ''
 benefits:
-  - description: t
-    title: t
-videoTitle: t
-videoContent: asdsad
-videoURL: t
-priceTitle: t
-priceDescription: t
+  - description: ''
+    title: ''
+    icon: /images/uploads/ng-32703.jpg
+videoTitle: ''
+videoContent: ''
+videoURL: ''
+priceTitle: ''
+priceDescription: ''
 priceButton:
-  label: t
-  link: t
-partnersTitle: t
+  label: ''
+  link: ''
+partnersTitle: ''
 partnerLogos:
-  - link: t
+  - link: ''
+  - logo: /images/uploads/ng-32703.jpg
 meta:
-  canonicalLink: t
-  description: t
-  title: t
+  canonicalLink: ''
+  description: ''
+  title: ''
 ---
