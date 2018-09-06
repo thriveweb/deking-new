@@ -316,7 +316,7 @@ export const pageQuery = graphql`
           ...FluidImage
         }
         imageTeam {
-          publicURL
+          ...FluidImage
         }
         bannerButton {
           label
