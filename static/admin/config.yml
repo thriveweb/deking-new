@@ -36,7 +36,6 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {name: label, label: label, widget: string, required: false, default: ''}
               - {name: link, label: Link, widget: string, required: false, default: ''}
-          - {name: newField, label: New Field, widget: string, required: false, default: ''}
           - {name: servicesTitle, label: Services Title, widget: string, required: false, default: ''}
           - {name: bannerTitle, label: Banner Title, widget: string, required: false}
           - {name: bannerDescription, label: Banner Description, widget: text, required: false}
