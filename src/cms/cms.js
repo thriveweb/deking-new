@@ -29,36 +29,36 @@ if (
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
   <HomePageTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('about-page', ({ entry }) => (
-  <AboutPageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('about-finance-page', ({ entry }) => (
-  <FinancePageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
-  <ContactPageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('services-page', ({ entry }) => (
-  <ServicesIndexTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('projects-page', ({ entry }) => (
-  <ProjectsIndexTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('services', ({ entry }) => (
-  <SingleServiceTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('projects', ({ entry }) => (
-  <SingleProjectTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('about-process-page', ({ entry }) => (
-  <ProcessPageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('about-team-page', ({ entry }) => (
-  <TeamPageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('about-join-page', ({ entry }) => (
-  <JoinPageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('about-guarantees-page', ({ entry }) => (
-  <GuaranteesPage {...entry.toJS().data} />
-))
+// CMS.registerPreviewTemplate('about-page', ({ entry }) => (
+//   <AboutPageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('about-finance-page', ({ entry }) => (
+//   <FinancePageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
+//   <ContactPageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('services-page', ({ entry }) => (
+//   <ServicesIndexTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('projects-page', ({ entry }) => (
+//   <ProjectsIndexTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('services', ({ entry }) => (
+//   <SingleServiceTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('projects', ({ entry }) => (
+//   <SingleProjectTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('about-process-page', ({ entry }) => (
+//   <ProcessPageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('about-team-page', ({ entry }) => (
+//   <TeamPageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('about-join-page', ({ entry }) => (
+//   <JoinPageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('about-guarantees-page', ({ entry }) => (
+//   <GuaranteesPage {...entry.toJS().data} />
+// ))
