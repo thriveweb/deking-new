@@ -9,7 +9,7 @@ welcomeDescription: test
 welcomeImage: /images/uploads/19.jpg
 faq: []
 learnMore: titl
-learnMoreImage: test
+learnMoreImage: /images/uploads/11.jpg
 learnMoreLink: test
 meta:
   canonicalLink: ''
