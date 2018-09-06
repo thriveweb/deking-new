@@ -21,14 +21,12 @@ bannerButton:
   link: t
 teamTitle: t
 teamDescription: t
-imageTeam: /images/uploads/paint2.jpg
+teamImage: /images/uploads/11.jpg
 teamButton:
   label: t
   link: t
 benfits:
-  - description: t
-    icon: /images/uploads/smoke1.jpg
-    title: t
+  - icon: /images/uploads/3.jpg
 videoTitle: t
 videoContent: t
 videoURL: t
@@ -39,8 +37,7 @@ priceButton:
   link: t
 partnersTitle: t
 partnerLogos:
-  - link: t
-    logo: /images/uploads/paint2.jpg
+  - logo: /images/uploads/3.jpg
 meta:
   canonicalLink: t
   description: t
