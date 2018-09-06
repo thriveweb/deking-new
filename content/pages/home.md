@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 video: /images/banner-video.mp4
-title: titleszsssssszz
+title: titleszssssssz
 featuredImage: /images/uploads/ng-32703.jpg
 featureButton:
   label: ''
