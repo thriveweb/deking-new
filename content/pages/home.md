@@ -25,8 +25,7 @@ teamImage: ''
 teamButton:
   label: ''
   link: ''
-benfits:
-  - title: test
+benfits: []
 videoTitle: ''
 videoContent: asdsad
 videoURL: ''
