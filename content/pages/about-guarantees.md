@@ -5,14 +5,14 @@ title: Our Guarantees
 subtitle: All our Decks and Patios are backed by genuine guarantees
 featuredImage: /images/uploads/1.jpg
 guarantees:
-  content: '1.'
+  content: ''
   title: ''
-bannerTitle: test
+bannerTitle: te
 bannerDescription: test
 bannerImage: /images/uploads/1.jpg
 bannerButton:
-  label: Enquire
-  link: Contact
+  label: ''
+  link: ''
 meta:
   canonicalLink: ''
   description: ''
