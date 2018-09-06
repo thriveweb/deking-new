@@ -1,0 +1,527 @@
+.QuoteCalculator {
+  background: #d7d7d7;
+  padding: 4rem;
+  position: relative;
+}
+.QuoteStep {
+  height: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.QuoteStep.step1.active,
+.QuoteStep.step2.active,
+.QuoteStep.step3.active {
+  display: block;
+  width: 100%;
+  opacity: 0;
+  animation: fadeDelay 0.4s ease forwards;
+  animation-delay: 1s;
+}
+
+.QuoteStep.step4 .full-load{
+  position: absolute;
+  z-index: -10;
+  opacity: 0.1;
+  width: 40rem;
+  height: 40rem;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  overflow: hidden;
+  margin-top: 17%;
+}
+
+@media screen and (max-width: 558px){
+  .QuoteStep.step4 .full-load{
+    width: 30rem !important;
+    height: 30rem;
+    margin-top: 50%;
+  }
+
+  .QuoteStep.step4 div{
+    width: 90% !important;
+  }
+}
+
+.QuoteStep.step4 div{
+  width: 50%;
+  text-align: center;
+}
+
+.QuoteStep.step4 .full-load img{
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.hide {
+  display: none;
+}
+
+.QuoteStep.step0.active {
+  display: block;
+  width: 100%;
+  opacity: 0;
+  animation: fadeDelay 0.4s ease forwards;
+  animation-delay: 0.0s;
+}
+
+.QuoteStep.step0.active p {
+  font-size: 11px;
+  text-align: center;
+}
+
+.suscribe-box {
+  display: none !important;
+}
+
+@keyframes fadeDelay {
+  0%,
+  95% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.QuoteStep.active {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin: 4rem auto;
+}
+
+.QuoteStep--Shadow {
+  background: rgba(39, 33, 33, 0.17);
+  position: absolute;
+  top: 5rem;
+  right: -5rem;
+  width: 100%;
+  height: 100%;
+}
+
+.QuoteStep--Step {
+  position: relative;
+  width: 100% !important;
+  min-height: 80rem;
+  padding: 4rem;
+  background: white;
+  z-index: 2;
+  box-shadow: 0 13px 20px 0 rgba(39, 33, 33, 0.17);
+}
+
+.blackscreen .QuoteStep--Shadow {
+  display: none;
+}
+
+.blackscreen .QuoteStep--Step {
+  background: #202026;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.blackscreen .QuoteStep--Step .Button {
+  display: block;
+  margin: 4rem auto;
+}
+
+.QuoteCalculator > * + * {
+  margin-top: 2rem;
+}
+
+.QuoteCalculator--Label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.heading-image img {
+  display: block;
+  margin: 4rem auto;
+  width: auto;
+}
+
+.flex-labels {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.flex-labels .QuoteCalculator--Label {
+  width: calc(35% - 2rem);
+  margin: 0 1rem 1rem 1rem;
+}
+
+.fullwidth-labels {
+  width: calc(70% - 2rem);
+  margin: 1rem auto;
+}
+.fullwidth-labels .QuoteCalculator--Label {
+  margin: 0 0 2rem 0;
+}
+.fullwidth-labels .QuoteCalculator--Label input[type='checkbox'] {
+  margin: 0 1rem;
+}
+
+.ResultFlex {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  margin: 4rem auto;
+  width: 80%;
+}
+
+.ResultFlex > * {
+  width: 35%;
+  margin: 0 5%;
+}
+
+.QuoteCalculator--Label p {
+  width: 100%;
+  margin: 1rem 0 0 0;
+  text-transform: uppercase;
+}
+
+.QuoteCalculator--Input {
+  font-family: inherit;
+  flex-grow: 1;
+  box-sizing: border-box;
+  display: block;
+  margin: 0;
+  border: 1px solid #bababa;
+  padding: 1.5rem 2rem;
+  border-radius: var(--borderRadius);
+  line-height: 1.25em;
+  transition: border-color 0.2s;
+  resize: none;
+}
+
+.QuoteCalculator--Select {
+  background: none;
+  appearance: none;
+}
+
+.QuoteCalculator--Label.has-arrow:after {
+  content: '';
+  position: absolute;
+  right: 2.5rem;
+  top: 50%;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+  height: 10px;
+  width: 10px;
+  transform: translateY(-75%) rotate(45deg);
+  pointer-events: none;
+}
+
+.QuoteCalculator--Input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px white inset !important;
+}
+
+.QuoteCalculator--Input:focus {
+  outline: none;
+  border-color: black;
+}
+
+.QuoteCalculator--Input[disabled],
+.QuoteCalculator--SubmitButton[disabled] {
+  opacity: 0.4;
+  pointer-events: none;
+  cursor: progress;
+}
+
+.QuoteCalculator--Input::placeholder {
+  text-transform: none;
+}
+
+.QuoteCalculator--Alert {
+  background: var(--lightGrey);
+  width: 100%;
+  text-align: center;
+  padding: 2rem;
+}
+
+.nextScreenOverlay {
+  margin: 0;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #202026;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  opacity: 1;
+  animation: fade 1s ease-in-out;
+  animation-fill-mode: forwards;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.nextScreenOverlay .Image{
+  height: 30%;
+}
+
+.nextScreenOverlay.active {
+  display: flex;
+}
+
+@keyframes fade {
+  0% {
+    transform: scale(0.1, 0.1);
+  }
+  25% {
+    opacity: 1;
+    transform: scale(1, 1);
+  }
+  85% {
+    opacity: 1;
+    transform: scale(1, 1);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.QuoteCalculator h3 {
+  text-align: center;
+  border-bottom: 1px solid var(--midGrey);
+  padding: 0 0 2rem 0;
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  letter-spacing: 0.1rem;
+}
+
+.center-buttons {
+  text-align: center;
+}
+.center-buttons input {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  font-size: 1.4rem;
+  display: inline-block;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  border-radius: 3rem;
+  border: none;
+  background-color: var(--col1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  padding: 1rem 2.5rem;
+  margin: 0.4rem;
+  outline: none;
+}
+
+.center-buttons input[disabled] {
+  opacity: 0.4;
+  pointer-events: none;
+  cursor: progress;
+  background-color: var(--midGrey);
+}
+
+.center-buttons input.back-btn {
+  opacity: 0.6;
+  color: var(--darkGrey);
+  background: transparent;
+}
+
+.center-buttons input:hover,
+.center-buttons input:focus {
+  transform: translateY(1px);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+}
+
+.QuoteCalculator--Option {
+  flex-wrap: wrap;
+}
+
+.QuoteCalculator--Option-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  width: calc(33.33% - 4rem);
+  height: 250px;
+  margin: 2% 0;
+  overflow: hidden;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: var(--borderRadius);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--lightGrey);
+  transition: all 0.15s ease-in-out;
+  padding: 2rem;
+}
+
+@media (max-width: 855px) {
+  .QuoteCalculator--Option-image {
+    width: calc(50% - 4rem);
+  }
+}
+
+@media (max-width: 800px) {
+  .ResultFlex .afterTitle {
+    font-size: 42px !important;
+  }
+}
+
+@media (max-width: 760px) {
+  .flex-labels {
+    flex-direction: column;
+  }
+
+  .flex-labels .QuoteCalculator--Label {
+    width: calc(100% - 2rem);
+  }
+
+  .fullwidth-labels {
+    width: calc(100% - 2rem);
+  }
+}
+
+@media (max-width: 655px) {
+  .QuoteCalculator--Option-image {
+    width: calc(100% - 3rem);
+  }
+
+  .QuoteStep--Step .flex {
+    justify-content: center;
+  }
+
+  .ResultFlex {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .groundLevelDeck {
+  }
+}
+
+@media (max-width: 400px) {
+  .QuoteCalculator--Option-image {
+    width: calc(100% - 0rem);
+  }
+
+  .QuoteStep--Step {
+    padding: 2rem;
+  }
+
+  .QuoteCalculator {
+    padding: 2.5rem;
+  }
+}
+
+.groundLevelDeck,
+.QuoteCalculator--Option-image input.groundLevelDeck {
+  background: url(/images/lower-level-deck.png) top center no-repeat;
+}
+.upperLevelDeck,
+.QuoteCalculator--Option-image input.upperLevelDeck {
+  background: url(/images/upper-level-deck.png) top center no-repeat;
+}
+.poolDeck,
+.QuoteCalculator--Option-image input.poolDeck {
+  background: url(/images/pool-deck.png) top center no-repeat;
+}
+.roofFlyoverAttached,
+.QuoteCalculator--Option-image input.roofFlyoverAttached {
+  background: url(/images/roof-flyover.png) top center no-repeat;
+}
+.upperLevelDeckPatio,
+.QuoteCalculator--Option-image input.upperLevelDeckPatio {
+  background: url(/images/upper-level-deck-and-patio-roof.png) top center
+    no-repeat;
+}
+.lowerLevelDeckPatio,
+.QuoteCalculator--Option-image input.lowerLevelDeckPatio {
+  background: url(/images/low-level-deck-and-patio-roof.png) top center
+    no-repeat;
+}
+
+.ResultOption-image {
+  width: 100%;
+  height: 10rem;
+}
+
+.ResultOption-image .BackgroundImage {
+  background-size: contain !important;
+}
+
+.QuoteCalculator--Option-image input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  -webkit-appearance: none;
+  border: none;
+  background-size: contain !important;
+  outline: none;
+}
+
+.QuoteCalculator--Option-image:hover:after {
+  display: flex;
+}
+
+.QuoteCalculator--Option-image:after {
+  content: '';
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: var(--col1) url(/images/build-btn.svg) center no-repeat;
+  color: white;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.QuoteCalculator--Option-image.selected:after {
+  display: flex;
+}
+
+.Result--Calculations,
+.Result--Content {
+  width: 80%;
+  margin: 4rem auto;
+}
+
+.Result--Calculations-Row {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  margin: 0 0 2rem 0;
+  padding: 0 0 2rem 0;
+  border-bottom: 1px solid var(--midGrey);
+  font-size: 2rem;
+  font-weight: bold;
+}
+.Result--Calculations-Row.council .title {
+  font-weight: 400;
+}
+
+.Result--Content .red {
+  color: var(--col1);
+}
+
+.personal-details {
+  max-width: 250px;
+}

@@ -1,23 +1,23 @@
 import React from 'react'
 import { stringify } from 'qs'
 import { serialize } from 'dom-form-serializer'
+import FileUpload from './FileUpload'
 
-import './Form.css'
+import './EnquiryForm.css'
 
 class Form extends React.Component {
   static defaultProps = {
     name: 'Simple Form Ajax',
     subject: '', // optional subject of the notification email
     action: '',
-    honeypot: 'confirm',
     successMessage: 'Thanks for your enquiry, we will get back to you soon',
     errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+      'There is a problem, your message has not been sent, please try contacting us via email',
   }
 
   state = {
     alert: '',
-    disabled: false
+    disabled: false,
   }
 
   handleSubmit = e => {
@@ -28,7 +28,7 @@ class Form extends React.Component {
     const data = serialize(form)
     this.setState({ disabled: true })
     fetch(form.action + '?' + stringify(data), {
-      method: 'POST'
+      method: 'POST',
     })
       .then(res => {
         if (res.ok) {
@@ -41,54 +41,54 @@ class Form extends React.Component {
         form.reset()
         this.setState({
           alert: this.props.successMessage,
-          disabled: false
+          disabled: false,
         })
       })
       .catch(err => {
         console.error(err)
         this.setState({
           disabled: false,
-          alert: this.props.errorMessage
+          alert: this.props.errorMessage,
         })
       })
   }
 
   render() {
-    const { name, subject, action, honeypot } = this.props
+    const { name, subject, action } = this.props
 
     return (
       <form
-        className="Form"
+        className="EnquiryForm"
         name={name}
         action={action}
         onSubmit={this.handleSubmit}
         data-netlify=""
-        data-netlify-honeypot={honeypot}
+        data-netlify-honeypot="_gotcha"
       >
         {this.state.alert && (
-          <div className="Form--Alert">{this.state.alert}</div>
+          <div className="EnquiryForm--Alert">{this.state.alert}</div>
         )}
-        <label className="Form--Label">
+        <label className="EnquiryForm--Label">
           <input
-            className="Form--Input"
+            className="EnquiryForm--Input"
             type="text"
             placeholder="Name"
             name="name"
             required
           />
         </label>
-        <label className="Form--Label">
+        <label className="EnquiryForm--Label">
           <input
-            className="Form--Input"
+            className="EnquiryForm--Input"
             type="email"
             placeholder="Email"
-            name="emailAddress"
+            name="email"
             required
           />
         </label>
-        <label className="Form--Label has-arrow">
+        <label className="EnquiryForm--Label has-arrow">
           <select
-            className="Form--Input Form--Select"
+            className="EnquiryForm--Input EnquiryForm--Select"
             name="type"
             defaultValue="Type of Enquiry"
             required
@@ -101,25 +101,28 @@ class Form extends React.Component {
             <option>Want to say hello</option>
           </select>
         </label>
-        <label className="Form--Label">
+        <label className="EnquiryForm--Label">
           <textarea
-            className="Form--Input Form--Textarea"
+            className="EnquiryForm--Input EnquiryForm--Textarea"
             placeholder="Message"
             name="message"
             rows="10"
             required
           />
         </label>
-        <input
-          type="text"
-          name={honeypot}
-          className="Form--Input-honey"
-          placeholder="Leave blank if you are a human"
-        />
+
+        <FileUpload />
+
+        <label className="EnquiryForm--Label EnquiryForm--Checkbox">
+          <input type="checkbox" name="subscribe" defaultChecked="true" />
+          Please include me in your mailing list
+        </label>
+
+        <input type="text" name="_gotcha" style={{ display: 'none' }} />
         {!!subject && <input type="hidden" name="subject" value={subject} />}
         <input type="hidden" name="form-name" value={name} />
         <input
-          className="Button Form--SubmitButton"
+          className="Button EnquiryForm--SubmitButton"
           type="submit"
           value="Enquire"
           disabled={this.state.disabled}

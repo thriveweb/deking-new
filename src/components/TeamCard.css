@@ -1,0 +1,139 @@
+.TeamCard--Wrap {
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+  width: 33.33%;
+}
+.TeamCard {
+  text-decoration: none;
+  background: white;
+  color: inherit;
+  border: 1px solid var(--lightGrey);
+  border-radius: var(--borderRadius);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.15s ease-in-out;
+}
+
+.ProfileImage--set:hover {
+  display: none;
+}
+
+.ProfileImage--set:hover.ProfileImage--hover {
+  display:block;
+}
+
+
+.TeamCard--Image {
+  margin: 0;
+  height: 30rem;
+}
+
+.TeamCard--Content {
+  padding: 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.2s cubic-bezier(0, 1, 0.5, 1);
+  color: white;
+}
+
+.TeamCard--Title {
+  text-align: center;
+}
+
+.TeamCard--Content .Button {
+  visibility: hidden;
+  margin: 0;
+  padding: 0;
+  max-height: 0;
+  transition: all 0.05s ease;
+  box-shadow: none;
+}
+
+.TeamCard:hover,
+.TeamCard:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15);
+}
+
+.TeamCard:hover .TeamCard--Content {
+  background: rgba(241, 35, 55, 0.7);
+  max-height: 30rem;
+  height: 30rem;
+}
+
+.TeamCard:hover .ProfileImage--set {
+   display: none;
+}
+
+.TeamCard:hover .ProfileImage--hover {
+  display: block;
+}
+
+.ProfileImage--hover {
+  display:none;
+}
+
+.TeamCard:hover .TeamCard--Title {
+  color: white;
+  margin: 0 0 2rem 0;
+}
+
+.TeamCard:hover .TeamCard--Content .Button {
+  visibility: visible;
+  padding: 1rem 2.5rem;
+  margin: 0 0 0.4rem 0;
+  max-height: 4rem;
+}
+
+.TeamCard--Popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 4rem;
+  color: white;
+  height: 100%;
+  z-index: 222;
+}
+.TeamCard--Popup.active {
+  display: block;
+}
+
+.TeamCard--Popup-content {
+  padding: 8rem;
+  width: 80%;
+  min-height: 80vh;
+  margin: 0 auto;
+  background: var(--darkGrey);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.TeamCard--Popup svg {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+}
+
+.Popup--Content {
+  width: 50%;
+}
+
+.Popup--Image {
+  margin: 0 0 4rem 0;
+  height: 30rem;
+  width: 40%;
+}

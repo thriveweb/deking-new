@@ -1,11 +1,11 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import './PostCategoriesNav.css'
+import './CategoriesNav.css'
 
-const PostCategoriesNav = ({ categories }) => (
-  <div className="PostCategoriesNav">
-    <Link className="NavLink" exact to={`/blog/`}>
+const CategoriesNav = ({ categories, base }) => (
+  <div className="CategoriesNav">
+    <Link className="NavLink" exact to={`/${base}/`}>
       All
     </Link>
     {categories.map((category, index) => (
@@ -21,4 +21,4 @@ const PostCategoriesNav = ({ categories }) => (
   </div>
 )
 
-export default PostCategoriesNav
+export default CategoriesNav

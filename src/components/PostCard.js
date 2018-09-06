@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import _map from 'lodash/map'
 
 import Image from './Image'
 import './PostCard.css'
@@ -10,21 +9,20 @@ const PostCard = ({
   title,
   excerpt,
   slug,
-  categories = [],
   className = '',
   ...props
 }) => (
-  <Link to={slug} className={`PostCard ${className}`}>
+  <Link to={slug} className={`PostCard ${className}`} {...props}>
     {featuredImage && (
       <div className="PostCard--Image relative">
         <Image background src={featuredImage} alt={title} />
       </div>
     )}
+    {/* {category && (
+      <div className='PostCard--Category'>{category}</div>
+    )} */}
     <div className="PostCard--Content">
       {title && <h3 className="PostCard--Title">{title}</h3>}
-      <div className="PostCard--Category">
-        {categories && categories.map(cat => cat.category).join(', ')}
-      </div>
       {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
     </div>
   </Link>

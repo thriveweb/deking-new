@@ -1,0 +1,62 @@
+/* Setp 2 - Options section */
+.QuoteCalculator .QuoteStep-Options {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.QuoteCalculator .QuoteStep-Options .slide {
+  margin: 2rem 0;
+  text-align: center;
+  display: block;
+  height: auto;
+  padding: 4rem 0;
+}
+.QuoteCalculator .QuoteStep-Options .slide p {
+  width: 100%;
+  font-weight: bold;
+}
+
+.QuoteCalculator .QuoteStep-Options .slide img {
+  display: block;
+  margin: 0 auto 4rem auto;
+  max-width: 100px;
+}
+
+.OptionSlide--Button-wrap {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.QuoteCalculator .QuoteStep-Options .slide label input {
+  visibility: hidden;
+  outline: none;
+  display: none;
+}
+
+.QuoteCalculator .QuoteStep-Options .slide label {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  font-size: 1.4rem;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  border-radius: 3rem;
+  border: none;
+  background-color: var(--darkGrey);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  padding: 1rem 2.5rem;
+  margin: 0.4rem;
+  outline: none;
+  width: 15rem;
+  text-align: center;
+  display: block;
+}
+
+.QuoteCalculator .QuoteStep-Options .slide label.selected {
+  background-color: var(--col1);
+}

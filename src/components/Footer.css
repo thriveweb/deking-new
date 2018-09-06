@@ -1,4 +1,116 @@
 .Footer {
-  padding: 3rem 0;
   background: var(--lightGrey);
+}
+
+.WelcomeFooter .flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.WelcomeFooter .one-third {
+  text-align: center;
+  margin: 0rem 0 0 0;
+  padding: 6rem 0 0 0;
+  text-decoration: none;
+  color: var(--darkGrey);
+}
+
+.WelcomeFooter .Button {
+  width: 150px;
+  display: block;
+  margin-bottom: 1.5rem !important;
+}
+.WelcomeFooter .one-third h3 {
+  margin: 0;
+  padding-top: 1.1rem;
+}
+
+.WelcomeFooter .one-third {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.WelcomeFooter .one-third .bobble {
+  animation: bobble 2s ease-in-out infinite;
+  margin-bottom: 2.5rem;
+}
+
+@keyframes bobble {
+  0% {
+    transform: translateY(3px);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(3px);
+  }
+}
+
+
+.WelcomeFooter .one-third.calculator:hover {
+  opacity: 0.6;
+}
+
+.CopyFooter a,
+.MainFooter a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.09px;
+  line-height: 30px;
+}
+
+.CopyFooter p,
+.MainFooter p {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.09px;
+  line-height: 30px;
+}
+
+.phone-numbers a {
+  display: block;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.09px;
+  line-height: 30px;
+}
+
+.CopyFooter a:hover,
+.MainFooter a:hover {
+  color: var(--col1);
+}
+.socialMediaCard {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.socialMediaCard a {
+  margin: 2rem;
+}
+
+.socialMediaCard i {
+  font-size: 22px;
+  margin-bottom: 1rem;
+}
+
+.CopyFooter {
+  font-size: 1.2rem;
+  padding: 0 0 1rem 0;
+}
+
+.SubscribeForm {
+  margin: 0.5rem;
+}
+
+@media (max-width: 810px) {
+  footer {
+    text-align: center;
+  }
 }

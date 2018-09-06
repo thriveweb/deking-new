@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+// import Content from './Content'
 import Image from './Image'
-import Content from './Content'
 import './PageHeader.css'
 
 const PageHeader = ({
@@ -10,19 +10,22 @@ const PageHeader = ({
   subtitle,
   backgroundImage,
   large,
-  className = ''
+  split,
+  className = '',
 }) => {
   if (large) className += ' PageHeader-large'
+  if (split) className += ' PageHeader-split'
+  if (split) split = ' PageHeader-split-half'
   return (
     <div className={`PageHeader relative ${className}`}>
       {backgroundImage && (
-        <Image background src={backgroundImage} alt={title} size="cover" />
+        <Image background src={backgroundImage} alt={title} />
       )}
       <div className="container relative">
-        <h1 className="PageHeader--Title">{title}</h1>
-        {subtitle && (
-          <Content className="PageHeader--Subtitle" src={subtitle} />
-        )}
+        <div className={split}>
+          <h1 className="PageHeader--Title">{title}</h1>
+          {subtitle && <h2 className="PageHeader--Subtitle">{subtitle}</h2>}
+        </div>
       </div>
     </div>
   )
@@ -30,7 +33,7 @@ const PageHeader = ({
 
 PageHeader.propTypes = {
   title: PropTypes.string,
-  subtitle: PropTypes.string
+  subtitle: PropTypes.string,
 }
 
 export default PageHeader

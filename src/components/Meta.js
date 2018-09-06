@@ -11,16 +11,15 @@ const Meta = props => {
     url,
     description,
     absoluteImageUrl,
-    twitterSiteAccount,
-    twitterCreatorAccount,
+    twitter,
     headerScripts,
     noindex,
-    canonicalLink
+    canonicalLink,
     // overwrite { title, description } if in fields or fields.meta
   } = {
     ...props,
     ...onlyTruthyValues(_get(props, 'fields')),
-    ...onlyTruthyValues(_get(props, 'fields.meta'))
+    ...onlyTruthyValues(_get(props, 'fields.meta')),
   }
 
   // write headerScripts
@@ -45,12 +44,7 @@ const Meta = props => {
       {absoluteImageUrl && (
         <meta property="og:image" content={absoluteImageUrl} />
       )}
-      {twitterSiteAccount && (
-        <meta name="twitter:site" content={twitterSiteAccount} />
-      )}
-      {twitterCreatorAccount && (
-        <meta name="twitter:creator" content={twitterCreatorAccount} />
-      )}
+      {twitter && <meta name="twitter:site" content={twitter} />}
       {noindex && <meta name="robots" content="noindex" />}
       {canonicalLink && <link rel="canonical" href={canonicalLink} />}
     </Helmet>
@@ -58,3 +52,16 @@ const Meta = props => {
 }
 
 export default Meta
+
+export const query = graphql`
+  fragment Meta on MarkdownRemark {
+    frontmatter {
+      meta {
+        title
+        description
+        noindex
+        canonicalLink
+      }
+    }
+  }
+`

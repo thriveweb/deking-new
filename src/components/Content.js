@@ -26,7 +26,7 @@ const HtmlBlock = ({ value }) => {
     <div
       className={`Content--Iframe`}
       dangerouslySetInnerHTML={{
-        __html: value
+        __html: value,
       }}
     />
   )
@@ -51,7 +51,7 @@ const Content = ({ source, src, className = '' }) => {
       source={encodeMarkdownURIs(source)}
       renderers={{
         image: Image,
-        html: HtmlBlock
+        html: HtmlBlock,
       }}
     />
   )
@@ -60,7 +60,7 @@ const Content = ({ source, src, className = '' }) => {
 Content.propTypes = {
   source: PropTypes.string,
   src: PropTypes.string,
-  className: PropTypes.string
+  className: PropTypes.string,
 }
 
 export default Content

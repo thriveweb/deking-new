@@ -29,7 +29,7 @@ class Image extends React.Component {
       sizes,
       alt,
       style,
-      imgStyle
+      imgStyle,
     } = this.props
 
     const imageSizes = extractChildImageSharp(src, 'sizes')
@@ -52,10 +52,10 @@ class Image extends React.Component {
               style={{
                 position: 'absolute',
                 width: 'auto',
-                height: 'auto'
+                height: 'auto',
               }}
               imgStyle={{
-                objectFit: backgroundSize
+                objectFit: backgroundSize,
               }}
             />
           )}
@@ -82,6 +82,7 @@ class Image extends React.Component {
         className={`Image ${className}`}
         src={imageSrc}
         sizes={sizes || '100vw'}
+        srcSet={srcSet}
         onClick={onClick}
         alt={alt}
       />
@@ -90,7 +91,7 @@ class Image extends React.Component {
 }
 
 Image.propTypes = {
-  alt: PropTypes.string.isRequired
+  alt: PropTypes.string.isRequired,
 }
 
 export default Image
@@ -164,6 +165,14 @@ export const query = graphql`
     publicURL
     childImageSharp {
       resolutions(width: 400, quality: 75) {
+        ...GatsbyImageSharpResolutions_withWebp
+      }
+    }
+  }
+  fragment CroppedImage on File {
+    publicURL
+    childImageSharp {
+      resolutions(width: 1000, height: 562, quality: 75) {
         ...GatsbyImageSharpResolutions_withWebp
       }
     }

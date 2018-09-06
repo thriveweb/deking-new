@@ -1,0 +1,20 @@
+.OptionGallery {
+  margin: 0rem 0 0 0;
+}
+
+.SwiperButton {
+  border: 3px solid var(--secondary);
+  background: white;
+  padding: 0.5rem;
+  flex-basis: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  transform: translateY(-50%);
+  margin: 0;
+}
+
+.OptionGallery .SwiperButton * {
+  display: inherit;
+}

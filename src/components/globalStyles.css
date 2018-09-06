@@ -1,0 +1,360 @@
+:root {
+  --col1: #f12337;
+  --col2: #272121;
+  --lightGrey: #f3f3f3;
+  --midGrey: #5e5e5e;
+  --darkGrey: #272121;
+  --danger: rgba(241, 35, 55, 0.5);
+  --font-primary: 'Avenir Next', 'Open Sans', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif, sans-serif;
+  --font-system: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  --borderRadius: 3px;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  min-height: 100%;
+  background: var(--lightGrey);
+}
+
+body {
+  font-family: var(--font-primary);
+  min-height: 100%;
+  position: relative;
+  background: white;
+  color: var(--col2);
+  font-size: 1.6em;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  overflow: hidden;
+  position: relative;
+}
+
+a {
+  color: var(--col1);
+}
+
+strong {
+  font-weight: 600;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  margin-bottom: 2rem;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 5rem;
+  letter-spacing: -0.1rem;
+  line-height: 1.2;
+}
+@media screen and (max-width: 980px) {
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+h2 {
+  font-size: 32px;
+  letter-spacing: -0.1rem;
+  line-height: 1.25;
+}
+@media screen and (max-width: 980px) {
+  h2 {
+    font-size: 2.8rem;
+  }
+}
+
+h3 {
+  font-size: 3rem;
+  letter-spacing: -0.1rem;
+  line-height: 1.3;
+}
+@media screen and (max-width: 980px) {
+  h3 {
+    font-size: 2.4rem;
+  }
+}
+
+h4 {
+  font-size: 2.4rem;
+  letter-spacing: -0.08rem;
+  line-height: 1.35;
+}
+@media screen and (max-width: 980px) {
+  h4 {
+    font-size: 2rem;
+  }
+}
+
+.afterTitle {
+  position: relative;
+  padding-bottom: 1.2rem;
+  margin-bottom: 2rem;
+}
+.afterTitle:after {
+  content: '';
+  background: var(--col1);
+  width: 4rem;
+  height: 0.4rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+pre {
+  background: var(--lightGrey);
+  line-height: 1.45;
+  font-size: 85%;
+  border-radius: 3px;
+  padding: 16px;
+}
+
+code {
+  font-size: 85%;
+  padding: 0.15em 0;
+  background: var(--lightGrey);
+  border-radius: 3px;
+}
+code:before,
+code:after {
+  letter-spacing: -0.2em;
+  content: '\00a0';
+}
+pre code {
+  font-size: inherit;
+}
+pre code:before,
+pre code:after {
+  display: none;
+}
+blockquote {
+  margin-left: 0;
+  padding-left: 6rem;
+  font-size: 2rem;
+  border-left: 4px solid var(--col1);
+  font-weight: bold;
+}
+
+/* Utility Classes */
+.light {
+  background-color: var(--lightGrey);
+}
+.white {
+  background-color: white;
+}
+.dark {
+  background-color: var(--darkGrey);
+  color: white;
+}
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  color: white;
+}
+
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.taCenter {
+  text-align: center;
+}
+.taLeft {
+  text-align: left;
+}
+.taRight {
+  text-align: right;
+}
+
+.hidden {
+  display: none;
+  height: 0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Layout */
+
+.section {
+  width: 100%;
+  padding: 7.5rem 0;
+}
+.section.thick {
+  padding: 10rem 0;
+}
+.section.thin {
+  padding: 3.5rem 0;
+}
+.section.noPadding {
+  padding: 0;
+}
+
+.container {
+  max-width: 1111px;
+  width: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+.container.skinny {
+  max-width: 888px;
+}
+.container.skinnier {
+  max-width: 555px;
+}
+
+@media screen and (max-width: 980px) {
+  .section,
+  .section.thin,
+  .section.thick,
+  .section.nopad,
+  .section.basepad {
+    padding: 4rem 0;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .container,
+  .container.small,
+  .container.smaller,
+  .container.skinny,
+  .container.thin,
+  .container.thick {
+    width: 94%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0.8;
+}
+
+.g-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0.8;
+  background: linear-gradient(-90deg, rgba($darkGrey, 0.2), $darkGrey);
+  opacity: 1;
+}
+
+.one-half {
+  position: relative;
+  width: calc(50% - 2rem);
+}
+.one-third {
+  position: relative;
+  width: calc(33.333% - 2rem);
+}
+.two-thirds {
+  position: relative;
+  width: calc(66% - 2rem);
+}
+.one-quarter {
+  position: relative;
+  width: calc(25% - 2rem);
+}
+.three-quarters {
+  position: relative;
+  width: calc(75% - 2rem);
+}
+.one-fifth {
+  position: relative;
+  width: calc(20% - 2rem);
+}
+
+@media screen and (max-width: 980px) {
+  .one-half,
+  .one-third,
+  .two-thirds,
+  .one-quarter,
+  .three-quarters,
+  .one-fifth {
+    width: 100% !important;
+    margin: 2rem 0;
+  }
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.image-shadow-left:after {
+  content: '';
+  background: var(--lightGrey);
+  width: 90%;
+  height: 90%;
+  position: absolute;
+  bottom: -4rem;
+  left: -4rem;
+}
+.image-shadow-right:after {
+  content: '';
+  background: var(--lightGrey);
+  width: 90%;
+  height: 90%;
+  position: absolute;
+  bottom: -4rem;
+  right: -4rem;
+}

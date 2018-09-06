@@ -1,0 +1,22 @@
+.CategoriesNav {
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 500px) {
+  .PageHeader--ProjectSection .PageHeader--CategoriesNav {
+    font-size: 1.3rem;
+  }
+
+  .Projects .afterTitle {
+     font-size: 45px !important;
+     line-height: 1;
+  }
+
+  .Projects .one-half .Button {
+    margin-top: 7rem !important;
+  }
+}

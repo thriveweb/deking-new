@@ -1,21 +1,31 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-
 import 'modern-normalize/modern-normalize.css'
 
-import './globalStyles.css'
 import Meta from '../components/Meta'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
-import GithubCorner from '../components/GithubCorner'
+import Squares from '../components/Squares'
+
+import '../components/globalStyles.css'
 
 export default ({ children, data }) => {
   const { siteTitle, siteUrl, socialMediaCard, headerScripts } =
     data.settingsYaml || {}
+  const allPages = data.allPages.edges
+    .map(edge => edge.node)
+    .sort()
+    .reverse()
+  const globalSettings = data.globalSettings
   return (
     <Fragment>
-      <Helmet defaultTitle={siteTitle} titleTemplate={`%s | ${siteTitle}`}>
-        {/* Add font link tags here */}
+      <Helmet defaultTitle={siteTitle} titleTemplate={`${siteTitle} | %s`}>
+        <link
+          rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+          integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+          crossorigin="anonymous"
+        />
       </Helmet>
 
       <Meta
@@ -26,14 +36,15 @@ export default ({ children, data }) => {
           siteUrl + socialMediaCard.image
         }
       />
+      <main>
+        <Squares />
 
-      <GithubCorner url="https://github.com/thriveweb/whitesmoke" />
+        <Nav allPages={allPages} />
 
-      <Nav />
+        <Fragment>{children()}</Fragment>
 
-      <Fragment>{children()}</Fragment>
-
-      <Footer />
+        <Footer globalSettings={globalSettings} />
+      </main>
     </Fragment>
   )
 }
@@ -47,6 +58,34 @@ export const query = graphql`
       socialMediaCard {
         image
       }
+    }
+    # use filter and sort to reorder
+    allPages: allMarkdownRemark {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date
+          }
+        }
+      }
+    }
+    globalSettings: settingsYaml {
+      phone
+      phone2
+      email
+      locations
+      socialMediaCard {
+        image
+        twitter
+        facebook
+        instagram
+        youtube
+      }
+      subscribeFormTitle
     }
   }
 `

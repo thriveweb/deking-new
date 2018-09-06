@@ -1,9 +1,9 @@
-import React from 'react'
-import Helmet from 'react-helmet'
+import React, { Fragment } from 'react'
 
-import PageHeader from '../components/PageHeader'
 import Image from '../components/Image'
-import Content from '../components/Content.js'
+import Button from '../components/Button'
+import PageHeader from '../components/PageHeader'
+import BreakoutBanner from '../components/BreakoutBanner'
 import './AboutPage.css'
 
 // Export Template for use in CMS preview
@@ -11,59 +11,167 @@ export const AboutPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  section1,
-  section2,
-  testImage,
-  body
+  welcomeTitle,
+  welcomeDescription,
+  welcomeImage,
+  welcomeButton,
+  whatWeDoTitle,
+  whatWeDo,
+  bannerTitle,
+  bannerDescription,
+  bannerImage,
+  bannerButton,
+  qualificationsTitle,
+  qualificationsLogos,
 }) => (
-  <main className="About">
-    <Helmet>
-      <title>{title}</title>
-    </Helmet>
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
+  <Fragment>
+    <main className="About">
+      <PageHeader
+        title={title}
+        subtitle={subtitle}
+        backgroundImage={featuredImage}
+        large
+      />
 
-    <section className="section">
-      <div className="container">
-        <Content source={section1} />
+      <div className="section WelcomeSection">
+        <div className="container flex">
+          <div className="one-half">
+            {welcomeTitle && <h2 className="afterTitle">{welcomeTitle}</h2>}
+            {welcomeDescription && <p>{welcomeDescription}</p>}
+            {welcomeButton.link && (
+              <Button className="" to={welcomeButton.link}>
+                {welcomeButton.label}
+              </Button>
+            )}
+          </div>
+          {welcomeImage && (
+            <div className="one-half">
+              <Image background src={welcomeImage} alt={welcomeTitle} />
+            </div>
+          )}
+        </div>
       </div>
-    </section>
 
-    <section className="section">
-      <div className="container">
-        <Content source={section2} />
-        <p>The image below is a {'<Image />'}</p>
-        <Image src={testImage} alt="Image" />
+      <div className="section BenfitsSection">
+        <div className="container">
+          <h2 className="taCenter">{whatWeDoTitle}</h2>
+          <div className="flex">
+            {whatWeDo.map((what, index) => {
+              return (
+                <div
+                  key={index + what.title}
+                  className="BenfitsSection--Benfit one-third flex relative"
+                >
+                  <Image
+                    background
+                    backgroundSize="contain"
+                    className="one-quarter relative"
+                    src={what.icon}
+                    alt={what.title}
+                  />
+                  <div className="info three-quarters">
+                    <h4>{what.title}</h4>
+                    {what.description}
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+        </div>
       </div>
-    </section>
-  </main>
+      {bannerImage && (
+        <BreakoutBanner
+          image={bannerImage}
+          title={bannerTitle}
+          description={bannerDescription}
+          link={bannerButton}
+        />
+      )}
+      <div className="section PartnersSection">
+        <div className="container">
+          <h2 className="taCenter">{qualificationsTitle}</h2>
+          <div className="flex">
+            {qualificationsLogos.map((logo, index) => {
+              return (
+                <a
+                  key={index + logo.link}
+                  className="PartnersSection--Logo one-quarter"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href={logo.link}
+                >
+                  <Image
+                    background
+                    backgroundSize="contain"
+                    src={logo.logo}
+                    alt="logos"
+                  />
+                </a>
+              )
+            })}
+          </div>
+        </div>
+      </div>
+    </main>
+  </Fragment>
 )
 
-const AboutPage = ({ data: { page } }) => (
-  <AboutPageTemplate {...page} {...page.frontmatter} body={page.html} />
-)
+const AboutPage = ({ data }) => {
+  const { markdownRemark: page } = data
+  return <AboutPageTemplate {...page.frontmatter} />
+}
 
 export default AboutPage
-
+// Query for DefaultPage data
+// Use GraphiQL interface (http://localhost:8000/___graphql)
+// ID is processed via gatsby-node.js
 export const pageQuery = graphql`
   query AboutPage($id: String!) {
-    page: markdownRemark(id: { eq: $id }) {
-      html
+    markdownRemark(id: { eq: $id }) {
+      rawMarkdownBody
       frontmatter {
         title
-        template
         subtitle
         featuredImage {
           ...FluidImage
         }
-        testImage {
+        welcomeTitle
+        welcomeDescription
+        welcomeImage {
           ...FluidImage
         }
-        section1
-        section2
+        welcomeButton {
+          label
+          link
+        }
+        whatWeDoTitle
+        whatWeDo {
+          icon {
+            ...SmallImage
+          }
+          title
+          description
+          button {
+            label
+            link
+          }
+        }
+        bannerTitle
+        bannerDescription
+        bannerImage {
+          ...FluidImage
+        }
+        bannerButton {
+          label
+          link
+        }
+        qualificationsTitle
+        qualificationsLogos {
+          logo {
+            ...SmallImage
+          }
+          link
+        }
       }
     }
   }

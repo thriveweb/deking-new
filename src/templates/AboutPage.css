@@ -1,2 +1,24 @@
-.About {
+@media (max-width:950px) {
+  .About .WelcomeSection .one-half {
+    width: calc(100% - 2rem);
+  }
+}
+
+@media (max-width:375px) {
+  .About .PageHeader--Subtitle {
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+  }
+
+  .About .WelcomeSection h2 {
+    font-size: 48px !important;
+  }
+}
+
+.About .PartnersSection {
+  padding-top: 4rem !important;
+}
+
+.About .PartnersSection h2 {
+  font-size: 3.8rem;
 }

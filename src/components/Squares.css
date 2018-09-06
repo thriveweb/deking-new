@@ -1,0 +1,8 @@
+.Square {
+  position: absolute;
+  display: block;
+  background: var(--midGrey);
+  opacity: 0.04;
+  width: 20rem;
+  height: 20rem;
+}

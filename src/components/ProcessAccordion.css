@@ -1,0 +1,170 @@
+.ProcessAccordion {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.ProcessAccordion .Accordion--item {
+  background: white;
+  transition: color 0.3s ease;
+  position: relative;
+  margin: 0;
+  padding: 0 0 4rem 0;
+}
+.ProcessAccordion .Accordion--item:last-child {
+  padding: 0;
+}
+.ProcessAccordion .Accordion--item:before {
+  content: '';
+  height: 100%;
+  width: 100%;
+  background: url(/images/ProcessAccordion.png) 4rem 0 repeat-y;
+  filter: grayscale(100%);
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+@media (max-width: 566px) {
+  .ProcessAccordion .Accordion--item:before {
+    background: none;
+  }
+}
+
+.ProcessAccordion .Accordion--item.prevActive:before,
+.ProcessAccordion .Accordion--item.active:before {
+  filter: grayscale(0);
+  opacity: 1;
+}
+
+.titleGroup {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ProcessAccordion .Accordion--item h2 {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.6rem;
+  display: block;
+  margin: 0;
+  padding: 1rem;
+  border-bottom: 2px solid var(--lightGrey);
+  width: 85%;
+}
+
+.ProcessAccordion .Accordion--item:hover h2,
+.ProcessAccordion .Accordion--item.active h2,
+.ProcessAccordion .Accordion--item.prevActive h2 {
+  color: var(--col1);
+}
+
+.imageDisc {
+  border-radius: 50%;
+  width: 8rem;
+  height: 8rem;
+  position: relative;
+  background: white;
+  border: 1px solid #aeaeae;
+  transition: border 0.3s ease;
+}
+
+.ProcessAccordion .Accordion--item:hover .imageDisc,
+.ProcessAccordion .Accordion--item.active .imageDisc,
+.ProcessAccordion .Accordion--item.prevActive .imageDisc {
+  border: 1px solid var(--col1);
+}
+
+.ProcessAccordion .Accordion--item:nth-child(even) .imageDisc:before {
+  content: '';
+  width: 3.9rem;
+  height: 8.1rem;
+  display: block;
+  background: white;
+  border: white 1px solid;
+  position: absolute;
+  top: -0.1rem;
+  left: -0.1rem;
+}
+.ProcessAccordion .Accordion--item:nth-child(odd) .imageDisc:before {
+  content: '';
+  width: 4rem;
+  height: 8.1rem;
+  display: block;
+  background: white;
+  border: white 1px solid;
+  position: absolute;
+  top: -0.1rem;
+  right: -0.1rem;
+}
+.ProcessAccordion .Accordion--item:nth-child(1) .imageDisc:before {
+  content: '';
+  width: 4rem;
+  height: 6rem;
+  display: block;
+  background: white;
+  border: white 1px solid;
+  position: absolute;
+  top: auto;
+  left: auto;
+  bottom: -0.1rem;
+  right: -0.1rem;
+}
+.ProcessAccordion .Accordion--item:last-child .imageDisc:before {
+  content: '';
+  width: 4rem;
+  height: 6rem;
+  display: block;
+  background: white;
+  border: white 1px solid;
+  position: absolute;
+  top: -0.1rem;
+  right: -0.1rem;
+}
+
+.ProcessAccordion .Accordion--item:last-child.active .imageDisc:before {
+  content: '';
+  width: 4rem;
+  height: 8.1rem;
+  display: block;
+  background: white;
+  border: white 1px solid;
+  position: absolute;
+  top: -0.1rem;
+  right: -0.1rem;
+}
+
+.imageDisc .BackgroundImage {
+  filter: grayscale(100%);
+  opacity: 0.5;
+  background-size: 60% !important;
+  transition: all 0.3s ease;
+}
+
+.ProcessAccordion .Accordion--item:hover .imageDisc .BackgroundImage,
+.ProcessAccordion .Accordion--item.active .imageDisc .BackgroundImage,
+.ProcessAccordion .Accordion--item.prevActive .imageDisc .BackgroundImage {
+  filter: grayscale(0);
+  opacity: 1;
+}
+
+.ProcessAccordion .Accordion--item.active .description {
+  animation: sildeDescription 0.4s ease-out;
+  padding: 1rem 2rem 2rem 10rem;
+  background: transparent;
+}
+
+@keyframes sildeDescription {
+  from {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

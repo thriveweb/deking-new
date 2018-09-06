@@ -1,0 +1,71 @@
+.SingleService {
+}
+
+.SingleService--BackgroundImage {
+  height: 50rem;
+}
+
+.SingleService--BackButton {
+  color: white;
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+
+.SingleService--BackButton svg {
+  transition: transform 0.2s ease-out;
+  transform: translateX(0);
+  height: 1.2em;
+}
+
+.SingleService--BackButton:hover svg,
+.SingleService--BackButton:focus svg {
+  transform: translateX(-0.25em);
+}
+
+.AccordionSection .Accordion {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.AccordionSection .Accordion--item h2 {
+  font-size: 2.5rem;
+}
+
+.PriceSection {
+  background: linear-gradient(to right, var(--darkGrey) 95%, white 95%);
+  color: white;
+}
+
+.PriceSection--Button {
+  display: inline-block;
+}
+
+.PriceSection--Calculator svg {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  opacity: 0.1;
+}
+
+.ServicePods > * + * {
+  margin-top: 10rem;
+}
+
+.ServicePods--Pod {
+  min-height: 35rem;
+}
+
+.WelcomeSection .one-half,
+.ServicePods--Pod .one-half {
+  padding: 2rem;
+  min-height: 30vh;
+  width: calc(48% - 4rem);
+}
+
+.Pod--Even {
+  flex-direction: row-reverse;
+}

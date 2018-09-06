@@ -1,0 +1,70 @@
+.ServiceCard {
+  text-decoration: none;
+  margin: 2rem;
+  background: white;
+  color: inherit;
+  border: 1px solid var(--lightGrey);
+  border-radius: var(--borderRadius);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.15s ease-in-out;
+  overflow: hidden;
+  position: relative;
+}
+
+.ServiceCard--Image {
+  margin: 0;
+  height: 40rem;
+}
+
+.ServiceCard--Content {
+  padding: 1.5rem 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  max-height: 10rem;
+  transition: max-height 0.2s cubic-bezier(0, 1, 0.5, 1);
+}
+
+.ServiceCard--Title {
+  text-align: center;
+  margin: 0;
+}
+
+.ServiceCard--Content .Button {
+  visibility: hidden;
+  margin: 0;
+  padding: 0;
+  max-height: 0;
+  transition: all 0.05s ease;
+  box-shadow: none;
+}
+
+.ServiceCard:hover,
+.ServiceCard:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15);
+}
+
+.ServiceCard:hover .ServiceCard--Content {
+  background: var(--col1);
+  max-height: 40rem;
+  height: 40rem;
+}
+.ServiceCard:hover .ServiceCard--Title {
+  color: white;
+  margin: 0 0 2rem 0;
+}
+
+.ServiceCard:hover .ServiceCard--Content .Button {
+  visibility: visible;
+  padding: 1rem 2.5rem;
+  margin: 0 0 0.4rem 0;
+  max-height: 4rem;
+}

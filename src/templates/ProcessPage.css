@@ -1,0 +1,16 @@
+.TeamMembers--Container {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+}
+
+@media (max-width: 650px) {
+  .Process .PageHeader .BackgroundImage {
+    display: none;
+  }
+
+  .Process .PageHeader-split-half {
+    width: 100%;
+    padding: 0 3rem;
+  }
+}

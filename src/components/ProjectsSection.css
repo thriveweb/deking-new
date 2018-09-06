@@ -1,0 +1,78 @@
+.PageHeader--ProjectSection.PageHeader {
+  margin: 0;
+}
+.PageHeader--ProjectSection .PageHeader--CategoriesNav {
+  position: relative;
+  padding: 0;
+  height: 10rem;
+  bottom: -15rem;
+  left: 0;
+}
+
+.ProjectsSection {
+  margin: 8rem 0;
+}
+
+.ProjectsSection .ProjectCard {
+  width: calc(33.33% - 4rem);
+  margin: 2rem;
+}
+
+.ProjectsSection--Grid {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+@supports (display: grid) {
+  .ProjectsSection--Grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+  }
+
+  .ProjectsSection .ProjectCard {
+    width: auto;
+    margin: 0;
+  }
+}
+
+.ProjectsSection--Title {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto 4rem auto;
+  line-height: 1.2;
+}
+
+.relatedProjects {
+  align-items: center;
+}
+
+.ProjectsSection .Button {
+  margin-top: 5rem;
+}
+
+.ProjectsSection .flex {
+  justify-content: center;
+}
+@media screen and (max-width: 750px) {
+  .ProjectsSection .ProjectCard {
+    width: 100%;
+    margin: 0 0 4rem 0;
+    display: block;
+  }
+
+  @supports (display: grid) {
+    .ProjectsSection--Grid {
+      display: block;
+      grid-template-columns: 1;
+      grid-gap: 0;
+    }
+
+    .ProjectsSection .ProjectCard {
+      margin: 0 0 4rem 0;
+    }
+  }
+}

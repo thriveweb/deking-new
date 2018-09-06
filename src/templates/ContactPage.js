@@ -1,82 +1,139 @@
-import React from 'react'
-import Helmet from 'react-helmet'
+import React, { Fragment } from 'react'
+
 import { MapPin, Smartphone, Mail } from 'react-feather'
 
 import PageHeader from '../components/PageHeader'
-import FormSimpleAjax from '../components/FormSimpleAjax'
+import EnquiryFormSimple from '../components/EnquiryFormSimple'
+import SimpleMap from '../components/SimpleMap'
 import Content from '../components/Content'
 import './ContactPage.css'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
-  body,
   title,
   subtitle,
   featuredImage,
-  address,
-  phone,
-  email
+  locationTitle,
+  locations,
+  otherLocationTitle,
+  otherLocation,
 }) => (
-  <main className="Contact">
-    <Helmet>
-      <title>{title}</title>
-    </Helmet>
+  <Fragment>
+    <main className="Contact">
+      <PageHeader
+        title={title}
+        subtitle={subtitle}
+        backgroundImage={featuredImage}
+      />
 
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
+      <div className="section Contact">
+        <div className="container Contact--Section">
+          <div>
+            {locationTitle && <h2>{locationTitle}</h2>}
+            <div className="Contact--Details flex">
+              {locations &&
+                locations.map((location, index) => {
+                  return (
+                    <div
+                      key={index + location.title}
+                      className="Contact--Details-locations"
+                    >
+                      {location.title && <h3>{location.title}</h3>}
+                      {location.phone && (
+                        <p>
+                          <span className="red">Call</span>
+                          <a href={`tel:${location.phone}`}>{location.phone}</a>
+                        </p>
+                      )}
+                      {location.fax && (
+                        <p>
+                          <span className="red">Fax</span>
+                          {location.fax}
+                        </p>
+                      )}
+                      {location.address && (
+                        <p>
+                          <span className="red">Address</span>
+                          {location.address}
+                        </p>
+                      )}
+                      {location.mapLink && (
+                        <a
+                          target="_blank"
+                          rel="nofollow"
+                          href={location.mapLink}
+                        >
+                          <MapPin />
+                          View map
+                        </a>
+                      )}
+                    </div>
+                  )
+                })}
+            </div>
+            <div className="Contact--Details">
+              {otherLocationTitle && <h3>{otherLocationTitle}</h3>}
+              {otherLocation &&
+                otherLocation.map((otherLocation, index) => {
+                  return (
+                    <div
+                      key={index + otherLocation.phone}
+                      className="Contact--Details-locations flex one-half"
+                    >
+                      {otherLocation.phone && (
+                        <p>
+                          <span className="red">Call</span>
+                          <a href={`tel:${otherLocation.phone}`}>
+                            {otherLocation.phone}
+                          </a>
+                        </p>
+                      )}
+                      {otherLocation.email && (
+                        <p>
+                          <span className="red">Email</span>
+                          <a href={`mailto:${otherLocation.email}`}>
+                            {otherLocation.email}
+                          </a>
+                        </p>
+                      )}
+                    </div>
+                  )
+                })}
+            </div>
+          </div>
 
-    <section className="section Contact--Section1">
-      <div className="container Contact--Section1--Container">
-        <div>
-          <Content source={body} />
-
-          <div className="Contact--Details">
-            {address && (
-              <a
-                className="Contact--Details--Item"
-                href={`https://www.google.com.au/maps/search/${encodeURI(
-                  address
-                )}`}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <MapPin /> {address}
-              </a>
-            )}
-            {phone && (
-              <a className="Contact--Details--Item" href={`tel:${phone}`}>
-                <Smartphone /> {phone}
-              </a>
-            )}
-            {email && (
-              <a className="Contact--Details--Item" href={`mailto:${email}`}>
-                <Mail /> {email}
-              </a>
-            )}
+          <div>
+            <EnquiryFormSimple name="Simple Form" />
           </div>
         </div>
-
-        <div>
-          <FormSimpleAjax name="Simple Form Ajax" />
-        </div>
       </div>
-    </section>
-  </main>
+      <SimpleMap locations={locations} />
+    </main>
+  </Fragment>
 )
 
-const ContactPage = ({ data: { page } }) => (
-  <ContactPageTemplate {...page.frontmatter} body={page.html} />
-)
+// for non perview gatsby
+const ContactPage = ({ data }) => {
+  const { markdownRemark: page } = data
+
+  return (
+    //de-structure the query data
+    <ContactPageTemplate
+      body={page.rawMarkdownBody}
+      // inject all page frontmatter props
+      {...page.frontmatter}
+    />
+  )
+}
 
 export default ContactPage
 
+// Query for DefaultPage data
+// Use GraphiQL interface (http://localhost:8000/___graphql)
+// ID is processed via gatsby-node.js
 export const pageQuery = graphql`
   query ContactPage($id: String!) {
-    page: markdownRemark(id: { eq: $id }) {
-      html
+    markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
         template
@@ -84,9 +141,21 @@ export const pageQuery = graphql`
         featuredImage {
           ...FluidImage
         }
-        address
-        phone
-        email
+        locationTitle
+        locations {
+          title
+          phone
+          fax
+          address
+          mapLink
+          lat
+          lng
+        }
+        otherLocationTitle
+        otherLocation {
+          email
+          phone
+        }
       }
     }
   }

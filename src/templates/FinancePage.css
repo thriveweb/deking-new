@@ -1,0 +1,19 @@
+.LearnMore > .flex {
+  align-items: center;
+}
+
+.LearnMore--Image {
+  display: block;
+  min-height: 15rem;
+}
+
+@media (max-width: 650px) {
+  .Finance .PageHeader .BackgroundImage {
+    display: none;
+  }
+
+  .Finance .PageHeader-split-half {
+    width: 100%;
+    padding: 0 3rem;
+  }
+}

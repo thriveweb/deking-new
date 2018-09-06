@@ -1,0 +1,28 @@
+.SubscribeForm {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  background: white;
+  border-radius: 3rem;
+  overflow: hidden;
+}
+
+.SubscribeForm .EnquiryForm--Label {
+  margin: 0;
+}
+
+.SubscribeForm input[type='email'] {
+  border: none;
+  margin: 0;
+  outline: none;
+  background: white;
+}
+
+.SubscribeForm .Button {
+  margin: 0;
+}
+
+.SubscribeForm .Button:hover {
+  transform: translateY(0px) !important;
+  color: var(--darkGrey);
+}

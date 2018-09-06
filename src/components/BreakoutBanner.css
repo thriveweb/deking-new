@@ -1,0 +1,29 @@
+.BannerSection {
+  min-height: 40rem;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.BannerSection .flex {
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.BannerSection--Overlay,
+.BannerSection--Graident {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-position: center;
+  overflow: hidden;
+  background: url('/images/banner-graident.png') -100px 0 no-repeat;
+  background-size: cover;
+}
+
+.BannerSection--Graident {
+  background: linear-gradient(to right, var(--darkGrey) 0%, transparent 100%);
+}

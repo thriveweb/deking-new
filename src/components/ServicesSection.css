@@ -1,0 +1,51 @@
+.ServicesSection .ServiceCard {
+  width: calc(33.33% - 4rem);
+  margin: 2rem;
+}
+
+.ServicesSection--Grid {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+@supports (display: grid) {
+  .ServicesSection--Grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 4rem;
+    margin: 0;
+  }
+
+  .ServicesSection .ServiceCard {
+    width: auto;
+    margin: 0 0 4rem 0;
+  }
+}
+
+.ServicesSection--Title {
+  width: 100%;
+  margin: 0 auto 4rem auto;
+}
+
+@media screen and (max-width: 750px) {
+  .ServicesSection .ServiceCard {
+    width: 100%;
+    margin: 0 0 4rem 0;
+    display: block;
+  }
+
+  @supports (display: grid) {
+    .ServicesSection--Grid {
+      display: block;
+      grid-template-columns: 1;
+      grid-gap: 0;
+    }
+
+    .ServicesSection .ServiceCard {
+      margin: 0 0 4rem 0;
+    }
+  }
+}

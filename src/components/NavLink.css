@@ -2,7 +2,6 @@
   padding: 0.5rem 1rem;
   display: block;
   font-weight: 500;
-  transition: color 0.2s, border-bottom-color 0.2s;
   color: inherit;
   text-decoration: none;
   border-bottom: 2px solid;
@@ -16,6 +15,5 @@
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {
-  color: var(--primary);
-  border-bottom-color: currentColor;
+  color: var(--col1);
 }

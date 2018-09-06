@@ -1,0 +1,61 @@
+.Gallery {
+  margin: 0rem 0 0 0;
+}
+
+.SwiperButton {
+  border: 3px solid var(--secondary);
+  background: white;
+  padding: 0.5rem;
+  flex-basis: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  transform: translateY(-50%);
+  margin: 0;
+}
+
+.SwiperButton * {
+  display: block;
+}
+
+.swiper-container {
+  width: 100%;
+}
+.Gallery .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: block;
+}
+
+.Gallery .swiper-slide {
+  width: 60%;
+  opacity: 0.4;
+}
+
+.Gallery .swiper-slide {
+  position: relative;
+}
+.Gallery .swiper-slide:before {
+  display: block;
+  content: '';
+  width: 100%;
+  padding-top: 56.25%;
+}
+.Gallery .swiper-slide > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.Gallery .swiper-slide img {
+  height: 100%;
+  width: 100%;
+}
+.Gallery .swiper-slide-active {
+  opacity: 1;
+}

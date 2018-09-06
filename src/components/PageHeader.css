@@ -2,35 +2,72 @@
   background-color: var(--darkGrey);
   color: white;
   padding: 15rem 0;
+  margin: 0 0 15rem 0;
 }
-
 .PageHeader .BackgroundImage {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .PageHeader-large {
   padding: 20rem 0;
 }
-
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
+  text-align: center;
 }
 
 .PageHeader--Subtitle {
-  font-weight: 400;
-  font-size: 1.8rem;
+  position: absolute;
+  bottom: -35rem;
+  left: 0;
+  background: var(--darkGrey);
+  padding: 6rem;
+  height: 25rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
-.PageHeader .container {
-  animation: fadeIn 0.5s ease-out;
+.PageHeader-split {
+  padding: 0;
+  margin: 0;
+  height: 50rem;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
 }
 
-@media (max-width: 600px) {
-  .PageHeader {
-    padding: 7rem 0;
-  }
-  .PageHeader-large {
-    padding: 12.5rem 0;
-  }
+.PageHeader-split-half {
+  background: var(--darkGrey);
+  padding: 0 6rem;
+  height: 100%;
+  width: 50%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.PageHeader-split .PageHeader--Title {
+  font-size: 4rem;
+  margin-bottom: 4rem;
+  text-align: left;
+  color: var(--col1);
+}
+
+.PageHeader-split .PageHeader--Subtitle {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  background: transparent;
+  padding: 0;
+  height: auto;
+  display: block;
+  text-align: left;
+  font-size: 2.8rem;
 }
