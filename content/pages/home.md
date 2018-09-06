@@ -15,7 +15,7 @@ newField: t
 servicesTitle: t
 bannerTitle: t
 bannerDescription: t
-bannerImage: /images/uploads/ng-32703.jpg
+bannerImage: ''
 bannerButton:
   label: t
   link: t
