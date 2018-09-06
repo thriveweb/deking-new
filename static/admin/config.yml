@@ -56,28 +56,13 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {name: label, label: label, widget: string, required: false, default: ''}
               - {name: link, label: Link, widget: string, required: false, default: ''}
-          - name: "benfits"
-            label: "Benefitss"
+          - name: "benefits"
+            label: "Benefits"
             widget: "list"
             fields:
-              - label: Author
-                name: author
-                widget: object
-                fields:
-                  - {label: Name, name: name, widget: string, default: "Emmet"}
-                  - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
-
-
-
-              # - label: Test Object
-              #   name: testObj
-              #   widget: object
-              #   fields:
-              #     - {name: icon, label: Icon, widget: image}
-              #     - {name: title, label: Title, widget: string, default: ''}
-              #     - {name: description, label: Description, widget: markdown, default: ''}
-
-
+              - {name: icon, label: Icon, widget: image}
+              - {name: title, label: Title, widget: string, default: ''}
+              - {name: description, label: Description, widget: markdown, default: ''}
           - {name: videoTitle, label: Video Title, widget: string, required: false, default: ''}
           - {name: videoContent, label: Video Content, widget: markdown, required: false default:''}
           - {name: videoURL, label: Video URL, widget: string, required: false, default: ''}
