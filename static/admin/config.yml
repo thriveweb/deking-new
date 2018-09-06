@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Template, name: template, widget: hidden, default: ContactPage}
           - {label: Slug, name: slug, widget: hidden, default: 'contact'}
           - {label: Title, name: title, widget: string}
-          - {label: Featured Image, name: featuredImage, widget: image, required: false}
+          - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Subtitle, name: subtitle, widget: markdown}
           - {label: Body, name: body, widget: markdown}
           - {label: Address, name: address, widget: text}
@@ -85,7 +85,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Template, name: template, widget: hidden, default: HomePage}
           - {label: Slug, name: slug, widget: hidden, default: ''}
           - {label: Title, name: title, widget: string}
-          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Featured Image, name: featuredImage, widget: image, required: false}
           - {label: Subtitle, name: subtitle, widget: markdown}
           - {label: Body, name: body, widget: markdown}
           - label: "Meta"
