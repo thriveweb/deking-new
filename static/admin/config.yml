@@ -59,10 +59,9 @@ collections: # A list of collections the CMS should be able to edit
           - name: "benfits"
             label: "Benefits"
             widget: "list"
-            default: [{}]
             field:
-              - name: testObj
-                label: Test Object
+              - label: Test Object
+                name: testObj
                 widget: object
                 fields:
                   - {name: icon, label: Icon, widget: image}
