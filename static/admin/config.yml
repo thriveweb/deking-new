@@ -60,11 +60,10 @@ collections: # A list of collections the CMS should be able to edit
             label: "Benfits"
             widget: "list"
             required: false
-            default: []
             fields:
-              - {name: icon, label: Icon, widget: image, required: false, default: null}
-              - {name: title, label: Title, widget: string, required: false}
-              - {name: description, label: Description, widget: markdown, required: false}
+              - {name: icon, label: Icon, widget: image, required: false, default: ''}
+              - {name: title, label: Title, widget: string, required: false, default: ''}
+              - {name: description, label: Description, widget: markdown, required: false, default: ''}
           - {name: videoTitle, label: Video Title, widget: string, required: false, default: ''}
           - {name: videoContent, label: Video Content, widget: markdown, required: false default:''}
           - {name: videoURL, label: Video URL, widget: string, required: false, default: ''}
