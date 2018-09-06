@@ -78,10 +78,7 @@ collections: # A list of collections the CMS should be able to edit
           - name: "partnerLogos"
             label: "Partner Logos"
             widget: "list"
-            default: [
-              {name: logo, label: Logo, widget: image, required: false}
-              {name: link, label: Link, widget: string, required: false, default: ''}
-            ]
+            default: ['logo', 'link']
             fields:
               - {name: logo, label: Logo, widget: image, required: false}
               - {name: link, label: Link, widget: string, required: false, default: ''}
