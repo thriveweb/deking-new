@@ -51,8 +51,29 @@ qualificationsLogos:
   - logo: /images/uploads/ng-32703.jpg
   - link: ''
 learnMoreImage: /images/uploads/ng-32703.jpg
-
-
+locations:
+  - title: ''
+  - phone: ''
+  - fax: ''
+  - address: ''
+  - mapLink: ''
+  - lat: ''
+  - lng: ''
+faq:
+  - title: ''
+  - content: ''
+processes:
+  - title: ''
+  - content: ''
+  - link:
+    - publicURL: ''
+  - buttonText: ''
+teamMembers:
+  - name: ''
+  - profileImage: /images/uploads/ng-32703.jpg
+  - profileImage2: /images/uploads/ng-32703.jpg
+  - occupation: ''
+  - bio: ''
 meta:
   canonicalLink: ''
   description: ''
