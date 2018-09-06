@@ -59,7 +59,6 @@ collections: # A list of collections the CMS should be able to edit
           - name: "benfits"
             label: "Benfits"
             widget: "list"
-            required: false
             fields:
               - {name: icon, label: Icon, widget: image, required: false, default: ''}
               - {name: title, label: Title, widget: string, required: false, default: ''}
@@ -79,7 +78,6 @@ collections: # A list of collections the CMS should be able to edit
           - name: "partnerLogos"
             label: "Partner Logos"
             widget: "list"
-            required: false
             fields:
               - {name: logo, label: Logo, widget: image, required: false}
               - {name: link, label: Link, widget: string, required: false, default: ''}
