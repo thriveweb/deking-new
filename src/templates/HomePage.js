@@ -26,7 +26,7 @@ export const HomePageTemplate = ({
   bannerButton,
   teamTitle,
   teamDescription,
-  imageTeam,
+  // imageTeam,
   teamButton,
   benfits,
   videoTitle,
@@ -119,9 +119,9 @@ export const HomePageTemplate = ({
             </div>
             <div className="one-half">
               <div className="image-shadow-right" />
-              {imageTeam && imageTeam.publicURL && (
+              {/* {imageTeam && imageTeam.publicURL && (
                 <Image background src={imageTeam.publicURL} alt={teamTitle} />
-              )}
+              )} */}
             </div>
           </div>
           {teamButton && teamButton.link && (
@@ -315,9 +315,9 @@ export const pageQuery = graphql`
         bannerImage {
           ...FluidImage
         }
-        imageTeam {
-          ...FluidImage
-        }
+        # imageTeam {
+        #   ...FluidImage
+        # }
         bannerButton {
           label
           link
