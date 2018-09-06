@@ -6,14 +6,10 @@ subtitle: >-
   Working together with Deking provides clarity and confidence from initial
   contact to completion in 6 simple steps.
 featuredImage: /images/uploads/1.jpg
-processes:
-  - buttonText: test
-    content: t
-    link: /images/uploads/17.jpg
-    title: test
-bannerTitle: test
-bannerDescription: test
-bannerImage: /images/uploads/1.jpg
+processes: []
+bannerTitle: te
+bannerDescription: te
+bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: ''
   link: ''
