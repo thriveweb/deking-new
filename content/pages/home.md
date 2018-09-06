@@ -15,7 +15,7 @@ newField: t
 servicesTitle: t
 bannerTitle: t
 bannerDescription: t
-bannerImage: ''
+bannerImage: /images/uploads/smoke1.jpg
 bannerButton:
   label: t
   link: t
