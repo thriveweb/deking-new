@@ -93,11 +93,6 @@ collections: # A list of collections the CMS should be able to edit
               - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
               - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
               - {name: noindex, label: Noindex, widget: boolean, required: false}
-
-
-
-
-
     - name: "settings"
       label: "Settings"
       delete: false # Prevent users from deleting documents in this collection
