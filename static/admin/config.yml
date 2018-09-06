@@ -405,174 +405,174 @@ collections: # A list of collections the CMS should be able to edit
               - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
               - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
               - {name: noindex, label: Noindex, widget: boolean, required: false}
-    - name: "projects"
-      label: "Projects"
-      folder: "content/projects"
-      delete: true
-      create: true
-      editor:
-        preview: true
-      slug: "{{slug}}"
-      fields:
-        - {label: Template, name: template, widget: hidden, default: SingleProject}
-        - {label: Title, name: title, widget: string, default: ''}
-        - label: 'Status'
-          name: 'status'
-          widget: 'select'
-          options: ["Published", "Featured", "Draft"]
-          default: 'Published'
-        - {label: Date / Order, name: date, widget: date}
-        - {label: Featured Image, name: featuredImage, widget: image, required: false}
-        - {label: Excerpt, name: excerpt, widget: text, default: ''}
-        - label: "gallery"
-          required: false
-          name: "gallery"
-          widget: "list"
-          fields:
-            - {name: image, label: image,  widget: image}
-        - label: "accordion"
-          required: false
-          name: "accordion"
-          widget: "list"
-          fields:
-            - {name: title, label: title,  widget: string, default: ''}
-            - {name: description, label: description,  widget: string}
-        - label: "feedback"
-          required: false
-          name: "feedback"
-          widget: "list"
-          fields:
-            - {name: image, label: image,  widget: image}
-            - {name: title, label: title,  widget: string, default: ''}
-            - {name: description, label: description,  widget: markdown}
-            - {name: from, label: from,  widget: string}
-        - label: "Categories"
-          name: "categories"
-          widget: "list"
-          required: false
-          fields:
-            - label: "Category"
-              name: "category"
-              widget: "relation"
-              collection: "categories"
-              searchFields: ["title"]
-              valueField: "title"
-        - label: "Meta"
-          required: false
-          name: "meta"
-          widget: "object"
-          fields:
-            - {name: title, label: Title,  widget: string, required: false}
-            - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-            - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-            - {name: noindex, label: Noindex, widget: boolean, required: false}
-    - name: "services"
-      label: "Services"
-      folder: "content/services"
-      delete: true
-      create: true
-      editor:
-        preview: true
-      slug: "{{slug}}"
-      fields:
-        - {label: Template, name: template, widget: hidden, default: SingleService}
-        - {label: Title, name: title, widget: string, default: ''}
-        - label: 'Status'
-          name: 'status'
-          widget: 'select'
-          options: ["Published", "Featured", "Draft"]
-          default: 'Published'
-        - {label: Date / Order, name: date, widget: date}
-        - {label: Featured Image, name: featuredImage, widget: image, required: false}
-        - {label: Excerpt, name: excerpt, widget: text, default: ''}
-        - {name: welcomeTitle, label: welcomeTitle, widget: string, default: ''}
-        - {name: welcomeDescription, label: welcomeDescription Title, widget: string, default: ''}
-        - name: welcomeButton
-          label: WelcomeButton
-          widget: object
-          fields:
-            - {name: label, label: label, widget: string, required: false, default: ''}
-            - {name: link, label: Link, widget: string, required: false, default: ''}
-        - {name: bannerTitle, label: Banner Title, widget: string, required: false, default: ''}
-        - {name: bannerDescription, label: Banner Description, widget: text, required: false, default: ''}
-        - {name: bannerImage, label: bannerImage, widget: image, required: false}
-        - label: "accordion"
-          required: false
-          name: "accordion"
-          widget: "list"
-          fields:
-            - {name: title, label: title,  widget: string, default: '', required: true}
-            - {name: description, label: description,  widget: string, default: ''}
-        - {name: servicePriceTitle, label: servicePriceTitle,  widget: string, default: ''}
-        - {name: QuoteTitle, label: QuoteTitle,  widget: string, default: ''}
-        - label: "servicePriceDescription"
-          name: "servicePriceDescription"
-          widget: "list"
-          required: false
-          fields:
-            - {name: size, label: size,  widget: string, default: '', required: true}
-            - {name: materials, label: materials,  widget: string, default: '', required: true}
-            - {name: min, label: min,  widget: string, default: '', required: true}
-            - {name: max, label: max,  widget: string, default: '', required: true}
-        - label: "servicePods"
-          required: false
-          name: "servicePods"
-          widget: "list"
-          fields:
-            - {name: podImage, label: podImage,  widget: image}
-            - {name: podsTitle, label: podsTitle,  widget: string, default: ''}
-            - {name: podDescription, label: podDescription,  widget: string, default: ''}
-            - {name: podLink, label: podLink,  widget: string, default: ''}
-        - {name: videoTitle, label: videoTitle,  widget: string, required: false, default: ' ' }
-        - {name: videoURL, label: videoURL,  widget: string, required: false, default: ' '}
-        - name: bannerButton
-          label: Banner Button
-          widget: object
-          fields:
-            - {name: label, label: label, widget: string, required: false, default: ''}
-            - {name: link, label: link, widget: string, required: false, default: ''}
-        - label: "Categories"
-          name: "categories"
-          widget: "list"
-          required: false
-          fields:
-            - label: "Category"
-              name: "category"
-              widget: "relation"
-              collection: "categories"
-              searchFields: ["title"]
-              valueField: "title"
-        - label: "Meta"
-          required: false
-          name: "meta"
-          widget: "object"
-          fields:
-            - {name: title, label: Title,  widget: string, required: false}
-            - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-            - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-            - {name: noindex, label: Noindex, widget: boolean, required: false}
-    - name: categories
-      label: Categories
-      editor:
-        preview: false
-      folder: content/categories
-      slug: "{{slug}}"
-      create: true
-      delete: true
-      fields: # The fields each document in this collection have
-        - {label: Template, name: template, widget: hidden, default: ProjectsIndex}
-        - {label: Title, name: title, widget: string}
-        - {label: Subtitle, name: subtitle, widget: string, required: false}
-        - {label: Featured Image, name: featuredImage, widget: image, required: false}
-        - label: "Meta"
-          required: false
-          name: "meta"
-          widget: "object"
-          fields:
-            - {label: Title, name: title, widget: string, required: false}
-            - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-            - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
-            - {label: Noindex, name: noindex, widget: boolean, required: false}
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    delete: true
+    create: true
+    editor:
+      preview: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleProject}
+      - {label: Title, name: title, widget: string, default: ''}
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ["Published", "Featured", "Draft"]
+        default: 'Published'
+      - {label: Date / Order, name: date, widget: date}
+      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Excerpt, name: excerpt, widget: text, default: ''}
+      - label: "gallery"
+        required: false
+        name: "gallery"
+        widget: "list"
+        fields:
+          - {name: image, label: image,  widget: image}
+      - label: "accordion"
+        required: false
+        name: "accordion"
+        widget: "list"
+        fields:
+          - {name: title, label: title,  widget: string, default: ''}
+          - {name: description, label: description,  widget: string}
+      - label: "feedback"
+        required: false
+        name: "feedback"
+        widget: "list"
+        fields:
+          - {name: image, label: image,  widget: image}
+          - {name: title, label: title,  widget: string, default: ''}
+          - {name: description, label: description,  widget: markdown}
+          - {name: from, label: from,  widget: string}
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        required: false
+        fields:
+          - label: "Category"
+            name: "category"
+            widget: "relation"
+            collection: "categories"
+            searchFields: ["title"]
+            valueField: "title"
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {name: title, label: Title,  widget: string, required: false}
+          - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
+          - {name: noindex, label: Noindex, widget: boolean, required: false}
+  - name: "services"
+    label: "Services"
+    folder: "content/services"
+    delete: true
+    create: true
+    editor:
+      preview: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Template, name: template, widget: hidden, default: SingleService}
+      - {label: Title, name: title, widget: string, default: ''}
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ["Published", "Featured", "Draft"]
+        default: 'Published'
+      - {label: Date / Order, name: date, widget: date}
+      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Excerpt, name: excerpt, widget: text, default: ''}
+      - {name: welcomeTitle, label: welcomeTitle, widget: string, default: ''}
+      - {name: welcomeDescription, label: welcomeDescription Title, widget: string, default: ''}
+      - name: welcomeButton
+        label: WelcomeButton
+        widget: object
+        fields:
+          - {name: label, label: label, widget: string, required: false, default: ''}
+          - {name: link, label: Link, widget: string, required: false, default: ''}
+      - {name: bannerTitle, label: Banner Title, widget: string, required: false, default: ''}
+      - {name: bannerDescription, label: Banner Description, widget: text, required: false, default: ''}
+      - {name: bannerImage, label: bannerImage, widget: image, required: false}
+      - label: "accordion"
+        required: false
+        name: "accordion"
+        widget: "list"
+        fields:
+          - {name: title, label: title,  widget: string, default: '', required: true}
+          - {name: description, label: description,  widget: string, default: ''}
+      - {name: servicePriceTitle, label: servicePriceTitle,  widget: string, default: ''}
+      - {name: QuoteTitle, label: QuoteTitle,  widget: string, default: ''}
+      - label: "servicePriceDescription"
+        name: "servicePriceDescription"
+        widget: "list"
+        required: false
+        fields:
+          - {name: size, label: size,  widget: string, default: '', required: true}
+          - {name: materials, label: materials,  widget: string, default: '', required: true}
+          - {name: min, label: min,  widget: string, default: '', required: true}
+          - {name: max, label: max,  widget: string, default: '', required: true}
+      - label: "servicePods"
+        required: false
+        name: "servicePods"
+        widget: "list"
+        fields:
+          - {name: podImage, label: podImage,  widget: image}
+          - {name: podsTitle, label: podsTitle,  widget: string, default: ''}
+          - {name: podDescription, label: podDescription,  widget: string, default: ''}
+          - {name: podLink, label: podLink,  widget: string, default: ''}
+      - {name: videoTitle, label: videoTitle,  widget: string, required: false, default: ' ' }
+      - {name: videoURL, label: videoURL,  widget: string, required: false, default: ' '}
+      - name: bannerButton
+        label: Banner Button
+        widget: object
+        fields:
+          - {name: label, label: label, widget: string, required: false, default: ''}
+          - {name: link, label: link, widget: string, required: false, default: ''}
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        required: false
+        fields:
+          - label: "Category"
+            name: "category"
+            widget: "relation"
+            collection: "categories"
+            searchFields: ["title"]
+            valueField: "title"
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {name: title, label: Title,  widget: string, required: false}
+          - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
+          - {name: noindex, label: Noindex, widget: boolean, required: false}
+  - name: categories
+    label: Categories
+    editor:
+      preview: false
+    folder: content/categories
+    slug: "{{slug}}"
+    create: true
+    delete: true
+    fields: # The fields each document in this collection have
+      - {label: Template, name: template, widget: hidden, default: ProjectsIndex}
+      - {label: Title, name: title, widget: string}
+      - {label: Subtitle, name: subtitle, widget: string, required: false}
+      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
 
   - name: "settings"
     label: "Settings"
