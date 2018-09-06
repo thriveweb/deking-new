@@ -5,40 +5,41 @@ video: /images/banner-video.mp4
 title: titleszssssssz
 featuredImage: /images/uploads/ng-32703.jpg
 featureButton:
-  label: ''
+  label: t
   link: t
-welcomeTitle: ''
+welcomeTitle: t
 welcomeButton:
   label: t
   link: t
-newField: ''
-servicesTitle: ''
-bannerTitle: ''
-bannerDescription: ''
+servicesTitle: t
+bannerTitle: t
+bannerDescription: t
 bannerImage: ''
 bannerButton:
-  label: ''
-  link: ''
-teamTitle: ''
-teamDescription: ''
+  label: t
+  link: t
+teamTitle: t
+teamDescription: t
 teamImage: ''
 teamButton:
-  label: ''
-  link: ''
-benfits: []
-videoTitle: ''
+  label: t
+  link: t
+benefits:
+  - description: t
+    title: t
+videoTitle: t
 videoContent: asdsad
-videoURL: ''
-priceTitle: ''
-priceDescription: ''
+videoURL: t
+priceTitle: t
+priceDescription: t
 priceButton:
-  label: ''
-  link: ''
-partnersTitle: ''
-partnerLogos: []
+  label: t
+  link: t
+partnersTitle: t
+partnerLogos:
+  - link: t
 meta:
-  canonicalLink: ''
-  description: ''
-  title: ''
+  canonicalLink: t
+  description: t
+  title: t
 ---
-
