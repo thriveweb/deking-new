@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 
 import PageHeader from '../components/PageHeader'
 import BreakoutBanner from '../components/BreakoutBanner'
+import Content from '../components/Content'
 
 // import './ProcessPage.css'
 
@@ -29,7 +30,9 @@ export const GuaranteesPageTemplate = ({
         <div className="section">
           <div className="container">
             <h2 className="taCenter">{guarantees.title}</h2>
-            <p>{guarantees.content}</p>
+            <Content
+              src={guarantees.content}
+            />
           </div>
         </div>
 
