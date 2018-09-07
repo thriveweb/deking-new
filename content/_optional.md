@@ -41,8 +41,8 @@ whatWeDo:
   - title: ''
   - description: ''
   - button:
-    - label: ''
-    - link: ''
+    label: ''
+    link: ''
 qualificationsLogos:
   - logo: /images/logo.svg
   - link: ''
@@ -62,7 +62,7 @@ processes:
   - title: ''
   - content: ''
   - link:
-    - publicURL: ''
+    publicURL: ''
   - buttonText: ''
 teamMembers:
   - name: ''
@@ -92,7 +92,7 @@ servicePods:
   - podsTitle: ''
   - podDescription: ''
   - podLink:
-    - publicURL: ''
+    publicURL: ''
 podLink: /images/logo.svg
 bannerImage: /images/logo.svg
 teamImage: /images/logo.svg
