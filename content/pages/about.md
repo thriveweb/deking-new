@@ -12,7 +12,7 @@ welcomeButton:
   link: ''
 whatWeDoTitle: what we do
 whatWeDo: []
-bannerTitle: title
+bannerTitle: tsitle
 bannerDescription: des
 bannerImage: /images/uploads/10.jpg
 bannerButton:
@@ -26,4 +26,3 @@ meta:
   noindex: false
   title: ''
 ---
-
