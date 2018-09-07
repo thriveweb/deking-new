@@ -3,6 +3,7 @@ optional: hello gatsby
 podLink: /images/logo.svg
 bannerImage: /images/logo.svg
 teamImage: /images/logo.svg
+featuredImage: /images/logo.svg
 meta:
   canonicalLink: ''
   description: ''
