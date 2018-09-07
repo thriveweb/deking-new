@@ -48,7 +48,7 @@ collections: # A list of collections the CMS should be able to edit
               - {name: link, label: Link, widget: string, required: false, default: ''}
           - {name: teamTitle, label: Team Title, widget: string, required: false, default: ''}
           - {name: teamDescription, label: Team Description, widget: text, required: false, default: ''}
-          - {name: teamImage, label: Team Image, widget: image, required: false}
+          - {name: teamImage, label: Team Image, widget: image}
           - name: teamButton
             label: Team Button
             widget: object
