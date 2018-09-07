@@ -1,7 +1,7 @@
 ---
 template: ProjectsIndex
-title: Verandahs
-featuredImage: /images/uploads/img_7445.jpg
+title: title
+featuredImage: ''
 meta:
   canonicalLink: ''
   description: ''
