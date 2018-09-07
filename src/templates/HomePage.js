@@ -19,6 +19,7 @@ export const HomePageTemplate = ({
   title,
   video,
   featureButton,
+  featuredImage,
   welcomeTitle,
   welcomeButton,
   servicesTitle,
@@ -28,7 +29,7 @@ export const HomePageTemplate = ({
   bannerButton,
   teamTitle,
   teamDescription,
-  // imageTeam,
+  teamImage,
   teamButton,
   benefits,
   videoTitle,
@@ -48,7 +49,7 @@ export const HomePageTemplate = ({
       <div className="home--banner section-image">
         <div className="background-video">
           <video
-            poster="/images/uploads/11.jpg"
+            poster='/images/home-banner.jpg'
             id="bgvid"
             playsInline=""
             autoPlay=""
@@ -121,9 +122,9 @@ export const HomePageTemplate = ({
             </div>
             <div className="one-half">
               <div className="image-shadow-right" />
-              {/* {imageTeam && imageTeam.publicURL && (
-                <Image background src={imageTeam.publicURL} alt={teamTitle} />
-              )} */}
+              {teamImage && teamImage.publicURL && (
+                <Image background src={teamImage.publicURL} alt={teamTitle} />
+              )}
             </div>
           </div>
           {teamButton && teamButton.link && (
@@ -299,12 +300,15 @@ export const pageQuery = graphql`
       ...Meta
       frontmatter {
         title
+        featuredImage {
+          ...FluidImage
+        }
         video {
           publicURL
         }
         featureButton {
           label
-          # link
+          link
         }
         welcomeTitle
         welcomeButton {
@@ -320,6 +324,7 @@ export const pageQuery = graphql`
         teamImage {
           ...FluidImage
         }
+
         bannerButton {
           label
           link
@@ -370,9 +375,9 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            # featuredImage {
-            #   ...SmallImage
-            # }
+            featuredImage {
+              ...SmallImage
+            }
             status
             date
           }
@@ -394,9 +399,9 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            # featuredImage {
-            #   ...SmallImage
-            # }
+            featuredImage {
+              ...SmallImage
+            }
             status
             date
           }
