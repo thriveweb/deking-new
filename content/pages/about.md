@@ -1,7 +1,7 @@
 ---
 template: AboutPage
 slug: about
-title: title
+title: titlet
 subtitle: ''
 featuredImage: ''
 welcomeTitle: ''
