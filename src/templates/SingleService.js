@@ -259,18 +259,18 @@ export const pageQuery = graphql`
       frontmatter {
         title
         template
-        # featuredImage {
-        #   ...FluidImage
-        # }
+        featuredImage {
+          ...FluidImage
+        }
         excerpt
         categories {
           category
         }
         welcomeTitle
         welcomeDescription
-        # welcomeImage {
-        #   ...FluidImage
-        # }
+        welcomeImage {
+          ...FluidImage
+        }
         accordion {
           title
           description
@@ -320,9 +320,9 @@ export const pageQuery = graphql`
             categories {
               category
             }
-            # featuredImage {
-            #   ...SmallImage
-            # }
+            featuredImage {
+              ...SmallImage
+            }
           }
         }
       }
