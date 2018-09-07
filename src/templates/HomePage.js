@@ -164,14 +164,14 @@ export const HomePageTemplate = ({
         </div>
       )}
 
-      {videoURL && videoURL.publicURL && (
+      {videoURL && (
         <div className="VideoSection">
           <div className="container">
             <div className="video-introduction">
               <h2>{videoTitle}</h2>
               <p>{videoContent}</p>
             </div>
-            <video src={videoURL.publicURL} controls />
+            <video src={videoURL} controls />
           </div>
         </div>
       )}
@@ -338,9 +338,7 @@ export const pageQuery = graphql`
           description
         }
         videoTitle
-        videoURL {
-          publicURL
-        }
+        videoURL
         videoContent
         priceTitle
         priceDescription
