@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 video: /images/banner-video.mp4
 title: title
-featuredImage: /images/uploads/13.jpg
+featuredImage: /images/uploads/11.jpg
 featureButton:
   label: ''
   link: ''
@@ -20,7 +20,7 @@ bannerButton:
   link: ''
 teamTitle: ''
 teamDescription: ''
-teamImage: /images/uploads/19.jpg
+teamImage: ''
 teamButton:
   label: ''
   link: ''
