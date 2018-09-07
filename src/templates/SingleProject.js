@@ -132,23 +132,23 @@ export const pageQuery = graphql`
       frontmatter {
         template
         title
-        featuredImage {
-          ...FluidImage
-        }
+        # featuredImage {
+        #   ...FluidImage
+        # }
         excerpt
         gallery {
-          image {
-            ...CroppedImage
-          }
+          # image {
+          #   ...CroppedImage
+          # }
         }
         accordion {
           title
           description
         }
         feedback {
-          image {
-            ...SmallImage
-          }
+          # image {
+          #   ...SmallImage
+          # }
           title
           description
           from
