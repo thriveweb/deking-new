@@ -164,14 +164,14 @@ export const HomePageTemplate = ({
         </div>
       )}
 
-      {videoURL && (
+      {videoURL && videoURL.publicURL && (
         <div className="VideoSection">
           <div className="container">
             <div className="video-introduction">
               <h2>{videoTitle}</h2>
               <p>{videoContent}</p>
             </div>
-            <video src={videoURL} controls />
+            <video src={videoURL.publicURL} controls />
           </div>
         </div>
       )}
@@ -317,9 +317,9 @@ export const pageQuery = graphql`
         bannerImage {
           ...FluidImage
         }
-        # teamImage {
-        #   ...FluidImage
-        # }
+        teamImage {
+          ...FluidImage
+        }
         bannerButton {
           label
           link

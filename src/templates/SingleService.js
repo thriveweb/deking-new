@@ -190,11 +190,11 @@ export const SingleServiceTemplate = ({
         </div>
       )}
 
-      {videoURL && videoURL.publicURL && (
+      {videoURL && (
         <div className="section VideoSection">
           <div className="container taCenter">
             {videoTitle && <h2>{videoTitle}</h2>}
-            <video src={videoURL.publicURL} controls />
+            <video src={videoURL} controls />
           </div>
         </div>
       )}
@@ -259,18 +259,18 @@ export const pageQuery = graphql`
       frontmatter {
         title
         template
-        featuredImage {
-          ...FluidImage
-        }
+        # featuredImage {
+        #   ...FluidImage
+        # }
         excerpt
         categories {
           category
         }
         welcomeTitle
         welcomeDescription
-        welcomeImage {
-          ...FluidImage
-        }
+        # welcomeImage {
+        #   ...FluidImage
+        # }
         accordion {
           title
           description
@@ -294,9 +294,7 @@ export const pageQuery = graphql`
           }
         }
         videoTitle
-        videoURL {
-          publicURL
-        }
+        videoURL
         bannerImage {
           ...FluidImage
         }
@@ -322,9 +320,9 @@ export const pageQuery = graphql`
             categories {
               category
             }
-            featuredImage {
-              ...SmallImage
-            }
+            # featuredImage {
+            #   ...SmallImage
+            # }
           }
         }
       }

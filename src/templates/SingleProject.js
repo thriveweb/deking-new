@@ -136,11 +136,11 @@ export const pageQuery = graphql`
         #   ...FluidImage
         # }
         excerpt
-        gallery {
-          # image {
-          #   ...CroppedImage
-          # }
-        }
+        # gallery {
+        #   # image {
+        #   #   ...CroppedImage
+        #   # }
+        # }
         accordion {
           title
           description

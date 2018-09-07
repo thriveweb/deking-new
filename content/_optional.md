@@ -1,7 +1,6 @@
 ---
 optional: hello gatsby
 podLink: /images/logo.svg
-videoURL: /images/logo.svg
 bannerImage: /images/logo.svg
 meta:
   canonicalLink: ''
