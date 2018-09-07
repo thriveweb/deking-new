@@ -3,12 +3,14 @@ template: ProjectsIndex
 slug: projects
 title: Projects
 featuredImage: /images/uploads/3.jpg
-bannerTitle: test
-bannerDescription: test
-bannerImage: ''
+bannerTitle: View our gallery for inspiration for your new project
+bannerDescription: >
+  With careful and clever design, you can transition the interior of your home
+  to a great outdoor living space. 
+bannerImage: /images/uploads/9.jpg
 bannerButton:
-  label: ''
-  link: ''
+  label: Enquire
+  link: contact
 meta:
   canonicalLink: ''
   description: ''
