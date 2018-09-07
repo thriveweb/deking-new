@@ -521,7 +521,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {name: podImage, label: podImage,  widget: image}
           - {name: podsTitle, label: podsTitle,  widget: string, default: ''}
-          - {name: podDescription, label: podDescription,  widget: string, default: ''}
+          - {name: podDescription, label: podDescription,  widget: markdown, default: ''}
           - {name: podLink, label: podLink, widget: string, default: ''}
       - {name: videoTitle, label: videoTitle,  widget: string, required: false, default: ' ' }
       - {name: videoURL, label: videoURL,  widget: string, required: false, default: ''}
