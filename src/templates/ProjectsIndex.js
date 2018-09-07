@@ -6,6 +6,9 @@ import ProjectsSection from '../components/ProjectsSection'
 import BreakoutBanner from '../components/BreakoutBanner'
 import CategoriesNav from '../components/CategoriesNav'
 
+import './ProjectsIndex.css'
+
+
 // Export Template for use in CMS preview
 export const ProjectsIndexTemplate = ({
   title,

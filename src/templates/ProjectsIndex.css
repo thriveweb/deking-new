@@ -1,0 +1,7 @@
+.Projects .PageHeader .container {
+  top: 50px;
+}
+
+.Projects .PageHeader--ProjectSection .PageHeader--CategoriesNav {
+  bottom: -10rem;
+}
