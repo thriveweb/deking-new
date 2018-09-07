@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {name: template, label: Template, widget: hidden, default: 'HomePage'}
           - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: video, label: video, widget: string, required: true, default: '', required: false}
+          - {name: video, label: video, widget: string, default: '', required: false}
           - {name: title, label: Title, widget: string, default: ''}
           - {name: featuredImage, label: Featured Image, widget: image}
           - name: featureButton
