@@ -55,9 +55,9 @@ export const pageQuery = graphql`
         title
         template
         subtitle
-        featuredImage {
-          ...FluidImage
-        }
+        # featuredImage {
+        #   ...FluidImage
+        # }
       }
     }
 
@@ -73,9 +73,9 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            featuredImage {
-              ...FluidImage
-            }
+            # featuredImage {
+            #   ...FluidImage
+            # }
           }
         }
       }

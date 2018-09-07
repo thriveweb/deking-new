@@ -20,7 +20,7 @@ bannerButton:
   link: ''
 teamTitle: ''
 teamDescription: ''
-teamImage: ''
+teamImage: /images/uploads/ng-32703.jpg
 teamButton:
   label: ''
   link: ''

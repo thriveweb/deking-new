@@ -95,14 +95,14 @@ export const pageQuery = graphql`
         title
         template
         subtitle
-        featuredImage {
-          ...FluidImage
-        }
+        # featuredImage {
+        #   ...FluidImage
+        # }
         bannerTitle
         bannerDescription
-        bannerImage {
-          ...FluidImage
-        }
+        # bannerImage {
+        #   ...FluidImage
+        # }
         bannerButton {
           label
           link
@@ -125,9 +125,9 @@ export const pageQuery = graphql`
             categories {
               category
             }
-            featuredImage {
-              ...SmallImage
-            }
+            # featuredImage {
+            #   ...SmallImage
+            # }
           }
         }
       }

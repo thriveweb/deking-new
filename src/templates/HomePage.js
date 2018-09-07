@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react'
 
+import _get from 'lodash/get'
+
 import Meta from '../components/Meta'
 import Image from '../components/Image'
 import Button from '../components/Button'
@@ -274,11 +276,11 @@ const HomePage = ({ data: { page, services, projects } }) => (
   <HomePageTemplate
     {...page.frontmatter}
     content={page.rawMarkdownBody}
-    services={services.edges.map(edge => ({
+    services={_get(services, 'edges') && !!_get(services, 'edges').length && services.edges.map(edge => ({
       ...edge.node.frontmatter,
       ...edge.node.fields,
     }))}
-    projects={projects.edges.map(edge => ({
+    projects={_get(projects, 'edges') && !!_get(projects, 'edges').length && projects.edges.map(edge => ({
       ...edge.node.frontmatter,
       ...edge.node.fields,
     }))}
@@ -315,7 +317,7 @@ export const pageQuery = graphql`
         bannerImage {
           ...FluidImage
         }
-        # imageTeam {
+        # teamImage {
         #   ...FluidImage
         # }
         bannerButton {
@@ -370,9 +372,9 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            featuredImage {
-              ...SmallImage
-            }
+            # featuredImage {
+            #   ...SmallImage
+            # }
             status
             date
           }
@@ -394,9 +396,9 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            featuredImage {
-              ...SmallImage
-            }
+            # featuredImage {
+            #   ...SmallImage
+            # }
             status
             date
           }
