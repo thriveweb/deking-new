@@ -2,6 +2,7 @@
 template: JoinPage
 slug: about/join
 title: Join Our Team
+date: '2018-09-07'
 subtitle: Do you enjoy building relationships and take pride in your craft?
 featuredImage: /images/uploads/img_e8861.jpg
 join:
@@ -30,4 +31,3 @@ meta:
   noindex: false
   title: ''
 ---
-

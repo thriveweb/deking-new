@@ -2,6 +2,7 @@
 template: ProcessPage
 slug: about/process
 title: Our Process
+date: '2018-09-04'
 subtitle: >-
   Working together with Deking provides clarity and confidence from initial
   contact to completion in 6 simple steps.
@@ -129,4 +130,3 @@ meta:
   noindex: false
   title: ''
 ---
-

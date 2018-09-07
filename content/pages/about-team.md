@@ -2,6 +2,7 @@
 template: TeamPage
 slug: about/team
 title: Our People
+date: '2018-09-03'
 subtitle: 'Friendly, knowledgeable, and old school pride in our workmanship.'
 featuredImage: /images/uploads/img_8817.jpg
 welcomeQuote: >-
@@ -144,4 +145,3 @@ meta:
   noindex: false
   title: ''
 ---
-

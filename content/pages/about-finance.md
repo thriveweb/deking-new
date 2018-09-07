@@ -2,6 +2,7 @@
 template: FinancePage
 slug: about/finance
 title: Finance Options
+date: '2018-09-06'
 subtitle: >-
   Deking offers Deck & Patio Finance packages through Once Credit. Giving you
   the ability to have your new deck or patio roof now, and pay this off over
@@ -67,4 +68,3 @@ meta:
   noindex: false
   title: ''
 ---
-

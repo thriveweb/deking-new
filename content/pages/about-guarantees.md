@@ -2,6 +2,7 @@
 template: GuaranteesPage
 slug: about/guarantees
 title: Our Guarantees
+date: '2018-09-05'
 subtitle: All our Decks and Patios are backed by genuine guarantees
 featuredImage: /images/uploads/bracken-ridge-3-.jpg
 guarantees:
@@ -19,4 +20,3 @@ meta:
   noindex: false
   title: ''
 ---
-
