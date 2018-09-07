@@ -1,7 +1,7 @@
 ---
 template: AboutPage
 slug: about
-title: About Uss
+title: About Us
 subtitle: Building Quality and Relationships
 featuredImage: /images/uploads/img_8748.jpg
 welcomeTitle: Who we are
