@@ -81,6 +81,22 @@ feedback:
   - title: ''
   - description: ''
   - from: ''
+categories:
+  - category: ''
+accordion:
+  - title: ''
+  - description: ''
+servicePriceDescription:
+  - size: ''
+  - materials: ''
+  - min: ''
+  - max: ''
+servicePods:
+  - podImage: /images/uploads/ng-32703.jpg
+  - podsTitle: ''
+  - podDescription: ''
+  - podLink:
+    - publicURL: ''
 meta:
   canonicalLink: ''
   description: ''
