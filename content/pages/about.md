@@ -3,7 +3,7 @@ template: AboutPage
 slug: about
 title: titlet
 subtitle: ''
-featuredImage: ''
+featuredImage: /images/uploads/10.jpg
 welcomeTitle: ''
 welcomeDescription: ''
 welcomeImage: ''
