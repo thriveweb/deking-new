@@ -68,6 +68,8 @@ teamMembers:
   - name: ''
   - occupation: ''
   - bio: ''
+  - profileImage: /images/logo.svg
+  - profileImage2: /images/logo.svg
 gallery:
   - image: /images/logo.svg
 feedback:
@@ -89,12 +91,12 @@ servicePods:
   - podImage: /images/logo.svg
   - podsTitle: ''
   - podDescription: ''
+  - podLink:
+    - publicURL: ''
 podLink: /images/logo.svg
 bannerImage: /images/logo.svg
 teamImage: /images/logo.svg
 featuredImage: /images/logo.svg
-profileImage: /images/logo.svg
-profileImage2: /images/logo.svg
 image: /images/logo.svg
 meta:
   canonicalLink: ''
