@@ -20,7 +20,7 @@ welcomeButton:
 whatWeDoTitle: What We Do
 whatWeDo:
   - button:
-      label: Explores
+      label: Explore
       link: services
     description: >-
       Decks are a great way to significantly increase the living space of your
