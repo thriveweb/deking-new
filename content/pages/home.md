@@ -14,13 +14,13 @@ welcomeButton:
 servicesTitle: ''
 bannerTitle: ''
 bannerDescription: ''
-bannerImage: /images/uploads/17.jpg
+bannerImage: ''
 bannerButton:
   label: ''
   link: ''
 teamTitle: ''
 teamDescription: ''
-teamImage: /images/uploads/19.jpg
+teamImage: ''
 teamButton:
   label: ''
   link: ''
