@@ -3,7 +3,7 @@ template: SingleService
 title: test
 status: Published
 date: '2018-09-04'
-featuredImage: ''
+featuredImage: /images/uploads/11.jpg
 excerpt: test
 welcomeTitle: test
 welcomeDescription: test
