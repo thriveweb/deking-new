@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-video: /images/banner-video.mp4
+video: ''
 title: Building Your Better lifestyle
 featuredImage: /images/home-banner.jpg
 featureButton:
@@ -25,7 +25,17 @@ bannerButton:
   link: quote-calculator
 teamTitle: DeKing Decks – Brisbane & Gold Coast – The Timber Deck Builder Specialists
 teamDescription: >-
-  Since 2003 the friendly team of people at Decking have been designing and building all types of Decks, Verandahs, Patios, Carports, Pergolas, Pool Houses and all outdoor living spaces. We pride ourselves on our, our care, our quality, our guarantees and our ability to see the potential in all backyards for our customers. Building on our specialist knowledge and personalised services, is an affordable and easy way to enhance lifestyle, connect to your family whilst also increasing both living space and value in your home. From private residences to commercial projects we are proud of what we do. We invite you to talk to us, or check out our 6 simple step process, our extensive gallery in our projects or try out our online pricing calculators. We are here to help and can simply make it happen.
+  Since 2003 the friendly team of people at Decking have been designing and
+  building all types of Decks, Verandahs, Patios, Carports, Pergolas, Pool
+  Houses and all outdoor living spaces. We pride ourselves on our, our care, our
+  quality, our guarantees and our ability to see the potential in all backyards
+  for our customers. Building on our specialist knowledge and personalised
+  services, is an affordable and easy way to enhance lifestyle, connect to your
+  family whilst also increasing both living space and value in your home. From
+  private residences to commercial projects we are proud of what we do. We
+  invite you to talk to us, or check out our 6 simple step process, our
+  extensive gallery in our projects or try out our online pricing calculators.
+  We are here to help and can simply make it happen.
 teamImage: /images/uploads/team.jpg
 teamButton:
   label: Meet the team
@@ -78,3 +88,4 @@ meta:
   noindex: false
   title: Deking Decks - Build your new with the timber deck builder specialists
 ---
+
