@@ -9,6 +9,7 @@ import CalculatorCard from '../components/CalculatorCard'
 import ServiceCard from '../components/ServiceCard'
 import ProjectCard from '../components/ProjectCard'
 import BreakoutBanner from '../components/BreakoutBanner'
+import Content from '../components/Content'
 
 import '../components/PageHeader.css'
 import './HomePage.css'
@@ -118,7 +119,9 @@ export const HomePageTemplate = ({
           <div className="TeamSection--Content flex">
             <div className="one-half">
               {teamTitle && <h2>{teamTitle}</h2>}
-              {teamDescription && <p>{teamDescription}</p>}
+              <Content
+                src={teamDescription}
+              />
             </div>
             <div className="one-half">
               <div className="image-shadow-right" />
