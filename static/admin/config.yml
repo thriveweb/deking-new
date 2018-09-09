@@ -327,7 +327,7 @@ collections: # A list of collections the CMS should be able to edit
           - {name: featuredImage, label: featuredImage, widget: image}
           - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
           - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false, required: false}
+          - {name: bannerImage, label: bannerImage, widget: image, required: false}
           - name: bannerButton
             label: Banner Button
             widget: object
