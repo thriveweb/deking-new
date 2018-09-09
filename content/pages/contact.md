@@ -29,8 +29,8 @@ locations:
     title: Sunshine Coast
 otherLocationTitle: OUTSIDE SOUTH EAST QUEENSLAND
 otherLocation:
-  - email: example@example.com
-  - phone: 0987 123 456
+  - email: info@dekingdecks.com.au
+  - phone: +617 3804 6400
 meta:
   canonicalLink: ''
   description: >-
@@ -39,4 +39,3 @@ meta:
   noindex: false
   title: Contact Deking Decks
 ---
-
