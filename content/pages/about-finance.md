@@ -2,7 +2,6 @@
 template: FinancePage
 slug: about/finance
 title: Finance Options
-date: '2018-09-06'
 subtitle: >-
   Deking offers Deck & Patio Finance packages through Once Credit. Giving you
   the ability to have your new deck or patio roof now, and pay this off over
@@ -64,7 +63,10 @@ learnMoreImage: /images/uploads/certegy.png
 learnMoreLink: 'http://certegyzipay.com.au/'
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Deck Finance Options with Interest Free Payments Brisbane, Logan, Ipswich,
+    Sunshine Coast and Gold Coast. Build your dream deck now and pay later.
   noindex: false
-  title: ''
+  title: 'Deck Finance: Interest Free: Brisbane, Gold Coast'
 ---
+
