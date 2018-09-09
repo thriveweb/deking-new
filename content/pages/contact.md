@@ -33,8 +33,10 @@ otherLocation:
   - phone: 0987 123 456
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Contact Deking Decks: Deck builder of timber decks, outdoor deck design,
+    pool deck design, patio roofing and more 1800 335 464
   noindex: false
-  title: ''
+  title: Contact Deking Decks
 ---
 
