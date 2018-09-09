@@ -6,7 +6,6 @@ date: '2018-01-27'
 featuredImage: /images/uploads/bracken-ridge-3-.jpg
 excerpt: 'Value, quality, longevity, and style.'
 welcomeTitle: 'Timber Decking, A Forest of Options'
-welcomeImage: /images/uploads/bracken-ridge-3-.jpg
 welcomeDescription: >-
   DeKing offers a variety of different timber decking applications. We build
   high-quality commercial and residential decks for outdoor kitchens, patios and
@@ -138,7 +137,11 @@ categories:
   - category: Patio Roofs
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Timber Deck Builders DeKing are Timber Decking specialists in Brisbane,
+    Ipswich, Logan, the Gold Coast and Sunshine Coast. Use our Decking
+    Calculators for a Free Quote
   noindex: false
-  title: ''
+  title: 'Timber Decking Brisbane, Timber Deck Builders '
 ---
+
