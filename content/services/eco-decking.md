@@ -6,6 +6,7 @@ date: '2018-09-09'
 featuredImage: /images/uploads/slider-image.png
 excerpt: A deck that takes nothing out of mother nature
 welcomeTitle: ECO Decking Types And Services
+welcomeImage: /images/uploads/slider-image.png
 welcomeDescription: >-
   EKODEKING offers an array of excellent composite eco decking materials to meet
   all of our customers’ needs. Although these materials present the same look
@@ -84,4 +85,3 @@ bannerButton:
   label: test
   link: Contact
 ---
-
