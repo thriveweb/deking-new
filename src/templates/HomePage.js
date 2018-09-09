@@ -346,9 +346,7 @@ export const pageQuery = graphql`
           description
         }
         videoTitle
-        videoURL {
-          publicURL
-        }
+        videoURL 
         videoContent
         priceTitle
         priceDescription
