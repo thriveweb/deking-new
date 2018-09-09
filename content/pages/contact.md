@@ -27,7 +27,7 @@ locations:
     mapLink: 'https://www.google.com.au/maps/dir//Sunshine+Coast+QLD'
     phone: 1800 335 464
     title: Sunshine Coast
-otherLocationTitle: Outside QLD
+otherLocationTitle: OUTSIDE SOUTH EAST QUEENSLAND
 otherLocation:
   - email: example@example.com
   - phone: 0987 123 456
