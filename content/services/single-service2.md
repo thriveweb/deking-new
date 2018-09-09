@@ -14,7 +14,6 @@ welcomeDescription: >-
   harsh sun and Queensland's storms. Yoga, table tennis, pool table, treadmill
   training, watching the footy, or bird-watching are all great activities that
   you can do from a patio. Along with entertaining your family and friends.
-welcomeImage: /images/uploads/gable-clearspan-04.jpg
 welcomeButton:
   label: '???'
   link: '???'
@@ -151,7 +150,12 @@ categories:
   - category: Patio Roofs
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    DeKing is the Outdoor Decking specialists in Brisbane, Logan, Ipswich,
+    Sunshine Coast, and the Gold Coast. We enjoy building customised outdoor
+    decking for our clients. Use our Decking and Patio Roofing Calculators for a
+    Free Quote
   noindex: false
-  title: ''
+  title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine '
 ---
+
