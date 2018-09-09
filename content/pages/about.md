@@ -2,7 +2,6 @@
 template: AboutPage
 slug: about
 title: About Us
-date: '2018-09-02'
 subtitle: Building Quality and Relationships
 featuredImage: /images/uploads/img_8748.jpg
 welcomeTitle: Who we are
@@ -60,7 +59,10 @@ qualificationsLogos:
     logo: /images/uploads/qbcc-logo.jpg
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    DeKing Decks is the king of outdoor decking when it comes to the design and
+    installation of outdoor decking, verandas, pool decking, and patio roofing.
   noindex: false
-  title: ''
+  title: About Us - Deking Decks
 ---
+
