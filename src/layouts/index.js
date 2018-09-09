@@ -77,7 +77,6 @@ export const query = graphql`
       phone
       phone2
       email
-      locations
       socialMediaCard {
         image
         twitter

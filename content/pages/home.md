@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-video: ''
+video: /images/banner-video.mp4
 title: Building Your Better lifestyle
 featuredImage: /images/home-banner.jpg
 featureButton:
@@ -97,4 +97,3 @@ meta:
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decking'
 ---
-
