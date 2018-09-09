@@ -82,11 +82,9 @@ export default class Nav extends Component {
               title="Services"
               onClick={this.toggleActive}
             />
-            <NavLinkGroup
-              to="/projects/"
-              title="Projects"
-              onClick={this.toggleActive}
-            />
+            <NavLink to="/projects/" onClick={this.toggleActive}>
+              Projects
+            </NavLink>
             <NavLink to="/contact/" onClick={this.toggleActive}>
               Contact
             </NavLink>
