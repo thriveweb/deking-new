@@ -2,6 +2,7 @@
 template: AboutPage
 slug: about
 title: About Us
+date: 2018-03-2
 subtitle: Building Quality and Relationships
 featuredImage: /images/uploads/img_8748.jpg
 welcomeTitle: Who we are
@@ -65,4 +66,3 @@ meta:
   noindex: false
   title: About Us - Deking Decks
 ---
-
