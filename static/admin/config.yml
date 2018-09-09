@@ -123,9 +123,9 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - {name: label, label: label, widget: string, default: ''}
                   - {name: link, label: Link, widget: string, default: ''}
-          - {name: bannerTitle, label: Title, widget: string, default: ''}
-          - {name: bannerDescription, label: bannerDescription, widget: text, default: ''}
-          - {name: bannerImage, label: bannerImage, widget: image}
+          - {name: bannerTitle, label: Title, widget: string, default: '', required: false}
+          - {name: bannerDescription, label: bannerDescription, widget: text, default: '', required: false}
+          - {name: bannerImage, label: bannerImage, widget: image, required: false}
           - name: bannerButton
             label: bannerButton
             widget: object
@@ -266,9 +266,9 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {name: title, label: Title, widget: string, default: ''}
               - {name: content, label: Content, widget: markdown, default: ''}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: ''}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: ''}
-          - {name: bannerImage, label: bannerImage, widget: image}
+          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
+          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
+          - {name: bannerImage, label: bannerImage, widget: image, required: false}
           - name: bannerButton
             label: Banner Button
             widget: object
@@ -299,8 +299,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {name: title, label: Title, widget: string, default: ''}
               - {name: content, label: Content, widget: markdown, default: ''}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: ''}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: ''}
+          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
+          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
           - {name: bannerImage, label: bannerImage, widget: image, required: false}
           - name: bannerButton
             label: Banner Button
@@ -325,9 +325,9 @@ collections: # A list of collections the CMS should be able to edit
           - {name: slug, label: Slug, widget: hidden, default: ''}
           - {name: title, label: Title, widget: string, default: ''}
           - {name: featuredImage, label: featuredImage, widget: image}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: ''}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: ''}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false}
+          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
+          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
+          - {name: bannerImage, label: bannerImage, widget: image, required: false, required: false}
           - name: bannerButton
             label: Banner Button
             widget: object
@@ -351,9 +351,9 @@ collections: # A list of collections the CMS should be able to edit
           - {name: slug, label: Slug, widget: hidden, default: ''}
           - {name: title, label: Title, widget: string, default: ''}
           - {name: featuredImage, label: featuredImage, widget: image}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: ''}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: ''}
-          - {name: bannerImage, label: bannerImage, widget: image}
+          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
+          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
+          - {name: bannerImage, label: bannerImage, widget: image, required: false}
           - name: bannerButton
             label: Banner Button
             widget: object
