@@ -25,6 +25,7 @@ welcomeDescription: >-
   sloping blocks and above ground pools. DeKing can build a timber deck around
   your pool from scratch, or replace an old deck with a brand new timber pool
   deck.
+welcomeImage: /images/uploads/bracken-ridge-3-.jpg
 welcomeButton:
   label: What is a welcome button?
   link: Link to what?
@@ -141,4 +142,3 @@ meta:
   noindex: false
   title: ''
 ---
-
