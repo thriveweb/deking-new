@@ -12,8 +12,8 @@ if (process.env.NETLIFY_MAP_KEY) {
 class SimpleMap extends Component {
   static defaultProps = {
     center: {
-      lat: 59.95,
-      lng: 30.33,
+      lat: -28.00029,
+      lng: 153.43088,
     },
     zoom: 7,
   }
@@ -51,7 +51,8 @@ class SimpleMap extends Component {
           defaultZoom={this.props.zoom}
         >
           {locations.map((pin, index) => (
-            <Marker key={index} lat={-27.47} lng={153.02} />
+            <Marker key={index} lat={-28.00029} lng={153.43088} />
+
           ))}
         </GoogleMapReact>
       </div>
