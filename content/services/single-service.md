@@ -31,19 +31,7 @@ welcomeButton:
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/12.jpg
-accordion:
-  - description: >-
-      Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris.
-      Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
-    title: 'Quisque lectus est, lobortis ac efficitur vitae'
-  - description: >-
-      Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris.
-      Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
-    title: 'Quisque lectus est, lobortis ac efficitur vitae'
-  - description: >-
-      Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris.
-      Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
-    title: 'Quisque lectus est, lobortis ac efficitur vitae'
+accordion: []
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom pool decking
 servicePriceDescription:
