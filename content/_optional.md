@@ -2,6 +2,7 @@
 optional: hello gatsby
 video: /images/banner-video.mp4
 title: markdownfields
+welcomeImage: /images/logo.svg
 featureButton:
   label: ''
   link: ''
