@@ -53,7 +53,9 @@ export const SingleServiceTemplate = ({
           <div className="container flex">
             <div className="one-half">
               <h2 className="afterTitle">{welcomeTitle}</h2>
-              {welcomeDescription && <p>{welcomeDescription}</p>}
+                <Content
+                  src={welcomeDescription}
+                />
             </div>
             {welcomeImage && (
               <div className="one-half">
