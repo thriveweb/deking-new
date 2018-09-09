@@ -6,7 +6,6 @@ siteDescription: >-
 phone: 1800 335 464
 phone2: 07 3804 6400
 email: info@dekingdecks.com.au
-locations: ''
 subscribeFormTitle: Sign up for our newsletter and get the latest deals
 socialMediaCard:
   facebook: 'https://www.facebook.com/dekingdecks/'
@@ -14,4 +13,16 @@ socialMediaCard:
   instagram: 'https://www.instagram.com/dekingdecks/'
   twitter: 'https://www.houzz.com.au/pro/deking/deking-pty-ltd?irs=US'
   youtube: 'https://www.youtube.com/channel/UCtcPx6hv5-mBISS-YdQTWKw'
-headerScripts: <!-- Add your analytics scripts / verification meta here -->
+headerScripts: >-
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+
+  <script async
+  src="https://www.googletagmanager.com/gtag/js?id=UA-46463867-1"></script>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-46463867-1');
+  </script>
