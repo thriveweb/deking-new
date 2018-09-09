@@ -25,13 +25,12 @@ welcomeDescription: >-
   deck levels you can create a unique and beautiful entertaining space. The
   design of your pool deck can make a huge difference to the atmosphere of your
   pool.
-welcomeImage: /images/uploads/pool-decking-banner.png
 welcomeButton:
   label: '?'
   link: '?'
-bannerTitle: Easter Special Free Egg Chair
-bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
-bannerImage: /images/uploads/banner-background.jpg
+bannerTitle: ''
+bannerDescription: ''
+bannerImage: ''
 accordion:
   - description: >-
       Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris.
@@ -104,3 +103,4 @@ meta:
   noindex: false
   title: ''
 ---
+
