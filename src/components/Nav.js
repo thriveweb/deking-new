@@ -26,7 +26,7 @@ export default class Nav extends Component {
     const getChildPages = parentSlug =>
       allPages.filter(
         page =>
-          _get(page, 'fields.slug', '') !== parentSlug &&
+          // _get(page, 'fields.slug', '') !== parentSlug &&
           _get(page, 'fields.slug', '').indexOf(parentSlug) === 0
       )
 
