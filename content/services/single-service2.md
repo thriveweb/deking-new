@@ -14,6 +14,7 @@ welcomeDescription: >-
   harsh sun and Queensland's storms. Yoga, table tennis, pool table, treadmill
   training, watching the footy, or bird-watching are all great activities that
   you can do from a patio. Along with entertaining your family and friends.
+welcomeImage: /images/uploads/gable-clearspan-04.jpg
 welcomeButton:
   label: '???'
   link: '???'
@@ -154,4 +155,3 @@ meta:
   noindex: false
   title: ''
 ---
-

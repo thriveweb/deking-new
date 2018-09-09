@@ -6,6 +6,7 @@ date: '2018-01-27'
 featuredImage: /images/uploads/bracken-ridge-3-.jpg
 excerpt: 'Value, quality, longevity, and style.'
 welcomeTitle: 'Timber Decking, A Forest of Options'
+welcomeImage: /images/uploads/bracken-ridge-3-.jpg
 welcomeDescription: >-
   DeKing offers a variety of different timber decking applications. We build
   high-quality commercial and residential decks for outdoor kitchens, patios and
