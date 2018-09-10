@@ -11,7 +11,7 @@ welcomeDescription: >-
   materials. Although we build all kinds of outdoor decks, patios and pergolas,
   we also specialise in building customisable gazebos. Brisbane residents know
   that they can rely on DeKing to make their gazebo dreams a reality.
-WelcomeImage: /images/uploads/price-back.png
+welcomeImage: /images/uploads/price-back.png
 welcomeButton:
   label: test
   link: Contact
@@ -97,4 +97,3 @@ bannerButton:
   label: Contact Us
   link: Contact
 ---
-
