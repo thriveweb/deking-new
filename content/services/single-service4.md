@@ -4,6 +4,7 @@ title: Outdoor Rooms
 status: Featured / Published
 date: '2018-05-27'
 featuredImage: /images/uploads/11.jpg
+welcomeImage: /images/uploads/11.jpg
 excerpt: 'Space to live, breathe, play and grow.'
 welcomeTitle: Who we are
 welcomeDescription: >-

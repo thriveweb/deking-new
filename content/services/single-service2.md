@@ -4,6 +4,7 @@ title: Patio Roofs
 status: Published
 date: '2018-02-20'
 featuredImage: /images/uploads/gable-clearspan-04.jpg
+welcomeImage: /images/uploads/gable-clearspan-04.jpg
 excerpt: |
   Get outside - no matter what the weather!
 welcomeTitle: >-
@@ -158,4 +159,3 @@ meta:
   noindex: false
   title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine '
 ---
-

@@ -2,7 +2,6 @@
 optional: hello gatsby
 video: /images/banner-video.mp4
 title: markdownfields
-welcomeImage: /images/logo.svg
 featureButton:
   label: ''
   link: ''
@@ -41,7 +40,7 @@ whatWeDo:
   - icon: /images/logo.svg
   - title: ''
   - description: ''
-  - button:
+  - ? button
     label: ''
     link: ''
 qualificationsLogos:
@@ -62,7 +61,7 @@ faq:
 processes:
   - title: ''
   - content: ''
-  - link:
+  - ? link
     publicURL: ''
   - buttonText: ''
 teamMembers:
@@ -92,7 +91,7 @@ servicePods:
   - podImage: /images/logo.svg
   - podsTitle: ''
   - podDescription: ''
-  - podLink:
+  - ? podLink
     publicURL: ''
 podLink: /images/logo.svg
 bannerImage: /images/logo.svg
