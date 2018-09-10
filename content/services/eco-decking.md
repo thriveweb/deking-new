@@ -3,15 +3,15 @@ template: SingleService
 title: ECO Decking
 status: Published
 date: '2018-09-09'
-featuredImage: /images/uploads/slider-image.png
+featuredImage: /images/uploads/slider-image.jpg
 excerpt: A deck that takes nothing out of mother nature
 welcomeTitle: ECO Decking Types And Services
-welcomeImage: /images/uploads/slider-image.png
 welcomeDescription: >-
   EKODEKING offers an array of excellent composite eco decking materials to meet
   all of our customers’ needs. Although these materials present the same look
   and texture as real timber materials, they are constructed from recycled wood
   and plastic.
+WelcomeImage: /images/uploads/slider-image.jpg
 welcomeButton:
   label: Contact us
   link: Contact
@@ -90,3 +90,4 @@ meta:
     outdoors from your deck without harming the environment.
   title: 'ECO Decking Brisbane, Gold Coast, Sunshine Coast'
 ---
+
