@@ -6,7 +6,6 @@ date: '2018-01-27'
 featuredImage: /images/uploads/bracken-ridge-3-.jpg
 excerpt: 'Value, quality, longevity, and style.'
 welcomeTitle: 'Timber Decking, A Forest of Options'
-welcomeImage: /images/uploads/bracken-ridge-3-.jpg
 welcomeDescription: >-
   DeKing offers a variety of different timber decking applications. We build
   high-quality commercial and residential decks for outdoor kitchens, patios and
@@ -26,6 +25,7 @@ welcomeDescription: >-
   sloping blocks and above ground pools. DeKing can build a timber deck around
   your pool from scratch, or replace an old deck with a brand new timber pool
   deck.
+WelcomeImage: /images/uploads/bracken-ridge-3-.jpg
 welcomeButton:
   label: What is a welcome button?
   link: Link to what?
@@ -66,7 +66,7 @@ servicePods:
       board width of 90mm is the most common, but we provide boards up to 140mm
       wide when needed. Our timber decking solutions can be built over existing
       concrete or tiles.
-    podImage: /images/uploads/banner-background.jpg
+    podImage: /images/uploads/landscape-gazebo.jpg
     podLink: /images/uploads/banner-background.jpg
     podsTitle: Timber Decking Materials
   - podDescription: >-
@@ -116,7 +116,7 @@ servicePods:
       Insurance Professional Indemnity Insurance Queensland Building Services
       Authority license NSW Department of fair trading license HIA Industry
       association member Wood Naturally Better Association Member
-    podImage: /images/uploads/banner-background.jpg
+    podImage: /images/uploads/roofing-1024x768.png
     podsTitle: Commercial decking
   - podDescription: >-
       The Deking Decks company was established in 2003 by director David Rider.
@@ -127,7 +127,8 @@ servicePods:
       includes 3 passionate design consultants, licensed trade professionals,
       our apprentice and Shelley our awesome, “only too happy to help“, client
       service co-ordinator.
-    podImage: /images/uploads/banner-background.jpg
+    podImage: >-
+      /images/uploads/second-floor-kwila-deck-at-cleveland-with-insulated-patio-roof.jpg
     podsTitle: Who we are
 videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
@@ -145,3 +146,4 @@ meta:
   noindex: false
   title: 'Timber Decking Brisbane, Timber Deck Builders '
 ---
+
