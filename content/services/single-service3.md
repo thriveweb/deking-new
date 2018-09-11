@@ -4,7 +4,6 @@ title: Pool Decking
 status: Featured / Published
 date: 2018-03-2
 featuredImage: /images/uploads/pool-decking-banner.png
-welcomeImage: /images/uploads/pool-decking-banner.png
 excerpt: 'Relax, play, entertain, and enjoy life with family and friends.'
 welcomeTitle: New Decks for above and in ground pools
 welcomeDescription: >-
@@ -26,6 +25,7 @@ welcomeDescription: >-
   deck levels you can create a unique and beautiful entertaining space. The
   design of your pool deck can make a huge difference to the atmosphere of your
   pool.
+WelcomeImage: /images/uploads/pool-decking-banner.png
 welcomeButton:
   label: '?'
   link: '?'
@@ -64,7 +64,7 @@ servicePods:
       includes 3 passionate design consultants, licensed trade professionals,
       our apprentice and Shelley our awesome, “only too happy to help“, client
       service co-ordinator.
-    podImage: /images/uploads/banner-background.jpg
+    podImage: /images/uploads/landscape-gazebo.jpg
     podLink: /images/uploads/banner-background.jpg
     podsTitle: Replacing old decks
   - podDescription: >-
@@ -76,8 +76,8 @@ servicePods:
       includes 3 passionate design consultants, licensed trade professionals,
       our apprentice and Shelley our awesome, “only too happy to help“, client
       service co-ordinator.
-    podImage: /images/uploads/banner-background.jpg
-    podLink: /images/uploads/banner-background.jpg
+    podImage: /images/uploads/caloundra-2-660x1024.jpg
+    podLink: ''
     podsTitle: Commercial pool decking
   - podDescription: >-
       The Deking Decks company was established in 2003 by director David Rider.
@@ -88,8 +88,8 @@ servicePods:
       includes 3 passionate design consultants, licensed trade professionals,
       our apprentice and Shelley our awesome, “only too happy to help“, client
       service co-ordinator.
-    podImage: /images/uploads/banner-background.jpg
-    podLink: /images/uploads/banner-background.jpg
+    podImage: /images/uploads/caloundra-2-660x1024.jpg
+    podLink: ''
     podsTitle: Who we are
 videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
@@ -107,3 +107,4 @@ meta:
   noindex: false
   title: 'Pool Decking Brisbane, Timber Pool Deck Builders: DeKing '
 ---
+
