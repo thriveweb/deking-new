@@ -14,7 +14,7 @@ welcomeDescription: >-
   client relationships. 15 years down the track, bursting with experience and a
   new larger factory and office at Ormeau, our team includes 3 passionate design
   consultants, licensed trade professionals, our apprentice and Shelley our
-  awesome, “only too happy to help“, client service co-ordinator.
+  awesome, “only too happy to help“, client service co-ordinator
 welcomeButton:
   label: '?'
   link: '?'
