@@ -12,17 +12,17 @@ if (process.env.NETLIFY_MAP_KEY) {
 class SimpleMap extends Component {
   static defaultProps = {
     center: {
-      lat: -28.00029,
-      lng: 153.43088,
+      lat: -27.75,
+      lng: 153.25
     },
-    zoom: 7,
+    zoom: 7
   }
 
   renderMarkers(map, maps) {
     let marker = new maps.Marker({
       position: myLatLng,
       map,
-      title: 'Hello World!',
+      title: 'Hello World!'
     })
   }
 
@@ -39,20 +39,19 @@ class SimpleMap extends Component {
                   { saturation: -100 },
                   { gamma: 0.8 },
                   { lightness: 4 },
-                  { visibility: 'on' },
-                ],
-              },
-            ],
+                  { visibility: 'on' }
+                ]
+              }
+            ]
           }}
           bootstrapURLKeys={{
-            key: mapkey,
+            key: mapkey
           }}
           defaultCenter={this.props.center}
           defaultZoom={this.props.zoom}
         >
           {locations.map((pin, index) => (
-            <Marker key={index} lat={-28.00029} lng={153.43088} />
-
+            <Marker key={index} lat={-27.75} lng={153.25} />
           ))}
         </GoogleMapReact>
       </div>
