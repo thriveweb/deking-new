@@ -30,7 +30,7 @@ export const SingleServiceTemplate = ({
   bannerImage,
   bannerTitle,
   bannerDescription,
-  bannerButton,
+  bannerButton
 }) => (
   <Fragment>
     <article className="SingleProject relative">
@@ -53,9 +53,7 @@ export const SingleServiceTemplate = ({
           <div className="container flex">
             <div className="one-half">
               <h2 className="afterTitle">{welcomeTitle}</h2>
-                <Content
-                  src={welcomeDescription}
-                />
+              <Content src={welcomeDescription} />
             </div>
             {welcomeImage && (
               <div className="one-half">
@@ -192,14 +190,17 @@ export const SingleServiceTemplate = ({
         </div>
       )}
 
-      {videoURL && (
-        <div className="section VideoSection">
-          <div className="container taCenter">
-            {videoTitle && <h2>{videoTitle}</h2>}
-            <video src={videoURL} controls />
+      {videoURL &&
+        videoURL.publicURL && (
+          <div className="VideoSection">
+            <div className="container">
+              <div className="video-introduction">
+                <h2>{videoTitle}</h2>
+              </div>
+              <video src={videoURL.publicURL} controls />
+            </div>
           </div>
-        </div>
-      )}
+        )}
 
       {relatedProjects && (
         <ProjectsSection
@@ -228,13 +229,15 @@ const SingleService = ({ data, pathContext }) => {
   const currentCategory = _get(service, 'frontmatter.categories[0].category')
   // filter by category
   const filtedProjects = relatedProjects.edges.filter(
-    edge => _get(edge, `node.frontmatter.categories[0].category`) && edge.node.frontmatter.categories[0].category === currentCategory
+    edge =>
+      _get(edge, `node.frontmatter.categories[0].category`) &&
+      edge.node.frontmatter.categories[0].category === currentCategory
   )
   // spread data for component
   const related = filtedProjects.map(({ node }) => {
     return {
       ...node.fields,
-      ...node.frontmatter,
+      ...node.frontmatter
     }
   })
   return (
@@ -296,7 +299,9 @@ export const pageQuery = graphql`
           }
         }
         videoTitle
-        videoURL
+        videoURL {
+          publicURL
+        }
         bannerImage {
           ...FluidImage
         }

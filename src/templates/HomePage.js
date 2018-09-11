@@ -42,7 +42,7 @@ export const HomePageTemplate = ({
   partnersTitle,
   partnerLogos,
   services,
-  projects,
+  projects
 }) => (
   <Fragment>
     <Meta {...meta} />
@@ -50,7 +50,7 @@ export const HomePageTemplate = ({
       <div className="home--banner section-image">
         <div className="background-video">
           <video
-            poster='/images/home-banner.jpg'
+            poster="/images/home-banner.jpg"
             id="bgvid"
             playsInline=""
             autoPlay=""
@@ -59,7 +59,10 @@ export const HomePageTemplate = ({
             preload="auto"
             muted
           >
-            {video && video.publicURL && <source src={video.publicURL} type="video/mp4" />}
+            {video &&
+              video.publicURL && (
+                <source src={video.publicURL} type="video/mp4" />
+              )}
           </video>
         </div>
 
@@ -68,11 +71,12 @@ export const HomePageTemplate = ({
             <h1 id="home-title" className="PageHeader--Title afterTitle">
               {title}
             </h1>
-            {featureButton && featureButton.link && (
-              <Button className="PageHeader--Button" to={featureButton.link}>
-                {featureButton.label}
-              </Button>
-            )}
+            {featureButton &&
+              featureButton.link && (
+                <Button className="PageHeader--Button" to={featureButton.link}>
+                  {featureButton.label}
+                </Button>
+              )}
           </div>
         )}
       </div>
@@ -119,23 +123,23 @@ export const HomePageTemplate = ({
           <div className="TeamSection--Content flex">
             <div className="one-half">
               {teamTitle && <h2>{teamTitle}</h2>}
-              <Content
-                src={teamDescription}
-              />
+              <Content src={teamDescription} />
             </div>
             <div className="one-half">
               <div className="image-shadow-right" />
-              {teamImage && teamImage.publicURL && (
-                <Image background src={teamImage.publicURL} alt={teamTitle} />
-              )}
+              {teamImage &&
+                teamImage.publicURL && (
+                  <Image background src={teamImage.publicURL} alt={teamTitle} />
+                )}
             </div>
           </div>
-          {teamButton && teamButton.link && (
-            <div className="taCenter">
-              <br />
-              <Button to={teamButton.link}>{teamButton.label}</Button>
-            </div>
-          )}
+          {teamButton &&
+            teamButton.link && (
+              <div className="taCenter">
+                <br />
+                <Button to={teamButton.link}>{teamButton.label}</Button>
+              </div>
+            )}
         </div>
       </div>
 
@@ -168,17 +172,18 @@ export const HomePageTemplate = ({
         </div>
       )}
 
-      {videoURL && videoURL.publicURL && (
-        <div className="VideoSection">
-          <div className="container">
-            <div className="video-introduction">
-              <h2>{videoTitle}</h2>
-              <p>{videoContent}</p>
+      {videoURL &&
+        videoURL.publicURL && (
+          <div className="VideoSection">
+            <div className="container">
+              <div className="video-introduction">
+                <h2>{videoTitle}</h2>
+                <p>{videoContent}</p>
+              </div>
+              <video src={videoURL.publicURL} controls />
             </div>
-            <video src={videoURL.publicURL} controls />
           </div>
-        </div>
-      )}
+        )}
 
       <div className="section CalculatorSection light">
         <div className="container">
@@ -280,14 +285,22 @@ const HomePage = ({ data: { page, services, projects } }) => (
   <HomePageTemplate
     {...page.frontmatter}
     content={page.rawMarkdownBody}
-    services={_get(services, 'edges') && !!_get(services, 'edges').length && services.edges.map(edge => ({
-      ...edge.node.frontmatter,
-      ...edge.node.fields,
-    }))}
-    projects={_get(projects, 'edges') && !!_get(projects, 'edges').length && projects.edges.map(edge => ({
-      ...edge.node.frontmatter,
-      ...edge.node.fields,
-    }))}
+    services={
+      _get(services, 'edges') &&
+      !!_get(services, 'edges').length &&
+      services.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))
+    }
+    projects={
+      _get(projects, 'edges') &&
+      !!_get(projects, 'edges').length &&
+      projects.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))
+    }
   />
 )
 export default HomePage
@@ -346,7 +359,9 @@ export const pageQuery = graphql`
           description
         }
         videoTitle
-        videoURL 
+        videoURL {
+          publicURL
+        }
         videoContent
         priceTitle
         priceDescription
