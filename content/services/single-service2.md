@@ -4,7 +4,6 @@ title: Patio Roofs
 status: Published
 date: '2018-02-20'
 featuredImage: /images/uploads/gable-clearspan-04.jpg
-welcomeImage: /images/uploads/gable-clearspan-04.jpg
 excerpt: |
   Get outside - no matter what the weather!
 welcomeTitle: >-
@@ -15,6 +14,7 @@ welcomeDescription: >-
   harsh sun and Queensland's storms. Yoga, table tennis, pool table, treadmill
   training, watching the footy, or bird-watching are all great activities that
   you can do from a patio. Along with entertaining your family and friends.
+WelcomeImage: /images/uploads/gable-clearspan-04.jpg
 welcomeButton:
   label: '???'
   link: '???'
@@ -116,7 +116,7 @@ servicePods:
       revive, and revolutionise your current living space, get in touch with us
       at DeKing Decks. We can design and build the perfect patio deck for you!
     podImage: /images/uploads/img_8629.jpg
-    podLink: /images/uploads/banner-background.jpg
+    podLink: ''
     podsTitle: Replacing old Patios
   - podDescription: >-
       The Deking Decks company was established in 2003 by director David Rider.
@@ -127,7 +127,7 @@ servicePods:
       includes 3 passionate design consultants, licensed trade professionals,
       our apprentice and Shelley our awesome, “only too happy to help“, client
       service co-ordinator.
-    podImage: /images/uploads/banner-background.jpg
+    podImage: /images/uploads/flat-outback-04.jpg
     podLink: /images/uploads/banner-background.jpg
     podsTitle: Commercial pool decking
   - podDescription: >-
@@ -139,7 +139,7 @@ servicePods:
       includes 3 passionate design consultants, licensed trade professionals,
       our apprentice and Shelley our awesome, “only too happy to help“, client
       service co-ordinator.
-    podImage: /images/uploads/banner-background.jpg
+    podImage: /images/uploads/gold-coast-pool-house-1024x640.jpg
     podLink: /images/uploads/banner-background.jpg
     podsTitle: Who we are
 videoTitle: Video example title here
@@ -159,3 +159,4 @@ meta:
   noindex: false
   title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine '
 ---
+
