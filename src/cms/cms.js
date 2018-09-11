@@ -60,5 +60,5 @@ CMS.registerPreviewTemplate('about-join-page', ({ entry }) => (
   <JoinPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('about-guarantees-page', ({ entry }) => (
-  <GuaranteesPage {...entry.toJS().data} />
+  <GuaranteesPageTemplate {...entry.toJS().data} />
 ))
