@@ -11,7 +11,7 @@ welcomeDescription: >-
   all of our customers’ needs. Although these materials present the same look
   and texture as real timber materials, they are constructed from recycled wood
   and plastic.
-WelcomeImage: /images/uploads/slider-image.jpg
+welcomeImage: /images/uploads/slider-image.jpg
 welcomeButton:
   label: Contact us
   link: Contact
@@ -90,4 +90,3 @@ meta:
     outdoors from your deck without harming the environment.
   title: 'ECO Decking Brisbane, Gold Coast, Sunshine Coast'
 ---
-
