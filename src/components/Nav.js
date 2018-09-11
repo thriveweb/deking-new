@@ -4,6 +4,7 @@ import { Phone, Menu, X } from 'react-feather'
 import _get from 'lodash/get'
 import _kebabCase from 'lodash/kebabCase'
 import _sortBy from 'lodash/sortBy'
+import _reject from 'lodash/reject'
 
 import Logo from './Logo'
 import Button from './Button'
@@ -30,8 +31,12 @@ export default class Nav extends Component {
           _get(page, 'fields.slug', '').indexOf(parentSlug) === 0
       )
 
+
+
     const renderChildPageLinks = parentSlug => {
-      const childPages = _sortBy(getChildPages(parentSlug), 'frontmatter.date')
+      let childPages = _sortBy(getChildPages(parentSlug), 'frontmatter.date')
+      childPages = _reject(childPages, ['fields.slug', '/services/'])
+
 
       if (!childPages.length) return null
       return (

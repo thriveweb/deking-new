@@ -1,7 +1,7 @@
 ---
 template: ServicesIndex
 slug: services
-title: Services
+title: All Services
 date: 2018-01-1
 featuredImage: /images/uploads/flat-outback-05.jpg
 bannerTitle: Services
