@@ -25,7 +25,7 @@ welcomeDescription: >-
   deck levels you can create a unique and beautiful entertaining space. The
   design of your pool deck can make a huge difference to the atmosphere of your
   pool.
-WelcomeImage: /images/uploads/pool-decking-banner.png
+welcomeImage: /images/uploads/pool-decking-banner.png
 welcomeButton:
   label: '?'
   link: '?'
@@ -107,4 +107,3 @@ meta:
   noindex: false
   title: 'Pool Decking Brisbane, Timber Pool Deck Builders: DeKing '
 ---
-
