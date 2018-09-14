@@ -2,7 +2,6 @@
 template: TeamPage
 slug: about/team
 title: Our People
-date: '2018-09-03'
 subtitle: 'Friendly, knowledgeable, and old school pride in our workmanship.'
 featuredImage: /images/uploads/img_8817.jpg
 welcomeQuote: >-
@@ -49,16 +48,13 @@ teamMembers:
     profileImage: /images/uploads/img_8949.jpg
     profileImage2: /images/uploads/img_4241.jpg
   - bio: >-
-      Roly has a wealth of experience in the trade and with his easy going and
-      approachable persona will ensure you of a great result
-
-
-      Roly loves a chat, so put the kettle on and be ready to discuss options
-      for your next project, or your last fishing trip!
-    name: Roly
-    occupation: Project Manager and Sales
-    profileImage: /images/uploads/img_4257.jpg
-    profileImage2: /images/uploads/img_4287.jpg
+      Greg is a veteran of the patio world with a wealth of experience. A
+      qualified carpenter who loves spending his free time making wooden toys
+      for his grandkids.
+    name: Greg
+    occupation: 'Trade Professional, sales (Carpentry)'
+    profileImage: /images/uploads/fullsizeoutput_1ede.jpeg
+    profileImage2: /images/uploads/fullsizeoutput_1ee0.jpeg
   - bio: >-
       Andrew A.K.A. Pants, has been with Deking for 10 plus years and is a
       veteran of the team. Pants will work on your project like its his own and
@@ -71,6 +67,17 @@ teamMembers:
     occupation: Carpenter
     profileImage: /images/uploads/img_4147.jpg
     profileImage2: /images/uploads/img_8900.jpg
+  - bio: >-
+      Roly has a wealth of experience in the trade and with his easy going and
+      approachable persona will ensure you of a great result
+
+
+      Roly loves a chat, so put the kettle on and be ready to discuss options
+      for your next project, or your last fishing trip!
+    name: Roly
+    occupation: Project Manager and Sales
+    profileImage: /images/uploads/img_4257.jpg
+    profileImage2: /images/uploads/img_4287.jpg
   - bio: >-
       Luke is our newest recruit with just over a year with the Deking team.
       Luke gained his carpentry qualification through the armed services which
@@ -114,8 +121,6 @@ teamMembers:
     occupation: Carpenter
     profileImage: /images/uploads/img_8922.jpg
     profileImage2: /images/uploads/img_4347.jpg
-  - name: Greg
-    occupation: 'Trade Professional, sales (Carpentry)'
   - bio: >-
       Grant has been in the fold for over 7 years with a track record of
       "nothing is a problem"
@@ -145,3 +150,4 @@ meta:
   noindex: false
   title: ''
 ---
+
