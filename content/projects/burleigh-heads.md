@@ -2,7 +2,7 @@
 template: SingleProject
 title: Burleigh Heads
 status: Published
-date: '2018-09-05'
+date: '2018-02-27'
 featuredImage: /images/uploads/dsc_0041.jpg
 excerpt: Pool deck with extra wide decking boards and integrated seating.
 gallery:
@@ -18,3 +18,4 @@ accordion:
 categories:
   - category: Pool Decking
 ---
+
