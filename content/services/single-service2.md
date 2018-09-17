@@ -16,8 +16,8 @@ welcomeDescription: >-
   you can do from a patio. Along with entertaining your family and friends.
 welcomeImage: /images/uploads/gable-clearspan-04.jpg
 welcomeButton:
-  label: '???'
-  link: '???'
+  label: ''
+  link: ''
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/banner-background.jpg
@@ -159,3 +159,4 @@ meta:
   noindex: false
   title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine '
 ---
+
