@@ -4,601 +4,1377 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
-media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: 'static/images/uploads' # Media files will be stored in the repo under static/images/uploads
+public_folder: '/images/uploads' # The src attribute for uploaded media will begin with /images/uploads
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "pages"
-    label: "Page"
+  - name: 'pages'
+    label: 'Page'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: true
     files:
-      - file: "content/pages/home.md"
-        label: "Home Page"
-        name: "home-page"
+      - file: 'content/pages/home.md'
+        label: 'Home Page'
+        name: 'home-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'HomePage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: video, label: video, widget: string, default: '', required: false}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: featuredImage, label: Featured Image, widget: image}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'HomePage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - {
+              name: video,
+              label: video,
+              widget: string,
+              default: '',
+              required: false,
+            }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: featuredImage, label: Featured Image, widget: image }
           - name: featureButton
             label: Feature Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, required: false, default: ''}
-              - {name: link, label: Link, widget: string, required: false, default: ''}
-          - {name: welcomeTitle, label: Welcome Title, widget: string, required: false, default: ''}
+              - {
+                  name: label,
+                  label: label,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: link,
+                  label: Link,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - {
+              name: welcomeTitle,
+              label: Welcome Title,
+              widget: string,
+              required: false,
+              default: '',
+            }
           - name: welcomeButton
             label: Welcome Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, required: false, default: ''}
-              - {name: link, label: Link, widget: string, required: false, default: ''}
-          - {name: servicesTitle, label: Services Title, widget: string, required: false, default: ''}
-          - {name: bannerTitle, label: Banner Title, widget: string, required: false}
-          - {name: bannerDescription, label: Banner Description, widget: text, required: false}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false}
+              - {
+                  name: label,
+                  label: label,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: link,
+                  label: Link,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - {
+              name: servicesTitle,
+              label: Services Title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              name: bannerTitle,
+              label: Banner Title,
+              widget: string,
+              required: false,
+            }
+          - {
+              name: bannerDescription,
+              label: Banner Description,
+              widget: text,
+              required: false,
+            }
+          - {
+              name: bannerImage,
+              label: bannerImage,
+              widget: image,
+              required: false,
+            }
           - name: bannerButton
             label: Banner Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, required: false, default: ''}
-              - {name: link, label: Link, widget: string, required: false, default: ''}
-          - {name: teamTitle, label: Team Title, widget: string, required: false, default: ''}
-          - {name: teamDescription, label: Team Description, widget: markdown, required: false, default: ''}
-          - {name: teamImage, label: Team Image, widget: image, required: false}
+              - {
+                  name: label,
+                  label: label,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: link,
+                  label: Link,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - {
+              name: teamTitle,
+              label: Team Title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              name: teamDescription,
+              label: Team Description,
+              widget: markdown,
+              required: false,
+              default: '',
+            }
+          - {
+              name: teamImage,
+              label: Team Image,
+              widget: image,
+              required: false,
+            }
           - name: teamButton
             label: Team Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, required: false, default: ''}
-              - {name: link, label: Link, widget: string, required: false, default: ''}
-          - name: "benefits"
-            label: "Benefits"
-            widget: "list"
+              - {
+                  name: label,
+                  label: label,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: link,
+                  label: Link,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - name: 'benefits'
+            label: 'Benefits'
+            widget: 'list'
             fields:
-              - {name: icon, label: Icon, widget: image}
-              - {name: title, label: Title, widget: string, default: ''}
-              - {name: description, label: Description, widget: markdown, default: ''}
-          - {name: videoTitle, label: Video Title, widget: string, required: false, default: ''}
-          - {name: videoContent, label: Video Content, widget: markdown, required: false default:''}
-          - {name: videoURL, label: Video URL, widget: file, required: false}
-          - {name: priceTitle, label: Price Title, widget: string, required: false, default: ''}
-          - {name: priceDescription, label: Price Description, widget: text, required: false, default: ''}
+              - { name: icon, label: Icon, widget: image }
+              - { name: title, label: Title, widget: string, default: '' }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: markdown,
+                  default: '',
+                }
+          - {
+              name: videoTitle,
+              label: Video Title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              name: videoContent,
+              label: Video Content,
+              widget: markdown,
+              required: false default:'',
+            }
+          - { name: videoURL, label: Video URL, widget: file, required: false }
+          - {
+              name: priceTitle,
+              label: Price Title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              name: priceDescription,
+              label: Price Description,
+              widget: text,
+              required: false,
+              default: '',
+            }
           - name: priceButton
             label: Price Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, required: false, default: ''}
-              - {name: link, label: Link, widget: string, required: false, default: ''}
-          - {name: partnersTitle, label: Partners Title, widget: string, required: false, default: ''}
-          - name: "partnerLogos"
-            label: "Partner Logos"
-            widget: "list"
+              - {
+                  name: label,
+                  label: label,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: link,
+                  label: Link,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - {
+              name: partnersTitle,
+              label: Partners Title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - name: 'partnerLogos'
+            label: 'Partner Logos'
+            widget: 'list'
             default: ['logo', 'link']
             fields:
-              - {name: logo, label: Logo, widget: image, required: false}
-              - {name: link, label: Link, widget: string, required: false, default: ''}
-          - label: "Meta"
+              - { name: logo, label: Logo, widget: image, required: false }
+              - {
+                  name: link,
+                  label: Link,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, required: false}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/about.md"
-        label: "About Page"
-        name: "about-page"
+              - { name: title, label: Title, widget: string, required: false }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/about.md'
+        label: 'About Page'
+        name: 'about-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: subtitle, label: subtitle, widget: string, required: false, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image, required: false}
-          - {name: welcomeTitle, label: welcomeTitle, widget: string, required: false, default: ''}
-          - {name: welcomeDescription, label: welcomeDescription, widget: text, required: false, default: ''}
-          - {name: welcomeImage, label: welcomeImage, widget: image, required: false}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - {
+              name: subtitle,
+              label: subtitle,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              name: featuredImage,
+              label: featuredImage,
+              widget: image,
+              required: false,
+            }
+          - {
+              name: welcomeTitle,
+              label: welcomeTitle,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              name: welcomeDescription,
+              label: welcomeDescription,
+              widget: text,
+              required: false,
+              default: '',
+            }
+          - {
+              name: welcomeImage,
+              label: welcomeImage,
+              widget: image,
+              required: false,
+            }
           - name: welcomeButton
             label: Welcome Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - {name: whatWeDoTitle, label: whatWeDoTitle, widget: string, default: ''}
-          - name: "whatWeDo"
-            label: "whatWeDo"
-            widget: "list"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - {
+              name: whatWeDoTitle,
+              label: whatWeDoTitle,
+              widget: string,
+              default: '',
+            }
+          - name: 'whatWeDo'
+            label: 'whatWeDo'
+            widget: 'list'
             required: false
             fields:
-              - {name: icon, label: icon, widget: image}
-              - {name: title, label: title, widget: string, default: ''}
-              - {name: description, label: description, widget: text, default: ''}
+              - { name: icon, label: icon, widget: image }
+              - { name: title, label: title, widget: string, default: '' }
+              - {
+                  name: description,
+                  label: description,
+                  widget: text,
+                  default: '',
+                }
               - name: button
                 label: Button
                 widget: object
                 fields:
-                  - {name: label, label: label, widget: string, default: ''}
-                  - {name: link, label: Link, widget: string, default: ''}
-          - {name: bannerTitle, label: Title, widget: string, default: '', required: false}
-          - {name: bannerDescription, label: bannerDescription, widget: text, default: '', required: false}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false}
+                  - { name: label, label: label, widget: string, default: '' }
+                  - { name: link, label: Link, widget: string, default: '' }
+          - {
+              name: bannerTitle,
+              label: Title,
+              widget: string,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerDescription,
+              label: bannerDescription,
+              widget: text,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerImage,
+              label: bannerImage,
+              widget: image,
+              required: false,
+            }
           - name: bannerButton
             label: bannerButton
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - {name: qualificationsTitle, label: qualificationsTitle, widget: string, default: ''}
-          - name: "qualificationsLogos"
-            label: "Qualifications Logos"
-            widget: "list"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - {
+              name: qualificationsTitle,
+              label: qualificationsTitle,
+              widget: string,
+              default: '',
+            }
+          - name: 'qualificationsLogos'
+            label: 'Qualifications Logos'
+            widget: 'list'
             required: false
             fields:
-              - {name: logo, label: Logo, widget: image, required: false}
-              - {name: link, label: Link, widget: string, required: false}
-          - label: "Meta"
+              - { name: logo, label: Logo, widget: image, required: false }
+              - { name: link, label: Link, widget: string, required: false }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, required: false}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/about-team.md"
-        label: "Team Page"
-        name: "about-team-page"
+              - { name: title, label: Title, widget: string, required: false }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/about-team.md'
+        label: 'Team Page'
+        name: 'about-team-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string , default: ''}
-          - {name: subtitle, label: subtitle, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
-          - {name: welcomeQuote, label: welcomeQuote, widget: text, default: ''}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: subtitle, label: subtitle, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
+          - {
+              name: welcomeQuote,
+              label: welcomeQuote,
+              widget: text,
+              default: '',
+            }
           - name: teamMembers
             label: teamMembers
             widget: list
             fields:
-              - {name: name, label: name, widget: string}
-              - {name: profileImage, label: profileImage, widget: image}
-              - {name: profileImage2, label: profileImage2, widget: image}
-              - {name: occupation, label: occupation, widget: string}
-              - {name: bio, label: bio, widget: markdown}
-              - {name: bannerTitle, label: Title, widget: string, required: false}
-              - {name: bannerDescription, label: bannerDescription, widget: text, required: false}
-              - {name: bannerImage, label: bannerImage, widget: image, required: false}
+              - { name: name, label: name, widget: string }
+              - { name: profileImage, label: profileImage, widget: image }
+              - { name: profileImage2, label: profileImage2, widget: image }
+              - { name: occupation, label: occupation, widget: string }
+              - { name: bio, label: bio, widget: markdown }
+              - {
+                  name: bannerTitle,
+                  label: Title,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: bannerDescription,
+                  label: bannerDescription,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  name: bannerImage,
+                  label: bannerImage,
+                  widget: image,
+                  required: false,
+                }
           - name: bannerButton
             label: bannerButton
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - label: "Meta"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, default: ''}
-              - {name: description, label: Description, widget: text, default: '', pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, default: ''}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/about-finance.md"
-        label: "Finance Page"
-        name: "about-finance-page"
+              - { name: title, label: Title, widget: string, default: '' }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  default: '',
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  default: '',
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/about-finance.md'
+        label: 'Finance Page'
+        name: 'about-finance-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: subtitle, label: subtitle, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
-          - {name: welcomeTitle, label: welcomeTitle, widget: string, default: ''}
-          - {name: welcomeDescription, label: welcomeDescription, widget: markdown, default: ''}
-          - {name: welcomeImage, label: welcomeImage, widget: image}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: subtitle, label: subtitle, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
+          - {
+              name: welcomeTitle,
+              label: welcomeTitle,
+              widget: string,
+              default: '',
+            }
+          - {
+              name: welcomeDescription,
+              label: welcomeDescription,
+              widget: markdown,
+              default: '',
+            }
+          - { name: welcomeImage, label: welcomeImage, widget: image }
           - name: faq
             label: faq
             widget: list
             fields:
-              - {name: title, label: title, widget: string, default: ''}
-              - {name: content, label: content, widget: markdown, default: ''}
-          - {name: learnMore, label: learnMore, widget: string, default: ''}
-          - {name: learnMoreImage, label: learnMoreImage, widget: image}
-          - {name: learnMoreLink, label: learnMoreLink, widget: string, default: ''}
-          - label: "Meta"
+              - { name: title, label: title, widget: string, default: '' }
+              - { name: content, label: content, widget: markdown, default: '' }
+          - { name: learnMore, label: learnMore, widget: string, default: '' }
+          - { name: learnMoreImage, label: learnMoreImage, widget: image }
+          - {
+              name: learnMoreLink,
+              label: learnMoreLink,
+              widget: string,
+              default: '',
+            }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, required: false}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/about-process.md"
-        label: "Process Page"
-        name: "about-process-page"
+              - { name: title, label: Title, widget: string, required: false }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/about-process.md'
+        label: 'Process Page'
+        name: 'about-process-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: subtitle, label: subtitle, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: subtitle, label: subtitle, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
           - name: processes
             label: processes
             widget: list
             fields:
-              - {name: title, label: title, widget: string}
-              - {name: content, label: content, widget: markdown}
-              - {label: Link, name: link, widget: file}
-              - {name: buttonText, label: Button Text, widget: string}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: ''}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: ''}
-          - {name: bannerImage, label: bannerImage, widget: image}
+              - { name: title, label: title, widget: string }
+              - { name: content, label: content, widget: markdown }
+              - { label: Link, name: link, widget: file }
+              - { name: buttonText, label: Button Text, widget: string }
+          - {
+              name: bannerTitle,
+              label: Banner Title,
+              widget: string,
+              default: '',
+            }
+          - {
+              name: bannerDescription,
+              label: Banner Description,
+              widget: text,
+              default: '',
+            }
+          - { name: bannerImage, label: bannerImage, widget: image }
           - name: bannerButton
             label: Banner Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - label: "Meta"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, default: ''}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/about-guarantees.md"
-        label: "Guarantees Page"
-        name: "about-guarantees-page"
+              - { name: title, label: Title, widget: string, default: '' }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/about-guarantees.md'
+        label: 'Guarantees Page'
+        name: 'about-guarantees-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: subtitle, label: subtitle, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: subtitle, label: subtitle, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
           - name: guarantees
             label: Guarantees
             widget: object
             fields:
-              - {name: title, label: Title, widget: string, default: ''}
-              - {name: content, label: Content, widget: markdown, default: ''}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false}
+              - { name: title, label: Title, widget: string, default: '' }
+              - { name: content, label: Content, widget: markdown, default: '' }
+          - {
+              name: bannerTitle,
+              label: Banner Title,
+              widget: string,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerDescription,
+              label: Banner Description,
+              widget: text,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerImage,
+              label: bannerImage,
+              widget: image,
+              required: false,
+            }
           - name: bannerButton
             label: Banner Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - label: "Meta"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, required: false}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/about-join.md"
-        label: "Join Page"
-        name: "about-join-page"
+              - { name: title, label: Title, widget: string, required: false }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/about-join.md'
+        label: 'Join Page'
+        name: 'about-join-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: subtitle, label: subtitle, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: subtitle, label: subtitle, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
           - name: join
             label: Join
             widget: object
             fields:
-              - {name: title, label: Title, widget: string, default: ''}
-              - {name: content, label: Content, widget: markdown, default: ''}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false}
+              - { name: title, label: Title, widget: string, default: '' }
+              - { name: content, label: Content, widget: markdown, default: '' }
+          - {
+              name: bannerTitle,
+              label: Banner Title,
+              widget: string,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerDescription,
+              label: Banner Description,
+              widget: text,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerImage,
+              label: bannerImage,
+              widget: image,
+              required: false,
+            }
           - name: bannerButton
             label: Banner Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - label: "Meta"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, required: false}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/all-projects.md"
-        label: "All Project Page"
-        name: "all-projects-page"
+              - { name: title, label: Title, widget: string, required: false }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/all-projects.md'
+        label: 'All Project Page'
+        name: 'all-projects-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
+          - {
+              name: bannerTitle,
+              label: Banner Title,
+              widget: string,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerDescription,
+              label: Banner Description,
+              widget: text,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerImage,
+              label: bannerImage,
+              widget: image,
+              required: false,
+            }
           - name: bannerButton
             label: Banner Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - label: "Meta"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, required: false}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/all-services.md"
-        label: "All Services Page"
-        name: "all-services-page"
+              - { name: title, label: Title, widget: string, required: false }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/all-services.md'
+        label: 'All Services Page'
+        name: 'all-services-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
-          - {name: bannerTitle, label: Banner Title, widget: string, default: '', required: false}
-          - {name: bannerDescription, label: Banner Description, widget: text, default: '', required: false}
-          - {name: bannerImage, label: bannerImage, widget: image, required: false}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
+          - {
+              name: bannerTitle,
+              label: Banner Title,
+              widget: string,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerDescription,
+              label: Banner Description,
+              widget: text,
+              default: '',
+              required: false,
+            }
+          - {
+              name: bannerImage,
+              label: bannerImage,
+              widget: image,
+              required: false,
+            }
           - name: bannerButton
             label: Banner Button
             widget: object
             fields:
-              - {name: label, label: label, widget: string, default: ''}
-              - {name: link, label: Link, widget: string, default: ''}
-          - label: "Meta"
+              - { name: label, label: label, widget: string, default: '' }
+              - { name: link, label: Link, widget: string, default: '' }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, default: ''}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-      - file: "content/pages/contact.md"
-        label: "Contact Page"
-        name: "contact-page"
+              - { name: title, label: Title, widget: string, default: '' }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+      - file: 'content/pages/contact.md'
+        label: 'Contact Page'
+        name: 'contact-page'
         fields:
-          - {name: template, label: Template, widget: hidden, default: 'AboutPage'}
-          - {name: slug, label: Slug, widget: hidden, default: ''}
-          - {name: title, label: Title, widget: string, default: ''}
-          - {name: featuredImage, label: featuredImage, widget: image}
-          - {name: locationTitle, label: locationTitle, widget: string, default: ''}
+          - {
+              name: template,
+              label: Template,
+              widget: hidden,
+              default: 'AboutPage',
+            }
+          - { name: slug, label: Slug, widget: hidden, default: '' }
+          - { name: title, label: Title, widget: string, default: '' }
+          - { name: featuredImage, label: featuredImage, widget: image }
+          - {
+              name: locationTitle,
+              label: locationTitle,
+              widget: string,
+              default: '',
+            }
           - name: locations
             label: locations
             widget: list
             fields:
-              - {name: title, label: title, widget: string, required: false, default: ''}
-              - {name: phone, label: phone, widget: string, required: false, default: ''}
-              - {name: fax, label: fax, widget: string, required: false, default: ''}
-              - {name: address, label: address, widget: string, required: false, default: ''}
-              - {name: mapLink, label: mapLink, widget: string, required: false, default: ''}
-              - {name: lat, label: latitude, widget: string, required: false, delete: false, default: ''}
-              - {name: lng, label: longitude, widget: string, required: false, delete: false, default: ''}
-          - {name: otherLocationTitle, label: otherLocationTitle, widget: string, default: ''}
+              - {
+                  name: title,
+                  label: title,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: phone,
+                  label: phone,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: fax,
+                  label: fax,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: address,
+                  label: address,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: mapLink,
+                  label: mapLink,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: lat,
+                  label: latitude,
+                  widget: string,
+                  required: false,
+                  delete: false,
+                  default: '',
+                }
+              - {
+                  name: lng,
+                  label: longitude,
+                  widget: string,
+                  required: false,
+                  delete: false,
+                  default: '',
+                }
+          - {
+              name: otherLocationTitle,
+              label: otherLocationTitle,
+              widget: string,
+              default: '',
+            }
           - name: otherLocation
             label: otherLocation
             widget: object
             fields:
-              - {name: email, label: email, widget: string, required: false, default: ''}
-              - {name: phone, label: phone, widget: string, required: false, default: ''}
-          - label: "Meta"
+              - {
+                  name: email,
+                  label: email,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: phone,
+                  label: phone,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - label: 'Meta'
             required: false
-            name: "meta"
-            widget: "object"
+            name: 'meta'
+            widget: 'object'
             fields:
-              - {name: title, label: Title,  widget: string, required: false}
-              - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-              - {name: noindex, label: Noindex, widget: boolean, required: false}
-  - name: "projects"
-    label: "Projects"
-    folder: "content/projects"
+              - { name: title, label: Title, widget: string, required: false }
+              - {
+                  name: description,
+                  label: Description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  name: canonicalLink,
+                  label: Canonical Link,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  name: noindex,
+                  label: Noindex,
+                  widget: boolean,
+                  required: false,
+                }
+  - name: 'projects'
+    label: 'Projects'
+    folder: 'content/projects'
     delete: true
     create: true
     editor:
       preview: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - {label: Template, name: template, widget: hidden, default: SingleProject}
-      - {label: Title, name: title, widget: string, default: ''}
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: SingleProject,
+        }
+      - { label: Title, name: title, widget: string, default: '' }
       - label: 'Status'
         name: 'status'
         widget: 'select'
-        options: ["Published", "Featured", "Draft"]
+        options: ['Published', 'Featured', 'Draft']
         default: 'Published'
-      - {label: Date / Order, name: date, widget: date}
-      - {label: Featured Image, name: featuredImage, widget: image, required: false}
-      - {label: Excerpt, name: excerpt, widget: text, default: ''}
-      - label: "gallery"
+      - { label: Date / Order, name: date, widget: date }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - { label: Excerpt, name: excerpt, widget: text, default: '' }
+      - label: 'gallery'
         required: false
-        name: "gallery"
-        widget: "list"
+        name: 'gallery'
+        widget: 'list'
         fields:
-          - {name: image, label: image,  widget: image}
-      - label: "accordion"
+          - { name: image, label: image, widget: image }
+      - label: 'accordion'
         required: false
-        name: "accordion"
-        widget: "list"
+        name: 'accordion'
+        widget: 'list'
         fields:
-          - {name: title, label: title,  widget: string, default: ''}
-          - {name: description, label: description,  widget: string}
-      - label: "feedback"
+          - { name: title, label: title, widget: string, default: '' }
+          - { name: description, label: description, widget: string }
+      - label: 'feedback'
         required: false
-        name: "feedback"
-        widget: "list"
+        name: 'feedback'
+        widget: 'list'
         fields:
-          - {name: image, label: image,  widget: image}
-          - {name: title, label: title,  widget: string, default: ''}
-          - {name: description, label: description,  widget: markdown}
-          - {name: from, label: from,  widget: string}
-      - label: "Categories"
-        name: "categories"
-        widget: "list"
+          - { name: image, label: image, widget: image }
+          - { name: title, label: title, widget: string, default: '' }
+          - { name: description, label: description, widget: markdown }
+          - { name: from, label: from, widget: string }
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
         required: false
         fields:
-          - label: "Category"
-            name: "category"
-            widget: "relation"
-            collection: "categories"
-            searchFields: ["title"]
-            valueField: "title"
-      - label: "Meta"
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'categories'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
         required: false
-        name: "meta"
-        widget: "object"
+        name: 'meta'
+        widget: 'object'
         fields:
-          - {name: title, label: Title,  widget: string, required: false}
-          - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-          - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-          - {name: noindex, label: Noindex, widget: boolean, required: false}
-  - name: "services"
-    label: "Services"
-    folder: "content/services"
+          - { name: title, label: Title, widget: string, required: false }
+          - {
+              name: description,
+              label: Description,
+              widget: text,
+              required: false,
+              pattern: ['.{,300}', 'Must not exceed 300 characters'],
+            }
+          - {
+              name: canonicalLink,
+              label: Canonical Link,
+              widget: string,
+              required: false,
+            }
+          - { name: noindex, label: Noindex, widget: boolean, required: false }
+  - name: 'services'
+    label: 'Services'
+    folder: 'content/services'
     delete: true
     create: true
     editor:
       preview: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - {label: Template, name: template, widget: hidden, default: SingleService}
-      - {label: Title, name: title, widget: string, default: ''}
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: SingleService,
+        }
+      - { label: Title, name: title, widget: string, default: '' }
       - label: 'Status'
         name: 'status'
         widget: 'select'
-        options: ["Published", "Featured", "Draft"]
+        options: ['Published', 'Featured', 'Draft']
         default: 'Published'
-      - {label: Date / Order, name: date, widget: date}
-      - {label: Featured Image, name: featuredImage, widget: image, required: false}
-      - {label: Excerpt, name: excerpt, widget: text, default: ''}
-      - {name: welcomeTitle, label: welcomeTitle, widget: string, default: ''}
-      - {name: welcomeDescription, label: welcomeDescription Title, widget: string, default: ''}
-      - {name: welcomeImage, label: welcomeImage, widget: image}
-      - name: welcomeButton
-        label: WelcomeButton
-        widget: object
-        fields:
-          - {name: label, label: label, widget: string, required: false, default: ''}
-          - {name: link, label: Link, widget: string, required: false, default: ''}
-      - {name: bannerTitle, label: Banner Title, widget: string, required: false, default: ''}
-      - {name: bannerDescription, label: Banner Description, widget: text, required: false, default: ''}
-      - {name: bannerImage, label: bannerImage, widget: image, required: false}
-      - label: "accordion"
+      - { label: Date / Order, name: date, widget: date }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - { label: Excerpt, name: excerpt, widget: text, default: '' }
+      - { name: welcomeTitle, label: welcomeTitle, widget: string, default: '' }
+      - {
+          name: welcomeDescription,
+          label: welcomeDescription Title,
+          widget: string,
+          default: '',
+        }
+      - { name: welcomeImage, label: welcomeImage, widget: image }
+      - {
+          name: bannerTitle,
+          label: Banner Title,
+          widget: string,
+          required: false,
+          default: '',
+        }
+      - {
+          name: bannerDescription,
+          label: Banner Description,
+          widget: text,
+          required: false,
+          default: '',
+        }
+      - {
+          name: bannerImage,
+          label: bannerImage,
+          widget: image,
+          required: false,
+        }
+      - label: 'accordion'
         required: false
-        name: "accordion"
-        widget: "list"
+        name: 'accordion'
+        widget: 'list'
         fields:
-          - {name: title, label: title,  widget: string, default: '', required: true}
-          - {name: description, label: description,  widget: string, default: ''}
-      - {name: servicePriceTitle, label: servicePriceTitle,  widget: string, default: ''}
-      - {name: QuoteTitle, label: QuoteTitle,  widget: string, default: ''}
-      - label: "servicePriceDescription"
-        name: "servicePriceDescription"
-        widget: "list"
+          - {
+              name: title,
+              label: title,
+              widget: string,
+              default: '',
+              required: true,
+            }
+          - {
+              name: description,
+              label: description,
+              widget: string,
+              default: '',
+            }
+      - {
+          name: servicePriceTitle,
+          label: servicePriceTitle,
+          widget: string,
+          default: '',
+        }
+      - { name: QuoteTitle, label: QuoteTitle, widget: string, default: '' }
+      - label: 'servicePriceDescription'
+        name: 'servicePriceDescription'
+        widget: 'list'
         required: false
         fields:
-          - {name: size, label: size,  widget: string, default: '', required: true}
-          - {name: materials, label: materials,  widget: string, default: '', required: true}
-          - {name: min, label: min,  widget: string, default: '', required: true}
-          - {name: max, label: max,  widget: string, default: '', required: true}
-      - label: "servicePods"
+          - {
+              name: size,
+              label: size,
+              widget: string,
+              default: '',
+              required: true,
+            }
+          - {
+              name: materials,
+              label: materials,
+              widget: string,
+              default: '',
+              required: true,
+            }
+          - {
+              name: min,
+              label: min,
+              widget: string,
+              default: '',
+              required: true,
+            }
+          - {
+              name: max,
+              label: max,
+              widget: string,
+              default: '',
+              required: true,
+            }
+      - label: 'servicePods'
         required: false
-        name: "servicePods"
-        widget: "list"
+        name: 'servicePods'
+        widget: 'list'
         fields:
-          - {name: podImage, label: podImage,  widget: image}
-          - {name: podsTitle, label: podsTitle,  widget: string, default: ''}
-          - {name: podDescription, label: podDescription,  widget: markdown, default: ''}
-          - {name: podLink, label: podLink, widget: string, default: ''}
-      - {name: videoTitle, label: videoTitle,  widget: string, required: false, default: ' ' }
-      - {name: videoURL, label: videoURL,  widget: file, required: false}
+          - { name: podImage, label: podImage, widget: image }
+          - { name: podsTitle, label: podsTitle, widget: string, default: '' }
+          - {
+              name: podDescription,
+              label: podDescription,
+              widget: markdown,
+              default: '',
+            }
+          - { name: podLink, label: podLink, widget: string, default: '' }
+      - {
+          name: videoTitle,
+          label: videoTitle,
+          widget: string,
+          required: false,
+          default: ' ',
+        }
+      - { name: videoURL, label: videoURL, widget: file, required: false }
       - name: bannerButton
         label: Banner Button
         widget: object
         fields:
-          - {name: label, label: label, widget: string, required: false, default: ''}
-          - {name: link, label: link, widget: string, required: false, default: ''}
-      - label: "Categories"
-        name: "categories"
-        widget: "list"
+          - {
+              name: label,
+              label: label,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              name: link,
+              label: link,
+              widget: string,
+              required: false,
+              default: '',
+            }
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
         required: false
         fields:
-          - label: "Category"
-            name: "category"
-            widget: "relation"
-            collection: "categories"
-            searchFields: ["title"]
-            valueField: "title"
-      - label: "Meta"
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'categories'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
         required: false
-        name: "meta"
-        widget: "object"
+        name: 'meta'
+        widget: 'object'
         fields:
-          - {name: title, label: Title,  widget: string, required: false}
-          - {name: description, label: Description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-          - {name: canonicalLink, label: Canonical Link, widget: string, required: false}
-          - {name: noindex, label: Noindex, widget: boolean, required: false}
+          - { name: title, label: Title, widget: string, required: false }
+          - {
+              name: description,
+              label: Description,
+              widget: text,
+              required: false,
+              pattern: ['.{,300}', 'Must not exceed 300 characters'],
+            }
+          - {
+              name: canonicalLink,
+              label: Canonical Link,
+              widget: string,
+              required: false,
+            }
+          - { name: noindex, label: Noindex, widget: boolean, required: false }
   - name: categories
     label: Categories
     editor:
       preview: false
     folder: content/categories
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     create: true
     delete: true
     fields: # The fields each document in this collection have
-      - {label: Template, name: template, widget: hidden, default: ProjectsIndex}
-      - {label: Title, name: title, widget: string}
-      - {label: Subtitle, name: subtitle, widget: string, required: false}
-      - {label: Featured Image, name: featuredImage, widget: image, required: false}
-      - label: "Meta"
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: ProjectsIndex,
+        }
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - label: 'Meta'
         required: false
-        name: "meta"
-        widget: "object"
+        name: 'meta'
+        widget: 'object'
         fields:
-          - {label: Title, name: title, widget: string, required: false}
-          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
-          - {label: Noindex, name: noindex, widget: boolean, required: false}
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+              pattern: ['.{,300}', 'Must not exceed 300 characters'],
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
 
-  - name: "settings"
-    label: "Settings"
+  - name: 'settings'
+    label: 'Settings'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
     files:
-      - file: "content/settings/global.yml"
-        label: "Global Settings"
-        name: "global-settings"
+      - file: 'content/settings/global.yml'
+        label: 'Global Settings'
+        name: 'global-settings'
         fields:
-          - {label: Site Title, name: siteTitle, widget: string}
-          - {label: Site Url, name: siteUrl, widget: string, required: false}
-          - {label: Site Description, name: siteDescription, widget: text, required: false}
-          - {label: phone, name: phone, widget: string, required: false}
-          - {label: phone2, name: phone2, widget: string, required: false}
-          - {label: email, name: email, widget: string, required: false}
-          - {label: subscribeFormTitle, name: subscribeFormTitle, widget: string, required: false}
+          - { label: Site Title, name: siteTitle, widget: string }
+          - { label: Site Url, name: siteUrl, widget: string, required: false }
+          - {
+              label: Site Description,
+              name: siteDescription,
+              widget: text,
+              required: false,
+            }
+          - { label: phone, name: phone, widget: string, required: false }
+          - { label: phone2, name: phone2, widget: string, required: false }
+          - { label: email, name: email, widget: string, required: false }
+          - {
+              label: subscribeFormTitle,
+              name: subscribeFormTitle,
+              widget: string,
+              required: false,
+            }
           - label: Social Media Card
             name: socialMediaCard
             widget: object
             fields:
-              - {label: Image, name: image, widget: image, required: false}
-              - {label: twitter, name: twitter, widget: string, required: false}
-              - {label: facebook, name: facebook, widget: string, required: false}
-              - {label: instagram, name: instagram, widget: string, required: false}
-              - {label: youtube, name: youtube, widget: string, required: false}
-          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
+              - { label: Image, name: image, widget: image, required: false }
+              - {
+                  label: twitter,
+                  name: twitter,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: facebook,
+                  name: facebook,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: instagram,
+                  name: instagram,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: youtube,
+                  name: youtube,
+                  widget: string,
+                  required: false,
+                }
+          - {
+              label: Header Meta / Scripts,
+              name: headerScripts,
+              widget: text,
+              required: false,
+            }
