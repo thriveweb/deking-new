@@ -16,8 +16,8 @@ welcomeDescription: >-
   awesome, “only too happy to help“, client service co-ordinator
 welcomeImage: /images/uploads/11.jpg
 welcomeButton:
-  label: ''
-  link: ''
+  label: Contact us
+  link: Contact
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/banner-background.jpg
