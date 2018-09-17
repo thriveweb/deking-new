@@ -174,7 +174,7 @@ export const HomePageTemplate = ({
 
       {videoURL &&
         videoURL.publicURL && (
-          <div className="section VideoSection">
+          <div className="VideoSection">
             <div className="container">
               <div className="video-introduction">
                 <h2>{videoTitle}</h2>
