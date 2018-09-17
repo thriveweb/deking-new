@@ -27,8 +27,8 @@ welcomeDescription: >-
   deck.
 welcomeImage: /images/uploads/bracken-ridge-3-.jpg
 welcomeButton:
-  label: What is a welcome button?
-  link: Link to what?
+  label: Contact us
+  link: Contact
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/12.jpg
@@ -146,3 +146,4 @@ meta:
   noindex: false
   title: 'Timber Decking Brisbane, Timber Deck Builders '
 ---
+
