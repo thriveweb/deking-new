@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: Sunshine Coast
-status: Published
+status: Featured
 date: '2018-09-05'
 featuredImage: /images/uploads/image-7.jpg
 excerpt: Pool decking and pool compliant fencing with a Pergola shelter
@@ -22,3 +22,4 @@ categories:
   - category: Pool Decking
   - category: Pergolas
 ---
+
