@@ -13,7 +13,7 @@ welcomeDescription: >-
   that they can rely on DeKing to make their gazebo dreams a reality.
 welcomeImage: /images/uploads/price-back.png
 welcomeButton:
-  label: test
+  label: Contact us
   link: Contact
 bannerTitle: ''
 bannerDescription: ''
@@ -97,3 +97,4 @@ bannerButton:
   label: Contact Us
   link: Contact
 ---
+
