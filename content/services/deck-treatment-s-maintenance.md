@@ -6,7 +6,6 @@ date: '2018-09-03'
 featuredImage: /images/uploads/img_e8859.jpg
 excerpt: We are experts in bringing your old deck back to life.
 welcomeTitle: Oils or Acrylic?
-welcomeImage: /images/uploads/img_e8859.jpg
 welcomeDescription: >-
   At Deking we only recommend acrylic for a number of reasons;  1  
   Environmentally friendly  2   Ease of use  3   More extensive colour range 4  
@@ -22,9 +21,10 @@ welcomeDescription: >-
   Company or Ultradeck by Intergrain can now be applied as per the instructions
   on the tin.  Watch this video for more information on the best times of the
   year to do various stages of deck maintenance
+welcomeImage: /images/uploads/img_e8859.jpg
 welcomeButton:
-  label: Price guide
-  link: '?'
+  label: Contact us
+  link: Contact us
 bannerTitle: Price guide
 bannerDescription: '?'
 bannerImage: ''
@@ -47,3 +47,4 @@ meta:
     have to say about the best options for Australian Decks
   title: 'Deck Treatment and Maintenance: Deck Oil or Acrylic '
 ---
+
