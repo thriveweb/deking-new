@@ -27,8 +27,8 @@ welcomeDescription: >-
   pool.
 welcomeImage: /images/uploads/pool-decking-banner.png
 welcomeButton:
-  label: '?'
-  link: '?'
+  label: ''
+  link: ''
 bannerTitle: ''
 bannerDescription: ''
 bannerImage: ''
@@ -107,3 +107,4 @@ meta:
   noindex: false
   title: 'Pool Decking Brisbane, Timber Pool Deck Builders: DeKing '
 ---
+
