@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Outdoor Rooms
-status: Featured / Published
+status: Published
 date: '2018-05-27'
 featuredImage: /images/uploads/11.jpg
 excerpt: 'Space to live, breathe, play and grow.'
@@ -91,4 +91,3 @@ meta:
   noindex: false
   title: ''
 ---
-

@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Timber decks
-status: Published / Featured
+status: Published
 date: '2018-01-27'
 featuredImage: /images/uploads/bracken-ridge-3-.jpg
 excerpt: 'Value, quality, longevity, and style.'
@@ -146,4 +146,3 @@ meta:
   noindex: false
   title: 'Timber Decking Brisbane, Timber Deck Builders '
 ---
-

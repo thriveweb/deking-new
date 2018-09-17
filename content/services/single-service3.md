@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Pool Decking
-status: Featured / Published
+status: Published
 date: 2018-03-2
 featuredImage: /images/uploads/pool-decking-banner.png
 excerpt: 'Relax, play, entertain, and enjoy life with family and friends.'
@@ -107,4 +107,3 @@ meta:
   noindex: false
   title: 'Pool Decking Brisbane, Timber Pool Deck Builders: DeKing '
 ---
-
