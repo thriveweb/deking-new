@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: 'Commercial '
-status: Published
+status: Featured
 date: '2018-09-04'
 featuredImage: /images/uploads/dsc_0484.jpg
 excerpt: >-
@@ -43,9 +43,6 @@ welcomeDescription: >-
   made from recycled wood and plastic, and by sourcing new wood from sustainable
   forests, we are helping to save our environment!
 welcomeImage: /images/uploads/dsc_0484.jpg
-welcomeButton:
-  label: Contact us
-  link: Contact
 bannerTitle: ''
 bannerDescription: ''
 bannerImage: /images/uploads/dsc_0442.jpg
