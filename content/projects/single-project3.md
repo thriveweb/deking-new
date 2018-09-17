@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: Underwood
-status: Featured / Published
+status: Published
 date: '2018-03-27'
 featuredImage: /images/uploads/16.jpg
 excerpt: >-
@@ -35,4 +35,3 @@ meta:
   noindex: false
   title: ''
 ---
-

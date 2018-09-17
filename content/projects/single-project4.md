@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: Bracken Ridge
-status: Featured / Published
+status: Published
 date: '2018-03-27'
 featuredImage: /images/uploads/1.jpg
 excerpt: Low level deck with open rafter style pergola roof
@@ -31,4 +31,3 @@ meta:
   noindex: false
   title: ''
 ---
-
