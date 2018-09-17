@@ -4,7 +4,6 @@ title: Outdoor Rooms
 status: Featured / Published
 date: '2018-05-27'
 featuredImage: /images/uploads/11.jpg
-welcomeImage: /images/uploads/11.jpg
 excerpt: 'Space to live, breathe, play and grow.'
 welcomeTitle: Who we are
 welcomeDescription: >-
@@ -15,9 +14,10 @@ welcomeDescription: >-
   new larger factory and office at Ormeau, our team includes 3 passionate design
   consultants, licensed trade professionals, our apprentice and Shelley our
   awesome, “only too happy to help“, client service co-ordinator
+welcomeImage: /images/uploads/11.jpg
 welcomeButton:
-  label: '?'
-  link: '?'
+  label: ''
+  link: ''
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/banner-background.jpg
@@ -91,3 +91,4 @@ meta:
   noindex: false
   title: ''
 ---
+
