@@ -27,8 +27,8 @@ welcomeDescription: >-
   pool.
 welcomeImage: /images/uploads/pool-decking-banner.png
 welcomeButton:
-  label: ''
-  link: ''
+  label: Contact us
+  link: Contact
 bannerTitle: ''
 bannerDescription: ''
 bannerImage: ''
