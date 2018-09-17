@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: test
-status: Published
+status: Featured
 date: '2018-09-17'
 featuredImage: /images/uploads/1.jpg
 excerpt: test
@@ -22,3 +22,4 @@ meta:
   description: test
   title: test
 ---
+
