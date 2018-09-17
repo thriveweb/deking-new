@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: test
-status: Featured
+status: Published
 date: '2018-09-17'
 featuredImage: /images/uploads/1.jpg
 excerpt: test
