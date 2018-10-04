@@ -26,9 +26,6 @@ welcomeDescription: >-
   your pool from scratch, or replace an old deck with a brand new timber pool
   deck.
 welcomeImage: /images/uploads/bracken-ridge-3-.jpg
-welcomeButton:
-  label: Contact us
-  link: Contact
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/12.jpg
@@ -67,7 +64,7 @@ servicePods:
       wide when needed. Our timber decking solutions can be built over existing
       concrete or tiles.
     podImage: /images/uploads/landscape-gazebo.jpg
-    podLink: /images/uploads/banner-background.jpg
+    podLink: ''
     podsTitle: Timber Decking Materials
   - podDescription: >-
       Deking Pty Ltd has designed and built commercial decks, boardwalks,
@@ -146,3 +143,4 @@ meta:
   noindex: false
   title: 'Timber Decking Brisbane, Timber Deck Builders '
 ---
+
