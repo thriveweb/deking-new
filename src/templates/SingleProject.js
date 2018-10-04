@@ -21,7 +21,7 @@ export const SingleProjectTemplate = ({
   feedback,
   nextProjectURL,
   prevProjectURL,
-  categories = [],
+  categories = []
 }) => (
   <Fragment>
     <article className="SingleProject relative">
@@ -36,7 +36,8 @@ export const SingleProjectTemplate = ({
         backgroundImage={featuredImage}
         large
       />
-      {!!gallery.length && <Gallery images={gallery} alt={title} />}
+      {!!gallery && <Gallery images={gallery} alt={title} />}
+
       <section className="section">
         <div className="container flex">
           <div className="one-half">
@@ -56,18 +57,23 @@ export const SingleProjectTemplate = ({
             </h2>
             <div className="ClientFeedback--Content flex">
               <div className="profilePic">
-                {_get(feedback, `[0]`) && feedback[0].image && (
-                  <Image
-                    background
-                    src={feedback[0].image}
-                    alt={feedback[0].title}
-                  />
-                )}
+                {_get(feedback, `[0]`) &&
+                  feedback[0].image && (
+                    <Image
+                      background
+                      src={feedback[0].image}
+                      alt={feedback[0].title}
+                    />
+                  )}
               </div>
               <div className="info">
-                {_get(feedback, `[0]`) && <h3 className="afterTitle">{feedback[0].title}</h3>}
-                {_get(feedback, `[0].description`) && feedback[0].description && <p>{feedback[0].description}</p>}
-                {_get(feedback, `[0].from`) && feedback[0].from && <small> - {feedback[0].from}</small>}
+                {_get(feedback, `[0]`) && (
+                  <h3 className="afterTitle">{feedback[0].title}</h3>
+                )}
+                {_get(feedback, `[0].description`) &&
+                  feedback[0].description && <p>{feedback[0].description}</p>}
+                {_get(feedback, `[0].from`) &&
+                  feedback[0].from && <small> - {feedback[0].from}</small>}
               </div>
             </div>
           </div>
