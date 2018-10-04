@@ -91,8 +91,7 @@ servicePods:
   - podImage: /images/logo.svg
   - podsTitle: ''
   - podDescription: ''
-  - ? podLink
-    publicURL: ''
+  - podLink: /images/logo.svg
 podLink: /images/logo.svg
 bannerImage: /images/logo.svg
 teamImage: /images/logo.svg

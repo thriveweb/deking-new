@@ -1214,7 +1214,13 @@ collections: # A list of collections the CMS should be able to edit
               widget: markdown,
               default: '',
             }
-          - { name: podLink, label: podLink, widget: string, default: '' }
+          - {
+              name: podLink,
+              label: podLink,
+              widget: file,
+              default: '',
+              required: false,
+            }
       - {
           name: videoTitle,
           label: videoTitle,
