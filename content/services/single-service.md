@@ -64,7 +64,7 @@ servicePods:
       wide when needed. Our timber decking solutions can be built over existing
       concrete or tiles.
     podImage: /images/uploads/landscape-gazebo.jpg
-    podLink: ''
+    podLink: /images/uploads/1.jpg
     podsTitle: Timber Decking Materials
   - podDescription: >-
       Deking Pty Ltd has designed and built commercial decks, boardwalks,
