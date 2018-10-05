@@ -40,9 +40,9 @@ whatWeDo:
   - icon: /images/logo.svg
   - title: ''
   - description: ''
-  - ? button
-    label: ''
-    link: ''
+  - button:
+      - label: ''
+      - link: ''
 qualificationsLogos:
   - logo: /images/logo.svg
   - link: ''
