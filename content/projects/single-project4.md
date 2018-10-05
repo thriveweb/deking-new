@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Bracken Ridge
+title: Northgate
 status: Published
 date: '2018-03-27'
 featuredImage: /images/uploads/1.jpg
@@ -31,3 +31,4 @@ meta:
   noindex: false
   title: ''
 ---
+
