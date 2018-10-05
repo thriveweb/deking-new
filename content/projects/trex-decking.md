@@ -16,5 +16,8 @@ accordion:
       Backed by limited warranties against material defects, and against fade &
       stain.
     title: 25 Year Warranty
+categories:
+  - category: Pool Decking
+  - category: Timber Decks
 ---
 
