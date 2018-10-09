@@ -331,12 +331,7 @@ collections: # A list of collections the CMS should be able to edit
                   widget: text,
                   default: '',
                 }
-              - name: button
-                label: Button
-                widget: object
-                fields:
-                  - { name: label, label: label, widget: string, default: '' }
-                  - { name: link, label: Link, widget: string, default: '' }
+
           - {
               name: bannerTitle,
               label: Title,

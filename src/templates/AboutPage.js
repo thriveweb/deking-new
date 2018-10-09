@@ -22,7 +22,7 @@ export const AboutPageTemplate = ({
   bannerImage,
   bannerButton,
   qualificationsTitle,
-  qualificationsLogos,
+  qualificationsLogos
 }) => (
   <Fragment>
     <main className="About">
@@ -56,26 +56,27 @@ export const AboutPageTemplate = ({
         <div className="container">
           <h2 className="taCenter">{whatWeDoTitle}</h2>
           <div className="flex">
-            {whatWeDo.map((what, index) => {
-              return (
-                <div
-                  key={index + what.title}
-                  className="BenfitsSection--Benfit one-third flex relative"
-                >
-                  <Image
-                    background
-                    backgroundSize="contain"
-                    className="one-quarter relative"
-                    src={what.icon}
-                    alt={what.title}
-                  />
-                  <div className="info three-quarters">
-                    <h4>{what.title}</h4>
-                    {what.description}
+            {!!whatWeDo &&
+              whatWeDo.map((what, index) => {
+                return (
+                  <div
+                    key={index + what.title}
+                    className="BenfitsSection--Benfit one-third flex relative"
+                  >
+                    <Image
+                      background
+                      backgroundSize="contain"
+                      className="one-quarter relative"
+                      src={what.icon}
+                      alt={what.title}
+                    />
+                    <div className="info three-quarters">
+                      <h4>{what.title}</h4>
+                      {what.description}
+                    </div>
                   </div>
-                </div>
-              )
-            })}
+                )
+              })}
           </div>
         </div>
       </div>
@@ -91,24 +92,25 @@ export const AboutPageTemplate = ({
         <div className="container">
           <h2 className="taCenter">{qualificationsTitle}</h2>
           <div className="flex">
-            {qualificationsLogos.map((logo, index) => {
-              return (
-                <a
-                  key={index + logo.link}
-                  className="PartnersSection--Logo one-quarter"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href={logo.link}
-                >
-                  <Image
-                    background
-                    backgroundSize="contain"
-                    src={logo.logo}
-                    alt="logos"
-                  />
-                </a>
-              )
-            })}
+            {!!qualificationsLogos &&
+              qualificationsLogos.map((logo, index) => {
+                return (
+                  <a
+                    key={index + logo.link}
+                    className="PartnersSection--Logo one-quarter"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href={logo.link}
+                  >
+                    <Image
+                      background
+                      backgroundSize="contain"
+                      src={logo.logo}
+                      alt="logos"
+                    />
+                  </a>
+                )
+              })}
           </div>
         </div>
       </div>
@@ -151,10 +153,6 @@ export const pageQuery = graphql`
           }
           title
           description
-          button {
-            label
-            link
-          }
         }
         bannerTitle
         bannerDescription

@@ -20,25 +20,16 @@ welcomeButton:
   link: about/team/
 whatWeDoTitle: What We Do
 whatWeDo:
-  - button:
-      label: Explore
-      link: services
     description: >-
       Decks are a great way to significantly increase the living space of your
       home.
     icon: /images/uploads/icon-size.svg
     title: 'Timber Decks, Pool decks, Verandahs '
-  - button:
-      label: Explore
-      link: services
     description: >-
       Building a Patio roof increases the value of your home and makes it more
       attractive to potential buyers.
     icon: /images/uploads/icon-house.svg
     title: Patio Roofing
-  - button:
-      label: Explore
-      link: services
     description: >-
       We dont stop at Decks and Patios, we also install glass pool fencing,
       external blinds, privacy screens, etc, etc...
