@@ -23,9 +23,7 @@ accordion:
   - description: 'The price range for this project is $30k - $35k '
     title: Project cost
 feedback:
-  - description: >-
-      Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris.
-      Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+  - description: ''
     from: >-
       Thanks so much for getting your guys to attend to our project, we really
       like what they did. Looks good!
@@ -40,3 +38,4 @@ meta:
   noindex: false
   title: ''
 ---
+
