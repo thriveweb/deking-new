@@ -13,7 +13,7 @@ import './Nav.css'
 
 export default class Nav extends Component {
   state = {
-    active: false,
+    active: false
   }
 
   toggleActive = () => this.setState({ active: !this.state.active })
@@ -31,12 +31,9 @@ export default class Nav extends Component {
           _get(page, 'fields.slug', '').indexOf(parentSlug) === 0
       )
 
-
-
     const renderChildPageLinks = parentSlug => {
       let childPages = _sortBy(getChildPages(parentSlug), 'frontmatter.date')
       childPages = _reject(childPages, ['fields.slug', '/services/'])
-
 
       if (!childPages.length) return null
       return (
@@ -89,6 +86,9 @@ export default class Nav extends Component {
             />
             <NavLink to="/projects/" onClick={this.toggleActive}>
               Projects
+            </NavLink>
+            <NavLink to="/blog/" onClick={this.toggleActive}>
+              Blog
             </NavLink>
             <NavLink to="/contact/" onClick={this.toggleActive}>
               Contact
