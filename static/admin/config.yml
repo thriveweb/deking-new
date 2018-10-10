@@ -1118,26 +1118,7 @@ collections: # A list of collections the CMS should be able to edit
           default: '',
         }
       - { name: welcomeImage, label: welcomeImage, widget: image }
-      - {
-          name: bannerTitle,
-          label: Banner Title,
-          widget: string,
-          required: false,
-          default: '',
-        }
-      - {
-          name: bannerDescription,
-          label: Banner Description,
-          widget: text,
-          required: false,
-          default: '',
-        }
-      - {
-          name: bannerImage,
-          label: bannerImage,
-          widget: image,
-          required: false,
-        }
+
       - label: 'accordion'
         required: false
         name: 'accordion'
@@ -1224,6 +1205,26 @@ collections: # A list of collections the CMS should be able to edit
           default: ' ',
         }
       - { name: videoURL, label: videoURL, widget: file, required: false }
+      - {
+          name: bannerTitle,
+          label: Banner Title,
+          widget: string,
+          required: false,
+          default: '',
+        }
+      - {
+          name: bannerDescription,
+          label: Banner Description,
+          widget: text,
+          required: false,
+          default: '',
+        }
+      - {
+          name: bannerImage,
+          label: bannerImage,
+          widget: image,
+          required: false,
+        }
       - name: bannerButton
         label: Banner Button
         widget: object
@@ -1242,6 +1243,7 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
               default: '',
             }
+
       - label: 'Categories'
         name: 'categories'
         widget: 'list'
