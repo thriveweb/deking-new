@@ -95,36 +95,37 @@ export const SingleServiceTemplate = ({
               {servicePriceTitle && (
                 <h2 className="afterTitle">{servicePriceTitle}</h2>
               )}
-              {servicePriceDescription.map((item, index) => {
-                return (
-                  <p key={item.size + index}>
-                    {item.size && (
-                      <Fragment>
-                        <strong>Size: </strong>
-                        {item.size} <br />
-                      </Fragment>
-                    )}
-                    {item.materials && (
-                      <Fragment>
-                        <strong>Materials: </strong>
-                        {item.materials} <br />
-                      </Fragment>
-                    )}
-                    {item.min && (
-                      <Fragment>
-                        <strong>Min: </strong>
-                        {item.min} <br />
-                      </Fragment>
-                    )}
-                    {item.max && (
-                      <Fragment>
-                        <strong>Max: </strong>
-                        {item.max} <br />
-                      </Fragment>
-                    )}
-                  </p>
-                )
-              })}
+              {!!servicePriceDescription &&
+                servicePriceDescription.map((item, index) => {
+                  return (
+                    <p key={item.size + index}>
+                      {item.size && (
+                        <Fragment>
+                          <strong>Size: </strong>
+                          {item.size} <br />
+                        </Fragment>
+                      )}
+                      {item.materials && (
+                        <Fragment>
+                          <strong>Materials: </strong>
+                          {item.materials} <br />
+                        </Fragment>
+                      )}
+                      {item.min && (
+                        <Fragment>
+                          <strong>Min: </strong>
+                          {item.min} <br />
+                        </Fragment>
+                      )}
+                      {item.max && (
+                        <Fragment>
+                          <strong>Max: </strong>
+                          {item.max} <br />
+                        </Fragment>
+                      )}
+                    </p>
+                  )
+                })}
             </div>
             <div className="one-half">
               <h4>{QuoteTitle}</h4>

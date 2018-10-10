@@ -71,7 +71,7 @@ videoContent: >-
   short of a minor miracle compared with all the other trades I have dealt with
   over the past 5 months whilst doing a major house renovation. I highly
   recommend them.
-videoURL: /images/uploads/video.mp4
+
 priceTitle: Price Guide
 priceDescription: >-
   By using our quote calculator Deking Decks reserve the right to contact you
