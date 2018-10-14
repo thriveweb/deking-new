@@ -8,10 +8,10 @@ excerpt: Upper and lower pool deck with flyover insulated patio roof
 gallery:
   - image: /images/uploads/pool_decking.jpg
   - image: /images/uploads/alfresco_decking.jpg
+  - image: /images/uploads/before_tamborine.jpg
   - image: /images/uploads/pool_deck.jpg
   - image: /images/uploads/under_deck_screening_steps.jpg
   - image: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
-  - image: /images/uploads/before_tamborine.jpg
 accordion:
   - description: >-
       Hardwood decking was used for its hardwearing abilities along with an
