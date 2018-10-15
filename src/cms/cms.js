@@ -10,6 +10,7 @@ import { ServicesIndexTemplate } from '../templates/ServicesIndex'
 import { ProjectsIndexTemplate } from '../templates/ProjectsIndex'
 import { SingleServiceTemplate } from '../templates/SingleService'
 import { SingleProjectTemplate } from '../templates/SingleProject'
+import { SinglePostTemplate } from '../templates/SinglePost'
 import { ProcessPageTemplate } from '../templates/ProcessPage'
 import { TeamPageTemplate } from '../templates/TeamPage'
 import { JoinPageTemplate } from '../templates/JoinPage'
@@ -49,6 +50,9 @@ CMS.registerPreviewTemplate('services', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('projects', ({ entry }) => (
   <SingleProjectTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('posts', ({ entry }) => (
+  <SinglePostTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('about-process-page', ({ entry }) => (
   <ProcessPageTemplate {...entry.toJS().data} />
