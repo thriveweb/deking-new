@@ -87,9 +87,9 @@ export default class Nav extends Component {
             <NavLink to="/projects/" onClick={this.toggleActive}>
               Projects
             </NavLink>
-            {/* <NavLink to="/blog/" onClick={this.toggleActive}>
+            <NavLink to="/blog/" onClick={this.toggleActive}>
               Blog
-            </NavLink> */}
+            </NavLink>
             <NavLink to="/contact/" onClick={this.toggleActive}>
               Contact
             </NavLink>
