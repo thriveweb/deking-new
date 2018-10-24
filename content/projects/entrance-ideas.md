@@ -13,6 +13,7 @@ gallery:
   - image: /images/uploads/dsc_0187.jpg
   - image: /images/uploads/adam.jpg
   - image: /images/uploads/fullsizeoutput_1f1e.jpeg
+  - image: /images/uploads/fullsizeoutput_200b.jpeg
 accordion: []
 categories:
   - category: Timber Decks
