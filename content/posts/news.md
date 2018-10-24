@@ -1,13 +1,15 @@
 ---
 template: SinglePost
-title: News
+title: Test Test
 status: Featured / Published
 date: '2018-02-28'
 featuredImage: /images/uploads/ep29netysia1-ssxg4w3ma.jpg
 shortDescription: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat
+  purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
 categories:
   - category: Timber Decks
+  - category: Pool Decking
 meta:
   canonicalLink: ''
   description: ''
