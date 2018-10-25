@@ -1,44 +1,90 @@
 ---
 template: SinglePost
-title: News 3
+title: 'Insulated Patio Roofing: Benefits, Types and Materials'
 status: Featured / Published
-date: '2018-03-03'
-featuredImage: /images/uploads/ep29netysia1-ssxg4w3ma.jpg
+date: '2016-01-20'
+featuredImage: >-
+  /images/uploads/deking-decks-insulated-patio-roofing-benefits-types-and-materials.jpg
 shortDescription: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+  An insulated patio roof will transform your patio from something great to
+  something really special.
 categories:
-  - category: Timber Decks
+  - category: Patio Roofing
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Find out about Deking Decks' insulated patio roof options. Using the Stratco
+    Outback range of patio roofing, DeKing services Brisbane, Logan, Ipswich,
+    Sunshine Coast, and the Gold Coast
   noindex: false
-  title: ''
+  title: 'Insulated Patio Roofing Options: Types & Materials - Brisbane'
 ---
+An insulated patio roof will transform your patio from something great to something really special. It becomes a comfortable space for entertaining or relaxing, all year round.
 
-Paragraphs are separated by a blank line. Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Skilled and experience [patio builders](https://www.dekingdecks.com.au/patio-builders-brisbane/) from _Deking Decks_ will work with you to build the perfect insulated patio roof to suit your needs. Our insulated patio roofs are crafted so that they’re a seamless extension of your house, matching its existing style and colour scheme.
 
-![Test Image](/images/uploads/ep29netysia1-ssxg4w3ma.jpg)
+For a **quick quote**, see our [Insulated Patio Roof Calculator](https://www.dekingdecks.com.au/patio-calculator/).
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_ & **bold**.
+## Benefits of Insulated Patio Roofing
 
-### Unordered lists:
+There are many benefits to insulated patio roofing, but, let’s face it, most of them have to do with combating Queensland’s harsh climate and extreme weather conditions—allowing you to get the most out of your patio space.
 
-- this one
-- that one
-- the other one
+**The benefits include:**
 
-### Ordered lists:
+* keeping you cool and comfortable outdoors all year round (especially summer)
+* reducing the noise from rain, making it easier to hear conversations
+*  cooling the interior of your house
+*  reducing your energy costs and carbon footprint
+*  increasing the value of your house.
+* Our insulated patio roofs are also low-maintenance and strong.
 
-1.  first item
-1.  second item
-1.  third item
+## Stratco Outback Range of Insulated Patio Roofing
 
-## Heading 2
+At _Deking Decks_, we use the Stratco Outback range of patio roofing. This range of roofing has been used to great success for many years in Brisbane the and surrounding areas, and is perfectly suited to our conditions.
 
-### Heading 3
+**Cooldek**
 
-#### Heading 4
+For insulated patio roofing, we use Stratco’s Cooldek range. Cooldek insulated panels are quite innovative in that they combine a roof, insulation and ceiling-like finish all in one product. So they’re functional as well as stylish.
 
-##### Heading 5
+**Cooldek Panel Thickness**
 
-###### Heading 6
+The Cooldek range of insulated roofing panels come in 3 different thicknesses:
+
+* 50mm
+* 75mm
+* 100mm.
+
+**Cooldek Styles**
+
+Cooldek roofing also comes in 2 different styles:
+
+* Cooldek CGI (corrugated look)
+* Cooldek Classic (minimal pitch design).
+
+To find out more about the Stratco Cooldek range of insulated roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/).
+
+## Insulated Flyover Roof
+
+A very popular choice for insulated patio roofing these days is the ‘flyover’ roof style.
+
+An insulated flyover roof gives you extra headroom and that ‘open-air’ feeling to your outdoor living space. It’s also designed to easily accommodate electrical wiring, downlights and ceiling fans, etc.
+
+To find out more about insulated flyover roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/).
+
+![Insulated Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/deking-decks-insulated-patio-roofing-benefits-types-and-materials.jpg)
+
+## Insulated Patio Roof Calculator
+
+Use our [Patio Roof Calculator](https://www.dekingdecks.com.au/patio-calculator/) to estimate how much an insulated patio roof would cost you.
+
+Once you’ve completed the simple 3-step process, the calculator will email you an estimate.
+
+For a fixed-price quote, [contact David](https://www.dekingdecks.com.au/contact-us/).
+
+## Contact David at DeKing Decks
+
+For more information about insulated patio roofs, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/). He’d be more than happy to speak with you.
+
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+
+See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate.
