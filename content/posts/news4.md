@@ -1,44 +1,77 @@
 ---
 template: SinglePost
-title: News 4
+title: Why Every Summer Party Needs a Patio
 status: Featured / Published
 date: '2018-03-04'
-featuredImage: /images/uploads/ep29netysia1-ssxg4w3ma.jpg
-shortDescription: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+featuredImage: /images/uploads/why-every-summer-party-needs-a-patio.jpg
+shortDescription: >
+  Backyard summer parties are iconic in Queensland. Whether it’s a pool party,
+  cocktail party, or something more laid-back, like a dinner party, every summer
+  party needs a patio.
 categories:
-  - category: Timber Decks
+  - category: Patio Roofing
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Discover why every summer party needs a patio from DeKing Decks. We've been
+    servicing South East Queensland for over 15 years and can build your dream
+    deck.
   noindex: false
-  title: ''
+  title: Why Every Summer Party Needs A Patio
 ---
+Backyard summer parties are iconic in Queensland. Whether it’s a pool party, cocktail party, or something more laid-back, like a dinner party, every summer party needs a [patio](https://www.dekingdecks.com.au/patio-builders-brisbane/).
 
-Paragraphs are separated by a blank line. Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+When the sun goes down and the heat dips with it, it’s party time in the sunshine state. So why not create the perfect entertaining area with a high-quality wooden deck from DeKing Decks?
 
-![Test Image](/images/uploads/ep29netysia1-ssxg4w3ma.jpg)
+![Why Every Summer Party Needs a Patio](/images/uploads/why-every-summer-party-needs-a-patio.jpg)
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_ & **bold**.
+## How a patio makes a party
 
-### Unordered lists:
+An [outdoor patio area](https://www.dekingdecks.com.au/patio-builders-brisbane/) dramatically increases your entertaining space and gives your house a relaxed flow. By building a patio in your backyard (or front yard), your indoor and outdoor area blends into one, allowing a seamless transition from [pool-side](https://www.dekingdecks.com.au/pool-decking-australia/), to lounge room, to dining table.
 
-- this one
-- that one
-- the other one
+A patio is the ultimate mood creator—instantly putting your guests at ease, and setting the scene for a relaxed night of polite conversation or a pumping pool party where the stereo gets turned up to ten.
 
-### Ordered lists:
+The combination of a pool and a patio is a classic Australian party tradition. And with very good reason: they combine to make your party guests feel cooler (whether they’re in the pool or not) and more comfortable.
 
-1.  first item
-1.  second item
-1.  third item
+Planning on feeding a bunch of family and friends? A patio provides the perfect space for an outdoor BBQ so you can interact with all your guests while cooking. It also means no more ducking out to a quiet corner of the backyard to cook by yourself. With a deck, the BBQ—and you—can be at the centre of the party.
 
-## Heading 2
 
-### Heading 3
 
-#### Heading 4
+![Why Every Summer Party Needs a Patio](/images/uploads/gable-clearspan-04.jpg)
 
-##### Heading 5
+## Why choose Deking Decks to build your patio?
 
-###### Heading 6
+We’ve been designing and building [wooden patios](https://www.dekingdecks.com.au/patio-builders-brisbane/) to the highest standards since 2003. And we certainly understand the South East Queensland lifestyle.
+
+**We service areas including:**
+
+* Brisbane
+* Sunshine Coast
+* Gold Coast
+* Logan
+* Redlands
+* Ipswich
+* Moreton Bay
+* Scenic Rim
+
+Our flawless workmanship, stunning results and unrivalled customer satisfaction speak for themselves. We’ve built a reputation as a trusted local business with a desire to please.
+
+We also know a thing or two about building the perfect entertaining space for parties. And let’s face it, what kind of summer party would be complete without a patio? There’s nothing better than breathing in that cool night air as you share a beer, wine or cocktail with friends.
+
+## What else does DeKing Decks do?
+
+DeKing Decks doesn’t just build perfect patios for the iconic summer party. We can also build [pool decking](https://www.dekingdecks.com.au/pool-decking-australia/) and a range of outdoor entertainment spaces and add-ons for that heightened sense of luxury and comfort.
+
+**For example, we can build you a:**
+
+* gazebo
+* patio roof
+* pool house.
+
+![Why Every Summer Party Needs a Patio](/images/uploads/patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option-deking.jpg)
+
+## Want to get your summer party started? Contact us
+
+Now is the perfect time to [contact DeKing Deck](https://www.dekingdecks.com.au/contact-us/)s and arrange for your patio to be built. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate. See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. We can talk to you about your budget and what you want to do with your space. Get the summer season kick-started with your dream patio.
+
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
