@@ -1,44 +1,50 @@
 ---
 template: SinglePost
-title: News 2
+title: Deck Insulation and Patio Roofing Insulation
 status: Featured / Published
-date: '2018-03-02'
-featuredImage: /images/uploads/ep29netysia1-ssxg4w3ma.jpg
+date: '2015-05-31'
+featuredImage: /images/uploads/deck-insulation-and-patio-roofing-insulation-deking-decks.jpg
 shortDescription: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+  Have you ever walked onto a deck in Summer time, to enjoy the summer breeze
+  and shade, only to find the deck is hotter than any other place in the house?
+  This deck does not have deck insulation.
 categories:
-  - category: Timber Decks
+  - category: Patio Roofing
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Just like you insulate the inside of your home, to keep you cool in summer
+    and warm in winter, you can also install insulation for patio roofing. Use
+    our Patio Roofing Calculators for a Free Quote
   noindex: false
-  title: ''
+  title: 'Deck Insulation, Patio Roofing Insulation - DeKing Brisbane'
 ---
+Have you ever walked onto a deck in Summer time, to enjoy the summer breeze and shade, only to find the deck is hotter than any other place in the house? This deck does not have deck insulation.
 
-Paragraphs are separated by a blank line. Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Just like you insulate the inside of your home, to keep you cool in summer and warm in winter, you can also install deck insulation – which offers similar benefits to indoor insulation. After all, just because your deck offers outdoor entertaining does not mean you should have to suffer from outdoor temperatures, no matter the time of year.
 
-![Test Image](/images/uploads/ep29netysia1-ssxg4w3ma.jpg)
+## Deck Insulation: How it works
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_ & **bold**.
+So, what is Insulation? Simply put, the purpose of insulation is to reduce heat from coming in, when outside temperatures are hot, and trapping heat when outside temperatures are cold. Because some materials conduct (transfer) heat better than others you can choose materials that are poor conductors of heat, meaning they trap heat from going in between them. These materials are what we are referring to when we talk about insulation.  Insulation is usually installed inside the roof and/or wall cavities of a home, but these can also be used in decks walls or roofing as well.
 
-### Unordered lists:
+![Deck Insulation and Patio Roofing Insulation](/images/uploads/deck-insulation-and-patio-roofing-insulation-deking-decks.jpg)
 
-- this one
-- that one
-- the other one
+During summer, heat from the sun radiates onto a decks roof and walls. Without deck insulation this heat is absorbed by the roof and transferred through the roof, into the space below the roof – effectively the entertainment area. This is why a deck can be shady, but extremely hot during summer. When insulation is installed, the suns heat radiates onto the roof, but rather than be absorbed into the space below, the insulation, being a poor conductor of heat, reduces the amount that is absorbed into the entertainment space below.
 
-### Ordered lists:
+During winter the reverse occurs. You may generate heat under the deck, using an outdoor heater such as a patio heater for example. However, because heat rises, this heat quickly escapes through the deck roof, if deck insulation is not installed. When deck insulation is installed the heat generated gets trapped under the deck and heats up the space more effectively.
 
-1.  first item
-1.  second item
-1.  third item
+So, in a very brief summary that’s how deck insulation works to keep you cool in summer and warm in winter.
 
-## Heading 2
+There are a number of insulation options available for you to consider. Depending on whether your deck is being built from scratch or whether it’s an existing deck will determine the types of insulation available to you. Generally, if you are looking to build a new deck, now is the time to install deck insulation – as it will generally be cheaper for you in the long run.
 
-### Heading 3
+## Types of Deck Insulation and Patio Roof Insulation
 
-#### Heading 4
+There are many types of insulation available based on your needs. Common insulation materials include glass wool, polyester, wool and even polystyrene. These stop heat transfer through tiny gaps of air in the material itself. Alternatively, reflective materials such as aluminium can be used to reflect heat away from the deck. The material you choose will depend on whether you are building new or have an existing deck, whether you want to consider recycled or natural materials and whether you are looking to for weather control in both summer and winter or just summer or just winter.
 
-##### Heading 5
+We hope this deck insulation information is useful. If you live in Queensland and would like to talk about your specific situation then please call on 1800 335 464 or email us at <mailto:info@dekingdecks.com.au>. Also take a look at [Our Patios](https://www.dekingdecks.com.au/patio-builders-brisbane/) page for more information.
 
-###### Heading 6
+To get a quote for patio roofing with and without insulation [click here](https://www.dekingdecks.com.au/patio-calculator/)
+
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+
+See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate.
