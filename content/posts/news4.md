@@ -2,7 +2,7 @@
 template: SinglePost
 title: Why Every Summer Party Needs a Patio
 status: Featured / Published
-date: '2018-03-04'
+date: '2016-11-02'
 featuredImage: /images/uploads/why-every-summer-party-needs-a-patio.jpg
 shortDescription: >
   Backyard summer parties are iconic in Queensland. Whether it’s a pool party,
