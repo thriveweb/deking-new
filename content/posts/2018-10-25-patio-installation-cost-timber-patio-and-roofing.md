@@ -8,7 +8,7 @@ shortDescription: >-
   A brand new timber patio and patio roof can transform your house, making it
   feel more open, inviting, relaxing and luxurious all at the same time.
 categories:
-  - category: Patios
+  - category: Patio Roofs
 meta:
   description: >-
     Find out how much it will cost to build a patio and patio roof on your
