@@ -9,7 +9,7 @@ shortDescription: >-
   on their house so they can entertain family and friends, or simply to set up a
   deck chair, lay back, and sip a cool drink or read a good book.
 categories:
-  - category: Patios
+  - category: Patio Roofs
 meta:
   description: >-
     Find out how much it will cost to build your dream Patio. David explains
