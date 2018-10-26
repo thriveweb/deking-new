@@ -10,7 +10,7 @@ shortDescription: >-
   relaxing in the great outdoors. Patios provide the perfect place for enjoying
   the outdoors without leaving the comforts of your own home.
 categories:
-  - category: Patios
+  - category: Patio Roofs
 meta:
   description: >-
     How to Build a Patio. Step by Step Instruction on how to successfully
