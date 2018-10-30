@@ -2,7 +2,6 @@
 template: AboutPage
 slug: about
 title: About Us
-date: 2018-03-2
 subtitle: Building Quality and Relationships
 featuredImage: /images/uploads/img_8748.jpg
 welcomeTitle: Who we are
@@ -17,7 +16,7 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/fullsizeoutput_1ed5.jpeg
 welcomeButton:
   label: Meet the team
-  link: about/team/
+  link: team/
 whatWeDoTitle: What We Do
 whatWeDo:
   - description: >-
@@ -34,7 +33,7 @@ whatWeDo:
       We dont stop at Decks and Patios, we also install glass pool fencing,
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
-    title: "Deck and Patio add on's "
+    title: 'Deck and Patio add on''s '
 bannerTitle: Christmas is coming!
 bannerDescription: Order now to have your Deck and Patio built for Christmas
 bannerImage: /images/uploads/christmas-promo.jpg
@@ -57,3 +56,4 @@ meta:
   noindex: false
   title: About Us - Deking Decks
 ---
+
