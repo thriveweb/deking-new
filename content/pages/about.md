@@ -16,7 +16,7 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/fullsizeoutput_1ed5.jpeg
 welcomeButton:
   label: Meet the team
-  link: team/
+  link: /team/
 whatWeDoTitle: What We Do
 whatWeDo:
   - description: >-
