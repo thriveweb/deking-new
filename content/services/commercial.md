@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: 'Commercial '
+title: Commercial Decking
 status: Featured
 date: '2018-09-04'
 featuredImage: /images/uploads/dsc_0484.jpg
@@ -43,9 +43,6 @@ welcomeDescription: >-
   made from recycled wood and plastic, and by sourcing new wood from sustainable
   forests, we are helping to save our environment!
 welcomeImage: /images/uploads/dsc_0484.jpg
-bannerTitle: ''
-bannerDescription: ''
-bannerImage: /images/uploads/dsc_0442.jpg
 accordion: []
 servicePriceTitle: Price Guide
 QuoteTitle: '?'
@@ -56,6 +53,9 @@ servicePriceDescription:
     size: 100 square metres
 videoTitle: ''
 videoURL: /images/uploads/video.mp4
+bannerTitle: ''
+bannerDescription: ''
+bannerImage: /images/uploads/dsc_0442.jpg
 bannerButton:
   label: Price Guide
   link: '?'
