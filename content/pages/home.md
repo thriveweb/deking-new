@@ -45,7 +45,7 @@ teamDescription: >-
 teamImage: /images/uploads/team.jpg
 teamButton:
   label: Meet the team
-  link: Our People
+  link: /about/team
 benefits:
   - description: >-
       Decks are a great way to significantly increase the living space of your
@@ -71,7 +71,6 @@ videoContent: >-
   short of a minor miracle compared with all the other trades I have dealt with
   over the past 5 months whilst doing a major house renovation. I highly
   recommend them.
-
 priceTitle: Price Guide
 priceDescription: >-
   By using our quote calculator Deking Decks reserve the right to contact you
@@ -97,3 +96,4 @@ meta:
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decking'
 ---
+
