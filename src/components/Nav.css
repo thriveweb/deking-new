@@ -35,6 +35,15 @@
   position: relative;
 }
 
+.NavLinkGroup svg {
+  position: absolute;
+  right: 0;
+  top: 1.5rem;
+  display: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
 .SubNav {
   opacity: 0;
   display: none;
@@ -124,6 +133,7 @@
     right: 0;
     bottom: 0;
     background: white;
+    overflow-y: auto;
   }
 
   .Nav--Container--Links > * + * {
@@ -135,11 +145,45 @@
   }
 
   .Nav--Container--Links.active {
-    display: flex;
+    display: -webkit-box;
   }
 
   .Nav--MenuButton {
     display: block;
     z-index: 1;
+  }
+
+  .NavLinkGroup .SubNav {
+    position: relative;
+    opacity: 1;
+    display: block;
+    left: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .NavLinkGroup .NavLink {
+    text-align: center;
+  }
+
+  .NavLinkGroup svg {
+    display: block;
+  }
+
+  .NavLinkGroup svg,
+  .NavLinkGroup .SubNav {
+    transition: all 0.3s ease;
+  }
+
+  .NavLinkGroup svg {
+    transform: translateY(-50%) rotate(0deg);
+  }
+
+  .NavLinkGroup.active svg {
+    transform: translateY(-50%) rotate(-180deg);
+  }
+
+  .NavLinkGroup.active .SubNav {
+    height: auto;
   }
 }

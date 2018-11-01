@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Link from 'gatsby-link'
-import { Phone, Menu, X } from 'react-feather'
+import { Phone, Menu, ChevronDown, X } from 'react-feather'
 import _get from 'lodash/get'
 import _kebabCase from 'lodash/kebabCase'
 import _sortBy from 'lodash/sortBy'
@@ -13,13 +13,19 @@ import './Nav.css'
 
 export default class Nav extends Component {
   state = {
-    active: false
+    active: false,
+    activeSubnav: false
   }
 
   toggleActive = () => this.setState({ active: !this.state.active })
 
   // Only close nav if it is open
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
+
+  toggleSubnav = key =>
+    this.setState({
+      activeSubnav: this.state.activeSubnav === key ? false : key
+    })
 
   render() {
     const { allPages } = this.props
@@ -53,10 +59,19 @@ export default class Nav extends Component {
     }
 
     const NavLinkGroup = ({ to, title, ...props }) => (
-      <div className={`NavLinkGroup`}>
+      <div
+        className={`NavLinkGroup ${
+          this.state.activeSubnav === to ? 'active' : ''
+        }`}
+      >
         <NavLink to={to} {...props} onClick={this.toggleActive}>
           {title}
         </NavLink>
+        <ChevronDown
+          onClick={() => {
+            this.toggleSubnav(to)
+          }}
+        />
         {renderChildPageLinks(to)}
       </div>
     )
