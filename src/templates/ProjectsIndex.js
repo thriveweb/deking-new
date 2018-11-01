@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 
+import Meta from '../components/Meta'
 import Image from '../components/Image'
 import ProjectsSection from '../components/ProjectsSection'
 import BreakoutBanner from '../components/BreakoutBanner'
@@ -8,9 +9,9 @@ import CategoriesNav from '../components/CategoriesNav'
 
 import './ProjectsIndex.css'
 
-
 // Export Template for use in CMS preview
 export const ProjectsIndexTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
@@ -20,7 +21,7 @@ export const ProjectsIndexTemplate = ({
   bannerButton,
   projects = [],
   categories = [],
-  contentType,
+  contentType
 }) => {
   const isCategory = contentType === 'categories'
   const byCategory = project =>
@@ -31,35 +32,40 @@ export const ProjectsIndexTemplate = ({
   const filteredProjects = isCategory ? projects.filter(byCategory) : projects
 
   return (
-    <main className="Projects">
-      <Helmet>
-        <title>{title}</title>
-      </Helmet>
+    <Fragment>
+      <Meta {...meta} />
+      <main className="Projects">
+        <Helmet>
+          <title>{title}</title>
+        </Helmet>
 
-      <div className={`PageHeader relative PageHeader--ProjectSection`}>
-        {featuredImage && <Image background src={featuredImage} alt={title} />}
-        <div className="container relative">
-          <h1 className="PageHeader--Title">{title}</h1>
-          {!!categories.length && (
-            <div className="PageHeader--Subtitle PageHeader--CategoriesNav">
-              <CategoriesNav categories={categories} base="projects" />
-            </div>
+        <div className={`PageHeader relative PageHeader--ProjectSection`}>
+          {featuredImage && (
+            <Image background src={featuredImage} alt={title} />
           )}
+          <div className="container relative">
+            <h1 className="PageHeader--Title">{title}</h1>
+            {!!categories.length && (
+              <div className="PageHeader--Subtitle PageHeader--CategoriesNav">
+                <CategoriesNav categories={categories} base="projects" />
+              </div>
+            )}
+          </div>
         </div>
-      </div>
 
-      {/* !! for true false */}
-      {!!projects.length && <ProjectsSection projects={filteredProjects} />}
+        {/* !! for true false */}
+        {!!projects.length && <ProjectsSection projects={filteredProjects} />}
 
-      {bannerImage && (
-        <BreakoutBanner
-          image={bannerImage}
-          title={bannerTitle}
-          description={bannerDescription}
-          link={bannerButton}
-        />
-      )}
-    </main>
+        {bannerImage && (
+          <BreakoutBanner
+            image={bannerImage}
+            title={bannerTitle}
+            description={bannerDescription}
+            link={bannerButton}
+          />
+        )}
+      </main>{' '}
+    </Fragment>
   )
 }
 
@@ -72,12 +78,12 @@ const ProjectsIndex = ({ data }) => (
     projects={data.projects.edges.map(project => ({
       ...project.node,
       ...project.node.frontmatter,
-      ...project.node.fields,
+      ...project.node.fields
     }))}
     categories={data.categories.edges.map(project => ({
       ...project.node,
       ...project.node.frontmatter,
-      ...project.node.fields,
+      ...project.node.fields
     }))}
   />
 )
@@ -94,6 +100,8 @@ export const pageQuery = graphql`
       fields {
         contentType
       }
+      rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         template

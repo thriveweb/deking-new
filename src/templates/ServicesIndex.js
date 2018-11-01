@@ -1,16 +1,19 @@
 import React, { Fragment } from 'react'
 
+import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import ServicesSection from '../components/ServicesSection'
 
 // Export Template for use in CMS preview
 export const ServicesIndexTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
-  services = [],
+  services = []
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="Home">
       <PageHeader
         large
@@ -36,7 +39,7 @@ const ServicesIndex = ({ data }) => {
       services={services.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
-        ...post.node.fields,
+        ...post.node.fields
       }))}
     />
   )
@@ -51,6 +54,8 @@ export const pageQuery = graphql`
   ## query name must be unique to this file
   query ServicesIndex($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
+      rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         template

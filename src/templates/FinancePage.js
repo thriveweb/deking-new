@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 
+import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import BreakoutBanner from '../components/BreakoutBanner'
 import Image from '../components/Image'
@@ -8,6 +9,7 @@ import './FinancePage.css'
 
 // Export Template for use in CMS preview
 export const FinancePageTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
@@ -17,9 +19,10 @@ export const FinancePageTemplate = ({
   faq,
   learnMore,
   learnMoreImage,
-  learnMoreLink,
+  learnMoreLink
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="Finance">
       <PageHeader
         title={title}
@@ -105,6 +108,7 @@ export const pageQuery = graphql`
   query FinancePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         subtitle

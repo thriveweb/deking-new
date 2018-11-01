@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 
+import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import BreakoutBanner from '../components/BreakoutBanner'
 import TeamCard from '../components/TeamCard'
@@ -8,6 +9,7 @@ import './TeamPage.css'
 
 // Export Template for use in CMS preview
 export const TeamPageTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
@@ -16,9 +18,10 @@ export const TeamPageTemplate = ({
   bannerTitle,
   bannerDescription,
   bannerImage,
-  bannerButton,
+  bannerButton
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="Team">
       <PageHeader
         title={title}
@@ -72,6 +75,7 @@ export const pageQuery = graphql`
   query TeamPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         subtitle

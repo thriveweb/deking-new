@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 import _get from 'lodash/get'
 import { ChevronLeft } from 'react-feather'
 
+import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import BreakoutBanner from '../components/BreakoutBanner'
 import Accordion from '../components/Accordion'
@@ -13,6 +14,7 @@ import Image from '../components/Image'
 import './SingleService.css'
 
 export const SingleServiceTemplate = ({
+  meta,
   title,
   featuredImage,
   relatedProjects,
@@ -33,6 +35,7 @@ export const SingleServiceTemplate = ({
   bannerButton
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <article className="SingleProject relative">
       <Link className="SingleProject--BackButton" to="/services/">
         <ChevronLeft /> BACK
@@ -262,6 +265,8 @@ export const pageQuery = graphql`
     service: markdownRemark(id: { eq: $id }) {
       html
       id
+      rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         template

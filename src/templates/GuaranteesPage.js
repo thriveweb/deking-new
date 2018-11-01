@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 
+import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import BreakoutBanner from '../components/BreakoutBanner'
 import Content from '../components/Content'
@@ -8,6 +9,7 @@ import Content from '../components/Content'
 
 // Export Template for use in CMS preview
 export const GuaranteesPageTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
@@ -15,9 +17,10 @@ export const GuaranteesPageTemplate = ({
   bannerTitle,
   bannerDescription,
   bannerImage,
-  bannerButton,
+  bannerButton
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="Guarantees">
       <PageHeader
         title={title}
@@ -27,14 +30,12 @@ export const GuaranteesPageTemplate = ({
         split
       />
 
-        <div className="section">
-          <div className="container">
-            <h2 className="taCenter">{guarantees.title}</h2>
-            <Content
-              src={guarantees.content}
-            />
-          </div>
+      <div className="section">
+        <div className="container">
+          <h2 className="taCenter">{guarantees.title}</h2>
+          <Content src={guarantees.content} />
         </div>
+      </div>
 
       {bannerImage && (
         <BreakoutBanner
@@ -62,6 +63,7 @@ export const pageQuery = graphql`
   query GuaranteesPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         subtitle

@@ -1,12 +1,14 @@
 import React, { Fragment } from 'react'
 
+import Meta from '../components/Meta'
 import QuoteCalculator from '../components/QuoteCalculator'
 
 import './QuotePage.css'
 
 // Export Template for use in CMS preview
-export const QuoteTemplate = ({ title }) => (
+export const QuoteTemplate = ({ meta, title }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="Quote">
       <QuoteCalculator />
     </main>
@@ -27,6 +29,7 @@ export const pageQuery = graphql`
   query Quote($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       rawMarkdownBody
+      ...Meta
       frontmatter {
         title
       }

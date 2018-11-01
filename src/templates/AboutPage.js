@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 
+import Meta from '../components/Meta'
 import Image from '../components/Image'
 import Button from '../components/Button'
 import PageHeader from '../components/PageHeader'
@@ -8,6 +9,7 @@ import './AboutPage.css'
 
 // Export Template for use in CMS preview
 export const AboutPageTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
@@ -25,6 +27,7 @@ export const AboutPageTemplate = ({
   qualificationsLogos
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="About">
       <PageHeader
         title={title}
@@ -130,6 +133,7 @@ export const pageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         subtitle

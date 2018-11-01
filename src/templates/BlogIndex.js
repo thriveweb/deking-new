@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 
 import PageHeader from '../components/PageHeader'
@@ -20,21 +20,23 @@ export const BlogIndexTemplate = ({
   const filteredPosts = isCategory ? posts.filter(byCategory) : posts
 
   return (
-    <main className="Blog">
-      <Helmet>
-        <title>{title}</title>
-      </Helmet>
+    <Fragment>
+      <main className="Blog">
+        <Helmet>
+          <title>{title}</title>
+        </Helmet>
 
-      <PageHeader title={title} backgroundImage={featuredImage} />
+        <PageHeader title={title} backgroundImage={featuredImage} />
 
-      {!!posts.length && (
-        <section className="section">
-          <div className="container">
-            <PostSection posts={filteredPosts} />
-          </div>
-        </section>
-      )}
-    </main>
+        {!!posts.length && (
+          <section className="section">
+            <div className="container">
+              <PostSection posts={filteredPosts} />
+            </div>
+          </section>
+        )}
+      </main>
+    </Fragment>
   )
 }
 

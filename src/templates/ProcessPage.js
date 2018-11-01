@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 
+import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import BreakoutBanner from '../components/BreakoutBanner'
 import ProcessAccordion from '../components/ProcessAccordion'
@@ -8,6 +9,7 @@ import './ProcessPage.css'
 
 // Export Template for use in CMS preview
 export const ProcessPageTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
@@ -15,9 +17,10 @@ export const ProcessPageTemplate = ({
   bannerTitle,
   bannerDescription,
   bannerImage,
-  bannerButton,
+  bannerButton
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="Process">
       <PageHeader
         title={title}
@@ -60,6 +63,7 @@ export const pageQuery = graphql`
   query ProcessPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         subtitle

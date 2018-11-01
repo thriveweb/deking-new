@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 import _get from 'lodash/get'
 import { ChevronLeft } from 'react-feather'
 
+import Meta from '../components/Meta'
 import Accordion from '../components/Accordion'
 import Image from '../components/Image'
 import Content from '../components/Content'
@@ -11,6 +12,7 @@ import PageHeader from '../components/PageHeader'
 import './SingleProject.css'
 
 export const SingleProjectTemplate = ({
+  meta,
   title,
   date,
   featuredImage,
@@ -24,6 +26,7 @@ export const SingleProjectTemplate = ({
   categories = []
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <article className="SingleProject relative">
       <Link className="SingleProject--BackButton" to="/projects/">
         <ChevronLeft /> BACK
@@ -135,6 +138,8 @@ export const pageQuery = graphql`
     project: markdownRemark(id: { eq: $id }) {
       html
       id
+      rawMarkdownBody
+      ...Meta
       frontmatter {
         template
         title

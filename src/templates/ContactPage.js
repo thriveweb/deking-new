@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 
 import { MapPin, Smartphone, Mail } from 'react-feather'
 
+import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import EnquiryFormSimple from '../components/EnquiryFormSimple'
 import SimpleMap from '../components/SimpleMap'
@@ -10,15 +11,17 @@ import './ContactPage.css'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
+  meta,
   title,
   subtitle,
   featuredImage,
   locationTitle,
   locations,
   otherLocationTitle,
-  otherLocation,
+  otherLocation
 }) => (
   <Fragment>
+    <Meta {...meta} />
     <main className="Contact">
       <PageHeader
         title={title}
@@ -135,6 +138,8 @@ export default ContactPage
 export const pageQuery = graphql`
   query ContactPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
+      rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         template

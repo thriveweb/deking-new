@@ -5,11 +5,13 @@ import _format from 'date-fns/format'
 import Link from 'gatsby-link'
 import { ChevronLeft } from 'react-feather'
 
+import Meta from '../components/Meta'
 import Content from '../components/Content'
 import Image from '../components/Image'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
+  meta,
   title,
   date,
   featuredImage,
@@ -18,81 +20,84 @@ export const SinglePostTemplate = ({
   prevPostURL,
   categories = []
 }) => (
-  <article className="SinglePost section light">
-    <Helmet>
-      <title>{title}</title>
-    </Helmet>
+  <Fragment>
+    <Meta {...meta} />
+    <article className="SinglePost section light">
+      <Helmet>
+        <title>{title}</title>
+      </Helmet>
 
-    {featuredImage && (
-      <Image
-        background
-        className="SinglePost--BackgroundImage"
-        src={featuredImage}
-        alt={title}
-      />
-    )}
+      {featuredImage && (
+        <Image
+          background
+          className="SinglePost--BackgroundImage"
+          src={featuredImage}
+          alt={title}
+        />
+      )}
 
-    <div className="container skinny">
-      <div className="SinglePost--Content relative">
-        {title && (
-          <h1 className="SinglePost--Title" itemProp="title">
-            {title}
-          </h1>
-        )}
-        <div className="SinglePost--Meta">
-          {date && (
-            <time
-              className="SinglePost--Meta--Date"
-              itemProp="dateCreated pubdate datePublished"
-              date={date}
-            >
-              {_format(date, 'MMMM Do, YYYY')}
-            </time>
+      <div className="container skinny">
+        <div className="SinglePost--Content relative">
+          {title && (
+            <h1 className="SinglePost--Title" itemProp="title">
+              {title}
+            </h1>
           )}
+          <div className="SinglePost--Meta">
+            {date && (
+              <time
+                className="SinglePost--Meta--Date"
+                itemProp="dateCreated pubdate datePublished"
+                date={date}
+              >
+                {_format(date, 'MMMM Do, YYYY')}
+              </time>
+            )}
 
-          {categories && (
-            <Fragment>
-              <span>|</span>
-              {!!categories &&
-                categories.map((cat, index) => (
-                  <span
-                    key={index + cat.category}
-                    className="SinglePost--Meta--Category"
-                  >
-                    {cat.category}
-                    {/* Add a comma on all but last category */}
-                    {index !== categories.length - 1 ? ',' : ''}
-                  </span>
-                ))}
-            </Fragment>
-          )}
-        </div>
+            {categories && (
+              <Fragment>
+                <span>|</span>
+                {!!categories &&
+                  categories.map((cat, index) => (
+                    <span
+                      key={index + cat.category}
+                      className="SinglePost--Meta--Category"
+                    >
+                      {cat.category}
+                      {/* Add a comma on all but last category */}
+                      {index !== categories.length - 1 ? ',' : ''}
+                    </span>
+                  ))}
+              </Fragment>
+            )}
+          </div>
 
-        <div className="SinglePost--InnerContent">
-          <Content source={body} />
-        </div>
+          <div className="SinglePost--InnerContent">
+            <Content source={body} />
+          </div>
 
-        <div className="SinglePost--Pagination">
-          {prevPostURL && (
-            <Link
-              className="SinglePost--Pagination--Link prev"
-              to={prevPostURL}
-            >
-              Previous Post
-            </Link>
-          )}
-          {nextPostURL && (
-            <Link
-              className="SinglePost--Pagination--Link next"
-              to={nextPostURL}
-            >
-              Next Post
-            </Link>
-          )}
+          <div className="SinglePost--Pagination">
+            {prevPostURL && (
+              <Link
+                className="SinglePost--Pagination--Link prev"
+                to={prevPostURL}
+              >
+                Previous Post
+              </Link>
+            )}
+            {nextPostURL && (
+              <Link
+                className="SinglePost--Pagination--Link next"
+                to={nextPostURL}
+              >
+                Next Post
+              </Link>
+            )}
+          </div>
         </div>
       </div>
-    </div>
-  </article>
+    </article>
+  </Fragment>
 )
 
 // Export Default SinglePost for front-end
@@ -121,6 +126,8 @@ export const pageQuery = graphql`
     post: markdownRemark(id: { eq: $id }) {
       html
       id
+      rawMarkdownBody
+      ...Meta
       frontmatter {
         title
         template
