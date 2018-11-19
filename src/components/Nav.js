@@ -14,18 +14,43 @@ import './Nav.css'
 export default class Nav extends Component {
   state = {
     active: false,
-    activeSubnav: false
+    activeSubnav: false,
+    mobile: false
   }
 
-  toggleActive = () => this.setState({ active: !this.state.active })
+  toggleActive = () => {
+    if (this.state.mobile) {
+      this.setState({ active: !this.state.active })
+    }
+  }
 
   // Only close nav if it is open
-  handleLinkClick = () => this.state.active && this.handleMenuToggle()
+  handleLinkClick = () => {
+    this.state.active && this.handleMenuToggle()
+  }
 
-  toggleSubnav = key =>
+  toggleSubnav = key => {
     this.setState({
       activeSubnav: this.state.activeSubnav === key ? false : key
     })
+  }
+
+  isMobile = () => {
+    if (window.innerWidth <= 1100) {
+      this.setState({ mobile: true })
+    } else {
+      this.setState({ mobile: false })
+    }
+  }
+
+  componentDidMount() {
+    this.isMobile()
+    window.addEventListener('resize', this.isMobile.bind(this))
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('resize', this.isMobile.bind(this))
+  }
 
   render() {
     const { allPages } = this.props
