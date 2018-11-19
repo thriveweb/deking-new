@@ -54,7 +54,12 @@ export const ProjectsIndexTemplate = ({
         </div>
 
         {/* !! for true false */}
-        {!!projects.length && <ProjectsSection projects={filteredProjects} />}
+        {!!projects.length && (
+          <ProjectsSection
+            projects={filteredProjects}
+            isCategory={isCategory}
+          />
+        )}
 
         {bannerImage && (
           <BreakoutBanner

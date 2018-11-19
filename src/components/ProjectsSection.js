@@ -12,7 +12,8 @@ class ProjectsSection extends React.Component {
     limit: 12,
     showLoadMore: true,
     loadMoreTitle: 'Load More',
-    perPageLimit: 12
+    perPageLimit: 12,
+    isCategory: false
   }
 
   state = {
@@ -26,7 +27,14 @@ class ProjectsSection extends React.Component {
   }
 
   render() {
-    const { projects, title, related, showLoadMore, loadMoreTitle } = this.props
+    const {
+      projects,
+      title,
+      related,
+      showLoadMore,
+      loadMoreTitle,
+      isCategory
+    } = this.props
     const { limit } = this.state
 
     const visibleProjects = _sortBy(projects, ['date'])
@@ -61,11 +69,13 @@ class ProjectsSection extends React.Component {
               </button>
             </div>
           )}
-        <div className="flex">
-          <Link to="/projects/" className="Button">
-            All Projects
-          </Link>
-        </div>
+        {isCategory && (
+          <div className="flex">
+            <Link to="/projects/" className="Button">
+              All Projects
+            </Link>
+          </div>
+        )}
       </div>
     )
   }
