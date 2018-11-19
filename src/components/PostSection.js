@@ -11,16 +11,16 @@ class PostSection extends React.Component {
     limit: 12,
     showLoadMore: true,
     loadMoreTitle: 'Load More',
-    perPageLimit: 12,
+    perPageLimit: 12
   }
 
   state = {
-    limit: this.props.limit,
+    limit: this.props.limit
   }
 
   increaseLimit = () => {
     this.setState(prevState => ({
-      limit: prevState.limit + this.props.perPageLimit,
+      limit: prevState.limit + this.props.perPageLimit
     }))
   }
 
@@ -47,7 +47,7 @@ class PostSection extends React.Component {
           {showLoadMore &&
             visiblePosts.length < posts.length && (
               <div className="taCenter">
-                <button className="button" onClick={this.increaseLimit}>
+                <button className="Button" onClick={this.increaseLimit}>
                   {loadMoreTitle}
                 </button>
               </div>

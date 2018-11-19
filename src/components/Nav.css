@@ -112,6 +112,16 @@
   background: transparent;
 }
 
+@media (max-width: 1440px) {
+  .Nav .Logo {
+    width: 20rem;
+  }
+
+  .Nav--Container--Links > * + * {
+    margin-left: 0.5rem;
+  }
+}
+
 @media (max-width: 1100px) {
   .Nav--Container {
     display: flex;
