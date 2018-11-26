@@ -76,7 +76,7 @@ export const SingleProjectTemplate = ({
                 {_get(feedback, `[0].description`) &&
                   feedback[0].description && <p>{feedback[0].description}</p>}
                 {_get(feedback, `[0].from`) &&
-                  feedback[0].from && <small> - {feedback[0].from}</small>}
+                  feedback[0].from && <small>{feedback[0].from}</small>}
               </div>
             </div>
           </div>

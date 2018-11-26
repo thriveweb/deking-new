@@ -23,7 +23,7 @@ function encode(data) {
 class QuoteCalculator extends React.Component {
   static defaultProps = {
     errorMessage:
-      'There is a problem, your quote has not been sent, please try contacting us via email',
+      'There is a problem, your quote has not been sent, please try contacting us via email'
   }
 
   state = {
@@ -45,7 +45,7 @@ class QuoteCalculator extends React.Component {
     contact: false,
     disabled: false,
     currentStep: 0,
-    skipOptions: false,
+    skipOptions: false
   }
 
   componentDidMount() {
@@ -94,8 +94,6 @@ class QuoteCalculator extends React.Component {
       obj.width = ''
     }
 
-
-
     const skipStep = this.state.skipOptions ? 1 : 0
     let nextStep = this.state.currentStep + step + skipStep
     if (nextStep < 0) {
@@ -103,7 +101,7 @@ class QuoteCalculator extends React.Component {
     }
     this.setState({
       currentStep: nextStep,
-      ...obj,
+      ...obj
     })
   }
 
@@ -115,7 +113,7 @@ class QuoteCalculator extends React.Component {
     this.setState(
       {
         [name]: value,
-        skipOptions: skippy,
+        skipOptions: skippy
       },
       () => {
         if (name === 'option') this.handelNavigate()
@@ -131,13 +129,13 @@ class QuoteCalculator extends React.Component {
       body: encode({
         subject: 'quote',
         'form-name': form.getAttribute('name'),
-        ...this.state,
-      }),
+        ...this.state
+      })
     })
       .then(() => {
         this.setState({
           currentStep: 5,
-          disabled: false,
+          disabled: false
         })
       })
       .catch(error => alert(error))
@@ -162,7 +160,7 @@ class QuoteCalculator extends React.Component {
       postCode,
       phone,
       subscribe,
-      contact,
+      contact
     } = this.state
 
     return (
@@ -177,7 +175,12 @@ class QuoteCalculator extends React.Component {
         >
           <QuoteStep currentStep={currentStep} thisStep={0}>
             <h3>Select Option</h3>
-            <p>By using our quote calculator Deking Decks reserve the right to contact you and send you appropriate marketing materials. Privacy is important to us, you can opt our anytime and no spam will be sent.</p>
+            <p>
+              By using our quote calculator Deking Decks reserve the right to
+              contact you and send you appropriate marketing materials. Privacy
+              is important to us, you can opt our anytime and no spam will be
+              sent.
+            </p>
             <div className="flex QuoteCalculator--Option">
               <label
                 className={`QuoteCalculator--Label QuoteCalculator--Option-image ${
@@ -251,7 +254,7 @@ class QuoteCalculator extends React.Component {
                   value="roofFlyoverAttached"
                   required
                 />
-                Roof Flyover or Attached
+                Patio roof flyover or attached
               </label>
               <label
                 className={`QuoteCalculator--Label QuoteCalculator--Option-image ${
@@ -321,7 +324,7 @@ class QuoteCalculator extends React.Component {
                       />
                       <OptionSlide
                         key="2"
-                        image="/images/icon-handrail.svg"
+                        image="/images/icon-stairs.svg"
                         title="Do you want a handrail"
                         slideSet="handrail"
                         positiveValue="handrail"
@@ -366,7 +369,7 @@ class QuoteCalculator extends React.Component {
                       />
                       <OptionSlide
                         key="2"
-                        image="/images/icon-handrail.svg"
+                        image="/images/icon-stairs.svg"
                         title="Do you want a handrail"
                         slideSet="handrail"
                         positiveValue="handrail"
@@ -504,7 +507,7 @@ class QuoteCalculator extends React.Component {
                     </div>
                   </Fragment>
                 ),
-                default: '',
+                default: ''
               }[option]
             }
           </QuoteStep>
@@ -559,7 +562,11 @@ class QuoteCalculator extends React.Component {
           <QuoteStep currentStep={currentStep} thisStep={3}>
             <h3>Fill in your personal details</h3>
             <div className="taCenter heading-image">
-              <Image className="personal-details" src="/images/personalDetails.svg" alt="Personal details" />
+              <Image
+                className="personal-details"
+                src="/images/personalDetails.svg"
+                alt="Personal details"
+              />
             </div>
             <div className="flex-labels">
               <label className="QuoteCalculator--Label">
@@ -681,7 +688,6 @@ class QuoteCalculator extends React.Component {
                 For a more accurate price, we can have one of our sales
                 professionals to discuss the price in more detail.
               </p>
-
             </div>
             <div className="full-load">
               <Image src="/images/full.gif" alt="loading" />
@@ -735,22 +741,21 @@ class QuoteCalculator extends React.Component {
                 {width && (
                   <Fragment>
                     <strong>Width: </strong>
-                    {width}m
-                    <br />
+                    {width}m<br />
                   </Fragment>
                 )}
                 {length && (
                   <Fragment>
                     <strong>Length: </strong>
-                    {length}m
-                    <br />
+                    {length}m<br />
                   </Fragment>
                 )}
                 {length &&
                   width && (
                     <Fragment>
                       <strong>Total area: </strong>
-                      {length && width * length}sqm
+                      {length && width * length}
+                      sqm
                       <br />
                     </Fragment>
                   )}
@@ -767,7 +772,7 @@ class QuoteCalculator extends React.Component {
                   stairs,
                   handrail,
                   insulated,
-                  attached,
+                  attached
                 }}
               />
             </div>
@@ -783,7 +788,9 @@ class QuoteCalculator extends React.Component {
               with you to provide you with a more accurate quote if you require
               one.
             </p>
-            <Button to={`tel:0404040440`}>Call us</Button>
+            <a href={`tel:0404040440`} className="Button  hasShadowHover">
+              Call us
+            </a>
           </div>
         </QuoteStep>
 

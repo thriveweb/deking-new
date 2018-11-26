@@ -30,6 +30,7 @@ class Image extends React.Component {
       alt,
       style,
       imgStyle,
+      fade = true
     } = this.props
 
     const imageSizes = extractChildImageSharp(src, 'sizes')
@@ -52,10 +53,10 @@ class Image extends React.Component {
               style={{
                 position: 'absolute',
                 width: 'auto',
-                height: 'auto',
+                height: 'auto'
               }}
               imgStyle={{
-                objectFit: backgroundSize,
+                objectFit: backgroundSize
               }}
             />
           )}
@@ -73,6 +74,7 @@ class Image extends React.Component {
           alt={alt}
           style={style}
           imgStyle={imgStyle}
+          fadeIn={fade}
         />
       )
     }
@@ -91,7 +93,7 @@ class Image extends React.Component {
 }
 
 Image.propTypes = {
-  alt: PropTypes.string.isRequired,
+  alt: PropTypes.string.isRequired
 }
 
 export default Image

@@ -5,7 +5,7 @@ import './TeamCard.css'
 
 class TeamCard extends React.Component {
   state = {
-    active: false,
+    active: false
   }
 
   handlePopupClose = () => this.setState({ active: false })
@@ -20,8 +20,19 @@ class TeamCard extends React.Component {
         <div className="TeamCard" onClick={this.handlePopupOpen}>
           {member.profileImage && (
             <div className="TeamCard--Image relative">
-              <Image className="ProfileImage--set" background src={member.profileImage} alt={member.name} />
-              <Image className="ProfileImage--hover" background src={member.profileImage2} alt={member.name} />
+              <Image
+                className="ProfileImage--set"
+                background
+                src={member.profileImage}
+                alt={member.name}
+              />
+              <Image
+                className="ProfileImage--hover"
+                background
+                src={member.profileImage2}
+                alt={member.name}
+                fade={false}
+              />
             </div>
           )}
           <div className="TeamCard--Content">

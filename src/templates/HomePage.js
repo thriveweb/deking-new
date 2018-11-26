@@ -213,7 +213,7 @@ export const HomePageTemplate = ({
             />
             <CalculatorCard
               slug="/quote-calculator/?option=roofFlyoverAttached&currentStep=1"
-              title="Roof Flyover or Attached"
+              title="Patio roof flyover or attached"
               image="/images/roof-flyover.png"
             />
             <CalculatorCard

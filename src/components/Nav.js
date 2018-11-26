@@ -66,6 +66,23 @@ export default class Nav extends Component {
       let childPages = _sortBy(getChildPages(parentSlug), 'frontmatter.date')
       childPages = _reject(childPages, ['fields.slug', '/services/'])
 
+      if (parentSlug === '/about/') {
+        const customOrder = [
+          '/about/process/',
+          '/about/',
+          '/about/team/',
+          '/about/join/',
+          '/about/guarantees/',
+          '/about/finance/'
+        ]
+        let orderedChildPages = customOrder.map(slug => {
+          for (let page in childPages) {
+            if (childPages[page].fields.slug === slug) return childPages[page]
+          }
+        })
+        if (orderedChildPages) childPages = orderedChildPages
+      }
+
       if (!childPages.length) return null
       return (
         <div className={`SubNav SubNav-${_kebabCase(parentSlug)}`}>

@@ -22,7 +22,7 @@
 }
 
 @media (max-width: 700px) {
-  .ClientFeedback{
+  .ClientFeedback {
     width: 100% !important;
   }
 }
@@ -63,6 +63,22 @@
 }
 .ClientFeedback--Content .info {
   width: calc(100% - 20rem);
+}
+
+.ClientFeedback--Content small {
+  position: relative;
+  padding-left: 2rem;
+  font-size: 2.4rem;
+  letter-spacing: -0.08rem;
+  line-height: 1.35;
+  display: block;
+}
+
+.ClientFeedback--Content small::before {
+  position: absolute;
+  content: '-';
+  left: 0;
+  top: 0;
 }
 
 .SingleProject--Pagination .container {
