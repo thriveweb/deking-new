@@ -3,7 +3,7 @@ template: SingleService
 title: ECO Decking
 status: Featured
 date: '2018-09-09'
-featuredImage: /images/uploads/slider-image.jpg
+featuredImage: /images/uploads/img_9614.jpg
 excerpt: A deck that takes nothing out of mother nature
 welcomeTitle: ECO Decking Types And Services
 welcomeDescription: >-
@@ -11,12 +11,16 @@ welcomeDescription: >-
   all of our customers’ needs. Although these materials present the same look
   and texture as real timber materials, they are constructed from recycled wood
   and plastic.
-welcomeImage: /images/uploads/slider-image.jpg
-bannerTitle: ''
-bannerDescription: ''
-servicePriceTitle: test
-QuoteTitle: test
-servicePriceDescription: []
+welcomeImage: /images/uploads/pros-and-cons-of-eco-friendly-decking.jpg
+accordion:
+  - title: ''
+servicePriceTitle: Price Guide
+QuoteTitle: Contact us for more information
+servicePriceDescription:
+  - materials: TREX Composite deck with a treated pine frame (25 year warranty)
+    max: '$11,000.00'
+    min: $9000.00
+    size: 6m x 4m
 servicePods:
   - podDescription: >-
       For many years, DeKing has been one of the top deck builders in the
@@ -78,6 +82,8 @@ servicePods:
     podsTitle: Environmental Impact
 videoTitle: ' '
 videoURL: ''
+bannerTitle: ''
+bannerDescription: ''
 bannerButton:
   label: test
   link: Contact
