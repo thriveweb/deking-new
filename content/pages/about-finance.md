@@ -6,7 +6,7 @@ subtitle: >-
   Deking offers Deck & Patio Finance packages through HSBC. Giving you the
   ability to have your new deck or patio now, and pay this off over time with no
   interest. (T's & C's apply)
-featuredImage: /images/uploads/hsbc-logo.jpg
+featuredImage: /images/uploads/hsbc-bank-logo.jpg
 welcomeTitle: 'HSBC Finance, Interest free terms for Decks & Patios'
 welcomeDescription: >-
   We look forward to creating a wonderful outdoor extension to your home and a
@@ -15,7 +15,7 @@ welcomeDescription: >-
 
   Have it now with no interest payments over a set time with only a small set up
   cost
-welcomeImage: /images/uploads/hsbc-bank-logo.jpg
+welcomeImage: /images/uploads/hsbc_visa_finance.jpeg
 faq:
   - content: >-
       Deking offer Deck Finance options through HSBC for Decks, patios, patio
