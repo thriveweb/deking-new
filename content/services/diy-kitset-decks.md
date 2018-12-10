@@ -5,7 +5,7 @@ status: Published
 date: '2018-10-06'
 featuredImage: /images/uploads/white-ant-repair.jpg
 excerpt: Need a little help from the experts to build your own deck?
-welcomeTitle: The Australian "Give it a go mate" attitude
+welcomeTitle: The Australian "Give it a go" attitude
 welcomeDescription: >-
   Welcome to the DeKing Decks online shop. Here you can purchase one of our do
   it yourself (DIY) Kitset decking kits. At present we have 2 DIY kits to choose
