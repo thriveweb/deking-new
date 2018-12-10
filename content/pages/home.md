@@ -70,7 +70,7 @@ videoContent: >-
   Excellent job started and completed when they said - that in itself is nothing
   short of a minor miracle compared with all the other trades I have dealt with
   over the past 5 months whilst doing a major house renovation. I highly
-  recommend them.
+  recommend Deking.
 priceTitle: Price Guide
 priceDescription: >-
   By using our quote calculator Deking Decks reserve the right to contact you
