@@ -46,7 +46,7 @@ servicePods:
       extremely durable and requires almost zero maintenance. We source our eco
       decking materials from a variety of different suppliers such as
       Futurewood, Expresswood, ModWood, CorrectDeck, Ekodeck and more.
-    podImage: /images/uploads/deking_0421.jpg
+    podImage: /images/uploads/img_9615.jpg
     podsTitle: Composite Decking
   - podDescription: >-
       If composite decking isn’t for you, but you still want your deck to be
@@ -87,6 +87,8 @@ bannerDescription: ''
 bannerButton:
   label: test
   link: Contact
+categories:
+  - category: ''
 meta:
   description: >-
     ECO Decking - At DeKing, we believe that you should be able to enjoy the
