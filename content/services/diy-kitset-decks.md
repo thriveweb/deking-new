@@ -20,8 +20,14 @@ welcomeDescription: >-
   custom design a deck to perfectly suit your needs. If you have any questions
   about our products or services, please call us on 1800 335 464.
 welcomeImage: /images/uploads/white-ant-repair.jpg
+accordion: []
 servicePriceTitle: Price Guide
 QuoteTitle: '6m x 4m '
+servicePriceDescription:
+  - materials: Treated Pine Frame. Hardwood decking
+    max: $4000.00
+    min: $3500.00
+    size: 6m x 4m
 videoTitle: ' '
 bannerTitle: DIY decking kits and kitset decks
 bannerDescription: >-
