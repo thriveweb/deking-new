@@ -11,15 +11,15 @@ welcomeDescription: >-
   materials. Although we build all kinds of outdoor decks, patios and pergolas,
   we also specialise in building customisable gazebos. Brisbane residents know
   that they can rely on DeKing to make their gazebo dreams a reality.
-welcomeImage: /images/uploads/price-back.png
-welcomeButton:
-  label: Contact us
-  link: Contact
-bannerTitle: ''
-bannerDescription: ''
+welcomeImage: /images/uploads/coroy4.jpg
+accordion: []
 servicePriceTitle: Gazebos
-QuoteTitle: test
-servicePriceDescription: []
+QuoteTitle: Pine framing or Hardwood framing
+servicePriceDescription:
+  - materials: Hardwood posts and colorbond roofing
+    max: $6000.00
+    min: $4000.00
+    size: 4mx 4m
 servicePods:
   - podDescription: >-
       For customers looking for a great addition to the outdoor space on their
@@ -93,6 +93,8 @@ servicePods:
     podsTitle: From First Contact to Gazebo Completion
 videoTitle: ' '
 videoURL: ''
+bannerTitle: ''
+bannerDescription: ''
 bannerButton:
   label: Contact Us
   link: Contact
