@@ -2,7 +2,6 @@
 template: ProcessPage
 slug: about/process
 title: Our Process
-date: '2018-09-04'
 subtitle: >-
   Working together with Deking provides clarity and confidence from initial
   contact to completion in 6 simple steps.
@@ -118,9 +117,11 @@ processes:
       the care and warranty package we provide. (link to document )
     link: ''
     title: Enjoy
-bannerTitle: Get in now for Christmas
-bannerDescription: Order now to have your Deck or Patio Roof built for Christmas
-bannerImage: /images/uploads/christmas-promo.jpg
+bannerTitle: Get in now for Easter
+bannerDescription: |-
+  Order now to have your Deck or Patio Roof built for Easter.
+  T's & C's apply. Ask our friendly team for details
+bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Enquire
   link: Contact
@@ -130,3 +131,4 @@ meta:
   noindex: false
   title: ''
 ---
+
