@@ -22,12 +22,6 @@ welcomeDescription: >-
   on the tin.  Watch this video for more information on the best times of the
   year to do various stages of deck maintenance
 welcomeImage: /images/uploads/img_e8859.jpg
-welcomeButton:
-  label: Contact us
-  link: Contact us
-bannerTitle: Price guide
-bannerDescription: '?'
-bannerImage: ''
 servicePriceTitle: Price guide
 QuoteTitle: $750.00 - $1000.00
 servicePriceDescription:
@@ -35,8 +29,11 @@ servicePriceDescription:
     max: $1000
     min: $750
     size: 6 metres by 4 metres
-videoTitle: '????'
+videoTitle: ''
 videoURL: /images/uploads/video.mp4
+bannerTitle: Price guide
+bannerDescription: '?'
+bannerImage: ''
 bannerButton:
   label: '????'
   link: '????'
