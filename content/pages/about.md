@@ -34,9 +34,9 @@ whatWeDo:
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
     title: 'Deck and Patio add on''s '
-bannerTitle: Christmas is coming!
-bannerDescription: Order now to have your Deck and Patio built for Christmas
-bannerImage: /images/uploads/christmas-promo.jpg
+bannerTitle: Easter is coming!
+bannerDescription: Order now to have your Deck and Patio built for Easter
+bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Enquire
   link: Contact
