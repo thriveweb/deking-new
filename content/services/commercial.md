@@ -65,7 +65,7 @@ videoTitle: ''
 videoURL: /images/uploads/video.mp4
 bannerTitle: ''
 bannerDescription: ''
-bannerImage: /images/uploads/dsc_0442.jpg
+bannerImage: ''
 bannerButton:
   label: Price Guide
   link: '?'
