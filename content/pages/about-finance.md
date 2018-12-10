@@ -3,25 +3,25 @@ template: FinancePage
 slug: about/finance
 title: Finance Options
 subtitle: >-
-  Deking offers Deck & Patio Finance packages through Once Credit. Giving you
-  the ability to have your new deck or patio roof now, and pay this off over
-  time with no interest, ever.
-featuredImage: /images/uploads/once-credit.jpg
-welcomeTitle: 'Once Credit, Interest free terms for Decks & Patios'
+  Deking offers Deck & Patio Finance packages through HSBC. Giving you the
+  ability to have your new deck or patio now, and pay this off over time with no
+  interest. (T's & C's apply)
+featuredImage: /images/uploads/hsbc-logo.jpg
+welcomeTitle: 'HSBC Finance, Interest free terms for Decks & Patios'
 welcomeDescription: >-
   We look forward to creating a wonderful outdoor extension to your home and a
   space your family will really love.
 
 
-  Have it now with no interest payments over 24 months and a small 10% deposit
+  Have it now with no interest payments over 36 months and a small 10% deposit
 welcomeImage: /images/uploads/banner-background.jpg
 faq:
   - content: >-
-      Deking offer Deck Finance options through Certegy Ezi Pay for Decks,
-      patios, patio roofing and more from Brisbane to the Gold Coast and
-      Sunshine Coast. Giving you the option to have a deck or patio roof now and
-      pay this off over time with no interest ever.
-    title: Certegy Ezi Pay For Decks
+      Deking offer Deck Finance options through HSBC for Decks, patios, patio
+      roofing and more from Brisbane to the Gold Coast and Sunshine Coast.
+      Giving you the option to have a deck or patio roof now and pay this off
+      over time with no interest.
+    title: HSBC Finance for For Decks & Patios
   - content: >-
       We look forward to creating a wonderful outdoor extension to your home and
       a space your family will really love.
@@ -61,9 +61,9 @@ faq:
       online account. There are NO additional fees for closing your account or
       paying out early.
     title: Can I close my account and are there any charges?
-learnMore: Certegy Ezi Pay For Decks
-learnMoreImage: /images/uploads/certegy.png
-learnMoreLink: 'http://certegyzipay.com.au/'
+learnMore: HSBC Finance for For Decks & Patios
+learnMoreImage: /images/uploads/hsbc-logo.jpg
+learnMoreLink: 'https://www.hsbc.com.au/credit-cards/products/classic/retailer-sign-up/'
 meta:
   canonicalLink: ''
   description: >-
