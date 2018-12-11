@@ -1,10 +1,12 @@
 ---
 template: SingleProject
-title: Red Hill
+title: Red Hill Decking with an insulated Patio Roof
 status: Published
 date: '2018-03-27'
 featuredImage: /images/uploads/9.jpg
-excerpt: 'Re-build of an existing deck with new, including a Patio Roof and stairs'
+excerpt: >-
+  Re-build of an existing deck with new, including a Patio Roof, external
+  stairs, handrail, lighting, and oiling treatment
 gallery:
   - image: /images/uploads/11.jpg
   - image: /images/uploads/10.jpg
@@ -30,3 +32,4 @@ meta:
   noindex: false
   title: ''
 ---
+
