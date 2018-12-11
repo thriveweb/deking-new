@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: Manly West
-status: Published
+status: Featured
 date: '2018-03-27'
 featuredImage: /images/uploads/deck-1-2.jpg
 excerpt: >-
