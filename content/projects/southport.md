@@ -1,11 +1,13 @@
 ---
 template: SingleProject
-title: Southport
+title: Gold Coast Commercial Decking
 status: Published
 date: '2018-09-05'
 featuredImage: >-
   /images/uploads/commercial-timber-deck-southport-gold-coast-deking-decks-queensland-deck-builders.jpg
-excerpt: Cafe deck to increase seating capacity for this business
+excerpt: >-
+  Cafe deck to increase seating capacity for this business, including a child
+  safe handrail.
 gallery:
   - image: >-
       /images/uploads/commercial-timber-deck-southport-gold-coast-deking-decks-queensland-deck-builders.jpg
@@ -17,3 +19,4 @@ categories:
   - category: Timber Decks
   - category: 'Commercial '
 ---
+
