@@ -85,7 +85,7 @@ servicePods:
     podImage: /images/uploads/img_8629.jpg
     podLink: ''
     podsTitle: Replacing old Patios
-videoTitle: Video example title here
+videoTitle: Stratco advertising that we built!
 videoURL: /images/uploads/video.mp4
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
