@@ -28,10 +28,10 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/bracken-ridge-3-.jpg
 accordion: []
 servicePriceTitle: Price guide
-QuoteTitle: Get an instant online estimate on your custom pool decking
+QuoteTitle: Get an instant online estimate for your custom deck
 servicePriceDescription:
-  - materials: Standard Decking wood
-    max: '$20,000'
+  - materials: Treated pine frame with hardwood decking
+    max: '$9,000'
     min: '$7,500'
     size: 6 metres by 4 metres
 servicePods:
