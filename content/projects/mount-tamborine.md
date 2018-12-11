@@ -1,10 +1,12 @@
 ---
 template: SingleProject
-title: Mount Tamborine
+title: Gold Coast Pool Decking & Flyover Patio Roof
 status: Published
 date: '2018-10-14'
 featuredImage: /images/uploads/pool_decking.jpg
-excerpt: Upper and lower pool deck with flyover insulated patio roof
+excerpt: >-
+  Upper and lower pool deck and flyover insulated patio roof with glass fencing
+  and external staps
 gallery:
   - image: /images/uploads/pool_decking.jpg
   - image: /images/uploads/alfresco_decking.jpg
