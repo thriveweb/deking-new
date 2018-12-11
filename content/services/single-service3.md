@@ -71,7 +71,7 @@ servicePriceDescription:
     size: 6 metres by 4 metres
 servicePods: []
 videoTitle: Video example title here
-videoURL: /images/uploads/video.mp4
+videoURL: ''
 bannerTitle: ''
 bannerDescription: ''
 bannerImage: ''
