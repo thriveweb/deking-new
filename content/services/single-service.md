@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Timber decks
-status: Published
+status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/bracken-ridge-3-.jpg
 excerpt: 'Value, quality, longevity, and style.'
@@ -26,9 +26,6 @@ welcomeDescription: >-
   your pool from scratch, or replace an old deck with a brand new timber pool
   deck.
 welcomeImage: /images/uploads/bracken-ridge-3-.jpg
-bannerTitle: Easter Special Free Egg Chair
-bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
-bannerImage: /images/uploads/12.jpg
 accordion: []
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom pool decking
@@ -129,6 +126,9 @@ servicePods:
     podsTitle: Who we are
 videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
+bannerTitle: Easter Special Free Egg Chair
+bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
+bannerImage: /images/uploads/12.jpg
 bannerButton:
   label: Contact Us
   link: Contact
