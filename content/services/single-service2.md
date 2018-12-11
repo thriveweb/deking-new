@@ -15,66 +15,33 @@ welcomeDescription: >-
   training, watching the footy, or bird-watching are all great activities that
   you can do from a patio. Along with entertaining your family and friends.
 welcomeImage: /images/uploads/gable-clearspan-04.jpg
-welcomeButton:
-  label: Contact us
-  link: Contact
-bannerTitle: Easter Special Free Egg Chair
-bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
-bannerImage: /images/uploads/banner-background.jpg
 accordion:
   - description: >-
       A timber pergola is the perfect compliment to any Queensland house. With
       our endless sunny days and warm weather, a timber pergola allows you to
       take full advantage of your outdoor space and increase your entertaining
-      options.  At DeKing Decks, we specialise in timber pergolas, with a range
+      options.   At DeKing Decks, we specialise in timber pergolas, with a range
       of designs and styles to choose from. We’ve been building stunning patios
       in Brisbane, the Gold Coast, and the Sunshine Coast for the past 15
-      years.  DeKing Decks – the trusted timber patio business after working for
-      years in the housing sector, David decided to start his own business that
-      specialised in timber patios for Brisbane, Gold Coast and the Sunshine
-      Coast.  DeKing Decks has grown into a trusted and respected local business
-      with a knack for customer satisfaction.  How much does a timber patio
-      cost? You can build a beautiful timber patio for your house at a very
-      reasonable price. The exact cost of a timber patio will vary depending on
-      your needs and specifications. You can use the DeKing Decks decking
-      calculator to get a quote for your timber patio. Or contact us if you’d
-      like to talk to someone about your options.  Decking Material while the
-      type of decking material depends on the specific patio design, our most
-      popular options are Merbau and Kwila. For those looking to save money,
-      treated pine or cypress pine can create beautiful patios as well. Other
-      materials can also be used to create the foundation of your patio design,
-      and our selection of patio roofing materials will ensure a smooth and
-      comfortable transition from your current home to the patio.  Timber patio
-      builders Brisbane. Timber size after selecting the main construction
-      materials, our customers enjoy an array of size options. From 90mm wide
-      boards to extra-wide 140mm decking, we offer the perfect product to meet
-      your needs. All of our decking options are low maintenance and built to
-      last for many years.  Whether you need a deck or patio to be built over an
-      existing structure or want to add a patio as new construction, DeKing
-      Decks is the best choice. Our professional staff ensure an excellent
-      experience and works to expedite the construction and design process. Give
-      us a call or email and enjoy the great outdoors.  Decking Quote Calculator
-      DeKing allows potential customers  to see if they can make their dreams
-      come true with their decking calculator. The program provides an accurate
-      idea of how much a customer’s dream deck will cost in a matter of seconds.
-      The calculator is very easy to use and fun for the user. This service
-      serves as an estimate only as variations in material, shape and site
-      location can all have an impact on the final cost.  10 Step Process DeKing
-      helps customers achieve the perfect patio through a simple 10 step
-      process. The first step involves making contact and getting a no
-      obligation price quotation from the staff at DeKing. After that, you can
-      communicate with a professional about your needs and ideas. Before
-      approval, they discuss your material options with you to make sure that
-      you get the best value possible.  While preparing to build your patio or
-      deck, DeKing handles all of the architectural plans, insurances, licenses
-      and municipal approvals. They guarantee that they will leave you with a
-      safe patio and a clean property. They also provides regular updates
-      concerning the progress of your patio throughout the construction process.
-      After the deck is completed, you will be able to perform a final
-      inspection with one of DeKing’s professionals to make sure everything was
-      done properly. You will also get a written inspection report twelve months
-      after the completion of construction. Any concerns will be addressed at no
-      charge.
+      years.   How much does a timber patio cost? You can build a beautiful
+      timber pergola for your house at a very reasonable price. The exact cost
+      of a timber pergola will vary depending on your needs and specifications. 
+      You can use the DeKing Decks decking calculator to get a quote for your
+      timber pergola. Or contact us if you’d like to talk to someone about your
+      options.   Materials: while the type of materials depends on the specific
+      pergola design, our most popular options are Merbau and Kwila. For those
+      looking to save money, treated pine or cypress pine can create beautiful
+      structures as well. Other materials can also be used to create the
+      foundation of your patio design, and our selection of patio roofing
+      materials will ensure a smooth and comfortable transition from your
+      current home to the patio.   There is a wide range of timber sizes to
+      select from including the standard 90mm post to extra-wide 140mm and even
+      as big as 190mm for a very chunky and solid feel.   All of our pergola
+      options are low maintenance and built to last for many years. Whether you
+      need a pergola or patio to be built over an existing deck or want to add a
+      patio as new construction, DeKing Decks is the best choice. Our
+      professional staff ensures an excellent experience and works to expedite
+      the construction and design process. 
     title: Timber Pergola
   - description: >-
       There is a huge range available including the popular flyover, fascia
@@ -118,32 +85,11 @@ servicePods:
     podImage: /images/uploads/img_8629.jpg
     podLink: ''
     podsTitle: Replacing old Patios
-  - podDescription: >-
-      The Deking Decks company was established in 2003 by director David Rider.
-      Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has
-      grown from strength to strength and prides itself on building strong and
-      ongoing client relationships. 15 years down the track, bursting with
-      experience and a new larger factory and office at Ormeau, our team
-      includes 3 passionate design consultants, licensed trade professionals,
-      our apprentice and Shelley our awesome, “only too happy to help“, client
-      service co-ordinator.
-    podImage: /images/uploads/flat-outback-04.jpg
-    podLink: /images/uploads/banner-background.jpg
-    podsTitle: Commercial pool decking
-  - podDescription: >-
-      The Deking Decks company was established in 2003 by director David Rider.
-      Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has
-      grown from strength to strength and prides itself on building strong and
-      ongoing client relationships. 15 years down the track, bursting with
-      experience and a new larger factory and office at Ormeau, our team
-      includes 3 passionate design consultants, licensed trade professionals,
-      our apprentice and Shelley our awesome, “only too happy to help“, client
-      service co-ordinator.
-    podImage: /images/uploads/gold-coast-pool-house-1024x640.jpg
-    podLink: /images/uploads/banner-background.jpg
-    podsTitle: Who we are
 videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
+bannerTitle: Easter Special Free Egg Chair
+bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
+bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Contact Us
   link: Contact
