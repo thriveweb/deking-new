@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Burleigh Heads
+title: Burleigh Heads Pool decking
 status: Featured
 date: '2018-02-27'
 featuredImage: /images/uploads/dsc_0017.jpg
