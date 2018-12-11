@@ -1,12 +1,12 @@
 ---
 template: SingleProject
-title: Manly West
+title: Manly West Deck & Cooldek Patio
 status: Featured
 date: '2018-03-27'
 featuredImage: /images/uploads/deck-1-2.jpg
 excerpt: >-
   Brisbane's landscape is perfectly suited to a combination of a deck and patio
-  roof with external stairs for access
+  roof with external stairs for access. 
 gallery:
   - image: /images/uploads/deck-1-2.jpg
   - image: /images/uploads/deck-5-2.jpg
