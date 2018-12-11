@@ -47,13 +47,19 @@ accordion:
       huge difference to the atmosphere of your pool.
     title: What are some important things to consider when it comes to pool decking?
   - description: >-
-      My old deck did not last very long is it worth getting a timber deck again
-      or should I consider something else?  There are many factors that
-      contribute to the life of your deck from the type of timber and nails to
-      the deck design and ongoing care. DeKing is more then happy to discuss
-      your specific situation to see if a timber deck is the best solution for
-      you and your family.
-    title: Replacing old decks
+      Yes, you can build a deck around above ground and in ground pools. Pool
+      decking provides a great place to relax for your family, friends and
+      guests. Pool decking can be constructed to extend over the edge of the
+      pool for a totally seamless look and feel or finish flush with your pool
+      coping edge.
+    title: Can I build a deck around an above ground pool?
+  - description: >-
+      We can build pool decking on all kinds of blocks including those with
+      unusual elevations/slopes and interesting pool designs. By incorporating
+      different deck levels you can create a unique and beautiful entertaining
+      space. The design of your pool deck can make a huge difference to the
+      atmosphere of your pool.
+    title: Pool decking for Sloping blocks or unusual pool designs
   - description: ' DeKing also creates decking for hotel pools and other commercial swimming pools.'
     title: Commercial Pool Decking
 servicePriceTitle: Price guide
