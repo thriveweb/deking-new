@@ -6,6 +6,9 @@ subtitle: All our Decks and Patios are backed by genuine guarantees
 featuredImage: /images/uploads/bracken-ridge-3-.jpg
 guarantees:
   content: >-
+    ![](/images/uploads/25-year-warranty-shutterstock.jpg)
+
+
     Since 2003, Deking Decks has been building quality timber decks. We have
     worked hard to maintain our commitment to design, construction, quality and
     customer service. The 25 Year Structural Guarantee is specific to the
