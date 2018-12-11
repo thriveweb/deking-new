@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Kenmore
+title: Brisbane Pool Deck & Patio Roof
 status: Published
 date: '2018-09-05'
 featuredImage: /images/uploads/image-2.jpg
@@ -23,3 +23,4 @@ categories:
   - category: Pool Decking
   - category: Outdoor Rooms
 ---
+
