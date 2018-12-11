@@ -62,7 +62,7 @@ servicePriceDescription:
     min: '$35,000.00'
     size: 100 square metres
 videoTitle: ''
-videoURL: /images/uploads/video.mp4
+videoURL: ''
 bannerTitle: ''
 bannerDescription: ''
 bannerImage: ''
