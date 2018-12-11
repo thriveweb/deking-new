@@ -116,9 +116,9 @@ teamMembers:
     profileImage2: /images/uploads/fullsizeoutput_1ec9.jpeg
   - bio: >-
       Antony is a qualified carpenter with years of experience in metal
-      construction which makes him ideal for our patio department
+      construction which makes him a much valued asset for our patio department
     name: Antony
-    occupation: Carpenter
+    occupation: Patio Roof Installer
     profileImage: /images/uploads/img_8922.jpg
     profileImage2: /images/uploads/img_4347.jpg
   - bio: >-
