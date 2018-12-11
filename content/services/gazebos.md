@@ -4,7 +4,7 @@ title: Gazebos
 status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/price-back.png
-excerpt: 'DeKing is proud to build high quality gazebos '
+excerpt: DeKing is proud to build high quality gazebos and outdoor rooms
 welcomeTitle: Gazebos
 welcomeDescription: >-
   We strive to offer the best service possible and use only the top quality
