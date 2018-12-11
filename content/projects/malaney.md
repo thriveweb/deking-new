@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Malaney
+title: Sunshine Coast Deck and Patio Roof
 status: Published
 date: '2018-10-05'
 featuredImage: /images/uploads/fullsizeoutput_1f16.jpeg
