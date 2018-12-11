@@ -1,10 +1,12 @@
 ---
 template: SingleProject
-title: Sunshine Coast
+title: Sunshine Coast Pool Deck & Gazebo
 status: Published
 date: '2018-09-05'
 featuredImage: /images/uploads/image-7.jpg
-excerpt: Pool decking and pool compliant fencing with a Pergola shelter
+excerpt: >-
+  Pool decking and pool compliant fencing with a Pergola shelter, finished with
+  an acrylic decking oil
 gallery:
   - image: /images/uploads/image-7.jpg
   - image: /images/uploads/coroy2.jpg
