@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Commercial Decking
-status: Featured
+status: Published
 date: '2018-09-04'
 featuredImage: /images/uploads/dsc_0484.jpg
 excerpt: >-
