@@ -4,7 +4,7 @@ title: ECO Decking
 status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/img_9614.jpg
-excerpt: A deck that takes nothing out of mother nature
+excerpt: A deck that takes nothing from mother nature
 welcomeTitle: ECO Decking Types And Services
 welcomeDescription: >-
   EKODEKING offers an array of excellent composite eco decking materials to meet
