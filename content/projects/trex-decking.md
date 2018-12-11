@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: TREX decking
+title: TREX decking at Kenmore
 status: Published
 date: '2018-10-05'
 featuredImage: /images/uploads/img_9612.jpg
