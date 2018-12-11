@@ -1,10 +1,12 @@
 ---
 template: SingleProject
-title: Show Home
+title: Brisbane Show Home Decks & Pergolas
 status: Published
 date: '2018-10-14'
 featuredImage: /images/uploads/show-home_claredon_entrance.jpg
-excerpt: Award winning homes with distinctive decking
+excerpt: >-
+  Award winning homes with distinctive decking, pergolas, privacy screens,
+  steps, and fencing
 gallery:
   - image: /images/uploads/show_home_claredon_gazebo.jpg
   - image: /images/uploads/show_home_claredon_deck_2.jpg
