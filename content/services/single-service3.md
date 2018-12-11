@@ -47,13 +47,6 @@ accordion:
       huge difference to the atmosphere of your pool.
     title: What are some important things to consider when it comes to pool decking?
   - description: >-
-      Yes, you can build a deck around above ground and in ground pools. Pool
-      decking provides a great place to relax for your family, friends and
-      guests. Pool decking can be constructed to extend over the edge of the
-      pool for a totally seamless look and feel or finish flush with your pool
-      coping edge.
-    title: Can I build a deck around an above ground pool?
-  - description: >-
       We can build pool decking on all kinds of blocks including those with
       unusual elevations/slopes and interesting pool designs. By incorporating
       different deck levels you can create a unique and beautiful entertaining
@@ -72,14 +65,18 @@ servicePriceDescription:
 servicePods: []
 videoTitle: Video example title here
 videoURL: ''
-bannerTitle: ''
-bannerDescription: ''
-bannerImage: ''
+bannerTitle: ' Can I build a deck around an above ground pool?'
+bannerDescription: >
+  Yes, you can build a deck around above ground and in ground pools. Pool
+  decking provides a great place to relax for your family, friends and guests.
+  Pool decking can be constructed to extend over the edge of the pool for a
+  totally seamless look and feel or finish flush with your pool coping edge. 
+bannerImage: /images/uploads/img_3130.jpg
 bannerButton:
   label: Contact Us
   link: Contact
 categories:
-  - category: Patio Roofs
+  - category: Pool Decking
 meta:
   canonicalLink: ''
   description: >-
