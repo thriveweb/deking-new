@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Bardon Timber Deck
+title: Decks Brisbane
 status: Published
 date: '2018-10-05'
 featuredImage: /images/uploads/ep29netysia1-ssxg4w3ma.jpg
