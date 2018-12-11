@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Northgate
+title: Northside low level Deck & Colorbond Roof
 status: Published
 date: '2018-03-27'
 featuredImage: /images/uploads/1.jpg
