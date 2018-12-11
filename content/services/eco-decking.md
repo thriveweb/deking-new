@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: ECO Decking
-status: Featured
+status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/img_9614.jpg
 excerpt: A deck that takes nothing out of mother nature
