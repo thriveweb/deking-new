@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Patio Roofs
-status: Published
+status: Featured
 date: '2018-02-20'
 featuredImage: /images/uploads/gable-clearspan-04.jpg
 excerpt: |
