@@ -3,7 +3,7 @@ template: SingleService
 title: Pool Decking
 status: Featured
 date: 2018-03-2
-featuredImage: /images/uploads/pool-decking-banner.png
+featuredImage: /images/uploads/dsc_0041.jpg
 excerpt: 'Relax, play, entertain, and enjoy life with family and friends.'
 welcomeTitle: New Decks for above and in ground pools
 welcomeDescription: >-
@@ -25,15 +25,27 @@ welcomeDescription: >-
   deck levels you can create a unique and beautiful entertaining space. The
   design of your pool deck can make a huge difference to the atmosphere of your
   pool.
-welcomeImage: /images/uploads/pool-decking-banner.png
-bannerTitle: ''
-bannerDescription: ''
-bannerImage: ''
+welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
   - description: >-
-      Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris.
-      Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
-    title: 'Quisque lectus est, lobortis ac efficitur vitae'
+      Timber Pool Decking looks great and can last a long time if you look after
+      it. For some people sanding and oiling their deck gives them great pride
+      and it is a relaxing way to spend a weekend. For others the thought may
+      put you off entirely. You can always get someone else to do it for you.
+      It’s also important to make sure you have waterproof, rust proof screws
+      and nails. The deck is going to get wet with the family splashing around.
+      It’s especially important if you have a salt water pool. Can I build a
+      deck around an above ground pool? Yes, you can build a deck around above
+      ground and in ground pools. Pool decking provides a great place to relax
+      for your family, friends and guests. Pool decking can be constructed to
+      extend over the edge of the pool for a totally seamless look and feel or
+      finish flush with your pool copping edge. Pool decking for Sloping blocks
+      or unusual pool designs We can build pool decking on all kinds of blocks
+      including those with unusual elevations/slopes and interesting pool
+      designs. By incorporating different deck levels you can create a unique
+      and beautiful entertaining space. The design of your pool deck can make a
+      huge difference to the atmosphere of your pool.
+    title: What are some important things to consider when it comes to pool decking?
   - description: >-
       My old deck did not last very long is it worth getting a timber deck again
       or should I consider something else?  There are many factors that
@@ -47,49 +59,16 @@ accordion:
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom pool decking
 servicePriceDescription:
-  - materials: Standard Decking wood
-    max: '$20,000'
+  - materials: Merbau hardwood decking with a treated pine frame
+    max: '$10,000'
     min: '$7,500'
     size: 6 metres by 4 metres
-servicePods:
-  - podDescription: >-
-      The Deking Decks company was established in 2003 by director David Rider.
-      Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has
-      grown from strength to strength and prides itself on building strong and
-      ongoing client relationships. 15 years down the track, bursting with
-      experience and a new larger factory and office at Ormeau, our team
-      includes 3 passionate design consultants, licensed trade professionals,
-      our apprentice and Shelley our awesome, “only too happy to help“, client
-      service co-ordinator.
-    podImage: /images/uploads/landscape-gazebo.jpg
-    podLink: /images/uploads/banner-background.jpg
-    podsTitle: Replacing old decks
-  - podDescription: >-
-      The Deking Decks company was established in 2003 by director David Rider.
-      Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has
-      grown from strength to strength and prides itself on building strong and
-      ongoing client relationships. 15 years down the track, bursting with
-      experience and a new larger factory and office at Ormeau, our team
-      includes 3 passionate design consultants, licensed trade professionals,
-      our apprentice and Shelley our awesome, “only too happy to help“, client
-      service co-ordinator.
-    podImage: /images/uploads/caloundra-2-660x1024.jpg
-    podLink: ''
-    podsTitle: Commercial pool decking
-  - podDescription: >-
-      The Deking Decks company was established in 2003 by director David Rider.
-      Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has
-      grown from strength to strength and prides itself on building strong and
-      ongoing client relationships. 15 years down the track, bursting with
-      experience and a new larger factory and office at Ormeau, our team
-      includes 3 passionate design consultants, licensed trade professionals,
-      our apprentice and Shelley our awesome, “only too happy to help“, client
-      service co-ordinator.
-    podImage: /images/uploads/caloundra-2-660x1024.jpg
-    podLink: ''
-    podsTitle: Who we are
+servicePods: []
 videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
+bannerTitle: ''
+bannerDescription: ''
+bannerImage: ''
 bannerButton:
   label: Contact Us
   link: Contact
