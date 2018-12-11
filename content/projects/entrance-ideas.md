@@ -1,7 +1,7 @@
 ---
 template: SingleProject
 title: Entrance ideas
-status: Published
+status: Featured
 date: '2018-10-05'
 featuredImage: /images/uploads/img_0451.jpg
 excerpt: Need inspiration for your homes entrance?
