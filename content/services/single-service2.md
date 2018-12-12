@@ -46,7 +46,7 @@ accordion:
   - description: >-
       There is a huge range available including the popular flyover, fascia
       attached flat style, Gable, Curved, or a combination these.
-    title: 'Metal Patio '
+    title: Patio Roof (Metal)
   - description: >-
       The popular new look in patio roofs is the insulated flyover roof. A
       flyover roof gives you extra headroom, a sense of open space, and the
