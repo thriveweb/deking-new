@@ -87,6 +87,8 @@ partnerLogos:
     logo: /images/uploads/stratco-outback.png
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
+  - link: 'https://au.trex.com/'
+    logo: /images/uploads/trex.png
 meta:
   canonicalLink: ''
   description: >-
