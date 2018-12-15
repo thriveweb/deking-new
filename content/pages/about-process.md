@@ -7,7 +7,7 @@ subtitle: >-
   contact to completion in 6 simple steps.
 featuredImage: /images/uploads/ultimate-app-guide-for-carpenter-infographic.jpg
 processes:
-  - buttonText: Download Pdf
+  - buttonText: ''
     content: >-
       Call or email us to arrange a convenient time for an in home design
       consultation on a professionally built deck, patio roof or carport.  Our
@@ -22,7 +22,7 @@ processes:
 
       [Our online calculator can also assist you with a quick estimate of your
       likely project cost ](https://dekingdecks.thrivex.xyz/quote-calculator/)
-    link: /images/uploads/pdf-sample.pdf
+    link: ''
     title: Get in Touch
   - buttonText: ''
     content: >-
@@ -53,21 +53,15 @@ processes:
       prepared ready for your approval.
 
 
-
-
       After your approval, a Master Builders contract is prepared for signing,
       along with a 5-10% deposit invoice. Payments are made via Bank transfer or
       credit card. Financing options are also available at this link…(link)
 
 
-
-
-      With over 15 years’ experience, Deking project management make it simple.
+      With over 15 years’ experience, Deking project management makes it simple.
       We take care of your project including necessary documents, and drafted
       plans, as well as Council lodgements/permits and Queensland Building and
       construction commission (QBCC) insurances.
-
-
 
 
       Your payments are scheduled into stages.
