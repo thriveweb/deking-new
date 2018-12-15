@@ -48,6 +48,9 @@ qualificationsLogos:
     logo: /images/uploads/stratco-outback.png
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
+  - logo: /images/uploads/deking_seal_deckcheck.jpg
+  - logo: /images/uploads/deking_seal_tidyman.jpg
+  - logo: /images/uploads/25-year-warranty-shutterstock.jpg
 meta:
   canonicalLink: ''
   description: >-
