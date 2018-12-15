@@ -40,7 +40,7 @@ bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Enquire
   link: Contact
-qualificationsTitle: Our Trusted Partners
+qualificationsTitle: Our Guarantees & Industry Partners
 qualificationsLogos:
   - link: about
     logo: /images/uploads/qualifications1.png
