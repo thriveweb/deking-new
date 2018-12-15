@@ -58,7 +58,8 @@ videoTitle: ' '
 bannerTitle: ''
 bannerDescription: ''
 bannerButton:
-  label: r
+  label: Enquire
+  link: contact
 categories: []
 ---
 
