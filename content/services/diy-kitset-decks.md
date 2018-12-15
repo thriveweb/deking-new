@@ -3,7 +3,7 @@ template: SingleService
 title: DIY Kitset Decks
 status: Published
 date: '2018-10-06'
-featuredImage: /images/uploads/white-ant-repair.jpg
+featuredImage: /images/uploads/diy-kitset-deck.png
 excerpt: Need a little help from the experts to build your own deck?
 welcomeTitle: The Australian "Give it a go" attitude
 welcomeDescription: >-
@@ -19,7 +19,7 @@ welcomeDescription: >-
   deck built, contact us—we’re the experts in building timber decks and can
   custom design a deck to perfectly suit your needs. If you have any questions
   about our products or services, please call us on 1800 335 464.
-welcomeImage: /images/uploads/white-ant-repair.jpg
+welcomeImage: /images/uploads/diy-kitset-deck.png
 accordion: []
 servicePriceTitle: Price Guide
 QuoteTitle: '6m x 4m '
