@@ -1,0 +1,64 @@
+---
+template: SingleService
+title: 'Deck Accessories '
+status: Published
+date: '2018-12-16'
+featuredImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
+excerpt: We are the Number 1 stop shop when it comes to a complete outdoor makeover
+welcomeTitle: Deck add ons & Accessories
+welcomeDescription: "We dont just stop at building you a deck or patio roof, there is a full catalogue of add ons and accessories that are also available.  •\tBench seating •\tPrivacy screens •\tGlass pool fencing and balustrades •\tAluminium fencing •\tLighting (Low voltage LEDs) •\tBlinds •\tBuilt in planter boxes"
+welcomeImage: /images/uploads/yhwd2jfuqzg0yc2hb8sdog.jpg
+accordion:
+  - description: >-
+      The addition of bench seating maximizes your deck space and with the
+      option of opening lids, you can hide all the kids toys or pool equipment.
+      Seating is typically made of the same materials as the deck to make it
+      blend in. Lids have hidden handles for ease of lifting and to not obstruct
+      the seating position
+    title: Outdoor Bench Seating
+  - description: >-
+      Privacy screens are a way to give you and your neighbour the ability to
+      relax and entertain on your deck without prying eyes, or maybe its just to
+      hide a bad view. Privacy screens are generally made of the matching
+      decking timbers ie Merbau hardwood, or powdercoated aluminum. The best
+      part of aluminium screens are that you never have to maintain them, apart
+      from an annual hose off if they become dusty. You have the option of
+      positioning the slat horizontally or vertically depending on your taste
+      and circumstances  
+    title: Privacy screens
+  - description: >-
+      Glass pool fencing offers an unrestricted view of your area while
+      maintaining a safe zone
+    title: Glass Pool Fencing & Balustrade
+  - description: >-
+      Aluminium is a cost effective and maintenance free option to secure your
+      area
+    title: Aluminium Fencing
+  - description: >-
+      Low voltage LEDs are a great way to add ambience and lighting to a dark
+      space
+    title: Lighting
+  - description: >-
+      Roll down blinds are great at hiding the afternoon westerly sun or that
+      pesky neighbour
+    title: Outdoor Blinds
+  - description: >-
+      Planter boxes built at the edge of a deck provide safety from falling and
+      when filled with herbs add aroma to your outdoor area
+    title: Built in Planter Boxes
+servicePriceTitle: Privacy Screen
+QuoteTitle: 4.0m Long x 1.8m High Screen
+servicePriceDescription:
+  - materials: Powdercoated Aluminium
+    max: $2200.00
+    min: $1800.00
+    size: 4.0m long x 1.8m high
+servicePods: []
+videoTitle: ' '
+bannerTitle: ''
+bannerDescription: ''
+bannerButton:
+  label: r
+categories: []
+---
+
