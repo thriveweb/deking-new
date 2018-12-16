@@ -71,6 +71,37 @@ servicePriceDescription:
     size: 6 metres by 4 metres
 servicePods:
   - podDescription: >-
+      The flyover or raised patio roof is by far the most popular patio roof
+      being built today.
+
+
+      With the advantage of the extra ceiling height which matches the height
+      inside your home along with the added benefit of cross ventilation and a
+      reduction in heat transfer to the space below.
+
+
+      There are 2 methods of creating the lift above the house roof, with both
+      systems fully engineered to meet Australian standards and cyclonic
+      conditions
+
+
+      1. Extenda brackets or SHS posts. These protrude through the roof surface
+      and are attached to the house framework. Rubber dektite flashings are then
+      installed for a 100% water seal 
+
+
+      ![Roof extenda bracket](/images/uploads/gal-re.jpg)
+
+
+      1. Fascia riser bracket. This method does not penetrate the roof surface
+      but is instead fixed to the side of the house roof rafter and protrudes
+      through the fascia, just under the gutter 
+
+
+      ![Fascia riser bracket](/images/uploads/fascia-riser-bracket.png)
+    podImage: /images/uploads/insulated-patio-on-extenda-brackets.jpg
+    podsTitle: Flyover or Raised Patio Roof
+  - podDescription: >-
       Timber patios are a way of life in Queensland. You may remember the famous
       GANGgajang song, Sounds Of Then, that captured the essence of life on a
       patio so perfectly. As the song goes, ‘Out on the patio we sit / and the
