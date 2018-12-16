@@ -61,7 +61,7 @@ faq:
 processes:
   - title: ''
   - content: ''
-  - link: ''
+  - link: /images/logo.svg
   - buttonText: ''
 teamMembers:
   - name: ''
