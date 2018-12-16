@@ -95,10 +95,7 @@ servicePods:
 
       1. Fascia riser bracket. This method does not penetrate the roof surface
       but is instead fixed to the side of the house roof rafter and protrudes
-      through the fascia, just under the gutter 
-
-
-      ![Fascia riser bracket](/images/uploads/fascia-riser-bracket.png)
+      through the fascia, just under the gutter
     podImage: /images/uploads/insulated-patio-on-extenda-brackets.jpg
     podsTitle: Flyover or Raised Patio Roof
   - podDescription: >-
