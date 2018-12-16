@@ -61,8 +61,7 @@ faq:
 processes:
   - title: ''
   - content: ''
-  - ? link
-    publicURL: ''
+  - link: ''
   - buttonText: ''
 teamMembers:
   - name: ''
@@ -97,9 +96,6 @@ bannerImage: /images/logo.svg
 teamImage: /images/logo.svg
 featuredImage: /images/logo.svg
 image: /images/logo.svg
-bannerButton:
-  - label
-  - link
 
 meta:
   canonicalLink: ''
