@@ -22,5 +22,6 @@ accordion:
 categories:
   - category: Pool Decking
   - category: Outdoor Rooms
+  - category: Patio Roofs
 ---
 
