@@ -20,14 +20,40 @@ welcomeDescription: >-
   custom design a deck to perfectly suit your needs. If you have any questions
   about our products or services, please call us on 1800 335 464.
 welcomeImage: /images/uploads/diy-kitset-deck.png
-accordion: []
+accordion:
+  - description: >-
+      DeKing Decks are experts at designing and building timber decks from
+      Brisbane to the Gold Coast to suit your needs. However, if you’re after a
+      more simple deck, our DIY Deck (5m x 4m) may be the perfect solution for
+      you. It’s a quality product that is very reasonably priced and gives the
+      luxury of a deck without a major renovation.  Read the ‘Product
+      Description’ below to see a list of things included in the kit. All kits
+      come with necessary materials as well as an instructional DVD to help you
+      put together the deck properly. Make sure you have all the necessary tools
+      to build it.  For product enquires please contact us.  See the price of
+      our DIY Deck.  Category: DIY Decking Kits
+    title: 5m x 4m DIY Deck
+  - description: >-
+      DeKing Decks can design and build the perfect timber deck to suit your
+      needs. We’ve been servicing South East Queensland for many years. But if
+      you’re on a tight budget and want a deck built quickly, our Deck In A Day
+      (3m x 1.5m) might be a great option for you. It’s a high-quality product
+      that’s very affordable. It allows you to extend an area of your house and
+      get the benefits of a deck without needing a major renovation.  Read the
+      ‘Product Description’ below to see a list of things included in the kit.
+      All our kits come with the necessary materials and an instructional DVD to
+      assist you when building the deck. Obviously, it’s important that you have
+      all the necessary tools and skills to build it.  For product enquires
+      please contact us.  See the price of our Deck In A Day.  Category: DIY
+      Decking Kits
+    title: Deck in a Day
 servicePriceTitle: Price Guide
-QuoteTitle: '6m x 4m '
+QuoteTitle: '5m x 4m '
 servicePriceDescription:
   - materials: Treated Pine Frame. Hardwood decking
-    max: $4000.00
-    min: $3500.00
-    size: 6m x 4m
+    max: $3800.00
+    min: $3200.00
+    size: 5m x 4m
 videoTitle: ' '
 bannerTitle: DIY decking kits and kitset decks
 bannerDescription: >-
