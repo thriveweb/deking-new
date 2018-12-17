@@ -128,7 +128,7 @@ videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
-bannerImage: /images/uploads/12.jpg
+bannerImage: /images/uploads/egg-chair.png
 bannerButton:
   label: Contact Us
   link: Contact
