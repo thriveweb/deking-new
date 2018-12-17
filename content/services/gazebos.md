@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: Gazebos
+title: Gazebos & Outdoor Rooms
 status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/price-back.png
