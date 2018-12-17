@@ -21,7 +21,6 @@ accordion:
     title: Price guide
 categories:
   - category: Pool Decking
-  - category: Outdoor Rooms
-  - category: Patio Roofs
+  - category: Gazebos & Outdoor Rooms
 ---
 
