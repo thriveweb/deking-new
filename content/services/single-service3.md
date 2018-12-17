@@ -4,7 +4,9 @@ title: Pool Decking
 status: Featured
 date: 2018-03-2
 featuredImage: /images/uploads/dsc_0041.jpg
-excerpt: 'Relax, play, entertain, and enjoy life with family and friends.'
+excerpt: >-
+  Relax, play, entertain, and enjoy life with family and friends on a quality
+  built deck
 welcomeTitle: New Decks for above and in ground pools
 welcomeDescription: >-
   What are some important things to consider when it comes to pool decking?
