@@ -47,7 +47,7 @@ accordion:
       when filled with herbs add aroma to your outdoor area
     title: Built in Planter Boxes
 servicePriceTitle: Privacy Screen
-QuoteTitle: 4.0m Long x 1.8m High Screen
+QuoteTitle: Call for a more detailed quote
 servicePriceDescription:
   - materials: Powdercoated Aluminium
     max: $2200.00
