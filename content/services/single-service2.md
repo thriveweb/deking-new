@@ -89,11 +89,7 @@ servicePods:
       and are attached to the house framework. Rubber dektite flashings are then
       installed for a 100% water seal 
 
-
-      ![Roof extenda bracket](/images/uploads/gal-re.jpg)
-
-
-      1. Fascia riser bracket. This method does not penetrate the roof surface
+      2. Fascia riser bracket. This method does not penetrate the roof surface
       but is instead fixed to the side of the house roof rafter and protrudes
       through the fascia, just under the gutter
     podImage: ''
