@@ -13,7 +13,7 @@ guarantees:
     agree into the maintenance plan.
 
 
-    1. **All our decks come with a 25 year warranty!**
+    1. **All our decks come with a 25 year warranty!***
 
     2. **Patios roofs come with a 15 year structural warranty backed by
     Stratco**
@@ -30,7 +30,7 @@ guarantees:
     During the construction process we keep your property clean and tidy to
     ensure you, your family, and the Deking team are kept safe. On completion we
     remove all our building waste and leave your property tidy
-  title: 25 Year Structural Warranty
+  title: 25 Year Structural Warranty*
 bannerTitle: Guarantees
 bannerDescription: Our Guarantee's to give you piece of mind
 bannerImage: /images/uploads/1.jpg
