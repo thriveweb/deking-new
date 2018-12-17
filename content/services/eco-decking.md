@@ -56,7 +56,7 @@ servicePods:
       sourced from sustainable forests and woodlands. Get the benefits of real
       timber without harming the environment with responsibly sourced timber
       materials.
-    podImage: /images/uploads/pros-and-cons-of-eco-friendly-decking.jpg
+    podImage: /images/uploads/modwood-detail.jpg
     podsTitle: Responsible Timber
   - podDescription: >-
       At EKODEKING, we strive to go above and beyond in our commitment to eco
