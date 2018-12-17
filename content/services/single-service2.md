@@ -7,7 +7,7 @@ featuredImage: /images/uploads/gable-clearspan-04.jpg
 excerpt: >-
   Get outside - no matter what the weather!
 
-  Patio roofs create a additional space for playing, eating, reading, storing,
+  Patio roofs create an additional space for playing, eating, reading, storing,
   entertaining, footing watching.
 welcomeTitle: >-
   DeKing don't just build decks, we are also Patio Builders & Patio Roofing
