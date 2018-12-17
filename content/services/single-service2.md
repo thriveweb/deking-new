@@ -25,7 +25,13 @@ accordion:
       suit all applications. The Outback flat roof is cost effective and will
       provide a low maintenance roof for your additional space needs
     title: Flat or Skillion
-  - description: ''
+  - description: >-
+      The Cooldek roofing sheets come in 2 roofing profiles: Classic (Trim deck)
+      and Corrugated with a total of 8 colours to choose from to match your
+      home. 3 thicknesses of 50mm, 75mm, and 100mm allow for spans from 5100mm
+      to 7200mm without the need for additional beams. The ceiling is available
+      in 3 profiles: Smooth, V-Line, and Silkline with 3 colours of Off White,
+      Alpine White, and Classic Cream 
     title: Cooldek Insulated Roofing
   - description: >-
       The popular new look in patio roofs is the insulated flyover roof. A
