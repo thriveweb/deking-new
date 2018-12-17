@@ -42,6 +42,10 @@ accordion:
       Roofing options also include corrugated, to match your house roof, or the
       classic style for a minimal pitch design.
     title: Flyover or raised Patio roof
+  - description: >-
+      Call us for your patio requirements and we will send you all the bits and
+      pieces necessary for you to build your own patio 
+    title: Kitset Patios for the DIYers
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom patio design
 servicePriceDescription:
