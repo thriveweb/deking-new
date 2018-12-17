@@ -40,16 +40,14 @@ bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Enquire
   link: Contact
-qualificationsTitle: Our Guarantees & Industry Partners
+qualificationsTitle: Our Guarantees
 qualificationsLogos:
-  - link: about
-    logo: /images/uploads/qualifications1.png
-  - link: about
-    logo: /images/uploads/stratco-outback.png
-  - link: about
-    logo: /images/uploads/qbcc-logo.jpg
-  - logo: /images/uploads/deking_seal_deckcheck.jpg
-  - logo: /images/uploads/deking_seal_tidyman.jpg
+  - link: guarantees
+    logo: /images/uploads/patios-stratco-outback-warranty-1.png
+  - link: guarantees
+    logo: /images/uploads/deking_seal_deckcheck.jpg
+  - link: guarantees
+    logo: /images/uploads/deking_seal_tidyman.jpg
   - logo: /images/uploads/25-year-warranty-shutterstock.jpg
 meta:
   canonicalLink: ''
