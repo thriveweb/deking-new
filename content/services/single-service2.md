@@ -96,7 +96,7 @@ servicePods:
       1. Fascia riser bracket. This method does not penetrate the roof surface
       but is instead fixed to the side of the house roof rafter and protrudes
       through the fascia, just under the gutter
-    podImage: /images/uploads/insulated-patio-on-extenda-brackets.jpg
+    podImage: ''
     podsTitle: Flyover or Raised Patio Roof
   - podDescription: >-
       Timber patios are a way of life in Queensland. You may remember the famous
