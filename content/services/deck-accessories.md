@@ -53,7 +53,23 @@ servicePriceDescription:
     max: $2200.00
     min: $1800.00
     size: 4.0m long x 1.8m high
-servicePods: []
+servicePods:
+  - podDescription: >-
+      Glass pool fencing offers an unrestricted view of your area while
+      maintaining a safe zone 
+
+
+      Stainless steel spigots are either core drilled into the concrete floor or
+      surface attached to the deck surface. 12mm toughened glass which exceeds
+      Australian standards and self closing gates to comply with pool safety
+      regulations
+
+
+      The glass can be pre primed with a special coating to make cleaning a
+      piece of cake.
+    podImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
+    podLink: ''
+    podsTitle: Glass fencing
 videoTitle: ' '
 bannerTitle: ''
 bannerDescription: ''
