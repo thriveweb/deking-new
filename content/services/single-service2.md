@@ -17,36 +17,13 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/gable-clearspan-04.jpg
 accordion:
   - description: >-
-      A timber pergola is the perfect compliment to any Queensland house. With
-      our endless sunny days and warm weather, a timber pergola allows you to
-      take full advantage of your outdoor space and increase your entertaining
-      options.   At DeKing Decks, we specialise in timber pergolas, with a range
-      of designs and styles to choose from. We’ve been building stunning patios
-      in Brisbane, the Gold Coast, and the Sunshine Coast for the past 15
-      years.   How much does a timber patio cost? You can build a beautiful
-      timber pergola for your house at a very reasonable price. The exact cost
-      of a timber pergola will vary depending on your needs and specifications. 
-      You can use the DeKing Decks decking calculator to get a quote for your
-      timber pergola. Or contact us if you’d like to talk to someone about your
-      options.   Materials: while the type of materials depends on the specific
-      pergola design, our most popular options are Merbau and Kwila. For those
-      looking to save money, treated pine or cypress pine can create beautiful
-      structures as well. Other materials can also be used to create the
-      foundation of your patio design, and our selection of patio roofing
-      materials will ensure a smooth and comfortable transition from your
-      current home to the patio.   There is a wide range of timber sizes to
-      select from including the standard 90mm post to extra-wide 140mm and even
-      as big as 190mm for a very chunky and solid feel.   All of our pergola
-      options are low maintenance and built to last for many years. Whether you
-      need a pergola or patio to be built over an existing deck or want to add a
-      patio as new construction, DeKing Decks is the best choice. Our
-      professional staff ensures an excellent experience and works to expedite
-      the construction and design process. 
-    title: Timber Pergola
-  - description: >-
-      There is a huge range available including the popular flyover, fascia
-      attached flat style, Gable, Curved, or a combination these.
-    title: Patio Roof (Metal)
+      The Stratco Outback patio roof is the classic patio roof, with its simple
+      yet strong design, and modern good looks will provide you with a cover to
+      suit all applications. The Outback flat roof is cost effective and will
+      provide a low maintenance roof for your additional space needs
+    title: Flat or Skillion
+  - description: ''
+    title: Cooldek Insulated Roofing
   - description: >-
       The popular new look in patio roofs is the insulated flyover roof. A
       flyover roof gives you extra headroom, a sense of open space, and the
