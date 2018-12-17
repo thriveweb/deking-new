@@ -98,5 +98,7 @@ bannerDescription: ''
 bannerButton:
   label: Contact Us
   link: Contact
+categories:
+  - category: Gazebos & Outdoor Rooms
 ---
 
