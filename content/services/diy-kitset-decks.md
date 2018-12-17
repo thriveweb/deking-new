@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: DIY Kitset Decks
+title: DIY Kitset Decks & Patios
 status: Published
 date: '2018-10-06'
 featuredImage: /images/uploads/diy-kitset-deck.png
