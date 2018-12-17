@@ -56,7 +56,7 @@ servicePods:
       sourced from sustainable forests and woodlands. Get the benefits of real
       timber without harming the environment with responsibly sourced timber
       materials.
-    podImage: /images/uploads/deking_0421.jpg
+    podImage: /images/uploads/pros-and-cons-of-eco-friendly-decking.jpg
     podsTitle: Responsible Timber
   - podDescription: >-
       At EKODEKING, we strive to go above and beyond in our commitment to eco
@@ -66,7 +66,7 @@ servicePods:
       mile by limiting and recycling waste during the construction process. At
       our office, we conserve the environment through the use of recycled office
       products and energy-efficient appliances.
-    podImage: /images/uploads/deking_0421.jpg
+    podImage: /images/uploads/trex-sample.jpg
   - podDescription: >-
       DeKing understands the responsibility behind its character as being a
       reputable builder. As a proud member of the wider community, DeKing not
@@ -78,7 +78,7 @@ servicePods:
       increase your overall property value and allow you to enjoy a more
       relaxing lifestyle, but this can occur in a way that limits the
       environmental impact of the build.
-    podImage: /images/uploads/deking_0421.jpg
+    podImage: /images/uploads/img_9607.jpg
     podsTitle: Environmental Impact
 videoTitle: ' '
 videoURL: ''
