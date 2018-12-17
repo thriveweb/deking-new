@@ -76,5 +76,7 @@ bannerDescription: >-
   please call us on 1800 335 464.
 bannerButton:
   label: Price guide
+categories:
+  - category: Timber Decks
 ---
 
