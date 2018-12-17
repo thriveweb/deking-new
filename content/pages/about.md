@@ -42,13 +42,13 @@ bannerButton:
   link: Contact
 qualificationsTitle: Our Guarantees
 qualificationsLogos:
-  - link: guarantees
-    logo: /images/uploads/patios-stratco-outback-warranty-1.png
+  - logo: /images/uploads/25-year-warranty-shutterstock.jpg
   - link: guarantees
     logo: /images/uploads/deking_seal_deckcheck.jpg
   - link: guarantees
+    logo: /images/uploads/patios-stratco-outback-warranty-1.png
+  - link: guarantees
     logo: /images/uploads/deking_seal_tidyman.jpg
-  - logo: /images/uploads/25-year-warranty-shutterstock.jpg
 meta:
   canonicalLink: ''
   description: >-
