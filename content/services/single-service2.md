@@ -38,7 +38,7 @@ accordion:
       small areas as well as large spans. Thicknesses include:  50mm 75mm 100mm.
       Roofing options also include corrugated, to match your house roof, or the
       classic style for a minimal pitch design.
-    title: Insulated Flyover or raised Patio roof
+    title: Flyover or raised Patio roof
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom patio design
 servicePriceDescription:
