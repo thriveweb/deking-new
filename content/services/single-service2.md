@@ -8,7 +8,7 @@ excerpt: >-
   Get outside - no matter what the weather!
 
   Patio roofs create an additional space for playing, eating, reading, storing,
-  entertaining, footing watching.
+  entertaining, footy watching..
 welcomeTitle: >-
   DeKing don't just build decks, we are also Patio Builders & Patio Roofing
   Specialists
