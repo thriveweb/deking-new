@@ -174,8 +174,8 @@ export const query = graphql`
   fragment CroppedImage on File {
     publicURL
     childImageSharp {
-      resolutions(width: 1000, height: 562, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
+      sizes(maxWidth: 2800, quality: 75) {
+        ...GatsbyImageSharpSizes_withWebp
       }
     }
   }
