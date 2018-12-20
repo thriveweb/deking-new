@@ -4,7 +4,7 @@ title: DIY Kitset Decks & Patios
 status: Published
 date: '2018-10-06'
 featuredImage: /images/uploads/diy-kitset-deck.png
-excerpt: Need a little help from the experts to build your own deck?
+excerpt: Need a little help from the experts to build your own Deck or Patio?
 welcomeTitle: The Australian "Give it a go" attitude
 welcomeDescription: >-
   Welcome to the DeKing Decks online shop. Here you can purchase one of our do
@@ -54,6 +54,16 @@ servicePriceDescription:
     max: $3800.00
     min: $3200.00
     size: 5m x 4m
+servicePods:
+  - podDescription: >-
+      If you have the know how and some basic tools you will be able to install
+      your own patio roof. 
+
+
+      Just send us your measurements and requirements, we will send you back an
+      engineered drawing with a price and you are good to go
+    podImage: /images/uploads/fullsizeoutput_2123.jpeg
+    podsTitle: Kitset Patio for the DIY
 videoTitle: ' '
 bannerTitle: DIY decking kits and kitset decks
 bannerDescription: >-
