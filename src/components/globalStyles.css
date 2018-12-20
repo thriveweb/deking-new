@@ -346,7 +346,7 @@ blockquote {
   width: 90%;
   height: 90%;
   position: absolute;
-  bottom: -4rem;
+  bottom: -1rem;
   left: -4rem;
 }
 .image-shadow-right:after {
@@ -355,6 +355,6 @@ blockquote {
   width: 90%;
   height: 90%;
   position: absolute;
-  bottom: -4rem;
+  bottom: -1rem;
   right: -4rem;
 }

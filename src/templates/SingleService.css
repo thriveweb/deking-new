@@ -70,6 +70,18 @@
   width: calc(48% - 4rem);
 }
 
+.WelcomeSection .one-half .BackgroundImage,
+.ServicePods--Pod .one-half .BackgroundImage {
+  height: 500px;
+}
+
+.WelcomeSection .one-half .image-shadow-left,
+.WelcomeSection .one-half .image-shadow-right,
+.ServicePods--Pod .one-half .image-shadow-left,
+.ServicePods--Pod .one-half .image-shadow-right {
+  height: 500px;
+  position: relative;
+}
 .Pod--Even {
   flex-direction: row-reverse;
 }
