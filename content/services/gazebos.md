@@ -22,6 +22,17 @@ servicePriceDescription:
     size: 4mx 4m
 servicePods:
   - podDescription: >-
+      An outdoor room is a cost effective way of adding a new room to your home,
+      increasing its value and adding real value to your outdoor living
+      lifestyle.
+
+       With the addition of a solid wall for which to mount a TV, a bench top with a fridge placed underneath, what more do you need to entertain your friends whens its footy finals time.
+
+      Show us your requirements and we will bring your dream alive with sound
+      advice and tradespeople with top notch skills.
+    podImage: /images/uploads/alfresco3-1024x897.jpg
+    podsTitle: Outdoor Rooms
+  - podDescription: >-
       For customers looking for a great addition to the outdoor space on their
       property, a custom gazebo from DeKing can be a perfect option. Our
       professionals design constructions with the customer’s budget, needs and
@@ -60,35 +71,17 @@ servicePods:
       of colours helps improve the aesthetic appeal of your gazebo. High quality
       brands such as COLORBOND steel provide exceptional durability and
       performance.
-    podImage: /images/uploads/alfresco3-1024x897.jpg
+    podImage: /images/uploads/img_7455.jpg
     podsTitle: Gazebo Building Materials
   - podDescription: >-
-      From the first time you call DeKing, we promise that your experience is
-      nothing but great. You can simply give us a call or email and an
-      experienced professional will come to your property at your own
-      convenience to discuss your dreams, share ideas, make measurements and
-      show you examples of our previous gazebo projects.
-
-
-
-
-      After discussing and understanding your vision of the perfect gazebo, we
-      will work to find all the right materials and confirm with you on
-      selection and price. Our staff will gladly help you make any changes or
-      adjustments to make your gazebo dreams come true. Once we’ve confirmed the
-      project, feel free to sit back and enjoy the excitement as we prepare. We
-      will make sure that all the necessary permits and insurances are in place
-      while we order the materials for your gazebo.
-
-
-
-
-      Throughout the actual building process, we strive to ensure the safety of
-      your family and friends. Your property will be kept clean and organised
-      throughout construction. You will also receive progress reports as we move
-      along to keep your excitement going strong. After your gazebo has been
-      completed, all waste material will be removed and one of our professionals
-      will inspect the project with you to ensure your satisfaction.
+      For customers looking for a great addition to the outdoor space on their
+      property, a custom gazebo from DeKing can be a perfect option. Our
+      professionals design constructions with the customer’s budget, needs and
+      ideas in mind. We strive to provide an authentic Aussie-style projects to
+      give you the chance to use your outdoor space in almost any weather
+      condition. DeKing uses its experience to find cost-saving methods without
+      sacrificing quality and performance. Our staff promises to work with you
+      to fit everything you need into your budget.
     podImage: /images/uploads/image-2-1024x768.jpg
     podsTitle: From First Contact to Gazebo Completion
 videoTitle: ' '
