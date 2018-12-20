@@ -40,7 +40,7 @@ servicePriceDescription:
     min: $750
     size: 6 metres by 4 metres
 videoTitle: ''
-videoURL: /images/uploads/video.mp4
+videoURL: ''
 bannerTitle: Price guide
 bannerDescription: '?'
 bannerImage: ''
