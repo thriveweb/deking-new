@@ -152,7 +152,7 @@
 }
 
 .BannerSection--Description {
-  height: 60px;
+  min-height: 60px;
   max-width: 516px;
   opacity: 0.9;
   color: #ffffff;
