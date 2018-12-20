@@ -22,7 +22,7 @@ processes:
 
       [Our online calculator can also assist you with a quick estimate of your
       likely project cost ](https://dekingdecks.thrivex.xyz/quote-calculator/)
-    link: ''
+
     title: Get in Touch
   - buttonText: ''
     content: >-
@@ -125,4 +125,3 @@ meta:
   noindex: false
   title: ''
 ---
-
