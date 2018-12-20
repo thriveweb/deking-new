@@ -14,12 +14,20 @@ welcomeDescription: >-
   deck. As a rule of thumb uncovered decks need an oiling treatment every year,
   covered decks will be safe for a coating every second year
 welcomeImage: /images/uploads/img_e8859.jpg
-accordion:
-  - description: >-
-      At Deking we only recommend acrylic for a number of reasons; 1
-      Environmentally friendly 2 Ease of use 3 More extensive colour range 4
-      Quicker drying time 5 Clean up is a breeze 6 Last up to 3-5 times of a
-      conventional oils 7 12 month guarantee Next you will need to prepare the
+accordion: []
+servicePriceTitle: Price guide
+QuoteTitle: $750.00 - $1000.00
+servicePriceDescription:
+  - materials: Deck treatment
+    max: $1000
+    min: $750
+    size: 6 metres by 4 metres
+servicePods:
+  - podDescription: >-
+      At Deking we only recommend acrylic for a number of reasons; 1)
+      Environmentally friendly 2) Ease of use 3) More extensive colour range 4)
+      Quicker drying time 5) Clean up is a breeze 6) Last up to 3-5 times of a
+      conventional oils 7) 12 month guarantee. Next you will need to prepare the
       decking boards with an oxalic cleaner, the Flood Company has a product
       called WoodPrep, Intergrains version is called Reviva. You will need to
       wet your wooden deck with a garden hose and apply the product as per the
@@ -31,14 +39,8 @@ accordion:
       now be applied as per the instructions on the tin. Watch this video for
       more information on the best times of the year to do various stages of
       deck maintenance
-    title: Oils or Acrylic?
-servicePriceTitle: Price guide
-QuoteTitle: $750.00 - $1000.00
-servicePriceDescription:
-  - materials: Deck treatment
-    max: $1000
-    min: $750
-    size: 6 metres by 4 metres
+    podImage: /images/uploads/ultradeckcolours.jpg
+    podsTitle: Oils or Acrylic?
 videoTitle: ''
 videoURL: ''
 bannerTitle: Price guide
