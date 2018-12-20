@@ -7,26 +7,14 @@ featuredImage: /images/uploads/dsc_0041.jpg
 excerpt: >-
   Relax, play, entertain, and enjoy life with family and friends on a quality
   built deck
-welcomeTitle: New Decks for above and in ground pools
+welcomeTitle: Important facts for salt water swimming pool decks
 welcomeDescription: >-
   What are some important things to consider when it comes to pool decking?
-  Timber Pool Decking looks great and can last a long time if you look after it.
-  For some people sanding and oiling their deck gives them great pride and it is
-  a relaxing way to spend a weekend. For others the thought may put you off
-  entirely. You can always get someone else to do it for you. It’s also
-  important to make sure you have waterproof, rust proof screws and nails. The
-  deck is going to get wet with the family splashing around. It’s especially
-  important if you have a salt water pool.  Can I build a deck around an above
-  ground pool? Yes, you can build a deck around above ground and in ground
-  pools. Pool decking provides a great place to relax for your family, friends
-  and guests. Pool decking can be constructed to extend over the edge of the
-  pool for a totally seamless look and feel or finish flush with your pool
-  copping edge.  Pool decking for Sloping blocks or unusual pool designs We can
-  build pool decking on all kinds of blocks including those with unusual
-  elevations/slopes and interesting pool designs. By incorporating different
-  deck levels you can create a unique and beautiful entertaining space. The
-  design of your pool deck can make a huge difference to the atmosphere of your
-  pool.
+  Timber Pool Decking looks great and can last a long time if you look after it
+  and the right design is used from the outset. It’s important to make sure you
+  have waterproof, rust proof screws and nails. The deck is going to get wet
+  with the family splashing around. It’s especially important if you have a salt
+  water pool. s
 welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
   - description: >-
@@ -64,7 +52,20 @@ servicePriceDescription:
     max: '$10,000'
     min: '$7,500'
     size: 6 metres by 4 metres
-servicePods: []
+servicePods:
+  - podDescription: >-
+      Can I build a deck around an above ground pool? Yes, you can build a deck
+      around above ground and in ground pools. Pool decking provides a great
+      place to relax for your family, friends and guests. Pool decking can be
+      constructed to extend over the edge of the pool for a totally seamless
+      look and feel or finish flush with your pool copping edge. We can build
+      pool decking on all kinds of blocks including those with unusual
+      elevations/slopes and interesting pool designs. By incorporating different
+      deck levels you can create a unique and beautiful entertaining space. The
+      design of your pool deck can make a huge difference to the atmosphere of
+      your pool.
+    podImage: /images/uploads/img_3130.jpg
+    podsTitle: New Decks for above and in ground pools
 videoTitle: Video example title here
 videoURL: ''
 bannerTitle: ' Can I build a deck around an above ground pool?'
