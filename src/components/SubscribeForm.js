@@ -11,12 +11,13 @@ class SubscribeForm extends React.Component {
     subject: '', // optional subject of the notification email
     action: '',
     successMessage: 'Success! You are subscribed.',
-    errorMessage: 'There is a problem, your have not subscribed to our list.',
+    errorMessage: 'There is a problem, your have not subscribed to our list.'
   }
 
   state = {
     alert: '',
     disabled: false,
+    success: false
   }
 
   handleSubmit = e => {
@@ -27,7 +28,7 @@ class SubscribeForm extends React.Component {
     const data = serialize(form)
     this.setState({ disabled: true })
     fetch(form.action + '?' + stringify(data), {
-      method: 'POST',
+      method: 'POST'
     })
       .then(res => {
         if (res.ok) {
@@ -39,15 +40,15 @@ class SubscribeForm extends React.Component {
       .then(() => {
         form.reset()
         this.setState({
-          alert: this.props.successMessage,
-          disabled: false,
+          success: true,
+          disabled: true
         })
       })
       .catch(err => {
         console.error(err)
         this.setState({
           disabled: false,
-          alert: this.props.errorMessage,
+          alert: this.props.errorMessage
         })
       })
   }
@@ -56,36 +57,49 @@ class SubscribeForm extends React.Component {
     const { name, subject, action } = this.props
 
     return (
-      <form
-        className="SubscribeForm"
-        name={name}
-        action={action}
-        onSubmit={this.handleSubmit}
-        data-netlify=""
-        data-netlify-honeypot="confirmEmail"
-      >
-        {this.state.alert && (
-          <div className="EnquiryForm--Alert">{this.state.alert}</div>
+      <div className="SubscribeForm-wrap">
+        {this.state.success && (
+          <div className="">{this.props.successMessage}</div>
         )}
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="email"
-            placeholder="Email"
-            name="email"
-            required
-          />
-        </label>
-        <input type="text" name="confirmEmail" style={{ display: 'none' }} />
-        {!!subject && <input type="hidden" name="subject" value={subject} />}
-        <input type="hidden" name="form-name" value={name} />
-        <input
-          className="Button EnquiryForm--SubmitButton"
-          type="submit"
-          value="Subscribe"
-          disabled={this.state.disabled}
-        />
-      </form>
+        {!this.state.success && (
+          <form
+            className="SubscribeForm"
+            name={name}
+            action={action}
+            onSubmit={this.handleSubmit}
+            data-netlify=""
+            data-netlify-honeypot="confirmEmail"
+          >
+            {this.state.alert && (
+              <div className="EnquiryForm--Alert">{this.state.alert}</div>
+            )}
+            <label className="EnquiryForm--Label">
+              <input
+                className="EnquiryForm--Input"
+                type="email"
+                placeholder="Email"
+                name="email"
+                required
+              />
+            </label>
+            <input
+              type="text"
+              name="confirmEmail"
+              style={{ display: 'none' }}
+            />
+            {!!subject && (
+              <input type="hidden" name="subject" value={subject} />
+            )}
+            <input type="hidden" name="form-name" value={name} />
+            <input
+              className="Button EnquiryForm--SubmitButton"
+              type="submit"
+              value="Subscribe"
+              disabled={this.state.disabled}
+            />
+          </form>
+        )}
+      </div>
     )
   }
 }
