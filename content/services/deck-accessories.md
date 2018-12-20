@@ -67,9 +67,30 @@ servicePods:
 
       The glass can be pre primed with a special coating to make cleaning a
       piece of cake.
-    podImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
+    podImage: /images/uploads/caloundra-2-660x1024.jpg
     podLink: ''
     podsTitle: Glass fencing
+  - podDescription: >-
+      Glass balustrades add a touch of class to any deck, verandah, or balcony.
+      The clean lines make for a very contemporary look 
+
+
+      Designed to exceed safety standards with 12mm toughened glass, stainless
+      spigots attached to the deck surface with a handrail of either merbau
+      90x42mm or stainless steel.
+    podImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
+    podsTitle: Glass Balustrade
+  - podDescription: >-
+      Privacy screens are a way to give you and your neighbour the ability to
+      relax and entertain on your deck without prying eyes, or maybe its just to
+      hide a bad view. Privacy screens are generally made of the matching
+      decking timbers ie Merbau hardwood, or powdercoated aluminum. The best
+      part of aluminium screens are that you never have to maintain them, apart
+      from an annual hose off if they become dusty. You have the option of
+      positioning the slat horizontally or vertically depending on your taste
+      and circumstances
+    podImage: /images/uploads/fullsizeoutput_1f17.jpeg
+    podsTitle: Aluminium Privacy Screens
 videoTitle: ' '
 bannerTitle: ''
 bannerDescription: ''
