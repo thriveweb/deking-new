@@ -44,7 +44,7 @@ processes:
 
       * Advise you on council regulations (Boundary setback’s etc.) and building
       codes.
-    link: ''
+
     title: 'Dream, Discuss, Design'
   - buttonText: ''
     content: >-
@@ -72,7 +72,7 @@ processes:
       * Progress payments in line with completed construction stages
 
       * 5% Practical completion
-    link: ''
+
     title: 'Design approvals/Council permits, and Quotation approval'
   - buttonText: ''
     content: >-
@@ -86,7 +86,7 @@ processes:
 
       Deking remove all waste materials on completion as a part of our tidy deck
       guarantee* (link to document)
-    link: ''
+
     title: Construction Commences
   - buttonText: ''
     content: >-
@@ -99,7 +99,7 @@ processes:
 
       Deking will give you a helpful maintenance manual with information that
       will keep your project looking at its best for many years to come.
-    link: ''
+
     title: Final inspection
   - buttonText: ''
     content: >-
@@ -109,7 +109,7 @@ processes:
 
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide. (link to document )
-    link: ''
+
     title: Enjoy
 bannerTitle: Get in now for Easter
 bannerDescription: |-
