@@ -11,7 +11,7 @@ export default ({ images = [], alt = '' }) => {
   const params = {
     navigation: {
       nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
+      prevEl: '.swiper-button-prev'
     },
     spaceBetween: 30,
     autoHeight: false,
@@ -22,7 +22,7 @@ export default ({ images = [], alt = '' }) => {
     loop: true,
     pagination: {
       el: '.swiper-pagination',
-      clickable: true,
+      clickable: true
     },
     renderPrevButton: () => (
       <button className="SwiperButton swiper-button-prev">
@@ -33,7 +33,7 @@ export default ({ images = [], alt = '' }) => {
       <button className="SwiperButton swiper-button-next">
         <ChevronRight />
       </button>
-    ),
+    )
   }
 
   return (
@@ -43,8 +43,8 @@ export default ({ images = [], alt = '' }) => {
           <div key={`GalleryImage${index}`}>
             <Image
               key={image.image + index}
-              src={_get(image, `image.childImageSharp.resolutions.src`)}
-              srcSet={_get(image, 'image.childImageSharp.resolutions.srcSet')}
+              src={_get(image, `image.childImageSharp.sizes.src`)}
+              srcSet={_get(image, 'image.childImageSharp.sizes.srcSet')}
               alt={alt}
             />
           </div>
