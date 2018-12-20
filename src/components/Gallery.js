@@ -42,6 +42,7 @@ export default ({ images = [], alt = '' }) => {
         {images.map((image, index) => (
           <div key={`GalleryImage${index}`}>
             <Image
+              background
               key={image.image + index}
               src={_get(image, `image.childImageSharp.sizes.src`)}
               srcSet={_get(image, 'image.childImageSharp.sizes.srcSet')}
