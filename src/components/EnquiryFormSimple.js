@@ -33,7 +33,7 @@ export default class Contact extends React.Component {
       container: 'top-left',
       animationIn: ['animated', 'fadeIn'],
       animationOut: ['animated', 'fadeOut'],
-      dismissable: { click: true },
+      dismissable: { click: true }
     })
   }
 
@@ -53,8 +53,8 @@ export default class Contact extends React.Component {
       method: 'POST',
       body: encode({
         'form-name': form.getAttribute('name'),
-        ...this.state,
-      }),
+        ...this.state
+      })
     })
       .then(() => navigateTo(form.getAttribute('action')))
       .catch(error => alert(error))
@@ -82,7 +82,8 @@ export default class Contact extends React.Component {
         </p>
         <div className="flex">
           <label className="EnquiryForm--Label">
-            Your Full name<br />
+            Your Full name
+            <br />
             <input
               type="text"
               name="name"
@@ -93,7 +94,8 @@ export default class Contact extends React.Component {
           </label>
 
           <label className="EnquiryForm--Label">
-            Phone number<br />
+            Phone number
+            <br />
             <input
               type="text"
               name="phone"
@@ -105,7 +107,8 @@ export default class Contact extends React.Component {
         </div>
 
         <label className="EnquiryForm--Label">
-          Email address<br />
+          Email address
+          <br />
           <input
             type="email"
             name="email"
@@ -116,7 +119,8 @@ export default class Contact extends React.Component {
         </label>
         <div className="flex">
           <label className="EnquiryForm--Label">
-            Suburb<br />
+            Suburb
+            <br />
             <input
               type="text"
               name="suburb"
@@ -127,7 +131,8 @@ export default class Contact extends React.Component {
           </label>
 
           <label className="EnquiryForm--Label">
-            Postcode<br />
+            Postcode
+            <br />
             <input
               type="text"
               name="postCode"
@@ -151,7 +156,8 @@ export default class Contact extends React.Component {
 
         <div className="flex">
           <label className="EnquiryForm--Label">
-            File:<br />
+            File:
+            <br />
             <input
               className="EnquiryForm--Input EnquiryForm--File"
               type="file"

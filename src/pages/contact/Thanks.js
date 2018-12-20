@@ -18,7 +18,7 @@ export const Thanks = ({ data }) => {
     locationTitle,
     locations,
     otherLocationTitle,
-    otherLocation,
+    otherLocation
   } = data.contact.frontmatter
   return (
     <Fragment>
@@ -27,12 +27,17 @@ export const Thanks = ({ data }) => {
           title={title}
           subtitle={subtitle}
           backgroundImage={featuredImage}
+          large
         />
-
-        {console.log(title)}
 
         <div className="section Contact">
           <div className="container Contact--Section">
+            <div className="EnquiryForm">
+              <h2>Success</h2>
+              <p>
+                Thanks for contacting us! We will get in touch with you shortly.
+              </p>
+            </div>
             <div>
               {locationTitle && <h2>{locationTitle}</h2>}
               <div className="Contact--Details flex">
@@ -78,7 +83,7 @@ export const Thanks = ({ data }) => {
                     )
                   })}
               </div>
-              <div className="Contact--Details">
+              <div id="Success" className="Contact--Details">
                 {otherLocationTitle && <h3>{otherLocationTitle}</h3>}
                 {otherLocation &&
                   otherLocation.map((otherLocation, index) => {
@@ -107,12 +112,6 @@ export const Thanks = ({ data }) => {
                     )
                   })}
               </div>
-            </div>
-            <div className="Contact--hidden">
-              <EnquiryFormSimple name="Simple Form" />
-            </div>
-            <div className="Thanks">
-              <h2>thanks message</h2>
             </div>
           </div>
         </div>
