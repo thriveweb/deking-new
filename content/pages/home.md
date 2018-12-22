@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 video: /images/banner-video.mp4
 title: Building Your Better lifestyle
-featuredImage: /images/home-banner.jpg
+featuredImage: /images/uploads/pool-decks.jpg
 featureButton:
   label: Our services
   link: services
