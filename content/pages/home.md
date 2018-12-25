@@ -71,6 +71,7 @@ videoContent: >-
   short of a minor miracle compared with all the other trades I have dealt with
   over the past 5 months whilst doing a major house renovation. I highly
   recommend Deking.
+videoURL: /images/uploads/homepage-video.mov
 priceTitle: Price Guide
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
