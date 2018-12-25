@@ -73,9 +73,9 @@ videoContent: >-
   recommend Deking.
 priceTitle: Price Guide
 priceDescription: >-
-  By using our quote calculator Deking Decks reserve the right to contact you
-  and send you appropriate marketing materials. Privacy is important to us, you
-  can opt our anytime and no spam will be sent.
+  Enter your dream decking dimensions into our online calculator for an
+  estimated cost of your new project, there is also a calculator for your
+  insulated Patio roof.
 priceButton:
   label: Build your deck
   link: quote-calculator
