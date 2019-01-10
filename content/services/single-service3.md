@@ -13,7 +13,7 @@ welcomeDescription: >-
   lounge chairs, a way to access all sides of the pool, or a connection to the
   house for an extended feel. By adding change of heights in the deck, a new
   area is created which adds more interest and is more visually appealing along
-  with the ability to have different areas to lounge about or entertain. With
+  with the ability to have different areas to lounge about or entertain on. With
   matching materials a pool house can be added for shade or for a bbq area
 welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
