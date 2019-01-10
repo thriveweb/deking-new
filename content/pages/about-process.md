@@ -5,7 +5,7 @@ title: Our Process
 subtitle: >-
   Working together with Deking provides clarity and confidence from initial
   contact to completion in 6 simple steps.
-featuredImage: /images/uploads/ultimate-app-guide-for-carpenter-infographic.jpg
+featuredImage: /images/uploads/deck-design-process.jpg
 processes:
   - buttonText: ''
     content: >-
@@ -22,7 +22,6 @@ processes:
 
       [Our online calculator can also assist you with a quick estimate of your
       likely project cost ](https://dekingdecks.thrivex.xyz/quote-calculator/)
-
     title: Get in Touch
   - buttonText: ''
     content: >-
@@ -44,7 +43,6 @@ processes:
 
       * Advise you on council regulations (Boundary setback’s etc.) and building
       codes.
-
     title: 'Dream, Discuss, Design'
   - buttonText: ''
     content: >-
@@ -72,7 +70,6 @@ processes:
       * Progress payments in line with completed construction stages
 
       * 5% Practical completion
-
     title: 'Design approvals/Council permits, and Quotation approval'
   - buttonText: ''
     content: >-
@@ -86,7 +83,6 @@ processes:
 
       Deking remove all waste materials on completion as a part of our tidy deck
       guarantee* (link to document)
-
     title: Construction Commences
   - buttonText: ''
     content: >-
@@ -99,7 +95,6 @@ processes:
 
       Deking will give you a helpful maintenance manual with information that
       will keep your project looking at its best for many years to come.
-
     title: Final inspection
   - buttonText: ''
     content: >-
@@ -109,11 +104,12 @@ processes:
 
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide. (link to document )
-
     title: Enjoy
 bannerTitle: Get in now for Easter
-bannerDescription: |-
-  Order now to have your Deck or Patio Roof built for Easter.
+bannerDescription: >-
+  Order now to have your Deck or Patio Roof built for Easter and receive a free
+  Egg Chair
+
   T's & C's apply. Ask our friendly team for details
 bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
@@ -125,3 +121,4 @@ meta:
   noindex: false
   title: ''
 ---
+
