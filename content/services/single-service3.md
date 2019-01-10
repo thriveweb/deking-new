@@ -64,7 +64,7 @@ servicePods:
       steel fasteners must be used within the splash zone of the pool for the
       above mentioned reason, this includes the decking screws.
     podImage: /images/uploads/img_3130.jpg
-    podsTitle: 'New Pool Decking for above, and in ground pools.'
+    podsTitle: 'New Pool Decking for above, and in ground concrete pools.'
 videoTitle: Video example title here
 videoURL: ''
 bannerTitle: ' Can I build a deck around an above ground pool?'
