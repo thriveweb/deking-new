@@ -46,13 +46,13 @@ accordion:
       Planter boxes built at the edge of a deck provide safety from falling and
       when filled with herbs add aroma to your outdoor area
     title: Built in Planter Boxes
-servicePriceTitle: Privacy Screen
+servicePriceTitle: Glass Pool Fencing
 QuoteTitle: Call for a more detailed quote
 servicePriceDescription:
-  - materials: Powdercoated Aluminium
-    max: $2200.00
-    min: $1800.00
-    size: 4.0m long x 1.8m high
+  - materials: 12mm Toughened glass on stainless steel spigots
+    max: $4000.00
+    min: $2800.00
+    size: 10.0m long x 1.2m high
 servicePods:
   - podDescription: >-
       Glass pool fencing offers an unrestricted view of your area while
@@ -60,16 +60,22 @@ servicePods:
 
 
       Stainless steel spigots are either core drilled into the concrete floor or
-      surface attached to the deck surface. 12mm toughened glass which exceeds
+      surface attached to the deck. 12mm toughened glass which exceeds
       Australian standards and self closing gates to comply with pool safety
       regulations
 
 
-      The glass can be pre primed with a special coating to make cleaning a
-      piece of cake.
+      The glass can be pre primed with a special coating prior to installation
+      to make cleaning a very rare event.
+
+
+      Glass balustrades add a touch of class to any deck, verandah, or balcony.
+      The clean lines make for a very contemporary look. Stainless spigots
+      attached to the deck surface with a handrail of either merbau 90x42mm or
+      stainless steel.
     podImage: /images/uploads/caloundra-2-660x1024.jpg
     podLink: ''
-    podsTitle: Glass fencing
+    podsTitle: Glass Fencing & Balustrades
   - podDescription: >-
       Glass balustrades add a touch of class to any deck, verandah, or balcony.
       The clean lines make for a very contemporary look 
@@ -79,7 +85,7 @@ servicePods:
       spigots attached to the deck surface with a handrail of either merbau
       90x42mm or stainless steel.
     podImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
-    podsTitle: Glass Balustrade
+    podsTitle: Stainless Steel Wire Balustrades & Handrails
   - podDescription: >-
       Privacy screens are a way to give you and your neighbour the ability to
       relax and entertain on your deck without prying eyes, or maybe its just to
