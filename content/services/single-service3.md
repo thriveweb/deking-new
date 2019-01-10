@@ -18,23 +18,13 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
   - description: >-
-      Timber Pool Decking looks great and can last a long time if you look after
-      it. For some people sanding and oiling their deck gives them great pride
-      and it is a relaxing way to spend a weekend. For others the thought may
-      put you off entirely. You can always get someone else to do it for you.
-      It’s also important to make sure you have waterproof, rust proof screws
-      and nails. The deck is going to get wet with the family splashing around.
-      It’s especially important if you have a salt water pool. Can I build a
-      deck around an above ground pool? Yes, you can build a deck around above
-      ground and in ground pools. Pool decking provides a great place to relax
-      for your family, friends and guests. Pool decking can be constructed to
-      extend over the edge of the pool for a totally seamless look and feel or
-      finish flush with your pool copping edge. Pool decking for Sloping blocks
-      or unusual pool designs We can build pool decking on all kinds of blocks
-      including those with unusual elevations/slopes and interesting pool
-      designs. By incorporating different deck levels you can create a unique
-      and beautiful entertaining space. The design of your pool deck can make a
-      huge difference to the atmosphere of your pool.
+      The deck is going to get wet with the family splashing around and it’s
+      especially important if you have a salt water pool.  All framing timbers
+      and fixings need to be able to withstand this harsh environment, which is
+      why we only use H3 treated pine for the frame and stainless steel fixings
+      within the splash zone. This includes the decking screws, concrete anchors
+      into the pool shell, and joist hangers. Stirrups are heavy duty and hot
+      dipped galvanised which are set into 20 Mpa poured concrete
     title: What are some important things to consider when it comes to pool decking?
   - description: >-
       We can build pool decking on all kinds of blocks including those with
@@ -45,6 +35,14 @@ accordion:
     title: Pool decking for Sloping blocks or unusual pool designs
   - description: ' DeKing also creates decking for hotel pools and other commercial swimming pools. Check out our commercial page for more information https://dekingdecks.com.au/services/commercial-decking/ '
     title: Commercial Pool Decking
+  - description: >-
+      Hardwood decking boards are predominantly used for their ability to handle
+      the splashing and pool chemicals. Another option is a composite decking
+      board which requires no ongoing maintenance. Pine decking is not advised
+      for a pool deck as it is prone to cracking and splitting. New products are
+      coming to the market every year so call us to find a solution for your
+      decking needs 
+    title: Types of decking
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom pool decking
 servicePriceDescription:
@@ -63,7 +61,7 @@ servicePods:
       so years, no where near close to Deking’s 25 year warranty. Stainless
       steel fasteners must be used within the splash zone of the pool for the
       above mentioned reason, this includes the decking screws.
-    podImage: /images/uploads/img_3130.jpg
+    podImage: /images/uploads/3.jpg
     podsTitle: 'Pool Decking for above, and in ground concrete pools.'
 videoTitle: Video example title here
 videoURL: ''
