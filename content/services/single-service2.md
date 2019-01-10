@@ -61,6 +61,11 @@ servicePriceDescription:
     size: 6 metres by 4 metres
 servicePods:
   - podDescription: >-
+      Your patio roof may be a quiet place to relax with a good book, or a
+      boisterous night with your mates with the footy on the big screen
+    podImage: /images/uploads/patios-verandah-carport-outback-cooldek-19.jpg
+    podsTitle: What will you do under your Patio Roof?
+  - podDescription: >-
       The flyover or raised patio roof is by far the most popular patio roof
       being built today.
 
