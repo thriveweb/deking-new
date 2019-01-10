@@ -3,7 +3,7 @@ template: SingleService
 title: Commercial Decking
 status: Published
 date: '2018-09-04'
-featuredImage: /images/uploads/newstead.jpg
+featuredImage: /images/uploads/dsc_0434.jpg
 excerpt: >-
   Commercial Decking Brisbane, Gold Coast and Sunshine Coast.
 
