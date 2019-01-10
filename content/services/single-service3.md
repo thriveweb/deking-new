@@ -6,7 +6,7 @@ date: 2018-03-2
 featuredImage: /images/uploads/dsc_0041.jpg
 excerpt: >-
   Relax, play, entertain, and enjoy life with family and friends on a quality
-  built deck
+  built pool deck
 welcomeTitle: Swimming Pool Decks
 welcomeDescription: >-
   Timber Pool Decking looks great and will last a life time when properly
