@@ -43,7 +43,7 @@ accordion:
       space. The design of your pool deck can make a huge difference to the
       atmosphere of your pool.
     title: Pool decking for Sloping blocks or unusual pool designs
-  - description: ' DeKing also creates decking for hotel pools and other commercial swimming pools.'
+  - description: ' DeKing also creates decking for hotel pools and other commercial swimming pools. Check out our commercial page for more information https://dekingdecks.com.au/services/commercial-decking/ '
     title: Commercial Pool Decking
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom pool decking
