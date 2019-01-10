@@ -7,9 +7,8 @@ featuredImage: /images/uploads/dsc_0041.jpg
 excerpt: >-
   Relax, play, entertain, and enjoy life with family and friends on a quality
   built deck
-welcomeTitle: Important facts for salt water swimming pool decks
+welcomeTitle: Swimming Pool Decks
 welcomeDescription: >-
-  What are some important things to consider when it comes to pool decking?
   Timber Pool Decking looks great and can last a long time if you look after it
   and the right design is used from the outset. It’s important to make sure you
   have waterproof, rust proof screws and nails. The deck is going to get wet
@@ -70,10 +69,11 @@ videoTitle: Video example title here
 videoURL: ''
 bannerTitle: ' Can I build a deck around an above ground pool?'
 bannerDescription: >
-  Yes, you can build a deck around above ground and in ground pools. Pool
-  decking provides a great place to relax for your family, friends and guests.
-  Pool decking can be constructed to extend over the edge of the pool for a
-  totally seamless look and feel or finish flush with your pool coping edge. 
+  Yes, you can build a deck around an above ground pool. Pool decking provides a
+  great place to play for your family, friends and guests. Pool decking can be
+  constructed to extend over the edge of the pool for a totally seamless in
+  ground look or finish under the pool capping edge for possible future liner
+  replacement ease. 
 bannerImage: /images/uploads/img_3130.jpg
 bannerButton:
   label: Contact Us
