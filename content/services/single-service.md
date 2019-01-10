@@ -25,7 +25,7 @@ welcomeDescription: >-
   sloping blocks and above ground pools. DeKing can build a timber deck around
   your pool from scratch, or replace an old deck with a brand new timber pool
   deck.
-welcomeImage: /images/uploads/girl_pet_dog_deck.jpg
+welcomeImage: /images/uploads/7.jpg
 accordion: []
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate for your custom deck
@@ -35,6 +35,17 @@ servicePriceDescription:
     min: '$7,500'
     size: 6 metres by 4 metres
 servicePods:
+  - podDescription: >-
+      Your timber deck may be just a nice spot to lie down and be peaceful with
+      your best friend, others might want an area to entertain or dine with
+      groups of friends.
+
+
+      Whatever your reason, we at Deking can create your ideal space that is an
+      enjoyable building experience and will give you years of enjoyable outdoor
+      living
+    podImage: /images/uploads/girl_pet_dog_deck.jpg
+    podsTitle: What will you use your timber deck for?
   - podDescription: >-
       DeKing provides a wide array of timber decking materials to build the deck
       or patio of your dreams. Each of our materials performs well in different
@@ -112,18 +123,6 @@ servicePods:
       association member Wood Naturally Better Association Member
     podImage: /images/uploads/roofing-1024x768.png
     podsTitle: Commercial decking
-  - podDescription: >-
-      The Deking Decks company was established in 2003 by director David Rider.
-      Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has
-      grown from strength to strength and prides itself on building strong and
-      ongoing client relationships. 15 years down the track, bursting with
-      experience and a new larger factory and office at Ormeau, our team
-      includes 3 passionate design consultants, licensed trade professionals,
-      our apprentice and Shelley our awesome, “only too happy to help“, client
-      service co-ordinator.
-    podImage: >-
-      /images/uploads/second-floor-kwila-deck-at-cleveland-with-insulated-patio-roof.jpg
-    podsTitle: Who we are
 videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
 bannerTitle: Easter Special Free Egg Chair
