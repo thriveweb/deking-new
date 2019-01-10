@@ -52,6 +52,16 @@ servicePriceDescription:
     size: 6 metres by 4 metres
 servicePods:
   - podDescription: >-
+      Be it a space to simply sunbathe on or an outdoor entertaining area for
+      all your friends and family, we at Deking can build you a magnificent pool
+      deck to suit your needs which is not only strong and safe but will last
+      for years to come.
+
+
+      Check out our 25 year warranty
+    podImage: /images/uploads/bare_feet_deck.jpg
+    podsTitle: What do you do on your pool deck?
+  - podDescription: >-
       Timber Pool Decking looks great and will last a life time when properly
       designed and built to exacting standards. Special considerations need to
       be addressed at the design stage to ensure a quality finish is achieved
@@ -62,17 +72,7 @@ servicePods:
       steel fasteners must be used within the splash zone of the pool for the
       above mentioned reason, this includes the decking screws.
     podImage: /images/uploads/3.jpg
-    podsTitle: 'Pool Decking for above, and in ground concrete pools.'
-  - podDescription: >-
-      Be it a space to simply sunbathe on or an outdoor entertaining area for
-      all your friends and family, we at Deking can build you a magnificent pool
-      deck to suit your needs which is not only strong and safe but will last
-      for years to come.
-
-
-      Check out our 25 year warranty
-    podImage: /images/uploads/bare_feet_deck.jpg
-    podsTitle: What do you do on your pool deck?
+    podsTitle: Pool Decking for inground concrete pools.
 videoTitle: Video example title here
 videoURL: ''
 bannerTitle: ' Can I build a deck around an above ground pool?'
