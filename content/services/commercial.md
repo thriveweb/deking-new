@@ -25,9 +25,8 @@ accordion:
       building sector. We use quality-tested wood, stainless steel railings &
       fittings, and construction class treated timber for the structure. DeKing
       decks are built absolutely safe for public use.
-    title: >-
-      Responsible deck building practices Commercial decks from DeKing are: 1.
-      Safe
+    title: 1. Safe
+  - title: 'Responsible deck building practices. Commercial decks from DeKing are:'
   - description: >-
       With our extensive experience and specialty knowledge in decks, our
       construction of commercial projects, is professional and reliable. Our use
