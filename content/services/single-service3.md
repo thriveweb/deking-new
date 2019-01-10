@@ -9,11 +9,15 @@ excerpt: >-
   built deck
 welcomeTitle: Swimming Pool Decks
 welcomeDescription: >-
-  Timber Pool Decking looks great and can last a long time if you look after it
-  and the right design is used from the outset. It’s important to make sure you
-  have waterproof, rust proof screws and nails. The deck is going to get wet
-  with the family splashing around. It’s especially important if you have a salt
-  water pool. s
+  Timber Pool Decking looks great and will last a life time when properly
+  designed and built to exacting standards. Special considerations need to be
+  addressed at the design stage to ensure a quality finish is achieved for now
+  and into the future. The frame of the deck has to be made of treated pine with
+  a minimum H3 treatment, a steel frame will not last around a pool with the
+  salt or chlorine corroding the metals within 5 or so years, no where near
+  close to Deking’s 25 year warranty. Stainless steel fasteners must be used
+  within the splash zone of the pool for the above mentioned reason, this
+  incudes the decking screws.
 welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
   - description: >-
