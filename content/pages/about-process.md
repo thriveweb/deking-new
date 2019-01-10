@@ -5,7 +5,7 @@ title: Our Process
 subtitle: >-
   Working together with Deking provides clarity and confidence from initial
   contact to completion in 6 simple steps.
-featuredImage: /images/uploads/deck-design-process.jpg
+featuredImage: /images/uploads/our_process_banner.jpg
 processes:
   - buttonText: ''
     content: >-
