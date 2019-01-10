@@ -88,5 +88,7 @@ bannerButton:
   label: Price guide
 categories:
   - category: Timber Decks
+  - category: Patio Roofs
+  - category: Pool Decking
 ---
 
