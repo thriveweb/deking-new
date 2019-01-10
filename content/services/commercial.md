@@ -19,6 +19,7 @@ welcomeDescription: >-
   construction team.
 welcomeImage: /images/uploads/dsc_0484.jpg
 accordion:
+  - title: 'Responsible deck building practices. Commercial decks from DeKing are:'
   - description: >-
       All Deking’s commercial decks are constructed according to the safety
       standards and industry guidelines for the Queensland and New South Wales
@@ -26,7 +27,6 @@ accordion:
       fittings, and construction class treated timber for the structure. DeKing
       decks are built absolutely safe for public use.
     title: 1. Safe
-  - title: 'Responsible deck building practices. Commercial decks from DeKing are:'
   - description: >-
       With our extensive experience and specialty knowledge in decks, our
       construction of commercial projects, is professional and reliable. Our use
