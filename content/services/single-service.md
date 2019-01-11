@@ -86,7 +86,7 @@ bannerButton:
   label: Contact Us
   link: Contact
 categories:
-  - category: Patio Roofs
+  - category: Timber Decks
 meta:
   canonicalLink: ''
   description: >-
