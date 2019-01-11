@@ -77,14 +77,19 @@ servicePods:
     podLink: ''
     podsTitle: Glass Fencing & Balustrades
   - podDescription: >-
-      Glass balustrades add a touch of class to any deck, verandah, or balcony.
-      The clean lines make for a very contemporary look 
+      Stainless steel wire balustrades provide an unobstructed view from your
+      deck with a clean and modern look. We use 316 marine grade wires and
+      componentry.
 
 
-      Designed to exceed safety standards with 12mm toughened glass, stainless
-      spigots attached to the deck surface with a handrail of either merbau
-      90x42mm or stainless steel.
-    podImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
+      11 wires are required with 80mm gaps with a handrail height of 1.0m. We
+      typically use a factory swaged system to ensure your safety, the
+      turnbuckles are slimline for a sleek finish.
+
+
+      The handrail is either made of hardwood with 90x90 posts and a top rail of
+      90x42, or stainless steel system is used for lower maintenance
+    podImage: /images/uploads/img_e8861.jpg
     podsTitle: Stainless Steel Wire Balustrades & Handrails
   - podDescription: >-
       Privacy screens are a way to give you and your neighbour the ability to
