@@ -30,8 +30,8 @@ feedback:
     image: /images/uploads/stairway-manly-west-3.jpg
     title: Very happy client
 categories:
-  - category: Patio Roofs
   - category: Timber Decks
+  - category: Gazebos & Outdoor Rooms
 meta:
   canonicalLink: ''
   description: ''
