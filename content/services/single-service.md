@@ -3,7 +3,7 @@ template: SingleService
 title: Timber decks
 status: Featured
 date: '2018-01-27'
-featuredImage: /images/uploads/bracken-ridge-3-.jpg
+featuredImage: /images/uploads/deck-1-2.jpg
 excerpt: 'Value, quality, longevity, and style.'
 welcomeTitle: 'Timber Decking, A Forest of Options'
 welcomeDescription: >-
@@ -71,7 +71,7 @@ servicePods:
       board width of 90mm is the most common, but we provide boards up to 140mm
       wide when needed. Our timber decking solutions can be built over existing
       concrete or tiles.
-    podImage: /images/uploads/landscape-gazebo.jpg
+    podImage: /images/uploads/11.jpg
     podLink: /images/uploads/1.jpg
     podsTitle: Timber Decking Materials
   - podDescription: Dekings deck are s...
