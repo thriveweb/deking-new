@@ -75,7 +75,7 @@ servicePods:
     podLink: /images/uploads/1.jpg
     podsTitle: Timber Decking Materials
   - podDescription: Dekings deck are s...
-    podImage: /images/uploads/roofing-1024x768.png
+    podImage: /images/uploads/bracken-ridge-4.jpg
     podsTitle: The devil is in the detail
 videoTitle: Video example title here
 videoURL: /images/uploads/video.mp4
