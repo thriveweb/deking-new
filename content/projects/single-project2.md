@@ -24,8 +24,8 @@ feedback:
     image: /images/uploads/25-year-warranty-shutterstock.jpg
     title: 25 Year Warranty
 categories:
-  - category: Patio Roofs
   - category: Timber Decks
+  - category: Gazebos & Outdoor Rooms
 meta:
   canonicalLink: ''
   description: ''
