@@ -31,7 +31,7 @@ servicePods:
       your lifestyle. At DeKing, we believe that you should be able to enjoy the
       outdoors from your deck without harming the environment.
     podImage: /images/uploads/deking_0421.jpg
-    podsTitle: ECO Decking Types and Services Australia
+    podsTitle: ECO Decking Types and Services
   - podDescription: >-
       EKODEKING offers an array of excellent composite eco decking materials to
       meet all of our customers’ needs. Although these materials present the
