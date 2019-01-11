@@ -88,7 +88,7 @@ bannerButton:
   label: test
   link: Contact
 categories:
-  - category: ''
+  - category: Eco Decking
 meta:
   description: >-
     ECO Decking - At DeKing, we believe that you should be able to enjoy the
