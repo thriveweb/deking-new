@@ -60,7 +60,16 @@ servicePriceDescription:
 servicePods:
   - podDescription: >-
       Your patio roof may be a quiet place to relax with a good book, or a
-      boisterous night with your mates with the footy on the big screen
+      boisterous night with your mates with the footy on the big screen. 
+
+
+      It could be that you just need some extra space for the growing family or
+      a weather proof spot for the ping pong table.
+
+
+      Patio roofs are a very cost effective way to extend your homes living area
+      without the huge cost of a full renovation. The Deking team are all
+      qualified tradespeople who will bring your ideas to life.
     podImage: /images/uploads/patios-verandah-carport-outback-cooldek-19.jpg
     podsTitle: What will you do under your Patio Roof?
   - podDescription: >-
@@ -82,7 +91,7 @@ servicePods:
       2. Fascia riser bracket. This method does not penetrate the roof surface
       but is instead fixed to the side of the house roof rafter and protrudes
       through the fascia, just under the gutter.
-    podImage: /images/uploads/16.jpg
+    podImage: /images/uploads/deck-4-2.jpg
     podsTitle: Flyover or Raised Patio Roof
   - podDescription: >-
       Timber patios are a way of life in Queensland. You may remember the famous
@@ -99,7 +108,7 @@ servicePods:
       you’re looking for a timber patio to refresh, revive, and revolutionise
       your current living space, get in touch with us at DeKing. We can design
       and build the perfect patio for you!
-    podImage: /images/uploads/img_8629.jpg
+    podImage: /images/uploads/2.jpg
     podLink: ''
     podsTitle: Replacing old Patios
 videoTitle: Stratco advertising that we built!
