@@ -86,16 +86,19 @@ servicePods:
     podsTitle: Flyover or Raised Patio Roof
   - podDescription: >-
       Timber patios are a way of life in Queensland. You may remember the famous
-      GANGgajang song, Sounds Of Then, that captured the essence of life on a
+      GANGgajang song, "Sounds Of Then", that captured the essence of life on a
       patio so perfectly. As the song goes, ‘Out on the patio we sit / and the
       humidity we breathe / we’d watch the lightning crack over canefields /
       laugh and think, this is Australia’. It’s practically in our blood—no
-      wonder we love patios so much!  But timber patios provide much more than
-      just a great view. They’re also the perfect way to extend your living
-      area, create that outdoor entertainment space you’ve always wanted, or
-      compliment a pool.  So if you’re looking for a timber patio to refresh,
-      revive, and revolutionise your current living space, get in touch with us
-      at DeKing Decks. We can design and build the perfect patio deck for you!
+      wonder we love patios so much!  
+
+
+      But timber patios provide much more than just a great view. They’re also
+      the perfect way to extend your living area, create that outdoor
+      entertainment space you’ve always wanted, or compliment a pool.  So if
+      you’re looking for a timber patio to refresh, revive, and revolutionise
+      your current living space, get in touch with us at DeKing. We can design
+      and build the perfect patio for you!
     podImage: /images/uploads/img_8629.jpg
     podLink: ''
     podsTitle: Replacing old Patios
