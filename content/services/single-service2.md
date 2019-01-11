@@ -102,12 +102,12 @@ servicePods:
       wonder we love patios so much!  
 
 
-      But timber patios provide much more than just a great view. They’re also
-      the perfect way to extend your living area, create that outdoor
-      entertainment space you’ve always wanted, or compliment a pool.  So if
-      you’re looking for a timber patio to refresh, revive, and revolutionise
-      your current living space, get in touch with us at DeKing. We can design
-      and build the perfect patio for you!
+      Timber patios provide much more than just a great view. They’re also the
+      perfect way to extend your living area, create that outdoor entertainment
+      space you’ve always wanted, or compliment a pool.  So if you’re looking
+      for a timber patio to refresh, revive, and revolutionise your current
+      living space, get in touch with us at DeKing. We can design and build the
+      perfect patio for you!
     podImage: /images/uploads/2.jpg
     podLink: ''
     podsTitle: Replacing old Patios
