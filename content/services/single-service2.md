@@ -65,17 +65,14 @@ servicePods:
     podsTitle: What will you do under your Patio Roof?
   - podDescription: >-
       The flyover or raised patio roof is by far the most popular patio roof
-      being built today.
-
-
-      With the advantage of the extra ceiling height which matches the height
-      inside your home along with the added benefit of cross ventilation and a
-      reduction in heat transfer to the space below.
+      being built today. With the advantage of the extra ceiling height which
+      matches the height inside your home along with the added benefit of cross
+      ventilation and a reduction in heat transfer to the space below.
 
 
       There are 2 methods of creating the lift above the house roof, with both
       systems fully engineered to meet Australian standards and cyclonic
-      conditions
+      conditions.
 
 
       1. Extenda brackets or SHS posts. These protrude through the roof surface
@@ -84,7 +81,7 @@ servicePods:
 
       2. Fascia riser bracket. This method does not penetrate the roof surface
       but is instead fixed to the side of the house roof rafter and protrudes
-      through the fascia, just under the gutter
+      through the fascia, just under the gutter.
     podImage: /images/uploads/16.jpg
     podsTitle: Flyover or Raised Patio Roof
   - podDescription: >-
