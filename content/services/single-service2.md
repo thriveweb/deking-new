@@ -24,13 +24,9 @@ accordion:
       provide a low maintenance roof for your additional space needs
     title: Flat or Skillion
   - description: >-
-      The Cooldek roofing sheets come in 2 roofing profiles: Classic (Trim deck)
-      and Corrugated with a total of 8 colours to choose from to match your
-      home. 3 thicknesses of 50mm, 75mm, and 100mm allow for spans from 5100mm
-      to 7200mm without the need for additional beams. The ceiling is available
-      in 3 profiles: Smooth, V-Line, and Silkline with 3 colours of Off White,
-      Alpine White, and Classic Cream 
-    title: Cooldek Insulated Roofing
+      Cooldek insulated roofing is the modern approach to the popular Outback
+      roof. 
+    title: Insulated roofing
   - description: >-
       The popular new look in patio roofs is the insulated flyover roof. A
       flyover roof gives you extra headroom, a sense of open space, and the
@@ -111,6 +107,28 @@ servicePods:
     podImage: /images/uploads/2.jpg
     podLink: ''
     podsTitle: Replacing old Patios
+  - podDescription: >-
+      Insulated roofing offers a clean and simple alternative to conventional
+      building methods with many advantages including:
+
+
+      * Pre painted with a choice of colours
+
+      * Insulated core to stop reflective heat and dampen noise from rain.
+
+      * Ceiling like underside
+
+      * Ability to add lighting and fans
+
+
+      The Cooldek roofing sheets come in 2 roofing profiles: Classic (Trim deck)
+      and Corrugated with a total of 8 colours to choose from to match your
+      home. 3 thicknesses of 50mm, 75mm, and 100mm allow for spans from 5100mm
+      to 7200mm without the need for additional beams. The ceiling is available
+      in 3 profiles: Smooth, V-Line, and Silkline with 3 colours of Off White,
+      Alpine White, and Classic Cream
+    podImage: /images/uploads/patios-verandah-carport-outback-cooldek-27.jpg
+    podsTitle: Insulated Roofing
 videoTitle: Stratco advertising that we built!
 videoURL: ''
 bannerTitle: Easter Special Free Egg Chair
