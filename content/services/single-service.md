@@ -4,7 +4,7 @@ title: Timber decks
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
-excerpt: 'Value, quality, longevity, and style.'
+excerpt: 'A Deking Deck will add Value, quality, longevity, and style to your home.'
 welcomeTitle: 'Timber Decking, A Forest of Options'
 welcomeDescription: >-
   DeKing offers a variety of different timber decking applications. We build
