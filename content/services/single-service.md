@@ -54,9 +54,9 @@ servicePods:
       DeKing provides a wide array of timber decking materials to build the deck
       or patio of your dreams. Each of our materials performs well in different
       situations. Your decision should depend on your application and your own
-      unique style. Our most popular products are Merbau and/or Kwila. It offers
-      a reeded underside with a very smooth top side and a great density rating
-      to prevent termites
+      unique style. Our most popular products are Merbau (Intsia bijuga),
+      sometimes known as Kwila. It offers a reeded underside with a very smooth
+      top side and a great density rating to prevent termites
 
 
       Merbau performs well in many applications due to its density, toughness
