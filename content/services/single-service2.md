@@ -3,7 +3,7 @@ template: SingleService
 title: Patio Roofs
 status: Featured
 date: '2018-02-20'
-featuredImage: /images/uploads/deking-decks-brisbane-deck-patio-combination-ideas.jpg
+featuredImage: /images/uploads/patios-verandah-carport-outback-cooldek-07.jpg
 excerpt: >-
   Get outside - no matter what the weather!
 
