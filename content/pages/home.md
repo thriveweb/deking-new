@@ -42,7 +42,7 @@ teamDescription: >-
   to help and can simply make it happen.
 teamImage: /images/uploads/team.jpg
 teamButton:
-  label: Decks and Patios
+  label: Timber Decks
   link: timber-decks
 benefits:
   - description: >-
