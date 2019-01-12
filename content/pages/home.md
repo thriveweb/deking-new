@@ -20,7 +20,7 @@ bannerDescription: >
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
-  link: quote-calculator
+  link: about/guarantees/
 teamTitle: DeKing Decks – Brisbane & Gold Coast – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
