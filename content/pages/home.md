@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-video: /images/banner-video.mp4
+video: /images/uploads/homepage-video.mov
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/pool-decks.jpg
 featureButton:
@@ -19,7 +19,7 @@ bannerDescription: >
   when a yearly maintenance package is agreed into, this can be done at any
   stage up to the free 12 month deck check.  This warranty covers all materials
   and workmanship. T & C's apply*
-bannerImage: ''
+bannerImage: /images/uploads/25-year-warranty-shutterstock.jpg
 bannerButton:
   label: Enquire
   link: quote-calculator
