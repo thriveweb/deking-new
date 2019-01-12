@@ -89,6 +89,7 @@ partnerLogos:
   - link: 'https://au.trex.com/'
     logo: /images/uploads/trex.png
   - logo: /images/uploads/25-year-warranty-shutterstock.jpg
+  - logo: /images/uploads/logo.png
 meta:
   canonicalLink: ''
   description: >-
