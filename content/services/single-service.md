@@ -56,12 +56,9 @@ servicePods:
       situations. Your decision should depend on your application and your own
       unique style. Our most popular products are Merbau (Intsia bijuga),
       sometimes known as Kwila. It offers a reeded underside with a very smooth
-      top side and a great density rating to prevent termites
-
-
-      Merbau performs well in many applications due to its density, toughness
-      and durability. Many of our timber decking clients love Merbau for its
-      deep red-brown colour and even finish.
+      top side and a great density rating to prevent termites. Many of our
+      timber decking clients love Merbau for its deep red-brown colour and even
+      finish.
 
 
       Brisbane residents who live in a Queenslander style home prefer the look
