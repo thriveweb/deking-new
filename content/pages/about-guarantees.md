@@ -32,7 +32,12 @@ guarantees:
     remove all our building waste and leave your property tidy
   title: 25 Year Structural Warranty*
 bannerTitle: Guarantees
-bannerDescription: Our Guarantee's to give you piece of mind
+bannerDescription: >-
+  Our Guarantee's to give you piece of mind.
+
+  As we are confident that our workmanship and materials used are of the highest
+  standard we are pleased to be able to offer you a 25 year warranty. T's & C's
+  apply*
 bannerImage: /images/uploads/1.jpg
 bannerButton:
   label: Enquire
