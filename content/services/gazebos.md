@@ -11,7 +11,7 @@ welcomeDescription: >-
   materials. Although we build all kinds of outdoor decks, patios and pergolas,
   we also specialise in building customisable gazebos. Brisbane residents know
   that they can rely on DeKing to make their gazebo dreams a reality.
-welcomeImage: /images/uploads/coroy4.jpg
+welcomeImage: /images/uploads/alfresco3-1024x897.jpg
 accordion: []
 servicePriceTitle: Gazebos
 QuoteTitle: Pine framing or Hardwood framing
@@ -22,6 +22,11 @@ servicePriceDescription:
     size: 4mx 4m
 servicePods:
   - podDescription: >-
+      Are you after a quiet place to be with your partner or need an
+      entertaining area for your family and friends, an outdoor room solve your
+      problem of not enough space in the house
+
+
       An outdoor room is a cost effective way of adding a new room to your home,
       increasing its value and adding real value to your outdoor living
       lifestyle.
@@ -30,8 +35,8 @@ servicePods:
 
       Show us your requirements and we will bring your dream alive with sound
       advice and tradespeople with top notch skills.
-    podImage: /images/uploads/alfresco3-1024x897.jpg
-    podsTitle: Outdoor Rooms
+    podImage: /images/uploads/patios-verandah-carport-outback-gable-22.jpg
+    podsTitle: What do you do in your Outdoor Room?
   - podDescription: >-
       For customers looking for a great addition to the outdoor space on their
       property, a custom gazebo from DeKing can be a perfect option. Our
@@ -86,8 +91,11 @@ servicePods:
     podsTitle: From First Contact to Gazebo Completion
 videoTitle: ' '
 videoURL: ''
-bannerTitle: ''
-bannerDescription: ''
+bannerTitle: Easter Special
+bannerDescription: >-
+  Order your new Gazebo or Outdoor Room before Easter and we will give you a
+  Free Egg Chair, ask us for details
+bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Contact Us
   link: Contact
