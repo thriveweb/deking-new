@@ -66,7 +66,7 @@ servicePods:
       Patio roofs are a very cost effective way to extend your homes living area
       without the huge cost of a full renovation. The Deking team are all
       qualified tradespeople who will bring your ideas to life.
-    podImage: /images/uploads/dekingdecks1.jpg
+    podImage: /images/uploads/patio_coffee_cake.jpg
     podsTitle: What will you do under your Patio Roof?
   - podDescription: >-
       The flyover or raised patio roof is by far the most popular patio roof
