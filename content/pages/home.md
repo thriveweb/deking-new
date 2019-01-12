@@ -17,7 +17,7 @@ bannerDescription: >
   As we are confident that our workmanship and materials used are of the highest
   standard we are pleased to be able to offer you a 25 year warranty. T's & C's
   apply*
-bannerImage: /images/uploads/10.jpg
+bannerImage: /images/uploads/banner-25-year-warranty.png
 bannerButton:
   label: Enquire
   link: quote-calculator
