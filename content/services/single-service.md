@@ -77,8 +77,8 @@ servicePods:
   - podDescription: Dekings deck are s...
     podImage: /images/uploads/bracken-ridge-4.jpg
     podsTitle: The devil is in the detail
-videoTitle: Video example title here
-videoURL: /images/uploads/video.mp4
+videoTitle: ''
+videoURL: ''
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/egg-chair.png
