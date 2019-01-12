@@ -62,7 +62,7 @@ servicePods:
 
 
       Brisbane residents who live in a Queenslander style home prefer the look
-      of Spotted Gum or some sort of Australian Mixed species. This type of
+      of Spotted Gum or some type of Australian Mixed species. This type of
       decking is more rustic with natural gum lines for character.
     podImage: /images/uploads/11.jpg
     podLink: ''
