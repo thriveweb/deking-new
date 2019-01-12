@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-video: /images/uploads/homepage-video.mov
+video: /images/uploads/pooldecking.mov
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/pool-decks.jpg
 featureButton:
@@ -71,7 +71,7 @@ videoContent: >-
   short of a minor miracle compared with all the other trades I have dealt with
   over the past 5 months whilst doing a major house renovation. I highly
   recommend Deking.
-videoURL: /images/uploads/homepage-video.mov
+videoURL: /images/uploads/pooldecking.mov
 priceTitle: Price Guide
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
