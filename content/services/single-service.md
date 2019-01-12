@@ -82,7 +82,7 @@ servicePods:
 
       All our decks are pictured framed to protect the ends of the decking
       boards, with a decking board fascia to cover the deck frame. Corners are
-      beautifully mitred from by our carpenters craftsmanship.
+      beautifully mitred by the craftsmanship or our carpenters.
     podImage: /images/uploads/bracken-ridge-4.jpg
     podsTitle: What makes a Deking Deck so special?
   - podDescription: >-
