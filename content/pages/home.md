@@ -15,11 +15,9 @@ servicesTitle: How can we help you today?
 bannerTitle: 25 Year Guarantee
 bannerDescription: >
   As we are confident that our workmanship and materials used are of the highest
-  standard we are pleased to be able to offer you an extended 25 year warranty
-  when a yearly maintenance package is agreed into, this can be done at any
-  stage up to the free 12 month deck check.  This warranty covers all materials
-  and workmanship. T & C's apply*
-bannerImage: /images/uploads/deking-pty-ltd-pool-deking.jpg
+  standard we are pleased to be able to offer you a 25 year warranty. T's & C's
+  apply*
+bannerImage: /images/uploads/show_home_claredon_gazebo.jpg
 bannerButton:
   label: Enquire
   link: quote-calculator
