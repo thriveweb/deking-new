@@ -42,8 +42,8 @@ teamDescription: >-
   to help and can simply make it happen.
 teamImage: /images/uploads/team.jpg
 teamButton:
-  label: Meet the team
-  link: /about/team
+  label: Decks and Patios
+  link: timber-decks
 benefits:
   - description: >-
       Decks are a great way to significantly increase the living space of your
