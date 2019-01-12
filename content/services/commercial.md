@@ -105,16 +105,18 @@ servicePods:
       esplanades for City Councils. Our decks for community areas are
       constructed to withstand the elements and designed to endure high traffic
       use.
-    podImage: /images/uploads/newstead.png
+    podImage: /images/uploads/newstead.jpg
     podsTitle: 'Deking’s projects include:'
 videoTitle: ''
-videoURL: ''
-bannerTitle: ''
-bannerDescription: ''
+videoURL: /images/uploads/ee98aec45f32ee80141aabff3e02ef32.jpg
+bannerTitle: 'Deking project manage your job '
+bannerDescription: >-
+  We take the hassle out of your project to ensure your deck is built on time
+  and on budget. Call us for a meeting to discuss your needs
 bannerImage: ''
 bannerButton:
-  label: Price Guide
-  link: '?'
+  label: Contact Us
+  link: Contact
 categories:
   - category: 'Commercial '
 meta:
