@@ -12,8 +12,7 @@ welcomeDescription: >-
   and texture as real timber materials, they are constructed from recycled wood
   and plastic.
 welcomeImage: /images/uploads/pros-and-cons-of-eco-friendly-decking.jpg
-accordion:
-  - title: ''
+accordion: []
 servicePriceTitle: Price Guide
 QuoteTitle: Contact us for more information
 servicePriceDescription:
@@ -30,6 +29,9 @@ servicePods:
       recycled decking services present the ultimate eco decking options to meet
       your lifestyle. At DeKing, we believe that you should be able to enjoy the
       outdoors from your deck without harming the environment.
+
+
+      ![ekodeking](/images/uploads/logo.png)
     podImage: /images/uploads/deking_0421.jpg
     podsTitle: ECO Decking Types and Services
   - podDescription: >-
@@ -60,13 +62,14 @@ servicePods:
     podsTitle: Responsible Timber
   - podDescription: >-
       At EKODEKING, we strive to go above and beyond in our commitment to eco
-      decking and good environmental practices. Our EKODEKING Replant Program
+      decking and good environmental practices. Our EKODEKING Replant Programme
       plants one tree for every 20 square meters of decking built. Each tree is
       planted on the spot of your choice as the customer. We also go the extra
       mile by limiting and recycling waste during the construction process. At
       our office, we conserve the environment through the use of recycled office
       products and energy-efficient appliances.
     podImage: /images/uploads/trex-sample.jpg
+    podsTitle: Replant Programme
   - podDescription: >-
       DeKing understands the responsibility behind its character as being a
       reputable builder. As a proud member of the wider community, DeKing not
