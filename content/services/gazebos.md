@@ -14,7 +14,7 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/alfresco3-1024x897.jpg
 accordion: []
 servicePriceTitle: Gazebos
-QuoteTitle: Pine framing or Hardwood framing
+QuoteTitle: Pine framing - Hardwood framing
 servicePriceDescription:
   - materials: Hardwood posts and colorbond roofing
     max: $6000.00
