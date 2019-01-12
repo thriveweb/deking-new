@@ -19,7 +19,7 @@ bannerDescription: >
   when a yearly maintenance package is agreed into, this can be done at any
   stage up to the free 12 month deck check.  This warranty covers all materials
   and workmanship. T & C's apply*
-bannerImage: /images/uploads/25-year-warranty-shutterstock.jpg
+bannerImage: /images/uploads/deking-pty-ltd-pool-deking.jpg
 bannerButton:
   label: Enquire
   link: quote-calculator
