@@ -108,12 +108,13 @@ servicePods:
     podImage: /images/uploads/newstead.jpg
     podsTitle: 'Deking’s projects include:'
 videoTitle: ''
-videoURL: /images/uploads/ee98aec45f32ee80141aabff3e02ef32.jpg
+videoURL: ''
 bannerTitle: 'Deking project manage your job '
 bannerDescription: >-
   We take the hassle out of your project to ensure your deck is built on time
   and on budget. Call us for a meeting to discuss your needs
-bannerImage: ''
+bannerImage: >-
+  /images/uploads/commercial-timber-deck-southport-gold-coast-deking-decks-queensland-deck-builders.jpg
 bannerButton:
   label: Contact Us
   link: Contact
