@@ -44,39 +44,59 @@ servicePods:
       Whatever your reason, we at Deking can create your ideal space that is an
       enjoyable building experience and will give you years of enjoyable outdoor
       living
+
+
+      All our decks are backed with a 25 year warranty so sit back, enjoy the
+      process of your new build and relax on your new Deking Deck
     podImage: /images/uploads/girl_pet_dog_deck.jpg
     podsTitle: What will you use your timber deck for?
   - podDescription: >-
       DeKing provides a wide array of timber decking materials to build the deck
       or patio of your dreams. Each of our materials performs well in different
       situations. Your decision should depend on your application and your own
-      unique style. Our most popular products are Merbau and Kwila.  Merbau
-      Merbau is an imported hardwood from Indonesia. It offers a reeded top
-      surface and a great density rating of 850. It performs well in many
-      applications due to its density, toughness and durability. Many of our
-      timber decking customers love Merbau for its deep red-brown colour.  Kwila
-      Kwila provides an excellent alternative to pine for timber decking.
-      Brisbane residents rely on the stability and durability of Kwila for their
-      decks and patios. This hardwood originates in Papua New Guinea and comes
-      in board lengths of 1.8 meters to 5.4 meters. Kwila also offers a variety
-      of different colours from pale brown to dark red-brown.  Treated cypress
-      pine or standard pine For customers on a limited budget, DeKing is happy
-      to provide treated cypress pine or standard pine. Although most pine
-      products suffer from some disadvantages, they make good timber decking due
-      to their affordability, availability and longevity. Just watch out for
-      treated pine products in applications that cannot handle chemicals. The
-      chemicals in treated pine can slowly leak into the surrounding area if the
-      decking is not well maintained.  Size and Building options DeKing offers
-      an assortment of different size options for all materials. A standard
-      board width of 90mm is the most common, but we provide boards up to 140mm
-      wide when needed. Our timber decking solutions can be built over existing
-      concrete or tiles.
+      unique style. Our most popular products are Merbau and/or Kwila. It offers
+      a reeded underside with a very smooth top side and a great density rating
+      to prevent termites
+
+
+      Merbau performs well in many applications due to its density, toughness
+      and durability. Many of our timber decking clients love Merbau for its
+      deep red-brown colour and even finish.
+
+
+      Brisbane residents who live in a Queenslander style home prefer the look
+      of Spotted Gum or some sort of Australian Mixed species. This type of
+      decking is more rustic with natural gum lines for character. 
+
+
+      A standard board width of 90mm is the most common, but we provide boards
+      up to 140mm wide which works well on a larger decks
+
+
+      Our timber decking solutions can be built over existing concrete or tiles
+      within an alfresco area to difficult sloping sites that requires large
+      footings and special engineering design.
     podImage: /images/uploads/11.jpg
-    podLink: /images/uploads/1.jpg
+    podLink: ''
     podsTitle: Timber Decking Materials
-  - podDescription: Dekings deck are s...
+  - podDescription: >-
+      Dekings decks are backed with a 25 year warranty, so to maintain this
+      standard there are a lot of things that go on above, and below the decking
+      surface.
+
+
+      A good deck has to start with a good foundation, following through a
+      strong frame and finished with finely finished laid decking
+
+
+      All our decks are pictured framed to protect the ends of the decking
+      boards, with a decking board fascia to cover the deck frame. Corners are
+      beautifully mitred from by our carpenters craftsmanship 
+
+
+      ![Deck detail](/images/uploads/hervey-bay-006.jpg)
     podImage: /images/uploads/bracken-ridge-4.jpg
-    podsTitle: The devil is in the detail
+    podsTitle: What makes a Deking Deck so special?
 videoTitle: pool decking
 videoURL: /images/uploads/untitled.mov
 bannerTitle: Easter Special Free Egg Chair
