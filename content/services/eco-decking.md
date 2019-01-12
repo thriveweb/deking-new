@@ -42,12 +42,14 @@ servicePods:
       composite materials feel better on the feet than real timber.
 
 
-
-
       The composite material option is not only eco-friendly, but it is also
       extremely durable and requires almost zero maintenance. We source our eco
-      decking materials from a variety of different suppliers such as
-      Futurewood, Expresswood, ModWood, CorrectDeck, Ekodeck and more.
+      decking materials from a variety of different suppliers such as Trex,
+      TimberTech, ZHU, and more.
+
+
+      All our composite decking is "capped" to all sides unlike a lot of
+      inferior brands being sold in Australia
     podImage: /images/uploads/img_9615.jpg
     podsTitle: Composite Decking
   - podDescription: >-
@@ -58,6 +60,10 @@ servicePods:
       sourced from sustainable forests and woodlands. Get the benefits of real
       timber without harming the environment with responsibly sourced timber
       materials.
+
+
+      Our Merbau hardwood timbers come with a certificate of certified
+      responsibly sourced Merbau
     podImage: /images/uploads/modwood-detail.jpg
     podsTitle: Responsible Timber
   - podDescription: >-
