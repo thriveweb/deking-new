@@ -66,16 +66,7 @@ servicePods:
 
       Brisbane residents who live in a Queenslander style home prefer the look
       of Spotted Gum or some sort of Australian Mixed species. This type of
-      decking is more rustic with natural gum lines for character. 
-
-
-      A standard board width of 90mm is the most common, but we provide boards
-      up to 140mm wide which works well on a larger decks
-
-
-      Our timber decking solutions can be built over existing concrete or tiles
-      within an alfresco area to difficult sloping sites that requires large
-      footings and special engineering design.
+      decking is more rustic with natural gum lines for character.
     podImage: /images/uploads/11.jpg
     podLink: ''
     podsTitle: Timber Decking Materials
@@ -91,12 +82,19 @@ servicePods:
 
       All our decks are pictured framed to protect the ends of the decking
       boards, with a decking board fascia to cover the deck frame. Corners are
-      beautifully mitred from by our carpenters craftsmanship 
-
-
-      ![Deck detail](/images/uploads/hervey-bay-006.jpg)
+      beautifully mitred from by our carpenters craftsmanship.
     podImage: /images/uploads/bracken-ridge-4.jpg
     podsTitle: What makes a Deking Deck so special?
+  - podDescription: >-
+      A standard board width of 90mm is the most common, but we provide boards
+      up to 140mm wide which works well on a larger decks
+
+
+      Our timber decking solutions can be built over existing concrete or tiles
+      within an alfresco area to difficult sloping sites that requires large
+      footings and special engineering design.
+    podImage: /images/uploads/21.jpg
+    podsTitle: What style of Deck do you need?
 videoTitle: pool decking
 videoURL: /images/uploads/untitled.mov
 bannerTitle: Easter Special Free Egg Chair
