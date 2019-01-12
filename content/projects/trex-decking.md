@@ -20,6 +20,6 @@ accordion:
     title: 25 Year Warranty
 categories:
   - category: Pool Decking
-  - category: Timber Decks
+  - category: Eco Decking
 ---
 
