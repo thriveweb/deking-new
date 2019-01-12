@@ -3,7 +3,7 @@ template: SingleService
 title: Patio Roofs
 status: Featured
 date: '2018-02-20'
-featuredImage: /images/uploads/gable-clearspan-04.jpg
+featuredImage: /images/uploads/deking-decks-brisbane-deck-patio-combination-ideas.jpg
 excerpt: >-
   Get outside - no matter what the weather!
 
@@ -15,7 +15,7 @@ welcomeDescription: >-
   harsh sun and Queensland's storms. Yoga, table tennis, pool table, treadmill
   training, watching the footy, or bird-watching are all great activities that
   you can do from a patio. Along with entertaining your family and friends.
-welcomeImage: /images/uploads/gable-clearspan-04.jpg
+welcomeImage: /images/uploads/patios-verandah-carport-outback-cooldek-19.jpg
 accordion:
   - description: >-
       The Stratco Outback patio roof is the classic patio roof, with its simple
@@ -66,7 +66,7 @@ servicePods:
       Patio roofs are a very cost effective way to extend your homes living area
       without the huge cost of a full renovation. The Deking team are all
       qualified tradespeople who will bring your ideas to life.
-    podImage: /images/uploads/patios-verandah-carport-outback-cooldek-19.jpg
+    podImage: /images/uploads/dekingdecks1.jpg
     podsTitle: What will you do under your Patio Roof?
   - podDescription: >-
       The flyover or raised patio roof is by far the most popular patio roof
