@@ -17,7 +17,10 @@ welcomeDescription: >-
   entry patios, the Deking team has a wealth of design and construction
   experience to bring to any decking project.
 welcomeImage: /images/uploads/7.jpg
-accordion: []
+accordion:
+  - title: Decks Brisbane
+  - title: Decking Gold Coast
+  - title: Decks Sunshine Coast
 servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate for your custom deck
 servicePriceDescription:
