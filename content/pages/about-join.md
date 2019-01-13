@@ -3,7 +3,7 @@ template: JoinPage
 slug: about/join
 title: Join Our Team
 subtitle: Do you enjoy building relationships and take pride in your craft?
-featuredImage: /images/uploads/boys2-1024x682.jpg
+featuredImage: /images/uploads/deking-boys.jpg
 join:
   content: >-
     We are always on the lookout for motivated and enthusiastic team members
