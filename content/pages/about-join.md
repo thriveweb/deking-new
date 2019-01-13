@@ -3,7 +3,7 @@ template: JoinPage
 slug: about/join
 title: Join Our Team
 subtitle: Do you enjoy building relationships and take pride in your craft?
-featuredImage: /images/uploads/fullsizeoutput_215e.jpeg
+featuredImage: /images/uploads/yvb-001af4i4351-edited-with-tooth-1-.jpg
 join:
   content: >-
     We are always on the lookout for motivated and enthusiastic team members
