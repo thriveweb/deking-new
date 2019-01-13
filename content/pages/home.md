@@ -87,7 +87,7 @@ partnerLogos:
   - logo: /images/uploads/25-year-warranty-shutterstock.jpg
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
-  - logo: /images/uploads/logo.png
+  - logo: /images/uploads/ekodeking.jpg
 meta:
   canonicalLink: ''
   description: >-
