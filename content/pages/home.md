@@ -87,8 +87,6 @@ partnerLogos:
   - logo: /images/uploads/25-year-warranty-shutterstock.jpg
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
-  - link: 'https://au.trex.com/'
-    logo: /images/uploads/trex.png
   - logo: /images/uploads/logo.png
 meta:
   canonicalLink: ''
