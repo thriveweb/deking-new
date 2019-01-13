@@ -43,12 +43,16 @@ bannerButton:
 qualificationsTitle: Our Guarantees
 qualificationsLogos:
   - logo: /images/uploads/25-year-warranty-shutterstock.jpg
-  - link: guarantees
-    logo: /images/uploads/deking_seal_deckcheck.jpg
+  - link: ecodecking
+    logo: /images/uploads/ekodeking.jpg
   - link: guarantees
     logo: /images/uploads/patios-stratco-outback-warranty-1.png
   - link: guarantees
+    logo: /images/uploads/deking_seal_deckcheck.jpg
+  - link: guarantees
     logo: /images/uploads/deking_seal_tidyman.jpg
+  - link: commercial
+    logo: /images/uploads/12_year_seal.jpg
 meta:
   canonicalLink: ''
   description: >-
