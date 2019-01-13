@@ -5,26 +5,17 @@ status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
 excerpt: 'A Deking Deck will add Value, quality, longevity, and style to your home.'
-welcomeTitle: 'Timber Decking, A Forest of Options'
+welcomeTitle: Brisbane and Gold Coast Specialist Deck Builder
 welcomeDescription: >-
-  DeKing offers a variety of different timber decking applications. We build
-  high-quality commercial and residential decks for outdoor kitchens, patios and
-  pergolas. From second-story patios to large covered outdoor kitchens, DeKing
-  meets any need for timber decking. Our clients enjoy the quality workmanship
-  and customised design process during construction.  Pool decking represents a
-  big headache for many people in the Brisbane and coastal areas. In many cases,
-  pool decks fail from exposure to constant moisture and pool chemicals. Getting
-  the right timber decking from DeKing around your pool makes a huge difference.
-  Timber pool decking offers a great look and can last for a long period of time
-  if it is maintained properly.  While some of our customers enjoy oiling and
-  sanding their timber decking, others despise the thought of working on the
-  deck. If you don’t want to spend any time maintaining your timber pool deck,
-  DeKing can recommend some service companies to help you maintain your deck. We
-  also ensure that only water and rustproof screws will be used during
-  construction. Timber pool decking can be done for unusual pool layouts,
-  sloping blocks and above ground pools. DeKing can build a timber deck around
-  your pool from scratch, or replace an old deck with a brand new timber pool
-  deck.
+  Deking designs, builds, maintains and restores high quality commercial and
+  residential decks. Dekings design and construction service comes with a 25
+  year guarantee.  We pride ourselves on working together with our clients to
+  ensure a great result.   Our clients enjoy the quality of our workmanship,
+  customized designs and attention to detail evident in everything down to the
+  quality fittings and screws used as standard on all our projects.  From large
+  outdoor entertaining decks with covered outdoor kitchens to small statement
+  entry patios, the Deking team has a wealth of design and construction
+  experience to bring to any decking project.
 welcomeImage: /images/uploads/7.jpg
 accordion: []
 servicePriceTitle: Price guide
@@ -80,16 +71,20 @@ servicePods:
       All our decks are pictured framed to protect the ends of the decking
       boards, with a decking board fascia to cover the deck frame. Corners are
       beautifully mitred by the craftsmanship or our carpenters.
-    podImage: /images/uploads/bracken-ridge-4.jpg
+    podImage: /images/uploads/img_0451.jpg
     podsTitle: What makes a Deking Deck so special?
   - podDescription: >-
-      A standard board width of 90mm is the most common, but we provide boards
-      up to 140mm wide which works well on a larger decks
+      Be it a small entranceway that needs a Wow statement to building on the
+      side of a cliff, we at Deking can accommodate your needs.
 
 
       Our timber decking solutions can be built over existing concrete or tiles
       within an alfresco area to difficult sloping sites that requires large
       footings and special engineering design.
+
+
+      We're only too happy to work with you to create something that is unique,
+      functional, and provides real value to your property.
     podImage: /images/uploads/21.jpg
     podsTitle: What style of Deck do you need?
 videoTitle: pool decking
