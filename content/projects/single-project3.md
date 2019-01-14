@@ -22,10 +22,12 @@ accordion:
   - description: '$25,000.00 - $30,000.00'
     title: Project cost
 feedback:
-  - description: '25 year warranty on the deck, 15 year warranty for the patio roof'
-    from: Deking Pty Ltd. Stratco
-    image: /images/uploads/25-year-warranty-shutterstock.jpg
-    title: 25 Year Warranty
+  - description: >-
+      We have been enjoying the deck, thanks for organising this David, its
+      great
+    from: Mark
+    image: /images/uploads/iconmaleface.png
+    title: Happy Client
 categories:
   - category: Timber Decks
   - category: Patio Roofs
