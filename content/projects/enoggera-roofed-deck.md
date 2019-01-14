@@ -19,5 +19,8 @@ accordion:
   - title: Traditional style pergola roof
   - title: Louvred privacy screens to both sides of the deck
   - title: Kitchen servery bench
+categories:
+  - category: Timber Decks
+  - category: Pergolas
 ---
 
