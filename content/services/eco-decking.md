@@ -10,7 +10,8 @@ welcomeDescription: >-
   EKODEKING offers an array of excellent composite eco decking materials to meet
   all of our customers’ needs. Although these materials present the same look
   and texture as real timber materials, they are constructed from recycled wood
-  and plastic.
+  and plastic. They offer a low maintenance option to traditional decking
+  timbers and are backed with a 25 year manufacturers warranty
 welcomeImage: /images/uploads/pros-and-cons-of-eco-friendly-decking.jpg
 accordion: []
 servicePriceTitle: Price Guide
