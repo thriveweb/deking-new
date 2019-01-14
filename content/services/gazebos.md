@@ -9,10 +9,16 @@ excerpt: >-
   Pool Houses, & small Extensions.
 welcomeTitle: Gazebos
 welcomeDescription: >-
-  We strive to offer the best service possible and use only the top quality
-  materials. Although we build all kinds of outdoor decks, patios and pergolas,
-  we also specialise in building customisable gazebos. Brisbane residents know
-  that they can rely on DeKing to make their gazebo dreams a reality.
+  For customers looking for a great addition to the outdoor space on their
+  property, a custom gazebo from DeKing can be the perfect option.   DeKing has
+  access to an array of different materials for your build. Although most
+  gazebos utilise timber for decking and structural support, we will be happy to
+  advise you on other materials. Your gazebo roofing is also very important to
+  the design and function of the project. Our roofing options can provide
+  protection from the elements while matching the design and flow of your
+  current home. A wide selection of colours helps improve the aesthetic appeal
+  of your gazebo. High quality brands such as COLORBOND steel provide
+  exceptional durability and performance
 welcomeImage: /images/uploads/alfresco3-1024x897.jpg
 accordion: []
 servicePriceTitle: Gazebos
