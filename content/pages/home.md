@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-video: /images/uploads/video.mp4
+video: /images/uploads/pooldecking.mov
 videoPoster: /images/uploads/1.jpg
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/11.jpg
