@@ -305,9 +305,7 @@ export const pageQuery = graphql`
           }
         }
         videoTitle
-        videoURL {
-          publicURL
-        }
+        videoURL
         bannerImage {
           ...FluidImage
         }

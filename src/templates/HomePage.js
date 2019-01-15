@@ -60,10 +60,7 @@ export const HomePageTemplate = ({
                 muted
                 preload="auto"
               >
-                {video &&
-                  video.publicURL && (
-                    <source src={video.publicURL} type="video/mp4" />
-                  )}
+                {video && <source src={video} type="video/mp4" />}
               </video>
             )}
         </div>
@@ -173,18 +170,17 @@ export const HomePageTemplate = ({
         </div>
       )}
 
-      {videoURL &&
-        videoURL.publicURL && (
-          <div className="VideoSection">
-            <div className="container">
-              <div className="video-introduction">
-                <h2>{videoTitle}</h2>
-                <p>{videoContent}</p>
-              </div>
-              <video src={videoURL.publicURL} controls />
+      {videoURL && (
+        <div className="VideoSection">
+          <div className="container">
+            <div className="video-introduction">
+              <h2>{videoTitle}</h2>
+              <p>{videoContent}</p>
             </div>
+            <video src={videoURL} controls />
           </div>
-        )}
+        </div>
+      )}
 
       <div className="section CalculatorSection light">
         <div className="container">
@@ -320,9 +316,7 @@ export const pageQuery = graphql`
         featuredImage {
           ...FluidImage
         }
-        video {
-          publicURL
-        }
+        video
         videoPoster {
           publicURL
         }
@@ -363,9 +357,7 @@ export const pageQuery = graphql`
           description
         }
         videoTitle
-        videoURL {
-          publicURL
-        }
+        videoURL
         videoContent
         priceTitle
         priceDescription
