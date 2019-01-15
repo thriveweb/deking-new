@@ -106,67 +106,11 @@ export const query = graphql`
       }
     }
   }
-  fragment NoBlurImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp_noBase64
-      }
-    }
-  }
-  fragment TracedImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp_tracedSVG
-      }
-    }
-  }
-  fragment LargeImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 1800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
-      }
-    }
-  }
-  fragment MediumImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
-      }
-    }
-  }
   fragment SmallImage on File {
     publicURL
     childImageSharp {
       sizes(maxWidth: 400, quality: 75) {
         ...GatsbyImageSharpSizes_withWebp
-      }
-    }
-  }
-  fragment LargeImageFixed on File {
-    publicURL
-    childImageSharp {
-      resolutions(width: 1800, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
-      }
-    }
-  }
-  fragment MediumImageFixed on File {
-    publicURL
-    childImageSharp {
-      resolutions(width: 800, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
-      }
-    }
-  }
-  fragment SmallImageFixed on File {
-    publicURL
-    childImageSharp {
-      resolutions(width: 400, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
       }
     }
   }
