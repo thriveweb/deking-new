@@ -35,6 +35,7 @@ export const HomePageTemplate = ({
   benefits,
   videoTitle,
   videoURL,
+  videoPoster,
   videoContent,
   priceTitle,
   priceDescription,
@@ -49,23 +50,24 @@ export const HomePageTemplate = ({
     <main className="Home">
       <div className="home--banner section-image">
         <div className="background-video">
-          <video
-            poster="/images/home-banner.jpg"
-            id="bgvid"
-            playsInline=""
-            autoPlay=""
-            muted=""
-            loop=""
-            preload="auto"
-            muted
-          >
-            {video &&
-              video.publicURL && (
-                <source src={video.publicURL} type="video/mp4" />
-              )}
-          </video>
+          {videoPoster &&
+            videoPoster.publicURL && (
+              <video
+                poster={videoPoster.publicURL}
+                id="bgvid"
+                playsInline
+                autoPlay
+                muted
+                loop
+                preload="auto"
+              >
+                {video &&
+                  video.publicURL && (
+                    <source src={video.publicURL} type="video/mp4" />
+                  )}
+              </video>
+            )}
         </div>
-
         {title && (
           <div className="container relative">
             <h1 id="home-title" className="PageHeader--Title afterTitle">
@@ -320,6 +322,9 @@ export const pageQuery = graphql`
           ...FluidImage
         }
         video {
+          publicURL
+        }
+        videoPoster {
           publicURL
         }
         featureButton {

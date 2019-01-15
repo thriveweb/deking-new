@@ -2,19 +2,11 @@ import React, { Fragment } from 'react'
 import Link from 'gatsby-link'
 import { Twitter, Facebook, Instagram, Youtube } from 'react-feather'
 
-import SubscribeForm from '../components/SubscribeForm'
 // import Button from '../components/Button'
 import './Footer.css'
 
 export default ({ globalSettings = {}, ...props }) => {
-  const {
-    phone,
-    phone2,
-    email,
-    locations,
-    socialMediaCard,
-    subscribeFormTitle
-  } = globalSettings
+  const { phone, phone2, email, locations, socialMediaCard } = globalSettings
   return (
     <Fragment>
       <footer className="Footer">
@@ -59,17 +51,13 @@ export default ({ globalSettings = {}, ...props }) => {
             <div className="two-thirds flex">
               {locations && <p className="one-half">{locations}</p>}
               {email && (
-                <p className="one-half">
+                <p>
                   <span>Brisbane | Gold Coast | Sunshine Coast</span>
+                  <br />
                   <a href={`mailto:${email}`}>{email}</a>
                 </p>
               )}
-              {phone && (
-                <p className="one-half phone-numbers">
-                  <a href={`tel:${phone}`}>{phone}</a>
-                  <a href={`tel:${phone2}`}>{phone2}</a>
-                </p>
-              )}
+
               <div className="socialMediaCard">
                 {socialMediaCard.twitter && (
                   <a
@@ -109,9 +97,13 @@ export default ({ globalSettings = {}, ...props }) => {
                 )}
               </div>
             </div>
-            <div className="one-third flex">
-              // <h4>{subscribeFormTitle}</h4>
-              // <SubscribeForm />
+            <div className="one-third taRight">
+              {phone && (
+                <p className="phone-numbers taRight">
+                  <a href={`tel:${phone}`}>{phone}</a>
+                  <a href={`tel:${phone2}`}>{phone2}</a>
+                </p>
+              )}
             </div>
           </div>
         </div>

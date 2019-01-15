@@ -1,6 +1,7 @@
 ---
 optional: hello gatsby
 video: /images/banner-video.mp4
+videoPoster: /images/banner-video.mp4
 title: markdownfields
 featureButton:
   label: ''
