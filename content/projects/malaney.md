@@ -27,6 +27,7 @@ feedback:
 
 
       Kent W.
+    image: /images/uploads/iconmaleface.png
     title: Very Happy Client.
 categories:
   - category: Timber Decks
