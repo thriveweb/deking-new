@@ -58,7 +58,6 @@ export const HomePageTemplate = ({
                 playsInline
                 autoPlay
                 muted
-                loop
                 preload="auto"
               >
                 {video &&

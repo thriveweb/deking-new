@@ -3,7 +3,7 @@ template: SingleService
 title: DIY Kitset Decks & Patios
 status: Published
 date: '2018-10-06'
-featuredImage: /images/uploads/diy-kitset-deck.png
+featuredImage: /images/uploads/diy-kitset-deck.jpg
 excerpt: Need a little help from the experts to build your own Deck or Patio?
 welcomeTitle: The Australian "Give it a go" attitude
 welcomeDescription: >-
@@ -19,7 +19,7 @@ welcomeDescription: >-
   deck built, contact us—we’re the experts in building timber decks and can
   custom design a deck to perfectly suit your needs. If you have any questions
   about our products or services, please call us on 1800 335 464.
-welcomeImage: /images/uploads/diy-kitset-deck.png
+welcomeImage: /images/uploads/diy-kitset-deck.jpg
 accordion:
   - description: >-
       DeKing Decks are experts at designing and building timber decks from

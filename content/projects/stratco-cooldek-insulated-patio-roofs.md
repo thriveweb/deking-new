@@ -13,7 +13,7 @@ gallery:
   - image: /images/uploads/outback-greenwith-xmas.jpg
   - image: /images/uploads/deking-decks-brisbane-deck-patio-combination-ideas.jpg
   - image: >-
-      /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.png
+      /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
   - image: /images/uploads/deck-4-2.jpg
 accordion:
   - description: >-

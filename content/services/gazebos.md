@@ -3,7 +3,7 @@ template: SingleService
 title: Gazebos & Outdoor Rooms
 status: Published
 date: '2018-09-09'
-featuredImage: /images/uploads/price-back.png
+featuredImage: /images/uploads/price-back.jpg
 excerpt: >-
   DeKing are licenced Carpenters proudly also building Gazebos, Outdoor Rooms, 
   Pool Houses, & small Extensions.

@@ -4,7 +4,7 @@ title: Deck and Patio Cover Designs
 status: Published
 date: '2017-03-16'
 featuredImage: >-
-  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.png
+  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 shortDescription: >-
   This is What To Consider Before You Build. Getting the design right for a deck
   and patio cover can be the difference between a stunning addition to your home

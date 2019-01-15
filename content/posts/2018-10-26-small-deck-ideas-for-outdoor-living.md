@@ -17,6 +17,7 @@ meta:
     areas.
   title: Small Deck Ideas for Outdoor Living
 ---
+
 Small outdoor decking areas can be a challenge and over the years we have faced this challenge many times.  We would like to share with you five small deck ideas we have obtained in making the most of small outdoor decking areas.
 
 ## Visually Larger Small Deck Ideas
@@ -27,13 +28,13 @@ Perhaps the major challenge is to make the small decking area appear larger than
 
 One small deck idea is to trick the eye so as to make a small outdoor decking area appear larger.  Thus for a small decking area you should choose smaller furniture.  All furniture should not be bulky items but rather light and with simple designs.
 
-The owners of the small outdoor decking area shown in the image above have made the very best of what is indeed a very small space.  By using simple, small furniture  one does not feel enclosed within this tiny area.
+The owners of the small outdoor decking area shown in the image above have made the very best of what is indeed a very small space.  By using simple, small furniture  one does not feel enclosed within this tiny area.
 
 ## Think Outside the Square
 
 The Japanese outdoor decking area as shown in the image below is a fantastic way to make the most of a small outdoor area.  Instead of trying to do a traditional deck, the Japanese design and simplicity of the decking area make it appear larger, open and relaxing.
 
-![Small Deck Ideas for Outdoor Living](/images/uploads/small-deck-ideas-for-outdoor-living-2.png)
+![Small Deck Ideas for Outdoor Living](/images/uploads/small-deck-ideas-for-outdoor-living-2.jpg)
 
 ## Curves and Level
 
@@ -59,7 +60,7 @@ Another solution is to install outdoor shutters which will provide you with priv
 
 At Deking we will be able to advise you on the best use of your small garden area.  We are outdoor decking specialists and experienced in both small and large deck designs.
 
-Please give us a call on **1800 335 464** or drop us an [email](https://www.dekingdecks.com.au/contact-us/) and we can schedule a time to inspect you small outdoor area and provide you with advice regarding the best design for you.
+Please give us a call on **1800 335 464** or drop us an risbane, Redlands, Bayside, Logan, Ipswich, Moreton and we can schedule a time to inspect you small outdoor area and provide you with advice regarding the best design for you.
 
 **Deking Decks Service Areas:**
 

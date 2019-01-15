@@ -48,7 +48,7 @@ Another important decision is what type of patio roof you’d like. The 2 main q
 
 A Cooldek insulated patio roof will keep you cooler in summer, so this is a smart option. And a flyover patio roof is becoming a popular modern option. But the most important thing is to choose the right options for you.
 
-![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.png)
+![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg)
 
 ## Patio roofing options - Image Gallery
 

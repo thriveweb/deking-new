@@ -91,7 +91,7 @@ videoTitle: pool decking
 videoURL: /images/uploads/untitled.mov
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
-bannerImage: /images/uploads/egg-chair-promo.png
+bannerImage: /images/uploads/egg-chair-promo.jpg
 bannerButton:
   label: Contact Us
   link: Contact
