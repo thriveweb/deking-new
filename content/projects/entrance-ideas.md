@@ -14,7 +14,11 @@ gallery:
   - image: /images/uploads/adam.jpg
   - image: /images/uploads/fullsizeoutput_1f1e.jpeg
   - image: /images/uploads/fullsizeoutput_200b.jpeg
-accordion: []
+accordion:
+  - description: >-
+      A simple deck can transform the entrance to your home and vastly improve
+      the street appeal with minimal cost
+    title: Entrance deck ideas
 categories:
   - category: Timber Decks
 ---
