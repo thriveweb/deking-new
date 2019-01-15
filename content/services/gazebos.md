@@ -61,7 +61,7 @@ servicePods:
       DeKing can work off your set of plans or have these designed for you, also
       taking care of any engineering and organising the certification permit so
       you can relax without any hassles.
-    podImage: /images/uploads/fullsizeoutput_2157.jpeg
+    podImage: /images/uploads/fullsizeoutput_2157.jpg
     podsTitle: Small Extensions & Additions
 videoTitle: ' '
 videoURL: ''

@@ -12,8 +12,8 @@ gallery:
   - image: /images/uploads/img_0409.jpg
   - image: /images/uploads/dsc_0187.jpg
   - image: /images/uploads/adam.jpg
-  - image: /images/uploads/fullsizeoutput_1f1e.jpeg
-  - image: /images/uploads/fullsizeoutput_200b.jpeg
+  - image: /images/uploads/fullsizeoutput_1f1e.jpg
+  - image: /images/uploads/fullsizeoutput_200b.jpg
 accordion:
   - description: >-
       A simple deck can transform the entrance to your home and vastly improve

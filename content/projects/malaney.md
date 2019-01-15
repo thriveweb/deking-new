@@ -3,14 +3,14 @@ template: SingleProject
 title: Sunshine Coast Deck and Patio Roof
 status: Published
 date: '2018-10-05'
-featuredImage: /images/uploads/fullsizeoutput_1f16.jpeg
+featuredImage: /images/uploads/fullsizeoutput_1f16.jpg
 excerpt: Deck and patio roof combination with external stairs and privacy screen.
 gallery:
-  - image: /images/uploads/fullsizeoutput_1f16.jpeg
+  - image: /images/uploads/fullsizeoutput_1f16.jpg
   - image: /images/uploads/malaneydeck4.jpg
-  - image: /images/uploads/fullsizeoutput_1f17.jpeg
-  - image: /images/uploads/fullsizeoutput_1d14.jpeg
-  - image: /images/uploads/fullsizeoutput_1f18.jpeg
+  - image: /images/uploads/fullsizeoutput_1f17.jpg
+  - image: /images/uploads/fullsizeoutput_1d14.jpg
+  - image: /images/uploads/fullsizeoutput_1f18.jpg
 accordion:
   - description: >-
       Hardwood deck, external stairs with mid landing, stainless steel wire rope

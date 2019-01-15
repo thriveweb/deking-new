@@ -13,7 +13,7 @@ welcomeDescription: >-
   new larger factory and office at Ormeau, our team includes 3 passionate design
   consultants, licensed trade professionals, our apprentice and Shelley our
   awesome, “only too happy to help“, client service co-ordinator.
-welcomeImage: /images/uploads/fullsizeoutput_1ed5.jpeg
+welcomeImage: /images/uploads/fullsizeoutput_1ed5.jpg
 welcomeButton:
   label: Meet the team
   link: /about/team/

@@ -62,7 +62,7 @@ servicePods:
 
       Just send us your measurements and requirements, we will send you back an
       engineered drawing with a price and you are good to go
-    podImage: /images/uploads/fullsizeoutput_2123.jpeg
+    podImage: /images/uploads/fullsizeoutput_2123.jpg
     podsTitle: Kitset Patio for the DIY
 videoTitle: ' '
 bannerTitle: DIY decking kits and kitset decks

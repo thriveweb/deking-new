@@ -53,8 +53,8 @@ teamMembers:
       for his grandkids.
     name: Greg
     occupation: 'Trade Professional, sales (Carpentry)'
-    profileImage: /images/uploads/fullsizeoutput_1ede.jpeg
-    profileImage2: /images/uploads/fullsizeoutput_1ee0.jpeg
+    profileImage: /images/uploads/fullsizeoutput_1ede.jpg
+    profileImage2: /images/uploads/fullsizeoutput_1ee0.jpg
   - bio: >-
       Andrew A.K.A. Pants, has been with Deking for 10 plus years and is a
       veteran of the team. Pants will work on your project like its his own and
@@ -99,8 +99,8 @@ teamMembers:
       his acreage property pottering around in his shed
     name: Aaron
     occupation: Carpenter
-    profileImage: /images/uploads/fullsizeoutput_1ece.jpeg
-    profileImage2: /images/uploads/fullsizeoutput_1ed0.jpeg
+    profileImage: /images/uploads/fullsizeoutput_1ece.jpg
+    profileImage2: /images/uploads/fullsizeoutput_1ed0.jpg
   - bio: Corey is in his last year of studying to become a qualified carpenter
     name: Corey
     occupation: Apprentice Carpenter (Final year)
@@ -113,7 +113,7 @@ teamMembers:
     name: Floyd
     occupation: Sleep & Eat
     profileImage: /images/uploads/floyd.jpg
-    profileImage2: /images/uploads/fullsizeoutput_1ec9.jpeg
+    profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
   - bio: >-
       Antony is a qualified carpenter with years of experience in metal
       construction which makes him a much valued asset for our patio department
@@ -150,4 +150,3 @@ meta:
   noindex: false
   title: ''
 ---
-

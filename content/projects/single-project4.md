@@ -10,7 +10,7 @@ gallery:
   - image: /images/uploads/2.jpg
   - image: /images/uploads/bracken-ridge-3-.jpg
   - image: /images/uploads/bracken-ridge-4.jpg
-  - image: /images/uploads/bracken-ridge-before.png
+  - image: /images/uploads/bracken-ridge-before.jpg
 accordion:
   - description: >-
       Treated timber frame and hardwood decking boards. Pergola roof including

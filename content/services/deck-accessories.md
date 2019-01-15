@@ -100,7 +100,7 @@ servicePods:
       from an annual hose off if they become dusty. You have the option of
       positioning the slat horizontally or vertically depending on your taste
       and circumstances
-    podImage: /images/uploads/fullsizeoutput_1f17.jpeg
+    podImage: /images/uploads/fullsizeoutput_1f17.jpg
     podsTitle: Aluminium Privacy Screens
 videoTitle: ' '
 bannerTitle: ''
