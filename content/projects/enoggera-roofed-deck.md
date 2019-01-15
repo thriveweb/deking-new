@@ -15,10 +15,24 @@ gallery:
   - image: /images/uploads/img_6925.jpg
   - image: /images/uploads/img_6946.jpg
 accordion:
-  - title: Spotted Gum Deck
-  - title: Traditional style pergola roof
-  - title: Louvred privacy screens to both sides of the deck
-  - title: Kitchen servery bench
+  - description: Decking used was Spotted Gum for that authentic Australian look and feel
+    title: Spotted Gum Deck
+  - description: >-
+      A traditional style roof with treated pine framing that was stained to
+      look like hardwood, this was to cut down on costs but still retain the
+      high end look
+    title: Traditional style pergola roof
+  - description: >-
+      The privacy screen was designed with loures so the client could see out
+      but neighbours couldnt see in
+    title: Louvred privacy screens to both sides of the deck
+  - description: 'A hardwood servery was added with the new kitchen windows '
+    title: Kitchen servery bench
+feedback:
+  - description: 'Thanks for a great job, I''ll get you back for future works.'
+    from: Ken
+    image: /images/uploads/iconmaleface.png
+    title: Very Happy Client
 categories:
   - category: Timber Decks
   - category: Pergolas
