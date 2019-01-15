@@ -13,7 +13,7 @@ export default ({ globalSettings = {}, ...props }) => {
     email,
     locations,
     socialMediaCard,
-    subscribeFormTitle,
+    subscribeFormTitle
   } = globalSettings
   return (
     <Fragment>
@@ -23,20 +23,32 @@ export default ({ globalSettings = {}, ...props }) => {
           <div className="flex">
             {phone && (
               <a href={`tel:${phone}`} className="one-third">
-                <img className="bobble" src="/images/icon-phone.svg" alt="phone" />
+                <img
+                  className="bobble"
+                  src="/images/icon-phone.svg"
+                  alt="phone"
+                />
                 <h3 className="Button">Call us</h3>
                 {phone}
               </a>
             )}
             {email && (
               <a href={`mailto:${email}`} className="one-third">
-                <img className="bobble" src="/images/icon-email.svg" alt="phone" />
+                <img
+                  className="bobble"
+                  src="/images/icon-email.svg"
+                  alt="phone"
+                />
                 <h3 className="Button">Email us</h3>
                 {email}
               </a>
             )}
             <a href="/quote-calculator" className="one-third">
-              <img className="bobble" src="/images/icon-calculator.svg" alt="phone" />
+              <img
+                className="bobble"
+                src="/images/icon-calculator.svg"
+                alt="phone"
+              />
               <h3 className="Button">Calculator</h3>
               get a quick quote
             </a>
@@ -98,8 +110,8 @@ export default ({ globalSettings = {}, ...props }) => {
               </div>
             </div>
             <div className="one-third flex">
-              <h4>{subscribeFormTitle}</h4>
-              <SubscribeForm />
+              // <h4>{subscribeFormTitle}</h4>
+              // <SubscribeForm />
             </div>
           </div>
         </div>
