@@ -2,6 +2,7 @@
 template: HomePage
 slug: ''
 video: /images/uploads/small.mp4
+videoPoster: /images/uploads/1.jpg
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/11.jpg
 featureButton:
