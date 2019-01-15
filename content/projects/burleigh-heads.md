@@ -15,6 +15,11 @@ accordion:
     title: Materials used
   - description: '$7500.00 '
     title: Project cost
+feedback:
+  - description: Thanks for bringing our idea to life! Very happy with the finish.
+    from: Tim
+    image: /images/uploads/iconmaleface.png
+    title: Very Happy Client
 categories:
   - category: Pool Decking
 ---
