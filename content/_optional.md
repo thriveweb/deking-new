@@ -1,7 +1,7 @@
 ---
 optional: hello gatsby
-video: /images/banner-video.mp4
-videoPoster: /images/banner-video.mp4
+video: /images/logo.svg
+videoPoster: /images/logo.svg
 title: markdownfields
 featureButton:
   label: ''
