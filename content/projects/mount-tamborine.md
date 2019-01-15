@@ -28,6 +28,7 @@ feedback:
 
       Regards,
     from: Pat.
+    image: /images/uploads/iconmaleface.png
     title: Very happy client
 categories:
   - category: Pool Decking
