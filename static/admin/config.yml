@@ -25,13 +25,7 @@ collections: # A list of collections the CMS should be able to edit
               default: 'HomePage',
             }
           - { name: slug, label: Slug, widget: hidden, default: '' }
-          - {
-              name: video,
-              label: video,
-              widget: file,
-              default: '',
-              required: false,
-            }
+          - { name: video, label: video, widget: file, required: false }
           - {
               name: videoPoster,
               label: videoPoster,
@@ -1427,6 +1421,12 @@ collections: # A list of collections the CMS should be able to edit
               - {
                   label: youtube,
                   name: youtube,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: pintrest,
+                  name: pintrest,
                   widget: string,
                   required: false,
                 }

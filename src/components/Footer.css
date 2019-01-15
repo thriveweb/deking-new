@@ -49,7 +49,6 @@
   }
 }
 
-
 .WelcomeFooter .one-third.calculator:hover {
   opacity: 0.6;
 }
@@ -74,12 +73,20 @@
   line-height: 30px;
 }
 
+.phone-numbers div {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 0 0 2rem 0;
+}
 .phone-numbers a {
   display: block;
   font-size: 15px;
   font-weight: 600;
   letter-spacing: 0.09px;
-  line-height: 30px;
+}
+.phone-numbers svg {
+  margin: 0 2rem 0 0;
 }
 
 .CopyFooter a:hover,

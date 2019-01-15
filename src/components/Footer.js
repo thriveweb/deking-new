@@ -1,6 +1,13 @@
 import React, { Fragment } from 'react'
 import Link from 'gatsby-link'
-import { Twitter, Facebook, Instagram, Youtube } from 'react-feather'
+import {
+  Phone,
+  Twitter,
+  Facebook,
+  Instagram,
+  Youtube,
+  MapPin
+} from 'react-feather'
 
 // import Button from '../components/Button'
 import './Footer.css'
@@ -95,14 +102,29 @@ export default ({ globalSettings = {}, ...props }) => {
                     <Youtube />
                   </a>
                 )}
+                {socialMediaCard.pintrest && (
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href={socialMediaCard.pintrest}
+                  >
+                    <MapPin />
+                  </a>
+                )}
               </div>
             </div>
             <div className="one-third taRight">
               {phone && (
-                <p className="phone-numbers taRight">
-                  <a href={`tel:${phone}`}>{phone}</a>
-                  <a href={`tel:${phone2}`}>{phone2}</a>
-                </p>
+                <div className="phone-numbers taRight">
+                  <div>
+                    <Phone />
+                    <a href={`tel:${phone}`}>{phone}</a>
+                  </div>
+                  <div>
+                    <Phone />
+                    <a href={`tel:${phone2}`}>{phone2}</a>
+                  </div>
+                </div>
               )}
             </div>
           </div>

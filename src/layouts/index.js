@@ -83,6 +83,7 @@ export const query = graphql`
         facebook
         instagram
         youtube
+        pintrest
       }
       subscribeFormTitle
     }
