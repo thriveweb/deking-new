@@ -22,7 +22,10 @@ accordion:
   - description: '$7500.00 - $10,000.00'
     title: Project cost
 feedback:
-  - title: Very Happy Client
+  - description: 'Thank you kindly for our new deck, the lights set it off'
+    from: Rebecca
+    image: /images/uploads/iconfemaleface.png
+    title: Very Happy Client
 categories:
   - category: Timber Decks
 ---
