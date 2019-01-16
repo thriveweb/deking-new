@@ -97,7 +97,7 @@ bannerImage: /images/logo.svg
 teamImage: /images/logo.svg
 featuredImage: /images/logo.svg
 image: /images/logo.svg
-
+warrantyLogo: /images/logo.svg
 meta:
   canonicalLink: ''
   description: ''
