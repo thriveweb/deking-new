@@ -39,8 +39,7 @@ export const SingleProjectTemplate = ({
         backgroundImage={featuredImage}
         large
       />
-      {gallery &&
-        gallery.lenght > 0 && <Gallery images={gallery} alt={title} />}
+      {gallery && <Gallery images={gallery} alt={title} />}
 
       <section className="section">
         <div className="container flex">
@@ -49,10 +48,7 @@ export const SingleProjectTemplate = ({
             {body && <Content source={body} />}
           </div>
           <div className="one-half">
-            {accordion &&
-              accordion.lenght > 0 && (
-                <Accordion items={accordion} className="" />
-              )}
+            {accordion && <Accordion items={accordion} className="" />}
           </div>
         </div>
       </section>

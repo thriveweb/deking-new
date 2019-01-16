@@ -235,6 +235,7 @@ const SingleService = ({ data, pathContext }) => {
   const { service, relatedProjects } = data
   // get current categories
   const currentCategory = _get(service, 'frontmatter.categories[0].category')
+
   // filter by category
   const filtedProjects = relatedProjects.edges.filter(
     edge =>
@@ -248,6 +249,7 @@ const SingleService = ({ data, pathContext }) => {
       ...node.frontmatter
     }
   })
+  console.log(currentCategory + ' - ' + filtedProjects)
   return (
     <SingleServiceTemplate
       {...service}
