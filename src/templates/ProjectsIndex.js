@@ -151,7 +151,7 @@ export const pageQuery = graphql`
     }
     categories: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "categories" } } }
-      sort: { order: ASC, fields: [frontmatter___title] }
+      sort: { order: ASC, fields: [frontmatter___order] }
     ) {
       edges {
         node {

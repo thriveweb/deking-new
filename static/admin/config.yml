@@ -1314,6 +1314,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: image,
           required: false,
         }
+      - { label: order, name: order, widget: number, required: false }
       - label: 'Meta'
         required: false
         name: 'meta'
