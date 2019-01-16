@@ -39,16 +39,20 @@ export const SingleProjectTemplate = ({
         backgroundImage={featuredImage}
         large
       />
-      {!!gallery && <Gallery images={gallery} alt={title} />}
+      {gallery &&
+        gallery.lenght > 0 && <Gallery images={gallery} alt={title} />}
 
       <section className="section">
         <div className="container flex">
           <div className="one-half">
             <h2 className="afterTitle">About the project</h2>
-            <Content source={body} />
+            {body && <Content source={body} />}
           </div>
           <div className="one-half">
-            {!!accordion && <Accordion items={accordion} className="" />}
+            {accordion &&
+              accordion.lenght > 0 && (
+                <Accordion items={accordion} className="" />
+              )}
           </div>
         </div>
       </section>

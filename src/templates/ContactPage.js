@@ -36,6 +36,7 @@ export const ContactPageTemplate = ({
             {locationTitle && <h2>{locationTitle}</h2>}
             <div className="Contact--Details flex">
               {locations &&
+                locations.length > 0 &&
                 locations.map((location, index) => {
                   return (
                     <div
@@ -78,6 +79,7 @@ export const ContactPageTemplate = ({
             <div className="Contact--Details">
               {otherLocationTitle && <h3>{otherLocationTitle}</h3>}
               {otherLocation &&
+                otherLocation.length > 0 &&
                 otherLocation.map((otherLocation, index) => {
                   return (
                     <div
@@ -111,7 +113,7 @@ export const ContactPageTemplate = ({
           </div>
         </div>
       </div>
-      <SimpleMap locations={locations} />
+      {locations && locations.lenght > 0 && <SimpleMap locations={locations} />}
     </main>
   </Fragment>
 )

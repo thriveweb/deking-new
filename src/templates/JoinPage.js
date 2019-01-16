@@ -26,13 +26,14 @@ export const JoinPageTemplate = ({
         large
         split
       />
-
-      <div className="section">
-        <div className="container">
-          <h2 className="taCenter">{join.title}</h2>
-          <p>{join.content}</p>
+      {join.title && (
+        <div className="section">
+          <div className="container">
+            <h2 className="taCenter">{join.title}</h2>
+            <p>{join.content}</p>
+          </div>
         </div>
-      </div>
+      )}
 
       {bannerImage && (
         <BreakoutBanner

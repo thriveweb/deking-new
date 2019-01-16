@@ -39,15 +39,16 @@ export const TeamPageTemplate = ({
           </div>
         </div>
       )}
-      {teamMembers && (
-        <div className="section TeamMembers">
-          <div className="container flex TeamMembers--Container">
-            {teamMembers.map((member, index) => {
-              return <TeamCard key={member + index} member={member} />
-            })}
+      {teamMembers &&
+        teamMembers.lenght > 0 && (
+          <div className="section TeamMembers">
+            <div className="container flex TeamMembers--Container">
+              {teamMembers.map((member, index) => {
+                return <TeamCard key={member + index} member={member} />
+              })}
+            </div>
           </div>
-        </div>
-      )}
+        )}
 
       {bannerImage && (
         <BreakoutBanner

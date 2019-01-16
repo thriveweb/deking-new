@@ -28,13 +28,14 @@ export const BlogIndexTemplate = ({
 
         <PageHeader title={title} backgroundImage={featuredImage} />
 
-        {!!posts.length && (
-          <section className="section">
-            <div className="container">
-              <PostSection posts={filteredPosts} />
-            </div>
-          </section>
-        )}
+        {posts &&
+          posts.length > 0 && (
+            <section className="section">
+              <div className="container">
+                <PostSection posts={filteredPosts} />
+              </div>
+            </section>
+          )}
       </main>
     </Fragment>
   )

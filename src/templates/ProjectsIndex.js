@@ -45,21 +45,22 @@ export const ProjectsIndexTemplate = ({
           )}
           <div className="container relative">
             <h1 className="PageHeader--Title">{title}</h1>
-            {!!categories.length && (
-              <div className="PageHeader--Subtitle PageHeader--CategoriesNav">
-                <CategoriesNav categories={categories} base="projects" />
-              </div>
-            )}
+            {categories &&
+              categories.length > 0 && (
+                <div className="PageHeader--Subtitle PageHeader--CategoriesNav">
+                  <CategoriesNav categories={categories} base="projects" />
+                </div>
+              )}
           </div>
         </div>
 
-        {/* !! for true false */}
-        {!!projects.length && (
-          <ProjectsSection
-            projects={filteredProjects}
-            isCategory={isCategory}
-          />
-        )}
+        {projects &&
+          projects.length && (
+            <ProjectsSection
+              projects={filteredProjects}
+              isCategory={isCategory}
+            />
+          )}
 
         {bannerImage && (
           <BreakoutBanner

@@ -9,10 +9,10 @@ class ProjectsSection extends React.Component {
   static defaultProps = {
     projects: [],
     title: '',
-    limit: 12,
+    limit: 50,
     showLoadMore: true,
     loadMoreTitle: 'Load More',
-    perPageLimit: 12,
+    perPageLimit: 50,
     isCategory: false
   }
 
@@ -53,13 +53,14 @@ class ProjectsSection extends React.Component {
             <h2 className="ProjectsSection--Title">{title}</h2>
           )}
 
-          {!!visibleProjects.length && (
-            <div className="ProjectsSection--Grid">
-              {visibleProjects.map((project, index) => (
-                <ProjectCard key={project.title + index} {...project} />
-              ))}
-            </div>
-          )}
+          {visibleProjects &&
+            visibleProjects.length > 0 && (
+              <div className="ProjectsSection--Grid">
+                {visibleProjects.map((project, index) => (
+                  <ProjectCard key={project.title + index} {...project} />
+                ))}
+              </div>
+            )}
         </div>
         {showLoadMore &&
           visibleProjects.length < projects.length && (

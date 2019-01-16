@@ -68,17 +68,16 @@ export const SingleServiceTemplate = ({
         </div>
       )}
 
-      {!!accordion &&
-        accordion.title && (
+      {accordion &&
+        accordion.length > 0 && (
           <section className="section AccordionSection">
-            test
             <div className="container">
               <Accordion items={accordion} className="" />
             </div>
           </section>
         )}
 
-      {!!servicePriceTitle && (
+      {servicePriceTitle && (
         <section className="section PriceSection">
           <div className="PriceSection--Calculator relative">
             <svg
@@ -100,7 +99,8 @@ export const SingleServiceTemplate = ({
               {servicePriceTitle && (
                 <h2 className="afterTitle">{servicePriceTitle}</h2>
               )}
-              {!!servicePriceDescription &&
+              {servicePriceDescription &&
+                servicePriceDescription.length > 0 &&
                 servicePriceDescription.map((item, index) => {
                   return (
                     <p key={item.size + index}>
@@ -157,44 +157,45 @@ export const SingleServiceTemplate = ({
         </section>
       )}
 
-      {servicePods && (
-        <div className="section ServicePods">
-          {servicePods.map((item, index) => (
-            <div
-              key={item.podsTitle + index}
-              className={`container flex ServicePods--Pod ${
-                index % 2 === 0 ? 'Pod--Odd' : 'Pod--Even'
-              }`}
-            >
-              <div className="one-half">
-                <div
-                  className={`image-shadow-${
-                    index % 2 === 0 ? 'right' : 'left'
-                  }`}
-                />
-                <Image background src={item.podImage} alt={item.podsTitle} />
+      {servicePods &&
+        servicePods.length > 0 && (
+          <div className="section ServicePods">
+            {servicePods.map((item, index) => (
+              <div
+                key={item.podsTitle + index}
+                className={`container flex ServicePods--Pod ${
+                  index % 2 === 0 ? 'Pod--Odd' : 'Pod--Even'
+                }`}
+              >
+                <div className="one-half">
+                  <div
+                    className={`image-shadow-${
+                      index % 2 === 0 ? 'right' : 'left'
+                    }`}
+                  />
+                  <Image background src={item.podImage} alt={item.podsTitle} />
+                </div>
+                <div className="one-half">
+                  {item.podsTitle && (
+                    <h2 className="afterTitle">{item.podsTitle}</h2>
+                  )}
+                  {item.podDescription && (
+                    <Content source={item.podDescription} />
+                  )}
+                  {item.podLink && (
+                    <Button
+                      href={item.podLink.publicURL}
+                      target="_blank"
+                      className="Button"
+                    >
+                      Download
+                    </Button>
+                  )}
+                </div>
               </div>
-              <div className="one-half">
-                {item.podsTitle && (
-                  <h2 className="afterTitle">{item.podsTitle}</h2>
-                )}
-                {item.podDescription && (
-                  <Content source={item.podDescription} />
-                )}
-                {item.podLink && (
-                  <Button
-                    href={item.podLink.publicURL}
-                    target="_blank"
-                    className="Button"
-                  >
-                    Download
-                  </Button>
-                )}
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
+            ))}
+          </div>
+        )}
 
       {videoURL &&
         videoURL.publicURL && (
@@ -208,13 +209,14 @@ export const SingleServiceTemplate = ({
           </div>
         )}
 
-      {relatedProjects && (
-        <ProjectsSection
-          projects={relatedProjects}
-          title="Related Work"
-          related
-        />
-      )}
+      {relatedProjects &&
+        relatedProjects.length > 0 && (
+          <ProjectsSection
+            projects={relatedProjects}
+            title="Related Work"
+            related
+          />
+        )}
 
       {bannerImage && (
         <BreakoutBanner

@@ -47,21 +47,22 @@ export const FinancePageTemplate = ({
         </div>
       </div>
 
-      {faq && (
-        <div className="section FAQ">
-          <div className="container">
-            {faq.map((item, index) => {
-              return (
-                <div key={item.title + index} className="FAQ--Item">
-                  <h3>{item.title}</h3>
-                  <p>{item.content}</p>
-                  <div className="afterTitle" />
-                </div>
-              )
-            })}
+      {faq &&
+        faq.length > 0 && (
+          <div className="section FAQ">
+            <div className="container">
+              {faq.map((item, index) => {
+                return (
+                  <div key={item.title + index} className="FAQ--Item">
+                    <h3>{item.title}</h3>
+                    <p>{item.content}</p>
+                    <div className="afterTitle" />
+                  </div>
+                )
+              })}
+            </div>
           </div>
-        </div>
-      )}
+        )}
 
       {learnMore && (
         <div className="section LearnMore">

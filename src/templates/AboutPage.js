@@ -59,7 +59,8 @@ export const AboutPageTemplate = ({
         <div className="container">
           <h2 className="taCenter">{whatWeDoTitle}</h2>
           <div className="flex">
-            {!!whatWeDo &&
+            {whatWeDo &&
+              whatWeDo.length > 0 &&
               whatWeDo.map((what, index) => {
                 return (
                   <div
@@ -95,7 +96,8 @@ export const AboutPageTemplate = ({
         <div className="container">
           <h2 className="taCenter">{qualificationsTitle}</h2>
           <div className="flex">
-            {!!qualificationsLogos &&
+            {qualificationsLogos &&
+              qualificationsLogos.length > 0 &&
               qualificationsLogos.map((logo, index) => {
                 return (
                   <a

@@ -8,16 +8,19 @@ const PostCategoriesNav = ({ categories }) => (
     <Link className="NavLink" exact to={`/blog/`}>
       All
     </Link>
-    {categories.map((category, index) => (
-      <Link
-        exact
-        className="NavLink"
-        key={category.title + index}
-        to={category.slug}
-      >
-        {category.title}
-      </Link>
-    ))}
+
+    {categories &&
+      categories.lenght > 0 &&
+      categories.map((category, index) => (
+        <Link
+          exact
+          className="NavLink"
+          key={category.title + index}
+          to={category.slug}
+        >
+          {category.title}
+        </Link>
+      ))}
   </div>
 )
 

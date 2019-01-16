@@ -40,7 +40,7 @@
 }
 
 .PriceSection {
-  background: linear-gradient(to right, var(--darkGrey) 95%, white 95%);
+  background: var(--darkGrey);
   color: white;
 }
 

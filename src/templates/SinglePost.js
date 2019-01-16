@@ -57,7 +57,8 @@ export const SinglePostTemplate = ({
             {categories && (
               <Fragment>
                 <span>|</span>
-                {!!categories &&
+                {categories &&
+                  categories.lenght > 0 &&
                   categories.map((cat, index) => (
                     <span
                       key={index + cat.category}
@@ -71,10 +72,11 @@ export const SinglePostTemplate = ({
               </Fragment>
             )}
           </div>
-
-          <div className="SinglePost--InnerContent">
-            <Content source={body} />
-          </div>
+          {body && (
+            <div className="SinglePost--InnerContent">
+              <Content source={body} />
+            </div>
+          )}
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (

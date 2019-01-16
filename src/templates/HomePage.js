@@ -91,9 +91,11 @@ export const HomePageTemplate = ({
               <h2 className="ServicesSection--Title">{servicesTitle}</h2>
             )}
             <div className="ServicesSection--Grid">
-              {services.map((service, index) => (
-                <ServiceCard key={service.title + index} {...service} />
-              ))}
+              {services &&
+                services.length > 0 &&
+                services.map((service, index) => (
+                  <ServiceCard key={service.title + index} {...service} />
+                ))}
             </div>
           </div>
         </div>
@@ -113,7 +115,7 @@ export const HomePageTemplate = ({
           <div className="TeamSection--Content flex">
             <div className="one-half">
               {teamTitle && <h2>{teamTitle}</h2>}
-              <Content src={teamDescription} />
+              {teamDescription && <Content src={teamDescription} />}
             </div>
             <div className="one-half">
               <div className="image-shadow-right" />
@@ -133,34 +135,35 @@ export const HomePageTemplate = ({
         </div>
       </div>
 
-      {benefits && (
-        <div className="section BenfitsSection noPadding">
-          <div className="container">
-            <div className="flex three-quarters">
-              {benefits.map((benefit, index) => {
-                return (
-                  <div
-                    key={index + benefit.title}
-                    className="BenfitsSection--Benfit one-half flex relative"
-                  >
-                    <Image
-                      background
-                      className="one-quarter relative"
-                      src={benefit.icon}
-                      alt={benefit.title}
-                      backgroundSize="contain"
-                    />
-                    <div className="info three-quarters">
-                      <h4>{benefit.title}</h4>
-                      {benefit.description}
+      {benefits &&
+        benefits.lenght > 0 && (
+          <div className="section BenfitsSection noPadding">
+            <div className="container">
+              <div className="flex three-quarters">
+                {benefits.map((benefit, index) => {
+                  return (
+                    <div
+                      key={index + benefit.title}
+                      className="BenfitsSection--Benfit one-half flex relative"
+                    >
+                      <Image
+                        background
+                        className="one-quarter relative"
+                        src={benefit.icon}
+                        alt={benefit.title}
+                        backgroundSize="contain"
+                      />
+                      <div className="info three-quarters">
+                        <h4>{benefit.title}</h4>
+                        {benefit.description}
+                      </div>
                     </div>
-                  </div>
-                )
-              })}
+                  )
+                })}
+              </div>
             </div>
           </div>
-        </div>
-      )}
+        )}
 
       {videoURL && (
         <div className="VideoSection">
@@ -219,52 +222,54 @@ export const HomePageTemplate = ({
         </div>
       </div>
 
-      {projects && (
-        <div className="section ProjectsSection thin">
-          <div className="container">
-            <div className="flex flex-center">
-              <h2>Featured Projects</h2>
-            </div>
-            <br />
-            <div className="ProjectsSection--Grid">
-              {projects.map((project, index) => (
-                <ProjectCard key={project.title + index} {...project} />
-              ))}
-            </div>
-            <div className="flex-center flex">
-              <Button to="/projects/">All projects</Button>
+      {projects &&
+        projects.lenght > 0 && (
+          <div className="section ProjectsSection thin">
+            <div className="container">
+              <div className="flex flex-center">
+                <h2>Featured Projects</h2>
+              </div>
+              <br />
+              <div className="ProjectsSection--Grid">
+                {projects.map((project, index) => (
+                  <ProjectCard key={project.title + index} {...project} />
+                ))}
+              </div>
+              <div className="flex-center flex">
+                <Button to="/projects/">All projects</Button>
+              </div>
             </div>
           </div>
-        </div>
-      )}
+        )}
 
-      {partnerLogos && (
-        <div className="section PartnersSection thin">
-          <div className="container">
-            <h2 className="taCenter">{partnersTitle}</h2>
-            <div className="flex">
-              {partnerLogos.map((logo, index) => {
-                return (
-                  <a
-                    key={index + logo.link}
-                    className="PartnersSection--Logo"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    href={logo.link}
-                  >
-                    <Image
-                      background
-                      backgroundSize="contain"
-                      src={logo.logo}
-                      alt={partnersTitle}
-                    />
-                  </a>
-                )
-              })}
+      {partnerLogos &&
+        partnerLogos.lenght > 0 && (
+          <div className="section PartnersSection thin">
+            <div className="container">
+              <h2 className="taCenter">{partnersTitle}</h2>
+              <div className="flex">
+                {partnerLogos.map((logo, index) => {
+                  return (
+                    <a
+                      key={index + logo.link}
+                      className="PartnersSection--Logo"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      href={logo.link}
+                    >
+                      <Image
+                        background
+                        backgroundSize="contain"
+                        src={logo.logo}
+                        alt={partnersTitle}
+                      />
+                    </a>
+                  )
+                })}
+              </div>
             </div>
           </div>
-        </div>
-      )}
+        )}
     </main>
   </Fragment>
 )

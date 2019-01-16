@@ -22,7 +22,8 @@ export const ServicesIndexTemplate = ({
         backgroundImage={featuredImage}
       />
 
-      {!!services.length && <ServicesSection services={services} />}
+      {services &&
+        services.length > 0 && <ServicesSection services={services} />}
     </main>
   </Fragment>
 )
