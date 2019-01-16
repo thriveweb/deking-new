@@ -10,6 +10,7 @@ import ServiceCard from '../components/ServiceCard'
 import ProjectCard from '../components/ProjectCard'
 import BreakoutBanner from '../components/BreakoutBanner'
 import Content from '../components/Content'
+import BackgroundVideo from '../components/BackgroundVideo'
 
 import '../components/PageHeader.css'
 import './HomePage.css'
@@ -49,21 +50,12 @@ export const HomePageTemplate = ({
     <Meta {...meta} />
     <main className="Home">
       <div className="home--banner section-image">
-        <div className="background-video">
-          {videoPoster &&
-            videoPoster.publicURL && (
-              <video
-                poster={videoPoster.publicURL}
-                id="bgvid"
-                playsInline
-                autoPlay
-                muted
-                preload="auto"
-              >
-                {video && <source src={video} type="video/mp4" />}
-              </video>
-            )}
-        </div>
+        {videoPoster &&
+          videoPoster.publicURL && (
+            <BackgroundVideo poster={videoPoster.publicURL}>
+              {video && <source src={video} type="video/mp4" />}
+            </BackgroundVideo>
+          )}
         {title && (
           <div className="container relative">
             <h1 id="home-title" className="PageHeader--Title afterTitle">

@@ -70,7 +70,7 @@ videoContent: >-
   short of a minor miracle compared with all the other trades I have dealt with
   over the past 5 months whilst doing a major house renovation. I highly
   recommend Deking.
-videoURL: /images/uploads/pooldecking.mov
+videoURL: https://clients.thrivex.io/dekingdecks/home.mp4
 priceTitle: Price Guide
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
