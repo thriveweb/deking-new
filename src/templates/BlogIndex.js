@@ -26,7 +26,7 @@ export const BlogIndexTemplate = ({
           <title>{title}</title>
         </Helmet>
 
-        <PageHeader title={title} backgroundImage={featuredImage} />
+        <PageHeader large title={title} backgroundImage={featuredImage} />
 
         {posts &&
           posts.length > 0 && (

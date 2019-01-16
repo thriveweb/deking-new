@@ -1,6 +1,6 @@
-.Contact {
+.Contact .PageHeader {
+  margin: 0;
 }
-
 .Contact--Details {
   margin-top: 3rem;
 }
@@ -23,6 +23,10 @@
 }
 .Contact--Details-locations svg {
   margin: 0 1rem 0 0;
+}
+
+.Contact--otherLocation {
+  margin-top: 8rem;
 }
 
 @media (max-width: 1003px) {

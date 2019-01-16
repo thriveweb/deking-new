@@ -10,12 +10,13 @@ if (process.env.NETLIFY_MAP_KEY) {
 }
 
 class SimpleMap extends Component {
+  //https://www.google.com/maps/place/Unit+13%2F22+Mavis+Ct,+Ormeau+QLD+4208/@-27.7537698,153.2431606,16.96z/data=!4m5!3m4!1s0x6b916ad94c48e10d:0x8c8e34eb521d753a!8m2!3d-27.7538949!4d153.2454181
   static defaultProps = {
     center: {
-      lat: -27.7833,
-      lng: 153.2667
+      lat: -27.7537698,
+      lng: 153.2431606
     },
-    zoom: 7
+    zoom: 9
   }
 
   renderMarkers(map, maps) {
@@ -50,9 +51,7 @@ class SimpleMap extends Component {
           defaultCenter={this.props.center}
           defaultZoom={this.props.zoom}
         >
-          {locations.map((pin, index) => (
-            <Marker key={index} lat={-27.7833} lng={153.2667} />
-          ))}
+          <Marker lat={this.props.center.lat} lng={this.props.center.lng} />
         </GoogleMapReact>
       </div>
     )

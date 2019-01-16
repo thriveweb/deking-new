@@ -76,7 +76,7 @@ export const ContactPageTemplate = ({
                   )
                 })}
             </div>
-            <div className="Contact--Details">
+            <div className="Contact--Details Contact--otherLocation">
               {otherLocationTitle && <h3>{otherLocationTitle}</h3>}
               {otherLocation &&
                 otherLocation.length > 0 &&
@@ -113,7 +113,7 @@ export const ContactPageTemplate = ({
           </div>
         </div>
       </div>
-      {locations && locations.lenght > 0 && <SimpleMap locations={locations} />}
+      {locations && locations.length > 0 && <SimpleMap locations={locations} />}
     </main>
   </Fragment>
 )
