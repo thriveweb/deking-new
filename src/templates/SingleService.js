@@ -11,6 +11,7 @@ import Content from '../components/Content'
 import ProjectsSection from '../components/ProjectsSection'
 import Button from '../components/Button'
 import Image from '../components/Image'
+import BackgroundVideo from '../components/BackgroundVideo'
 import './SingleService.css'
 
 export const SingleServiceTemplate = ({
@@ -28,7 +29,8 @@ export const SingleServiceTemplate = ({
   servicePriceDescription,
   servicePods,
   videoTitle,
-  videoURL,
+  videoPoster,
+  externalVideoURL,
   bannerImage,
   bannerTitle,
   bannerDescription,
@@ -197,14 +199,18 @@ export const SingleServiceTemplate = ({
           </div>
         )}
 
-      {videoURL &&
-        videoURL.publicURL && (
+      {videoPoster &&
+        videoPoster.publicURL && (
           <div className="VideoSection">
             <div className="container">
               <div className="video-introduction">
                 <h2>{videoTitle}</h2>
               </div>
-              <video src={videoURL.publicURL} controls />
+              <BackgroundVideo controls poster={videoPoster.publicURL}>
+                {externalVideoURL && (
+                  <source src={externalVideoURL} type="video/mp4" />
+                )}
+              </BackgroundVideo>
             </div>
           </div>
         )}
@@ -337,7 +343,10 @@ export const pageQuery = graphql`
           }
         }
         videoTitle
-        videoURL
+        videoPoster {
+          publicURL
+        }
+        externalVideoURL
         bannerImage {
           ...FluidImage
         }

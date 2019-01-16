@@ -19,7 +19,7 @@ import './HomePage.css'
 export const HomePageTemplate = ({
   meta,
   title,
-  video,
+  externalVideoURL,
   featureButton,
   featuredImage,
   welcomeTitle,
@@ -53,7 +53,9 @@ export const HomePageTemplate = ({
         {videoPoster &&
           videoPoster.publicURL && (
             <BackgroundVideo poster={videoPoster.publicURL}>
-              {video && <source src={video} type="video/mp4" />}
+              {externalVideoURL && (
+                <source src={externalVideoURL} type="video/mp4" />
+              )}
             </BackgroundVideo>
           )}
         {title && (
@@ -313,7 +315,7 @@ export const pageQuery = graphql`
         featuredImage {
           ...FluidImage
         }
-        video
+        externalVideoURL
         videoPoster {
           publicURL
         }

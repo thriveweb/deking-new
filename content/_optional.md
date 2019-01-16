@@ -1,7 +1,7 @@
 ---
 optional: hello gatsby
-video: ''
 videoPoster: /images/logo.svg
+externalVideoURL: ''
 title: markdownfields
 featureButton:
   label: ''
@@ -27,7 +27,6 @@ benefits:
     icon: /images/logo.svg
 videoTitle: ''
 videoContent: ''
-videoURL: ''
 priceTitle: ''
 priceDescription: ''
 priceButton:

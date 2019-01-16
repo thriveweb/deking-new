@@ -91,7 +91,8 @@ servicePods:
     podImage: /images/uploads/img_9607.jpg
     podsTitle: Environmental Impact
 videoTitle: ' '
-videoURL: ''
+videoPoster: /images/uploads/trex-sample.jpg
+externalVideoURL: https://clients.thrivex.io/dekingdecks/home.mp4
 bannerTitle: ''
 bannerDescription: ''
 bannerButton:
@@ -105,4 +106,3 @@ meta:
     outdoors from your deck without harming the environment.
   title: 'ECO Decking Brisbane, Gold Coast, Sunshine Coast'
 ---
-
