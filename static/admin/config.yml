@@ -1052,8 +1052,6 @@ collections: # A list of collections the CMS should be able to edit
         name: 'feedback'
         widget: 'list'
         fields:
-          - { name: image, label: image, widget: image }
-          - { name: title, label: title, widget: string, default: '' }
           - { name: description, label: description, widget: markdown }
           - { name: from, label: from, widget: string }
       - label: 'Categories'

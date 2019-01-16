@@ -58,21 +58,8 @@ export const SingleProjectTemplate = ({
             <h2 className="ClientFeedback--MainTitle afterTitle">
               Client <br /> Feedback
             </h2>
-            <div className="ClientFeedback--Content flex">
-              <div className="profilePic">
-                {_get(feedback, `[0]`) &&
-                  feedback[0].image && (
-                    <Image
-                      background
-                      src={feedback[0].image}
-                      alt={feedback[0].title}
-                    />
-                  )}
-              </div>
+            <div className="ClientFeedback--Content">
               <div className="info">
-                {_get(feedback, `[0]`) && (
-                  <h3 className="afterTitle">{feedback[0].title}</h3>
-                )}
                 {_get(feedback, `[0].description`) &&
                   feedback[0].description && <p>{feedback[0].description}</p>}
                 {_get(feedback, `[0].from`) &&

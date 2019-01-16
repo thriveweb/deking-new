@@ -39,7 +39,8 @@
 }
 
 .ClientFeedback {
-  background: linear-gradient(to right, var(--darkGrey) 50%, white 50%);
+  background: var(--darkGrey);
+  color: white;
 }
 
 .ClientFeedback--MainTitle {
@@ -60,6 +61,7 @@
   position: relative;
   width: 15rem;
   height: 15rem;
+  display: none;
 }
 .ClientFeedback--Content .info {
   width: calc(100% - 20rem);
