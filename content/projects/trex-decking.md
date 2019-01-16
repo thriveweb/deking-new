@@ -13,6 +13,9 @@ gallery:
   - image: /images/uploads/img_9614.jpg
   - image: /images/uploads/img_9612.jpg
   - image: /images/uploads/trex-sample.jpg
+content: >-
+  TREX Composite decking is made from 95% recycled materials and comes with a 25
+  year warranty with minimal maintenance.
 accordion:
   - description: >-
       Backed by limited warranties against material defects, and against fade &

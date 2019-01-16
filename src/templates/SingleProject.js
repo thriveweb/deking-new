@@ -18,7 +18,7 @@ export const SingleProjectTemplate = ({
   featuredImage,
   excerpt,
   gallery,
-  body,
+  content,
   accordion,
   feedback,
   nextProjectURL,
@@ -45,7 +45,7 @@ export const SingleProjectTemplate = ({
         <div className="container flex">
           <div className="one-half">
             <h2 className="afterTitle">About the project</h2>
-            {body && <Content source={body} />}
+            {content && <Content source={content} />}
           </div>
           <div className="one-half">
             {accordion && <Accordion items={accordion} className="" />}
@@ -147,6 +147,7 @@ export const pageQuery = graphql`
           ...FluidImage
         }
         excerpt
+        content
         gallery {
           image {
             ...CroppedImage

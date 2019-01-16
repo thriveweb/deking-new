@@ -1039,6 +1039,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'list'
         fields:
           - { name: image, label: image, widget: image }
+      - { label: content, name: content, widget: markdown }
       - label: 'accordion'
         required: false
         name: 'accordion'
