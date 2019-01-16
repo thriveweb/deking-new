@@ -43,7 +43,7 @@ teamDescription: >-
   to help and can simply make it happen.
 teamImage: /images/uploads/team.jpg
 teamButton:
-  label: Timber Decks
+  label: Benefits of a Timber Deck
   link: timber-decks
 benefits:
   - description: >-
