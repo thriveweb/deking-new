@@ -14,6 +14,11 @@
   align-items: center;
   height: 8rem;
 }
+@media screen and (min-width: 1000px) {
+  .Nav--Container.container {
+    max-width: 100%;
+  }
+}
 
 .Nav--Container--Links {
   margin-left: auto;
