@@ -68,13 +68,15 @@ export const SingleServiceTemplate = ({
         </div>
       )}
 
-      {!!accordion && (
-        <section className="section AccordionSection">
-          <div className="container">
-            <Accordion items={accordion} className="" />
-          </div>
-        </section>
-      )}
+      {!!accordion &&
+        accordion.title && (
+          <section className="section AccordionSection">
+            test
+            <div className="container">
+              <Accordion items={accordion} className="" />
+            </div>
+          </section>
+        )}
 
       {!!servicePriceTitle && (
         <section className="section PriceSection">

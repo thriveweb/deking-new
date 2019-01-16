@@ -1119,7 +1119,7 @@ collections: # A list of collections the CMS should be able to edit
       - {
           name: welcomeDescription,
           label: welcomeDescription Title,
-          widget: string,
+          widget: markdown,
           default: '',
         }
       - { name: welcomeImage, label: welcomeImage, widget: image }
