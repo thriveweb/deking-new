@@ -237,11 +237,37 @@ const SingleService = ({ data, pathContext }) => {
   const currentCategory = _get(service, 'frontmatter.categories[0].category')
 
   // filter by category
-  const filtedProjects = relatedProjects.edges.filter(
-    edge =>
+  const filtedProjects = relatedProjects.edges.filter(edge => {
+    if (
       _get(edge, `node.frontmatter.categories[0].category`) &&
       edge.node.frontmatter.categories[0].category === currentCategory
-  )
+    ) {
+      return true
+    } else if (
+      _get(edge, `node.frontmatter.categories[1].category`) &&
+      edge.node.frontmatter.categories[1].category === currentCategory
+    ) {
+      return true
+    } else if (
+      _get(edge, `node.frontmatter.categories[2].category`) &&
+      edge.node.frontmatter.categories[2].category === currentCategory
+    ) {
+      return true
+    }
+    return false
+  })
+
+  // const filtedProjects = relatedProjects.edges.filter(edge => {
+  //   const hasCats = edge.node.frontmatter.categories
+  //   for (let i in hasCats) {
+  //     if (hasCats[i].category === currentCategory) {
+  //       return true
+  //     }
+  //     return false
+  //   }
+  //   console.log(hasCats)
+  // })
+
   // spread data for component
   const related = filtedProjects.map(({ node }) => {
     return {
