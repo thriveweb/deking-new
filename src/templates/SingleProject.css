@@ -21,12 +21,6 @@
   }
 }
 
-@media (max-width: 700px) {
-  .ClientFeedback {
-    width: 100% !important;
-  }
-}
-
 .SingleProject--BackButton svg {
   transition: transform 0.2s ease-out;
   transform: translateX(0);
@@ -57,12 +51,6 @@
   flex-wrap: nowrap;
 }
 
-.ClientFeedback--Content .profilePic {
-  position: relative;
-  width: 15rem;
-  height: 15rem;
-  display: none;
-}
 .ClientFeedback--Content .info {
   width: calc(100% - 20rem);
 }
@@ -81,6 +69,30 @@
   content: '-';
   left: 0;
   top: 0;
+}
+
+@media (max-width: 980px) {
+  .ClientFeedback .flex {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .ClientFeedback--MainTitle {
+    text-align: center;
+    width: 100%;
+    font-size: 4rem;
+  }
+  .ClientFeedback--Content,
+  .ClientFeedback--Content .info {
+    text-align: center;
+    width: 100%;
+  }
+  .ClientFeedback--Content small::before,
+  .ClientFeedback--MainTitle br,
+  .ClientFeedback--MainTitle:after {
+    content: ' ';
+    display: none;
+  }
 }
 
 .SingleProject--Pagination .container {

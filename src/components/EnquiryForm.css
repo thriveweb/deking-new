@@ -17,6 +17,14 @@
 .flex .EnquiryForm--Label {
   width: 48%;
 }
+@media (max-width: 600px) {
+  .EnquiryForm {
+    padding: 1rem;
+  }
+  .flex .EnquiryForm--Label {
+    width: 100%;
+  }
+}
 
 .EnquiryForm--Input {
   font-family: inherit;
