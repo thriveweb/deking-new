@@ -1203,24 +1203,18 @@ collections: # A list of collections the CMS should be able to edit
             }
       - {
           name: videoTitle,
-          label: videoTitle,
+          label: Video Title,
           widget: string,
           required: false,
-          default: ' ',
+          default: '',
         }
       - {
-          name: externalVideoURL,
-          label: externalVideoURL,
-          widget: string,
-          required: false,
-          default: ' ',
+          name: videoContent,
+          label: Video Content,
+          widget: markdown,
+          required: false default:'',
         }
-      - {
-          name: videoPoster,
-          label: videoPoster,
-          widget: image,
-          required: false,
-        }
+      - { name: videoURL, label: Video URL, widget: string, required: false }
       - {
           name: bannerTitle,
           label: Banner Title,

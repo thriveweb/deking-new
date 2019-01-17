@@ -29,7 +29,7 @@
   margin-top: 8rem;
 }
 
-@media (max-width: 1003px) {
+@media (max-width: 1024px) {
   .Contact--Details-locations {
     margin-bottom: 5rem !important;
   }

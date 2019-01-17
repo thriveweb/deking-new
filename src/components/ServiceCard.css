@@ -16,6 +16,12 @@
   height: 40rem;
 }
 
+@media (max-width: 500px) {
+  .ServiceCard--Image {
+    height: 25rem;
+  }
+}
+
 .ServiceCard--Content {
   padding: 1.5rem 0;
   position: absolute;

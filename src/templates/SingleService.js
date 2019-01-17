@@ -29,8 +29,8 @@ export const SingleServiceTemplate = ({
   servicePriceDescription,
   servicePods,
   videoTitle,
-  videoPoster,
-  externalVideoURL,
+  videoContent,
+  videoURL,
   bannerImage,
   bannerTitle,
   bannerDescription,
@@ -199,21 +199,17 @@ export const SingleServiceTemplate = ({
           </div>
         )}
 
-      {videoPoster &&
-        videoPoster.publicURL && (
-          <div className="VideoSection">
-            <div className="container">
-              <div className="video-introduction">
-                <h2>{videoTitle}</h2>
-              </div>
-              <BackgroundVideo controls poster={videoPoster.publicURL}>
-                {externalVideoURL && (
-                  <source src={externalVideoURL} type="video/mp4" />
-                )}
-              </BackgroundVideo>
+      {videoURL && (
+        <div className="VideoSection">
+          <div className="container">
+            <div className="video-introduction">
+              <h2>{videoTitle}</h2>
+              <p>{videoContent}</p>
             </div>
+            <video src={videoURL} controls />
           </div>
-        )}
+        </div>
+      )}
 
       {relatedProjects &&
         relatedProjects.length > 0 && (
@@ -343,10 +339,8 @@ export const pageQuery = graphql`
           }
         }
         videoTitle
-        videoPoster {
-          publicURL
-        }
-        externalVideoURL
+        videoContent
+        videoURL
         bannerImage {
           ...FluidImage
         }
