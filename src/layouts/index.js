@@ -85,7 +85,7 @@ export const query = graphql`
         youtube
         pintrest
       }
-      subscribeFormTitle
+      warrantyLogo
     }
   }
 `

@@ -1423,12 +1423,7 @@ collections: # A list of collections the CMS should be able to edit
             name: socialMediaCard
             widget: object
             fields:
-              - {
-                  label: warrantyLogo,
-                  name: image,
-                  widget: image,
-                  required: false,
-                }
+              - { label: OG image, name: image, widget: image, required: false }
               - {
                   label: twitter,
                   name: twitter,

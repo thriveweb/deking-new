@@ -9,11 +9,18 @@ import {
   MapPin
 } from 'react-feather'
 
-// import Button from '../components/Button'
+import Image from '../components/Image'
 import './Footer.css'
 
 export default ({ globalSettings = {}, ...props }) => {
-  const { phone, phone2, email, locations, socialMediaCard } = globalSettings
+  const {
+    warrantyLogo,
+    phone,
+    phone2,
+    email,
+    locations,
+    socialMediaCard
+  } = globalSettings
   return (
     <Fragment>
       <footer className="Footer">
@@ -55,7 +62,7 @@ export default ({ globalSettings = {}, ...props }) => {
         </div>
         <div className="section MainFooter dark">
           <div className="container flex">
-            <div className="two-thirds flex">
+            <div className="one-third">
               {locations && <p className="one-half">{locations}</p>}
               {email && (
                 <p>
@@ -112,6 +119,11 @@ export default ({ globalSettings = {}, ...props }) => {
                   </a>
                 )}
               </div>
+            </div>
+            <div className="one-third">
+              {warrantyLogo && (
+                <Image src={warrantyLogo} alt="25 year warranty" />
+              )}
             </div>
             <div className="one-third taRight">
               {phone && (
