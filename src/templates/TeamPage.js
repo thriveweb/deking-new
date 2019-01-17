@@ -40,7 +40,7 @@ export const TeamPageTemplate = ({
         </div>
       )}
       {teamMembers &&
-        teamMembers.lenght > 0 && (
+        teamMembers.length > 0 && (
           <div className="section TeamMembers">
             <div className="container flex TeamMembers--Container">
               {teamMembers.map((member, index) => {

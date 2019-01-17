@@ -86,6 +86,12 @@
   height: 40rem;
 }
 
+@media (max-width: 500px) {
+  .ProjectCard--Image {
+    height: 25rem;
+  }
+}
+
 .ProjectCard--Content {
   padding: 1.5rem 0;
   position: absolute;
@@ -129,6 +135,15 @@
   max-height: 40rem;
   height: 40rem;
 }
+
+@media (max-width: 500px) {
+  .ProjectCard:hover .ProjectCard--Content {
+    background: var(--col1);
+    max-height: 25rem;
+    height: 25rem;
+  }
+}
+
 .ProjectCard:hover .ProjectCard--Title {
   color: white;
   margin: 0 0 2rem 0;

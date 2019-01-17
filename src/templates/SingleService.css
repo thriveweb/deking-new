@@ -59,6 +59,12 @@
   margin-top: 10rem;
 }
 
+@media (max-width: 980px) {
+  .ServicePods > * + * {
+    margin-top: 0;
+  }
+}
+
 .ServicePods--Pod {
   min-height: 35rem;
 }
@@ -72,15 +78,32 @@
 
 .WelcomeSection .one-half .BackgroundImage,
 .ServicePods--Pod .one-half .BackgroundImage {
-  height: 500px;
+  height: 50rem;
+}
+
+@media (max-width: 600px) {
+  .WelcomeSection .one-half .BackgroundImage,
+  .ServicePods--Pod .one-half .BackgroundImage {
+    height: 30rem;
+  }
 }
 
 .WelcomeSection .one-half .image-shadow-left,
 .WelcomeSection .one-half .image-shadow-right,
 .ServicePods--Pod .one-half .image-shadow-left,
 .ServicePods--Pod .one-half .image-shadow-right {
-  height: 500px;
+  height: 50rem;
   position: relative;
+}
+
+@media (max-width: 600px) {
+  .WelcomeSection .one-half .image-shadow-left,
+  .WelcomeSection .one-half .image-shadow-right,
+  .ServicePods--Pod .one-half .image-shadow-left,
+  .ServicePods--Pod .one-half .image-shadow-right {
+    height: 30rem;
+    position: relative;
+  }
 }
 .Pod--Even {
   flex-direction: row-reverse;

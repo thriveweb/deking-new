@@ -1,3 +1,11 @@
+.PageHeader--ProjectSection .PageHeader--CategoriesNav {
+  position: relative;
+  padding: 0;
+  height: 15rem;
+  left: 0;
+  bottom: -15rem;
+}
+
 .CategoriesNav {
   margin: 2rem 0;
   display: flex;
@@ -6,17 +14,18 @@
   flex-wrap: wrap;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .PageHeader--ProjectSection .PageHeader--CategoriesNav {
     font-size: 1.3rem;
+    height: 20rem;
   }
-
-  .Projects .afterTitle {
-     font-size: 45px !important;
-     line-height: 1;
+  .PageHeader--ProjectSection .PageHeader--CategoriesNav .NavLink {
+    width: 40%;
+    text-align: left;
+    margin: 0;
   }
-
-  .Projects .one-half .Button {
-    margin-top: 7rem !important;
+  .CategoriesNav {
+    align-items: center;
+    justify-content: flex-start;
   }
 }

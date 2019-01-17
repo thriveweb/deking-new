@@ -1,13 +1,6 @@
 .PageHeader--ProjectSection.PageHeader {
   margin: 0;
 }
-.PageHeader--ProjectSection .PageHeader--CategoriesNav {
-  position: relative;
-  padding: 0;
-  height: 10rem;
-  bottom: -15rem;
-  left: 0;
-}
 
 .ProjectsSection {
   margin: 8rem 0;
@@ -74,5 +67,13 @@
     .ProjectsSection .ProjectCard {
       margin: 0 0 4rem 0;
     }
+  }
+  .Projects .afterTitle {
+    font-size: 45px !important;
+    line-height: 1;
+  }
+
+  .Projects .one-half .Button {
+    margin-top: 7rem !important;
   }
 }

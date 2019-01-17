@@ -68,6 +68,14 @@
   margin: 0 0 2rem 0;
 }
 
+@media (max-width: 500px) {
+  .ServiceCard:hover .ServiceCard--Content {
+    background: var(--col1);
+    max-height: 25rem;
+    height: 25rem;
+  }
+}
+
 .ServiceCard:hover .ServiceCard--Content .Button {
   visibility: visible;
   padding: 1rem 2.5rem;
