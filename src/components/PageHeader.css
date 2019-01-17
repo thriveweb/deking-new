@@ -11,12 +11,24 @@
 .PageHeader-large {
   padding: 20rem 0;
 }
+@media (max-width: 600px) {
+  .PageHeader-large {
+    padding: 10rem 0;
+  }
+  .PageHeader .container {
+    width: 100%;
+  }
+}
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
   text-align: center;
 }
-
+@media (max-width: 600px) {
+  .PageHeader--Title {
+    font-size: 3rem;
+  }
+}
 .PageHeader--Subtitle {
   position: absolute;
   bottom: -32rem;
@@ -30,6 +42,13 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+@media (max-width: 600px) {
+  .PageHeader--Subtitle {
+    bottom: -22rem;
+    height: 10rem;
+    font-size: 2rem;
+  }
 }
 
 .PageHeader-split {

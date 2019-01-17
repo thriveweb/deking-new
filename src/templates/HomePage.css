@@ -136,14 +136,30 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
-.PartnersSection--Logo {
+.PartnersSection--Logo.one-quarter {
   display: inline-block;
   height: 80px;
-  width: 15%;
+  width: calc(15% - 2rem) !important;
   position: relative;
-  margin: 2rem;
+  margin: 1rem 1rem 0 0;
+}
+
+@media (max-width: 600px) {
+  .PartnersSection--Logo.one-quarter {
+    width: calc(25% - 2rem) !important;
+  }
+}
+
+.PartnersSection--Logo img {
+  max-width: 80px;
+  width: 100%;
+  height: auto;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
 
 .PartnersSection--Logo .BackgroundImage {
@@ -156,9 +172,6 @@
   transform: translateY(-1px);
 }
 
-.afterTitle {
-  font-size: 58px !important;
-}
 .BenfitsSection--Benfit {
   padding: 0 1rem 4rem 0;
 }
@@ -229,10 +242,4 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.PartnersSection--Logo img {
-  max-width: 70%;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
 }

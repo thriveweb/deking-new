@@ -6,6 +6,7 @@
   align-items: center;
   justify-content: center;
 }
+
 .BannerSection .flex {
   align-items: flex-end;
   justify-content: space-between;
@@ -26,4 +27,13 @@
 
 .BannerSection--Graident {
   background: linear-gradient(to right, var(--darkGrey) 0%, transparent 100%);
+}
+
+.BannerSection h2 {
+  font-size: 5rem;
+}
+@media (max-width: 600px) {
+  .BannerSection h2 {
+    font-size: 3rem;
+  }
 }
