@@ -6,15 +6,14 @@ siteDescription: >-
 phone: 1800 335 464
 phone2: 07 3804 6400
 email: info@dekingdecks.com.au
-subscribeFormTitle: Sign up for our newsletter and get the latest deals
+warrantyLogo: /images/uploads/25-year-warranty.png
 socialMediaCard:
   facebook: 'https://www.facebook.com/dekingdecks/'
   image: /images/uploads/card-og.png
   instagram: 'https://www.instagram.com/dekingdecks/'
+  pintrest: 'https://www.pintrest.com/'
   twitter: 'https://www.houzz.com.au/pro/deking/deking-pty-ltd?irs=US'
   youtube: 'https://www.youtube.com/channel/UCtcPx6hv5-mBISS-YdQTWKw'
-  pintrest: 'https://www.pintrest.com/'
-warrantyLogo: /images/uploads/25-year-warranty-shutterstock.jpg
 headerScripts: >-
   <!-- Global site tag (gtag.js) - Google Analytics -->
 
