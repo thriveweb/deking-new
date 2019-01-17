@@ -120,7 +120,7 @@ export default ({ globalSettings = {}, ...props }) => {
                 )}
               </div>
             </div>
-            <div className="one-third">
+            <div className="one-third warrantyLogo">
               {warrantyLogo && (
                 <Image src={warrantyLogo} alt="25 year warranty" />
               )}

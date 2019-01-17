@@ -116,6 +116,18 @@
   margin: 0.5rem;
 }
 
+.warrantyLogo {
+  text-align: center;
+}
+
+.warrantyLogo .Image {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  max-width: 120px;
+}
+
 @media (max-width: 810px) {
   footer {
     text-align: center;
