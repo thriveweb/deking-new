@@ -143,8 +143,8 @@ export default ({ globalSettings = {}, ...props }) => {
         </div>
         <div className="CopyFooter dark">
           <div className="container taCenter">
-            © 2017 All rights reserved.
-            <p>
+            © {new Date().getFullYear()} All rights reserved.{' '}
+            <span>
               Crafted by{' '}
               <a
                 href="https://thriveweb.com.au"
@@ -153,7 +153,7 @@ export default ({ globalSettings = {}, ...props }) => {
               >
                 Thrive
               </a>
-            </p>
+            </span>
           </div>
         </div>
       </footer>
