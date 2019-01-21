@@ -11,7 +11,7 @@ const PageHeader = ({
   backgroundImage,
   large,
   split,
-  className = '',
+  className = ''
 }) => {
   if (large) className += ' PageHeader-large'
   if (split) className += ' PageHeader-split'
@@ -24,7 +24,7 @@ const PageHeader = ({
       <div className="container relative">
         <div className={split}>
           <h1 className="PageHeader--Title">{title}</h1>
-          {subtitle && <h2 className="PageHeader--Subtitle">{subtitle}</h2>}
+          {subtitle && <div className="PageHeader--Subtitle">{subtitle}</div>}
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@ const PageHeader = ({
 
 PageHeader.propTypes = {
   title: PropTypes.string,
-  subtitle: PropTypes.string,
+  subtitle: PropTypes.string
 }
 
 export default PageHeader

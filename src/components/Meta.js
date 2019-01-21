@@ -10,16 +10,17 @@ const Meta = props => {
     title,
     url,
     description,
-    absoluteImageUrl,
-    twitter,
+    absoluteImageUrl = '',
     headerScripts,
     noindex,
     canonicalLink,
+    siteTitle,
+    siteDescription
     // overwrite { title, description } if in fields or fields.meta
   } = {
     ...props,
     ...onlyTruthyValues(_get(props, 'fields')),
-    ...onlyTruthyValues(_get(props, 'fields.meta')),
+    ...onlyTruthyValues(_get(props, 'fields.meta'))
   }
 
   // write headerScripts
@@ -38,15 +39,16 @@ const Meta = props => {
       {description && <meta property="og:description" content={description} />}
       {url && <meta property="og:type" content="website" />}
       {url && <meta property="og:url" content={url} />}
-      {absoluteImageUrl && (
-        <meta name="twitter:card" content="summary_large_image" />
-      )}
-      {absoluteImageUrl && (
-        <meta property="og:image" content={absoluteImageUrl} />
-      )}
-      {twitter && <meta name="twitter:site" content={twitter} />}
       {noindex && <meta name="robots" content="noindex" />}
       {canonicalLink && <link rel="canonical" href={canonicalLink} />}
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:site_name" content={siteTitle} />
+      <meta name="twitter:description" content={siteDescription} />
+      <meta name="twitter:title" content={siteTitle} />
+      <meta name="twitter:image" content={absoluteImageUrl} />
+      <meta property="og:image:secure_url" content={absoluteImageUrl} />
+      <meta property="og:image" content={absoluteImageUrl} />
+      <meta name="twitter:card" content={absoluteImageUrl} />
     </Helmet>
   )
 }

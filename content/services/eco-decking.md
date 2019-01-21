@@ -90,11 +90,6 @@ servicePods:
       environmental impact of the build.
     podImage: /images/uploads/img_9607.jpg
     podsTitle: Environmental Impact
-videoTitle: Environmental Impact
-videoContent: >-
-  DeKing understands the responsibility behind its character as being a
-  reputable builder.
-videoURL: 'https://clients.thrivex.io/dekingdecks/home.mp4'
 bannerTitle: ''
 bannerDescription: ''
 bannerButton:
@@ -108,4 +103,3 @@ meta:
     outdoors from your deck without harming the environment.
   title: 'ECO Decking Brisbane, Gold Coast, Sunshine Coast'
 ---
-

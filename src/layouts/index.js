@@ -19,7 +19,7 @@ export default ({ children, data }) => {
   const globalSettings = data.globalSettings
   return (
     <Fragment>
-      <Helmet defaultTitle={siteTitle} titleTemplate={`${siteTitle} | %s`}>
+      <Helmet defaultTitle={siteTitle} titleTemplate={`%s`}>
         <link
           rel="stylesheet"
           href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
