@@ -1,7 +1,6 @@
 ---
 template: HomePage
 slug: ''
-externalVideoURL: https://clients.thrivex.io/dekingdecks/home.mp4
 videoPoster: /images/uploads/1.jpg
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/11.jpg
@@ -43,9 +42,8 @@ teamDescription: >-
   to help and can simply make it happen.
 teamImage: /images/uploads/team.jpg
 teamButton:
-  label: Benefits of a Timber Deck
-  link: timber-decks
-benefitsTitle: Benefits of a Timber Deck
+  label: ''
+  link: ''
 benefits:
   - description: >-
       Decks are a great way to significantly increase the living space of your
@@ -71,7 +69,7 @@ videoContent: >-
   short of a minor miracle compared with all the other trades I have dealt with
   over the past 5 months whilst doing a major house renovation. I highly
   recommend Deking.
-videoURL: https://clients.thrivex.io/dekingdecks/home.mp4
+videoURL: 'https://clients.thrivex.io/dekingdecks/home.mp4'
 priceTitle: Price Guide
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
@@ -99,3 +97,4 @@ meta:
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decking'
 ---
+
