@@ -59,7 +59,7 @@ export const HomePageTemplate = ({
             </BackgroundVideo>
           )}
         {title && (
-          <div className="container relative">
+          <div className="home--banner-sidebar relative">
             <h1 id="home-title" className="PageHeader--Title afterTitle">
               {title}
             </h1>

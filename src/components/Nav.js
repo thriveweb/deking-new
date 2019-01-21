@@ -157,7 +157,6 @@ export default class Nav extends Component {
               rel="noopener noreferrer"
               className="NavLink--Phone"
             >
-              <Phone />
               1800 444 333
             </NavLink>
             <Button className="NavLink--Button" to="/quote-calculator/">
