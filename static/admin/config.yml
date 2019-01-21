@@ -187,7 +187,8 @@ collections: # A list of collections the CMS should be able to edit
               name: videoContent,
               label: Video Content,
               widget: markdown,
-              required: false default:'',
+              required: false,
+              default: '',
             }
           - {
               name: videoURL,

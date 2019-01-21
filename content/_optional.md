@@ -27,6 +27,7 @@ benefits:
     icon: /images/logo.svg
 videoTitle: ''
 videoContent: ''
+videoURL: ''
 priceTitle: ''
 priceDescription: ''
 priceButton:
