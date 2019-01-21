@@ -158,6 +158,12 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                   default: '',
                 }
+          - {
+              name: benefitsTitle,
+              label: benefitsTitle,
+              widget: string,
+              default: '',
+            }
           - name: 'benefits'
             label: 'Benefits'
             widget: 'list'

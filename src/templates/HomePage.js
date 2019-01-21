@@ -33,6 +33,7 @@ export const HomePageTemplate = ({
   teamDescription,
   teamImage,
   teamButton,
+  benefitsTitle,
   benefits,
   videoTitle,
   videoURL,
@@ -138,9 +139,12 @@ export const HomePageTemplate = ({
       </div>
 
       {benefits &&
-        benefits.lenght > 0 && (
+        benefits.length > 0 && (
           <div className="section BenfitsSection noPadding">
             <div className="container">
+              <div className="taCenter">
+                {benefitsTitle && <h2>{benefitsTitle}</h2>}
+              </div>
               <div className="flex three-quarters">
                 {benefits.map((benefit, index) => {
                   return (
@@ -348,6 +352,7 @@ export const pageQuery = graphql`
           label
           link
         }
+        benefitsTitle
         benefits {
           icon {
             ...SmallImage

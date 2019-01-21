@@ -45,6 +45,7 @@ teamImage: /images/uploads/team.jpg
 teamButton:
   label: Benefits of a Timber Deck
   link: timber-decks
+benefitsTitle: Benefits of a Timber Deck
 benefits:
   - description: >-
       Decks are a great way to significantly increase the living space of your
