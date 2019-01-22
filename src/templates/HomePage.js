@@ -143,7 +143,13 @@ export const HomePageTemplate = ({
           <div className="section BenfitsSection noPadding">
             <div className="container">
               <div className="taCenter">
-                {benefitsTitle && <h2>{benefitsTitle}</h2>}
+                {benefitsTitle && (
+                  <h2>
+                    {benefitsTitle}
+                    <br />
+                    <br />
+                  </h2>
+                )}
               </div>
               <div className="flex three-quarters">
                 {benefits.map((benefit, index) => {

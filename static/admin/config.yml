@@ -25,7 +25,12 @@ collections: # A list of collections the CMS should be able to edit
               default: 'HomePage',
             }
           - { name: slug, label: Slug, widget: hidden, default: '' }
-          - { name: video, label: video, widget: string, required: false }
+          - {
+              name: externalVideoURL,
+              label: externalVideoURL,
+              widget: string,
+              required: false,
+            }
           - {
               name: videoPoster,
               label: videoPoster,
