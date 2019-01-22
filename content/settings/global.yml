@@ -27,3 +27,8 @@ headerScripts: >-
 
     gtag('config', 'UA-46463867-1');
   </script>
+
+  <meta name="google-site-verification"
+  content="qG89fWbh3KTY5XWB33kJJpbA_pqfuq8T4FHLTKpkIxw" />
+
+  <meta name="msvalidate.01" content="B0112812CA622A13C327AF572E2BA5B5" />
