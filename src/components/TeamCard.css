@@ -19,9 +19,8 @@
 }
 
 .ProfileImage--set:hover.ProfileImage--hover {
-  display:block;
+  display: block;
 }
-
 
 .TeamCard--Image {
   margin: 0;
@@ -71,7 +70,7 @@
 }
 
 .TeamCard:hover .ProfileImage--set {
-   display: none;
+  display: none;
 }
 
 .TeamCard:hover .ProfileImage--hover {
@@ -79,7 +78,7 @@
 }
 
 .ProfileImage--hover {
-  display:none;
+  display: none;
 }
 
 .TeamCard:hover .TeamCard--Title {
@@ -103,6 +102,7 @@
   padding: 4rem;
   color: white;
   height: 100%;
+  width: 100%;
   z-index: 222;
 }
 .TeamCard--Popup.active {

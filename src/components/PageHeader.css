@@ -78,6 +78,18 @@
   justify-content: center;
 }
 
+@media (max-width: 650px) {
+  .PageHeader-split .BackgroundImage {
+    display: block;
+  }
+
+  .PageHeader-split-half {
+    width: 100%;
+    padding: 0 3rem;
+    background: rgba(39, 33, 33, 0.8);
+  }
+}
+
 .PageHeader-split .PageHeader--Title {
   font-size: 4rem;
   margin-bottom: 4rem;
@@ -95,4 +107,10 @@
   display: block;
   text-align: left;
   font-size: 2.8rem;
+}
+
+@media (max-width: 650px) {
+  .PageHeader-split .PageHeader--Subtitle {
+    font-size: 1.8rem;
+  }
 }

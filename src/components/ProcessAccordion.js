@@ -9,11 +9,11 @@ import './ProcessAccordion.css'
 export default class ProcessAccordion extends React.Component {
   static defaultProps = {
     items: [],
-    className: '',
+    className: ''
   }
 
   state = {
-    activeItem: null,
+    activeItem: null
   }
 
   handleClick = index => {
@@ -36,7 +36,10 @@ export default class ProcessAccordion extends React.Component {
               }`}
               key={`accordion-item-${item.title + index}`}
             >
-              <div className="flex titleGroup">
+              <div
+                className="flex titleGroup"
+                onClick={() => this.handleClick(index)}
+              >
                 <div className="imageDisc">
                   <Image
                     background
@@ -44,7 +47,7 @@ export default class ProcessAccordion extends React.Component {
                     alt={item.title}
                   />
                 </div>
-                <h2 onClick={() => this.handleClick(index)}>
+                <h2>
                   <span>{item.title}</span>{' '}
                 </h2>
                 {active ? <ChevronUp /> : <ChevronDown />}

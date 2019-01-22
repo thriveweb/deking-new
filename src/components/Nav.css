@@ -78,6 +78,22 @@
   background: var(--col1);
 }
 
+@media (max-width: 650px) {
+  .SubNav .NavLink {
+    margin: 0;
+    padding: 0.6rem 0;
+    margin: 0 0 0.1rem 0;
+    background: white;
+    color: var(--midGrey);
+    font-size: 1.2rem;
+  }
+
+  .SubNav .NavLink:hover {
+    background: white;
+    color: var(--col1);
+  }
+}
+
 .Nav .Logo {
   margin-right: auto;
   width: 29rem;

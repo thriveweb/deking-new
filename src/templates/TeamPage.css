@@ -4,17 +4,6 @@
   justify-content: center;
 }
 
-@media (max-width: 650px) {
-  .Team .PageHeader .BackgroundImage {
-    display: none;
-  }
-
-  .Team .PageHeader-split-half {
-    width: 100%;
-    padding: 0 3rem;
-  }
-}
-
 @media (max-width: 600px) {
   .Team .TeamMembers--Container .TeamCard--Wrap {
     width: 50%;
