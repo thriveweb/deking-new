@@ -65,13 +65,9 @@ benefits:
   - description: They create a wonderful flow between your inside and outside spaces.
     icon: /images/uploads/icon-flow.png
     title: Creates Flow
-videoTitle: Client testimonial
-videoContent: >-
-  Excellent job started and completed when they said - that in itself is nothing
-  short of a minor miracle compared with all the other trades I have dealt with
-  over the past 5 months whilst doing a major house renovation. I highly
-  recommend Deking.
-videoURL: 'https://clients.thrivex.io/dekingdecks/home.mp4'
+videoTitle: ''
+videoContent: ''
+videoURL: ''
 priceTitle: Price Guide
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
