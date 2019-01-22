@@ -53,7 +53,7 @@ export default class Nav extends Component {
   }
 
   render() {
-    const { allPages } = this.props
+    const { allPages, globalSettings } = this.props
     const { active } = this.state
     const getChildPages = parentSlug =>
       allPages.filter(
@@ -152,12 +152,12 @@ export default class Nav extends Component {
             </NavLink>
             <div className="Nav--Container--Sep" />
             <NavLink
-              href="tel:1800444333"
+              href={`tel:${globalSettings.phone}`}
               target="_blank"
               rel="noopener noreferrer"
               className="NavLink--Phone"
             >
-              1800 444 333
+              {globalSettings.phone}
             </NavLink>
             <Button className="NavLink--Button" to="/quote-calculator/">
               <svg

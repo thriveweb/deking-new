@@ -39,7 +39,7 @@ export default ({ children, data }) => {
       <main>
         <Squares />
 
-        <Nav allPages={allPages} />
+        <Nav allPages={allPages} globalSettings={globalSettings} />
 
         <Fragment>{children()}</Fragment>
 
