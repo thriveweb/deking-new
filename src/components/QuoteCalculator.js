@@ -324,7 +324,7 @@ class QuoteCalculator extends React.Component {
                       />
                       <OptionSlide
                         key="2"
-                        image="/images/icon-stairs.svg"
+                        image="/images/icon-handrail.svg"
                         title="Do you want a handrail"
                         slideSet="handrail"
                         positiveValue="handrail"
