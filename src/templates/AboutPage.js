@@ -35,7 +35,6 @@ export const AboutPageTemplate = ({
         backgroundImage={featuredImage}
         large
       />
-
       <div className="section WelcomeSection">
         <div className="container flex">
           <div className="one-half">
