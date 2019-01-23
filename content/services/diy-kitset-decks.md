@@ -90,5 +90,10 @@ categories:
   - category: Timber Decks
   - category: Patio Roofs
   - category: Pool Decking
+meta:
+  description: >-
+    DIY Decking Kits Australia - DeKing Australia specialises in Timber Decking
+    for Decks, Patio's, Pools and Pergola's
+  title: DIY Kitset Decks & Patios | Deking Decks
 ---
 
