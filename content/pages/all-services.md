@@ -2,7 +2,6 @@
 template: ServicesIndex
 slug: services
 title: All Services
-date: 2018-01-1
 featuredImage: /images/uploads/flat-outback-05.jpg
 bannerTitle: Services
 bannerDescription: .
@@ -12,7 +11,8 @@ bannerButton:
   link: 'https://dekingdecks.thrivex.xyz/quote-calculator/'
 meta:
   canonicalLink: ''
-  description: ''
+  description: Use our Decking Calculators for a Free Quote
   noindex: false
-  title: ''
+  title: All Services | Deking Decks
 ---
+
