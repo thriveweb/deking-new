@@ -277,7 +277,7 @@ const SingleService = ({ data, pathContext }) => {
       ...node.frontmatter
     }
   })
-  console.log(currentCategory + ' - ' + filtedProjects)
+
   return (
     <SingleServiceTemplate
       {...service}

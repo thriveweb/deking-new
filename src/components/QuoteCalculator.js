@@ -276,7 +276,7 @@ class QuoteCalculator extends React.Component {
               </label>
               <label
                 className={`QuoteCalculator--Label QuoteCalculator--Option-image ${
-                  option === 'groundLevelDeckPatio' ? 'selected' : ''
+                  option === 'lowerLevelDeckPatio' ? 'selected' : ''
                 }`}
               >
                 <input
@@ -289,7 +289,6 @@ class QuoteCalculator extends React.Component {
                   }`}
                   value="lowerLevelDeckPatio"
                   required
-                  data-skipoptions={true}
                 />
                 Lower Level Deck & Patio
               </label>
@@ -425,7 +424,7 @@ class QuoteCalculator extends React.Component {
                 ),
                 roofFlyoverAttached: (
                   <Fragment>
-                    <OptionGallery>
+                    <OptionGallery selectedOptions={[insulated, attached]}>
                       <OptionSlide
                         image="/images/icon-insulated.svg"
                         title="So you want insulation"
@@ -467,7 +466,7 @@ class QuoteCalculator extends React.Component {
                 ),
                 lowerLevelDeckPatio: (
                   <Fragment>
-                    <OptionGallery>
+                    <OptionGallery selectedOptions={[insulated, attached]}>
                       <OptionSlide
                         image="/images/icon-insulated.svg"
                         title="So you want insulation"

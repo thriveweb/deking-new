@@ -87,8 +87,7 @@ servicePods:
       functional, and provides real value to your property.
     podImage: /images/uploads/21.jpg
     podsTitle: What style of Deck do you need?
-videoTitle: pool decking
-videoURL: /images/uploads/untitled.mov
+
 bannerTitle: Easter Special Free Egg Chair
 bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
 bannerImage: /images/uploads/egg-chair-promo.jpg
@@ -106,4 +105,3 @@ meta:
   noindex: false
   title: 'Timber Decking Brisbane, Timber Deck Builders '
 ---
-
