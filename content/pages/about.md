@@ -59,6 +59,6 @@ meta:
     DeKing Decks is the king of outdoor decking when it comes to the design and
     installation of outdoor decking, verandas, pool decking, and patio roofing.
   noindex: false
-  title: About Us - Deking Decks
+  title: About Us | Deking Decks
 ---
 
