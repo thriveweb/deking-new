@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 externalVideoURL: 'https://clients.thrivex.io/dekingdecks/home.mp4'
-videoPoster: /images/uploads/1.jpg
+videoPoster: /images/uploads/background-video.jpg
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/11.jpg
 featureButton:
