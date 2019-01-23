@@ -146,7 +146,11 @@ bannerButton:
   link: Contact
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Our team is happy to work with you to meet your individual home improvement
+    needs. Try out our quote calculator or price guide and make an appointment
+    with us.
   noindex: false
-  title: ''
+  title: 'Meet the Deking Deck Team '
 ---
+

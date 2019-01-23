@@ -117,8 +117,10 @@ bannerButton:
   link: Contact
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Working together with Deking provides clarity and confidence from initial
+    contact to completion in 6 simple steps.
   noindex: false
-  title: ''
+  title: Our Process | Deking Decks
 ---
 

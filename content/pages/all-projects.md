@@ -13,8 +13,10 @@ bannerButton:
   link: contact
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    View our gallery for inspiration for your new project. Use our Decking
+    Calculators for a Free Quote
   noindex: false
-  title: ''
+  title: Our Projects | Deking Decks
 ---
 

@@ -14,8 +14,8 @@ meta:
   description: >-
     When a customer is looking to add an interesting feature to their home there
     are a number of deck patio combination ideas that are practical and
-    interesting. Use our Patio Roofing Calculators for a Free Quote
-  title: Deck Patio Combination Ideas - Deking Decks Brisbane
+    interesting.
+  title: Deck Patio Combination Ideas | Deking Decks Brisbane
 ---
 When a customer is looking to add a really interesting feature to their home there are a number of [deck patio combination](https://www.dekingdecks.com.au/decks-and-patio-roofing/) ideas that are practical, as well as interesting, options to add additional living space to the property.
 

@@ -12,8 +12,7 @@ categories:
 meta:
   description: >-
     Find out how much it will cost to build a patio and patio roof on your
-    house. The patio installation cost depends on a number of factors. Use our
-    Patio Roofing Calculators for a Free Quote
+    house. The patio installation cost depends on a number of factors.
   title: 'Patio Installation Cost: Timber Patio and Roofing'
 ---
 A brand new timber patio and patio roof can transform your house, making it feel more open, inviting, relaxing and luxurious all at the same time. A timber patio also increases your living space and provides the perfect opportunity to entertain guests, eat family dinners outside where it’s cooler, or relax in the shade with an unencumbered view.

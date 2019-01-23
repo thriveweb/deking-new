@@ -142,10 +142,8 @@ categories:
 meta:
   canonicalLink: ''
   description: >-
-    DeKing is the Outdoor Decking specialists in Brisbane, Logan, Ipswich,
-    Sunshine Coast, and the Gold Coast. We enjoy building customised outdoor
-    decking for our clients. Use our Decking and Patio Roofing Calculators for a
-    Free Quote
+    DeKing is the Outdoor Decking specialists in South East Queensland. Use our
+    Decking and Patio Roofing Calculators for a Free Quote
   noindex: false
   title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine '
 ---

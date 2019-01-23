@@ -75,5 +75,11 @@ bannerButton:
   link: Contact
 categories:
   - category: Gazebos & Outdoor Rooms
+meta:
+  description: >-
+    DeKing build custom Gazebos in Brisbane, the Gold Coast, and Sunshine Coast.
+    A great addition to the outdoor entertainment and relaxation space on your
+    property
+  title: Gazebos & Outdoor Rooms | Deking Decks
 ---
 
