@@ -26,8 +26,10 @@ bannerButton:
   link: contact
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    We are always on the lookout for motivated and enthusiastic team members
+    that want to make a difference to people's way of life.
   noindex: false
-  title: ''
+  title: Join Our Team | Deking Decks
 ---
 
