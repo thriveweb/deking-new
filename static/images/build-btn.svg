@@ -1,1 +1,34 @@
-<svg width="161" height="87" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M33.707 18.667h75.586c10.303 0 18.654 8.351 18.654 18.654 0 10.302-8.351 18.654-18.654 18.654H33.707c-10.303 0-18.654-8.352-18.654-18.654 0-10.303 8.351-18.654 18.654-18.654z" id="b"/><filter x="-26.6%" y="-80.4%" width="153.1%" height="260.8%" filterUnits="objectBoundingBox" id="a"><feGaussianBlur stdDeviation="10" in="SourceGraphic"/></filter></defs><g transform="translate(9 6)" fill="none" fill-rule="evenodd"><g filter="url(#a)"><use fill="#B21524" xlink:href="#b"/><use fill-opacity=".1" fill="#272121" xlink:href="#b"/></g><rect fill="#FFF" width="143" height="53.053" rx="26.526"/><text font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="1.6" fill="#F12337"><tspan x="47.074" y="28.792">BUILD</tspan></text></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 161 87" style="enable-background:new 0 0 161 87;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#a);}
+	.st1{fill:#B21524;}
+	.st2{opacity:0.1;fill:#272121;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#F12337;}
+	.st5{font-family:'AvenirNext-DemiBold';}
+	.st6{font-size:14px;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="260.8%" id="a" width="153.1%" x="-26.6%" y="-80.4%">
+	<feGaussianBlur  in="SourceGraphic" stdDeviation="10"></feGaussianBlur>
+</filter>
+<g transform="translate(9 6)">
+	<g class="st0">
+		<g>
+			<path id="b_4_" class="st1" d="M33.7,18.7h75.6c10.3,0,18.7,8.4,18.7,18.7c0,10.3-8.4,18.7-18.7,18.7H33.7
+				c-10.3,0-18.7-8.4-18.7-18.7C15.1,27,23.4,18.7,33.7,18.7z"/>
+		</g>
+		<g>
+			<g id="b_2_">
+				<path class="st2" d="M33.7,18.7h75.6c10.3,0,18.7,8.4,18.7,18.7c0,10.3-8.4,18.7-18.7,18.7H33.7c-10.3,0-18.7-8.4-18.7-18.7
+					C15.1,27,23.4,18.7,33.7,18.7z"/>
+			</g>
+		</g>
+	</g>
+	<path class="st3" d="M24.5,0h89.9C129.1,0,141,11.9,141,26.5v0c0,14.6-11.9,26.5-26.5,26.5H24.5C9.9,53.1-2,41.2-2,26.5v0
+		C-2,11.9,9.9,0,24.5,0z"/>
+	<text transform="matrix(1 0 0 1 49.074 31.792)" class="st4 st5 st6">BUILD</text>
+</g>
+</svg>

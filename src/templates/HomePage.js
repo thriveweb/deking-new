@@ -203,32 +203,32 @@ export const HomePageTemplate = ({
             <CalculatorCard
               slug="/quote-calculator/?option=groundLevelDeck&currentStep=2"
               title="Ground level deck"
-              image="/images/lower-level-deck.png"
+              image="/images/GroundLevelDeck.jpg"
             />
             <CalculatorCard
               slug="/quote-calculator/?option=upperLevelDeck&currentStep=1"
               title="Upper level deck"
-              image="/images/upper-level-deck.png"
+              image="/images/UpperDeckWithStairs.jpg"
             />
             <CalculatorCard
               slug="/quote-calculator/?option=poolDeck&currentStep=2"
               title="Pool deck"
-              image="/images/pool-deck.png"
+              image="/images/PoolDeck.jpg"
             />
             <CalculatorCard
               slug="/quote-calculator/?option=roofFlyoverAttached&currentStep=1"
               title="Patio roof flyover or attached"
-              image="/images/roof-flyover.png"
+              image="/images/AttachedRoof.jpg"
             />
             <CalculatorCard
               slug="/quote-calculator/?option=upperLevelDeckPatio&currentStep=1"
               title="Upper level deck and patio roof"
-              image="/images/upper-level-deck-and-patio-roof.png"
+              image="/images/UpperDeckWithStairsAndRoof.jpg"
             />
             <CalculatorCard
               slug="/quote-calculator/?option=lowerLevelDeckPatio&currentStep=1"
               title="Low level deck and Patio roof"
-              image="/images/low-level-deck-and-patio-roof.png"
+              image="/images/RoofDeck.jpg"
             />
           </div>
         </div>
