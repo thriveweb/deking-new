@@ -1,5 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 import ReactDOM from 'react-dom'
+import Image from './Image'
 
 import './BackgroundVideo.css'
 
@@ -9,7 +10,17 @@ class BackgroundVideo extends Component {
     this.ref = React.createRef()
   }
   state = {
-    playing: false
+    playing: false,
+    mobileWidth: false
+  }
+
+  updateDimensions() {
+    console.log(this)
+    if (window.innerWidth < 700) {
+      this.setState({ mobileWidth: true })
+    } else {
+      this.setState({ mobileWidth: false })
+    }
   }
 
   handelPlay(e) {
@@ -23,29 +34,42 @@ class BackgroundVideo extends Component {
   }
 
   componentDidMount() {
+    this.updateDimensions()
+    window.addEventListener('resize', () => this.updateDimensions())
     ReactDOM.findDOMNode(this.ref.current).addEventListener('playing', e =>
       this.handelPlay(e)
     )
   }
 
+  componentWillUnmount() {
+    window.removeEventListener('resize', this.updateDimensions)
+  }
+
   render() {
     const { poster, children } = this.props
     return (
-      <div className="BackgroundVideo">
-        <video
-          ref={this.ref}
-          poster={poster}
-          className={`BackgroundVideo--video ${
-            this.state.playing ? 'playing' : ''
-          }`}
-          playsInline
-          autoPlay
-          muted
-          preload="auto"
-        >
-          {children}
-        </video>
-      </div>
+      <Fragment>
+        {!this.state.mobileWidth && (
+          <div className={`BackgroundVideo`}>
+            <video
+              ref={this.ref}
+              poster={poster}
+              className={`BackgroundVideo--video ${
+                this.state.playing ? 'playing' : ''
+              } `}
+              playsInline
+              autoPlay
+              muted
+              preload="auto"
+            >
+              {children}
+            </video>
+          </div>
+        )}
+        {this.state.mobileWidth && (
+          <Image background src={poster} alt="Home poster" />
+        )}
+      </Fragment>
     )
   }
 }
