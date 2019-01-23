@@ -15,7 +15,7 @@ meta:
   description: >-
     When considering different deck and patio cover designs there are numerous
     things to decide, such as size, usage requirements, functionality and
-    materials. Use our Patio Roofing Calculators for a Free Quote
+    materials. 
   title: 'Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs'
 ---
 Getting the design right for a [deck and patio cover](https://www.dekingdecks.com.au/patio-roofing) can be the difference between a stunning addition to your home and an out-of-place novelty. In terms of functionality, it can also mean the difference between a space that you love to be in and one that you avoid.
