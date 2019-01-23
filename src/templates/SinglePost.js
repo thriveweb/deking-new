@@ -23,10 +23,6 @@ export const SinglePostTemplate = ({
   <Fragment>
     <Meta {...meta} />
     <article className="SinglePost section light">
-      <Helmet>
-        <title>{title}</title>
-      </Helmet>
-
       {featuredImage && (
         <Image
           background

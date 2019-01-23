@@ -22,10 +22,6 @@ export const BlogIndexTemplate = ({
   return (
     <Fragment>
       <main className="Blog">
-        <Helmet>
-          <title>{title}</title>
-        </Helmet>
-
         <PageHeader large title={title} backgroundImage={featuredImage} />
 
         {posts &&

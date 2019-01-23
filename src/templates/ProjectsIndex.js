@@ -35,10 +35,6 @@ export const ProjectsIndexTemplate = ({
     <Fragment>
       <Meta {...meta} />
       <main className="Projects">
-        <Helmet>
-          <title>{title}</title>
-        </Helmet>
-
         <div className={`PageHeader relative PageHeader--ProjectSection`}>
           {featuredImage && (
             <Image background src={featuredImage} alt={title} />

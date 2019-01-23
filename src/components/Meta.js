@@ -17,11 +17,7 @@ const Meta = props => {
     siteTitle,
     siteDescription
     // overwrite { title, description } if in fields or fields.meta
-  } = {
-    ...props,
-    ...onlyTruthyValues(_get(props, 'fields')),
-    ...onlyTruthyValues(_get(props, 'fields.meta'))
-  }
+  } = { ...props }
 
   // write headerScripts
   if (typeof window !== 'undefined') {
