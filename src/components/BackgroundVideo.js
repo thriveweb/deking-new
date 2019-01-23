@@ -15,7 +15,6 @@ class BackgroundVideo extends Component {
   }
 
   updateDimensions() {
-    console.log(this)
     if (window.innerWidth < 700) {
       this.setState({ mobileWidth: true })
     } else {
