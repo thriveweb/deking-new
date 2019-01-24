@@ -53,16 +53,6 @@ class Meta extends React.Component {
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
         <meta property="og:image" content={absoluteImageUrl} />
         <meta name="twitter:card" content={absoluteImageUrl} />
-
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=UA-46463867-1"
-        />
-        <script>
-          {`window.dataLayer = window.dataLayer || [] function gtag()
-          {dataLayer.push(arguments)}
-          gtag('js', new Date()); gtag('config', 'UA-46463867-1');`}
-        </script>
         <meta
           name="google-site-verification"
           content="qG89fWbh3KTY5XWB33kJJpbA_pqfuq8T4FHLTKpkIxw"
