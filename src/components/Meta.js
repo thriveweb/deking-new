@@ -2,24 +2,24 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
 class Meta extends React.Component {
-  componentDidMount() {
-    const { headerScripts } = this.props
-    // write headerScripts
-    if (typeof window !== 'undefined') {
-      const intVal = setInterval(() => {
-        let headerScriptsElement = false
-        try {
-          headerScriptsElement = document.getElementById('headerScripts')
-        } catch (err) {
-          return
-        }
-        if (headerScripts && headerScriptsElement) {
-          headerScriptsElement.outerHTML = headerScripts
-          clearInterval(intVal)
-        }
-      }, 100)
-    }
-  }
+  // componentDidMount() {
+  //   const { headerScripts } = this.props
+  //   // write headerScripts
+  //   if (typeof window !== 'undefined') {
+  //     const intVal = setInterval(() => {
+  //       let headerScriptsElement = false
+  //       try {
+  //         headerScriptsElement = document.getElementById('headerScripts')
+  //       } catch (err) {
+  //         return
+  //       }
+  //       if (headerScripts && headerScriptsElement) {
+  //         headerScriptsElement.outerHTML = headerScripts
+  //         clearInterval(intVal)
+  //       }
+  //     }, 100)
+  //   }
+  // }
   render() {
     const {
       title,
@@ -58,6 +58,20 @@ class Meta extends React.Component {
           id="headerScripts"
           content="replace headerScriptsElement"
         />
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=UA-46463867-1"
+        />
+        <script>
+          window.dataLayer = window.dataLayer || [] function gtag()
+          {dataLayer.push(arguments)}
+          gtag('js', new Date()); gtag('config', 'UA-46463867-1');
+        </script>
+        <meta
+          name="google-site-verification"
+          content="qG89fWbh3KTY5XWB33kJJpbA_pqfuq8T4FHLTKpkIxw"
+        />
+        <meta name="msvalidate.01" content="B0112812CA622A13C327AF572E2BA5B5" />
       </Helmet>
     )
   }
