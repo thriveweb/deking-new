@@ -53,11 +53,7 @@ class Meta extends React.Component {
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
         <meta property="og:image" content={absoluteImageUrl} />
         <meta name="twitter:card" content={absoluteImageUrl} />
-        <meta
-          name="headerScriptsElement"
-          id="headerScripts"
-          content="replace headerScriptsElement"
-        />
+
         <script
           async
           src="https://www.googletagmanager.com/gtag/js?id=UA-46463867-1"
