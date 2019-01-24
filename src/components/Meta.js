@@ -59,9 +59,9 @@ class Meta extends React.Component {
           src="https://www.googletagmanager.com/gtag/js?id=UA-46463867-1"
         />
         <script>
-          window.dataLayer = window.dataLayer || [] function gtag()
+          {`window.dataLayer = window.dataLayer || [] function gtag()
           {dataLayer.push(arguments)}
-          gtag('js', new Date()); gtag('config', 'UA-46463867-1');
+          gtag('js', new Date()); gtag('config', 'UA-46463867-1');`}
         </script>
         <meta
           name="google-site-verification"
