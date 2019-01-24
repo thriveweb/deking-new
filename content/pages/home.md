@@ -25,10 +25,10 @@ bannerButton:
 teamTitle: DeKing Decks – Brisbane & Gold Coast – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
-  people](https://deking-decks.netlify.com/about/team/) at Decking have been
+  people](https://deking-decks.netlify.com/about/team/) at Deking have been
   designing and building all types of Decks, Verandahs, Patios, Carports,
-  Pergolas, Pool Houses and all outdoor living spaces. We pride ourselves on
-  our, our care, our quality, [our
+  Pergolas, Pool Houses and all outdoor living spaces. We pride ourselves on our
+  care, quality, [our
   guarantees](https://deking-decks.netlify.com/about/guarantees/) and our
   ability to see the potential in all backyards for our customers. Building on
   our specialist knowledge and personalised services, is an affordable and easy
