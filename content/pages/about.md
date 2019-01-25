@@ -43,7 +43,7 @@ bannerButton:
 qualificationsTitle: Our Guarantees
 qualificationsLogos:
   - logo: /images/uploads/25-year-warranty-shutterstock.jpg
-  - link: ecodecking
+  - link: 'https://www.dekingdecks.com.au/services/eco-decking/'
     logo: /images/uploads/ekodeking.jpg
   - link: guarantees
     logo: /images/uploads/patios-stratco-outback-warranty-1.png
