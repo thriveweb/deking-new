@@ -14,7 +14,7 @@ content: >-
   provide visually take the height out of the roof.
 
 
-  All the council permits were taken care of by Deking to take tha hassles out
+  All the council permits were taken care of by Deking to take the hassles out
   for the owners
 categories:
   - category: Patio Roofs
