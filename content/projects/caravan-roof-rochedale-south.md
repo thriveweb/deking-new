@@ -9,7 +9,7 @@ gallery:
   - image: /images/uploads/caravanroof.jpg
   - image: /images/uploads/caravancover.jpg
 content: >-
-  The tricky driveway angles needed a good design to make paring the caravan an
+  The tricky driveway angles needed a good design to make parking the caravan an
   easy job. Screening slats were also added for additional protection and to
   provide visually take the height out of the roof.
 
