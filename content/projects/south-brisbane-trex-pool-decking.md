@@ -3,6 +3,7 @@ template: SingleProject
 title: South Brisbane Trex Pool Decking
 status: Published
 date: '2019-01-28'
+featuredImage: /images/uploads/silhouetteapartments.jpg
 excerpt: Trex decking to the pool area of Silhouette Apartments at South Brisbane
 gallery:
   - image: /images/uploads/silhouetteapartments.jpg
