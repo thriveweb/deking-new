@@ -24,9 +24,10 @@ Once considered a luxury outdoor ceiling fans on a deck are now recognised as a 
 
 **Air Circulation**
 
-An outdoor entertainment area becomes a cooler more comfortable place to dine or relax in the hot summer months if it has one or more outdoor ceiling fans. Even in hot and humid conditions an outdoor ceiling fan can make a substantial difference cooling your deck through air circulation.
+An outdoor entertainment area becomes a cooler more comfortable place to dine or relax in the hot summer months if it has one or more outdoor ceiling fans. Even in hot and humid conditions an outdoor ceiling fan can make a substantial difference cooling your deck through air circulation.
 
-**Repelling Mosquitoes and other Insects**
+**Repelling Mosquitoes and other Insects
+**
 
 Insects are attracted by lights on the deck at night.  However a powerful outdoor ceiling fan can help eliminate this problem for you by repelling the pesky insects as they do not like to fly in a breeze.
 
@@ -46,9 +47,9 @@ Most outdoor ceiling fans will deteriorate in time due to humid and wet external
 
 Hunter Pacific fans are well known for their performance, durability and reasonable pricing. You can buy one or more of the outdoor Hunter Pacific Ceiling fans that we recommend from our website.
 
-[Hunter Pacific Typhoon](https://www.dekingdecks.com.au/product/hunter-pacific-typhoon/) 316 Ss has four stainless steel blades and is available in three different sizes.  They have a 2 year in home warranty and 3 year replacement warranty. You can also purchase a light kit for these fans.
+Hunter Pacific Typhoon 316 Ss has four stainless steel blades and is available in three different sizes.  They have a 2 year in home warranty and 3 year replacement warranty. You can also purchase a light kit for these fans.
 
-[The Hunter pacific Icon](https://www.dekingdecks.com.au/product/hunter-pacific-icon/) has 54 inch timber blades and the same warranty as the Typhoon.  This fan is also light adaptable.
+The Hunter pacific Icon has 54 inch timber blades and the same warranty as the Typhoon.  This fan is also light adaptable.
 
 The Hunter pacific Icon is also available with sail blades in five different colours.
 
