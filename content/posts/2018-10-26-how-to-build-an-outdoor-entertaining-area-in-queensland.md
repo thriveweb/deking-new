@@ -53,7 +53,7 @@ Whatever your preference, DeKing Decks can help make this a reality.
 * [Patio Roofing](https://www.dekingdecks.com.au/patio-roofing/)
 * [Gazebos](https://www.dekingdecks.com.au/gazebos/)
 * [Pool Houses](https://www.dekingdecks.com.au/gazebos/)
-* [Pergolas](https://www.dekingdecks.com.au/pergolas/)
+* [Pergolas](https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/)
 * [Verandahs](https://www.dekingdecks.com.au/services/)
 
 We also have a range of [eco decking options](https://www.dekingdecks.com.au/eco-decking/) for environmentally friendly solutions that use recycled materials. With eco decking you can get the look you want for your outdoor entertaining area while helping to look after the planet.
