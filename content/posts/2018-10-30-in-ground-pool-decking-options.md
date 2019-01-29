@@ -45,7 +45,7 @@ At Deking Decks, we can design a unique pool deck specifically for you. We’ll 
 
 We can also do things like build your deck to extend over an edge of your pool to create a flowing, elegant look. Or, we can finish the decking flush with the copping edge of your pool.
 
-Our specialist builders have years of experience designing pool decks that enhance the look and feel of in-ground pools. If you’d like to see examples of the projects we’ve worked on, head over to [our gallery](https://www.dekingdecks.com.au/projects/) or [contact us](https://www.dekingdecks.com.au/contact-us/) now to discuss your in-ground pool decking options.
+Our specialist builders have years of experience designing pool decks that enhance the look and feel of in-ground pools. If you’d like to see examples of the projects we’ve worked on, head over to [our gallery](https://www.dekingdecks.com.au/projects/) or [contact us](https://www.dekingdecks.com.au/contact/) now to discuss your in-ground pool decking options.
 
 ## Customise your in-ground pool decking
 
@@ -92,6 +92,6 @@ And, if you’re going to invest in an outdoor entertaining area, you may also w
 
 ## Contact us
 
-If you live in South East Queensland, [contact DeKing](https://www.dekingdecks.com.au/contact-us/) to discuss your in-ground pool decking options. We can help you design and build the perfect deck for you.
+If you live in South East Queensland, [contact DeKing](https://www.dekingdecks.com.au/contact/) to discuss your in-ground pool decking options. We can help you design and build the perfect deck for you.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim.**
