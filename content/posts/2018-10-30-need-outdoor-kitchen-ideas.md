@@ -31,7 +31,8 @@ And if you get your outdoor space just right, you may never want to leave!
 
 An outdoor kitchen is much more than just a lonely BBQ in the corner of your deck. An outdoor kitchen has the potential to be a focal point of your house, transforming your deck into a multi-purpose space that family and friends will love.
 
-**Outdoor kitchens can include things like:**
+**Outdoor kitchens can include things like:
+**
 
 * Gas Cookers/BBQ
 * Bench Space (e.g. for food preparation and serving)
@@ -52,7 +53,7 @@ The image below shows an example of an outdoor kitchen we built for one of our c
 
 This outdoor kitchen, built by DeKing Decks, features beautiful wood panelling for a natural look. The kitchen features plenty of pantry space (in the tall cupboard on the right), a lowered platform for a gas cooker, bench tops either side, as well as storage space underneath.
 
-We can build your dream outdoor kitchen to your specifications, and complete all aspects of it ourselves except for plumbing and electrical needs.
+We can build your dream outdoor kitchen to your specifications, and complete all aspects of it ourselves except for plumbing and electrical needs.
 
 ## Outdoor kitchen ideas and inspiration
 
@@ -60,10 +61,10 @@ So you’ve decided that you want to build an outdoor kitchen, but you don’t k
 
 There are some great outdoor kitchen ideas and inspiration available online that can help you get started (if you don’t know where to start) or narrow your focus (if you want help making decisions).
 
-If it’s pure inspiration you’re after, check out some of the amazing possibilities for an outdoor kitchen space in the **_Houzz_** article, ‘[How to Build the Perfect Outdoor Kitchen](http://www.houzz.com/ideabooks/64023153/thumbs/how-to-build-the-perfect-outdoor-kitchen)’.
+If it’s pure inspiration you’re after, check out some of the amazing possibilities for an outdoor kitchen space in the _**Houzz**_ article, ‘[How to Build the Perfect Outdoor Kitchen](http://www.houzz.com/ideabooks/64023153/thumbs/how-to-build-the-perfect-outdoor-kitchen)’.
 
 ## Contact Us
 
-If you’re thinking about adding an outdoor kitchen to your house, [Contact us](https://www.dekingdecks.com.au/contact-us/) at DeKing Decks today. We’d be happy to talk to you about your options and provide you with a quote.
+If you’re thinking about adding an outdoor kitchen to your house, [Contact us](https://www.dekingdecks.com.au/contact/) at DeKing Decks today. We’d be happy to talk to you about your options and provide you with a quote.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
