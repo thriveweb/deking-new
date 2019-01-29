@@ -26,7 +26,8 @@ So if you’re weighing up your options for in-ground pool decking, here are som
 
 There are a number of important factors that will affect your pool decking options.
 
-**These include:**
+**These include:
+**
 
 * The slope of the block
 * Any elevation changes
@@ -44,7 +45,7 @@ At Deking Decks, we can design a unique pool deck specifically for you. We’ll 
 
 We can also do things like build your deck to extend over an edge of your pool to create a flowing, elegant look. Or, we can finish the decking flush with the copping edge of your pool.
 
-Our specialist builders have years of experience designing pool decks that enhance the look and feel of in-ground pools. If you’d like to see examples of the projects we’ve worked on, head over to [our gallery](https://www.dekingdecks.com.au/gallery/) or [contact us](https://www.dekingdecks.com.au/contact-us/) now to discuss your in-ground pool decking options.
+Our specialist builders have years of experience designing pool decks that enhance the look and feel of in-ground pools. If you’d like to see examples of the projects we’ve worked on, head over to [our gallery](https://www.dekingdecks.com.au/projects/) or [contact us](https://www.dekingdecks.com.au/contact-us/) now to discuss your in-ground pool decking options.
 
 ## Customise your in-ground pool decking
 
@@ -54,7 +55,8 @@ In-ground pool decking can be customised with a number of great features to matc
 
 Built-in seating is a very practical addition to a deck design. If you don’t include a covered area as part your pool deck design, then any outdoor furniture that you place near the pool will quickly become weathered. However, built-in seating overcomes this problem by providing you with a convenient seating area. From here you can relax with a cold drink, or watch the children while they swim.
 
-**Built-in deck lighting**
+**Built-in deck lighting
+**
 
 Built-in pool deck lighting creates a ‘wow factor’ for your pool area. If you don’t have lighting in your swimming pool, we highly recommend adding lighting to your deck design. Low voltage deck lights can create a wonderful atmosphere for you to enjoy your pool area in the evenings.
 
@@ -68,13 +70,15 @@ One of the best pool decking ideas is to add built-in planters to you deck. Part
 
 The type of plants you choose will help set the tone. So, for example, you could use palms for a tropical feel, or succulents (really low maintenance) for a striking effect.
 
-**Attractive pool railings**
+**Attractive pool railings
+**
 
 Pool railings can make or break the final look of your pool decking. A superb deck design can be completely lost by using unattractive pool railings.
 
 Popular choices for pool railings include glass balustrades with either timber or stainless steel handrails. But there are other options for attractive pool railings.
 
-**Covered sitting area**
+**Covered sitting area
+**
 
 Adding a covered sitting area to your in-ground pool decking design will provide you with an extended living area all year round, and a great space to entertain family and friends.
 
