@@ -56,7 +56,7 @@ Deking Decks’ most popular product in Brisbane’s CBD is their [deck and pati
 
 And once you’ve got your new deck, how do you keep it looking fabulous all-year-round? Deking Decks offer an oil treatment that will give your deck that brand-new look and feel. Some people opt to do this on an annual basis.
 
-Although the business has grown significantly, some things have always remained the same. Twelve years on you can still call David on Deking’s original 1800 number: **1800 DeKing**, which is **1800 365 464**. David will be happy to [answer your questions](https://www.dekingdecks.com.au/contact-us/) and help make your outdoor living dream a reality.
+Although the business has grown significantly, some things have always remained the same. Twelve years on you can still call David on Deking’s original 1800 number: **1800 DeKing**, which is **1800 365 464**. David will be happy to [answer your questions](https://www.dekingdecks.com.au/contact/) and help make your outdoor living dream a reality.
 
 See some more of our Decking designs in our decking gallery
 
