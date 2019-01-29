@@ -18,7 +18,7 @@ meta:
 
 So you’ve decided you’d like to build an outdoor entertaining area? And perhaps you’re thinking of a do-it-yourself (DIY) approach? For basic outdoor entertaining areas, DIY can be a cheap and effective way of creating a bit of extra space.
 
-In fact, we sell two different [DIY decking kits](https://www.dekingdecks.com.au/product-category/diy-decking-kits/) to help you build your own entertaining areas. These come in set sizes and styles and are a great low-cost solution.
+In fact, we sell two different [DIY decking kits](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/) to help you build your own entertaining areas. These come in set sizes and styles and are a great low-cost solution.
 
 But if you want something to take your entertaining area to the next level, and build a space with a sense of luxury that your family and friends will adore, let us help you build it. After all, a DIY space will only ever be as good as your DIY skills.
 
