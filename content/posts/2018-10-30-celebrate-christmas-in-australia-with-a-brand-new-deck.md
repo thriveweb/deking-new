@@ -30,9 +30,9 @@ And if you already have pool, a deck is the perfect compliment. There’s nothin
 
 ![How to celebrate Christmas in Australia with a brand new deck](/images/uploads/image-21.jpg)
 
-The kids can play happily in the pool or backyard while under full supervision, and it will give your Christmas celebrations that great Aussie laid-back feel.
+The kids can play happily in the pool or backyard while under full supervision, and it will give your Christmas celebrations that great Aussie laid-back feel.
 
-Buying yourself a deck for Christmas may be the best present you ever get! It truly is the gift that keeps on giving.
+Buying yourself a deck for Christmas may be the best present you ever get! It truly is the gift that keeps on giving.
 
 ## Why Choose DeKing for your Christmas Deck?
 
@@ -52,7 +52,7 @@ Alternatively, if you’re the kind of person who likes to talk through your opt
 
 ## Want a Deck for Christmas? Call now
 
-If you want a deck for Christmas, now is the time to act. [Contact us at DeKing Decks](https://www.dekingdecks.com.au/contact-us/). See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate. We’ll do everything we can to get your deck finished to perfection in time for Christmas. And we guarantee it will be the most exciting present you never unwrap.
+If you want a deck for Christmas, now is the time to act. [Contact us at DeKing Decks](https://www.dekingdecks.com.au/contact/). See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate. We’ll do everything we can to get your deck finished to perfection in time for Christmas. And we guarantee it will be the most exciting present you never unwrap.
 
 **DeKing Decks Service Areas:**
 
