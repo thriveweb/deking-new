@@ -77,7 +77,7 @@ At [Deking](href="https://www.dekingdecks.com.au/) we are professional timber de
 
 Call us or [email us](https://www.dekingdecks.com.au/contact-us/) today (1800 335 464) at Deking and we will discuss how we can best meet your needs and your budget.
 
-Have a look at our [Decking Gallery](https://www.dekingdecks.com.au/gallery/) to see examples of the decks that we have constructed for satisfied customers.
+Have a look at our [Decking Gallery](https://www.dekingdecks.com.au/projects/) to see examples of the decks that we have constructed for satisfied customers.
 
 Image source: [www.mosbybuildingarts.com](http://www.mosbybuildingarts.com)
 
