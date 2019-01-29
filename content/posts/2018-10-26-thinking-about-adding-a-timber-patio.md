@@ -29,7 +29,7 @@ A timber patio is simply an outdoor extension of your home made from wood. It’
 
 ## What Type of Timber Patios do we Build?
 
-At DeKing Decks, we pride ourselves on our high-quality timber patios and our ability to design and build one to suit almost any purpose. For example, we can [build patios](https://www.dekingdecks.com.au/patio-builders-brisbane/) for:
+At DeKing Decks, we pride ourselves on our high-quality timber patios and our ability to design and build one to suit almost any purpose. For example, we can build patios for:
 
 * living spaces
 * outdoor kitchens
@@ -75,7 +75,7 @@ If you want to add a timber patio to your home, we’d usually recommend getting
 
 ## Contact us about timber patios
 
-If you have any questions or would like more information about our range of timber patios, [contact us](https://www.dekingdecks.com.au/contact-us/) at DeKing Decks today.
+If you have any questions or would like more information about our range of timber patios, [contact us](https://www.dekingdecks.com.au/contact-us/) at DeKing Decks today.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
