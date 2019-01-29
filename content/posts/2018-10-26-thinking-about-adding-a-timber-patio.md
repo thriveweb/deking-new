@@ -29,7 +29,7 @@ A timber patio is simply an outdoor extension of your home made from wood. It’
 
 ## What Type of Timber Patios do we Build?
 
-At DeKing Decks, we pride ourselves on our high-quality timber patios and our ability to design and build one to suit almost any purpose. For example, we can [build patios](https://www.dekingdecks.com.au/patio-builders-brisbane/) for:
+At DeKing Decks, we pride ourselves on our high-quality timber patios and our ability to design and build one to suit almost any purpose. For example, we can build patios for:
 
 * living spaces
 * outdoor kitchens
@@ -51,13 +51,13 @@ So depending what colour and style of timber patio you want, we have the timber 
 
 Most of our clients choose either Merbau or Kwila timber. However, if you have a smaller budget, we also have treated cypress pine and standard pine available.
 
-Find out more about the kinds of [timber we use in our patios](https://www.dekingdecks.com.au/timber-decking-brisbane/).
+Find out more about the kinds of [timber we use in our patios](https://www.dekingdecks.com.au/services/timber-decks/).
 
 ## Do you have an idea for a timber patio?
 
 If you have an idea for a timber patio you’d like built, [contact us at DeKing Decks](https://www.dekingdecks.com.au/contact-us/). We can talk to you about your ideas and how to best make a patio work in your space.
 
-Or, if you’re looking for inspiration, check out our [image gallery](https://www.dekingdecks.com.au/gallery/) for timber patio ideas.
+Or, if you’re looking for inspiration, check out our [image gallery](https://www.dekingdecks.com.au/projects/) for timber patio ideas.
 
 We are a business who likes to consult with our clients, and our main goal is to make sure you are happy with the final product. So we’ll work with you from the ideas and concept stage, to design, and right through to construction to make sure that, together, we bring your dream patio to life.
 
@@ -75,7 +75,7 @@ If you want to add a timber patio to your home, we’d usually recommend getting
 
 ## Contact us about timber patios
 
-If you have any questions or would like more information about our range of timber patios, [contact us](https://www.dekingdecks.com.au/contact-us/) at DeKing Decks today.
+If you have any questions or would like more information about our range of timber patios, [contact us](https://www.dekingdecks.com.au/contact-us/) at DeKing Decks today.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 

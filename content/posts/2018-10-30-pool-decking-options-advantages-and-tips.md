@@ -16,7 +16,7 @@ meta:
     Use our Decking Calculators for a Free Quote
   title: 'Pool Decking Options, Advantages and Tips'
 ---
-[Pool decking](https://www.dekingdecks.com.au/pool-decking-australia/) if done right can substantially increase the aesthetic look of your pool increasing your enjoyment of sunny days spent around the pool.
+[Pool decking](https://www.dekingdecks.com.au/services/pool-decking/) if done right can substantially increase the aesthetic look of your pool increasing your enjoyment of sunny days spent around the pool.
 
 It is more cost effective and practical to have your pool and or pool and spa built first before your pool deck is constructed. It is possible to do it the other way around but is not ideal.
 
@@ -67,13 +67,14 @@ There is no doubt that timber pool decking can look really great. However to kee
 
 Many people think that by laying the decking boards upside down (ridged side up) they are creating a better non-slip surface. However it is strongly recommended that you don’t fall into this trap. When a deck is constructed using boards upside down it does in fact become more slippery as algae grows in the water trapped between the grooves. This then becomes a safety hazard and also means that you deck can be susceptible to rot as the water cannot escape and the boards don’t dry out as quickly.
 
-**DeKing Decks**
+**DeKing Decks
+**
 
 At DeKing Decks we are experts in [Pool Decking](https://www.dekingdecks.com.au/pool-decking/); we will advise you on the most appropriate materials and even suggest design options for you. Have a look at some of the pool decks that we have built and you will get an idea of the high standard and both attractive and functional decks that we provide for our customers.
 
-![](/images/uploads/image-2-1024x576.jpg)
+![null](/images/uploads/image-2-1024x576.jpg)
 
-See some more of our [Pool Decking designs](https://www.dekingdecks.com.au/gallery/) in our decking gallery
+See some more of our [Pool Decking designs](https://www.dekingdecks.com.au/categories/pool-decking/) in our decking gallery
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 

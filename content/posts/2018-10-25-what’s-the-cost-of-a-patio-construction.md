@@ -18,7 +18,7 @@ meta:
 ---
 It’s the dream of pretty much every Queenslander: to build a patio extension on their house so they can entertain family and friends, or simply to set up a deck chair, lay back, and sip a cool drink or read a good book. As well as the practical benefits, a new deck can give you that warm holiday glow without leaving your own home.
 
-Of course, what everyone wants to know about their dream deck is how much it will cost. Well, with experienced [patio builders](https://www.dekingdecks.com.au/patio-builders-brisbane/) from DeKing Decks, the cost of a brand new, high-quality patio may surprise you. Check out our cost factors and quote calculator below—your decking dream may be closer to a reality than you think.
+Of course, what everyone wants to know about their dream deck is how much it will cost. Well, with experienced [patio builders](https://www.dekingdecks.com.au/services/) from DeKing Decks, the cost of a brand new, high-quality patio may surprise you. Check out our cost factors and quote calculator below—your decking dream may be closer to a reality than you think.
 
 ## Patio Cost Factors
 
@@ -59,7 +59,7 @@ If you’re happy with the estimated cost, [contact David at Deking Decks](https
 
 ## More Information
 
-Want to find out more about DeKing Deck’s patios? Read our [10-Step Process](https://www.dekingdecks.com.au/10-step-process/) to building your dream deck. And for answers to frequently asked questions, check out our interview post with David, [10 Things People Don’t Know About Building A Deck](https://www.dekingdecks.com.au/building-a-deck-in-qld/).
+Want to find out more about DeKing Deck’s patios? Read our [10-Step Process](https://www.dekingdecks.com.au/about/process/) to building your dream deck. And for answers to frequently asked questions, check out our interview post with David, [10 Things People Don’t Know About Building A Deck](https://www.dekingdecks.com.au/posts/10-things-people-dont-know-about-building-a-deck/).
 
 And of course, if you’d rather just have a chat, give David a call on **1800 335 464 **— he loves talking to new clients and helping make their patio dreams a reality.
 

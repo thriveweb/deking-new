@@ -17,7 +17,7 @@ meta:
 ---
 A brand new timber patio and patio roof can transform your house, making it feel more open, inviting, relaxing and luxurious all at the same time. A timber patio also increases your living space and provides the perfect opportunity to entertain guests, eat family dinners outside where it’s cooler, or relax in the shade with an unencumbered view.
 
-Deck and [patio builders](https://www.dekingdecks.com.au/patio-builders-brisbane/) from _DeKing Decks_ specialise in quality timber patio and roofing solutions that are affordable.
+Deck and [patio builders](https://www.dekingdecks.com.au/services/) from _DeKing Decks_ specialise in quality timber patio and roofing solutions that are affordable.
 
 ## Patio Installation Cost Factors
 
@@ -25,7 +25,8 @@ The cost of installing a new timber patio and/or patio roof can vary widely. As 
 
 While your particular design may have some unique elements that affect the cost, there are a number of common factors that affect every build.
 
-**Timber patio cost factor**
+**Timber patio cost factor
+**
 
 * The size (length and width) of the proposed timber patio
 * The type of timber used
@@ -60,7 +61,8 @@ Again, the figure you receive will be an _estimate_. You can contact David for a
 
 If you’d like a fixed price quote for a timber patio and/or patio roof, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/). This quote will incorporate every cost factor, including any that are unique to your particular patio.
 
-David loves talking to new clients and helping make their dreams a reality. Call him today on **1800 335 464**
+David loves talking to new clients and helping make their dreams a reality. Call him today on **1800 335 464
+**
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 

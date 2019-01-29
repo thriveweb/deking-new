@@ -22,7 +22,8 @@ What are tannins? Tannins are the natural oils in timbers and are more inherent 
 
 Alternatively regular hosing off of your deck will aid the weathering process enabling you to paint your deck in your chosen finish, be it an oil or an acrylic wood treatment.
 
-**Alright the time has come and you are ready to treat your timber deck but what is the best treatment?**
+**Alright the time has come and you are ready to treat your timber deck but what is the best treatment?
+**
 
 Oils or acrylic? At Deking we only recommend acrylic for a number of reasons;
 
@@ -38,7 +39,7 @@ Next you will need to prepare the decking boards with an oxalic cleaner, the Flo
 
 To test if this process has worked, sprinkle water on the decking timbers and if the water absorbs into the timber you are ready for the next step, if the water beeds off you will need to repeat this process.
 
-[Spa-N-Deck](https://dekingdecks.com.au/product/spa-n-deck-4-litre/) by The Flood Company or Ultradeck by Intergrain can now be applied as per the instructions on the tin.
+Spa-N-Deck by The Flood Company or Ultradeck by Intergrain can now be applied as per the instructions on the tin.
 
 If you would prefer to have a professional do it for you and you live in Australia then please [Contact us](https://www.dekingdecks.com.au/contact-us/) today to get a free quote or to learn more about our services.
 

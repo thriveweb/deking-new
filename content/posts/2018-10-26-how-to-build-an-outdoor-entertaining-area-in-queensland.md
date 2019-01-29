@@ -18,7 +18,7 @@ meta:
 
 So you’ve decided you’d like to build an outdoor entertaining area? And perhaps you’re thinking of a do-it-yourself (DIY) approach? For basic outdoor entertaining areas, DIY can be a cheap and effective way of creating a bit of extra space.
 
-In fact, we sell two different [DIY decking kits](https://www.dekingdecks.com.au/product-category/diy-decking-kits/) to help you build your own entertaining areas. These come in set sizes and styles and are a great low-cost solution.
+In fact, we sell two different [DIY decking kits](https://www.dekingdecks.com.au/product-category/diy-decking-kits/) to help you build your own entertaining areas. These come in set sizes and styles and are a great low-cost solution.
 
 But if you want something to take your entertaining area to the next level, and build a space with a sense of luxury that your family and friends will adore, let us help you build it. After all, a DIY space will only ever be as good as your DIY skills.
 
@@ -44,16 +44,17 @@ Alternatively, if you don’t have a pool, your focus might be on building a dec
 
 Whatever your preference, DeKing Decks can help make this a reality.
 
-**We can create all kinds of entertainment spaces with a range of solutions, including:**
+**We can create all kinds of entertainment spaces with a range of solutions, including:
+**
 
 * [Decking](https://www.dekingdecks.com.au/decking-calculator)
-* [Pool Decking](https://www.dekingdecks.com.au/pool-decking-australia/)
-* [Patios](https://www.dekingdecks.com.au/patio-builders-brisbane/)
+* [Pool Decking](https://www.dekingdecks.com.au/services/pool-decking/)
+* [Patios](https://www.dekingdecks.com.au/services/)
 * [Patio Roofing](https://www.dekingdecks.com.au/patio-roofing/)
 * [Gazebos](https://www.dekingdecks.com.au/gazebos/)
 * [Pool Houses](https://www.dekingdecks.com.au/gazebos/)
 * [Pergolas](https://www.dekingdecks.com.au/pergolas/)
-* [Verandahs](https://www.dekingdecks.com.au/outdoor-decking/)
+* [Verandahs](https://www.dekingdecks.com.au/services/)
 
 We also have a range of [eco decking options](https://www.dekingdecks.com.au/eco-decking/) for environmentally friendly solutions that use recycled materials. With eco decking you can get the look you want for your outdoor entertaining area while helping to look after the planet.
 
@@ -63,4 +64,4 @@ We’ve been building outdoor entertainment spaces in Brisbane, the Sunshine Coa
 
 **Deking Decks Service Areas:**
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim

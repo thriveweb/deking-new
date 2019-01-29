@@ -15,7 +15,7 @@ meta:
     Queenslanders choose timber decking above all others. Climate is one thing
   title: Building A Timber Deck in Brisbane- Why Choose Timber?
 ---
-There’s plenty of reasons why Queenslanders choose [timber decking](https://www.dekingdecks.com.au/gallery/) above all others.
+There’s plenty of reasons why Queenslanders choose [timber decking](https://www.dekingdecks.com.au/categories/timber-decks/) above all others.
 
 Climate is one thing; they want a space that can withstand direct sunlight and the winter cold. They also want a structure that can resist the threats of termites, fungal decay, and corrosion. Fortunately, timber decks can provide all these.
 

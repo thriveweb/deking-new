@@ -16,7 +16,7 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/fullsizeoutput_1ed5.jpg
 welcomeButton:
   label: Meet the team
-  link: 'https://www.dekingdecks.com.au/about/team/'
+  link: about/team/
 whatWeDoTitle: What We Do
 whatWeDo:
   - description: >-
@@ -42,16 +42,17 @@ bannerButton:
   link: Contact
 qualificationsTitle: Our Guarantees
 qualificationsLogos:
-  - logo: /images/uploads/25-year-warranty-shutterstock.jpg
+  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
+    logo: /images/uploads/25-year-warranty-shutterstock.jpg
   - link: 'https://www.dekingdecks.com.au/services/eco-decking/'
     logo: /images/uploads/ekodeking.jpg
-  - link: guarantees
+  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/patios-stratco-outback-warranty-1.png
-  - link: guarantees
+  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/deking_seal_deckcheck.jpg
-  - link: guarantees
+  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/deking_seal_tidyman.jpg
-  - link: commercial
+  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/12_year_seal.jpg
 meta:
   canonicalLink: ''

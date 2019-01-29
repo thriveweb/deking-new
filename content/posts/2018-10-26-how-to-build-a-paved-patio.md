@@ -18,7 +18,7 @@ meta:
     your home.
   title: 'How to Build a Paved Patio Brisbane, Gold Coast, Sunshine: DeKing'
 ---
-Queensland offers beautiful landscapes and spaces for entertaining and relaxing in the great outdoors. [Patios](https://www.dekingdecks.com.au/patio-builders-brisbane/) provide the perfect place for enjoying the outdoors without leaving the comforts of your own home. Every year, thousands of property owners in the area work with companies like DeKing decking to get the perfect patio for their property. Others enjoy the challenge of building a patio themselves.
+Queensland offers beautiful landscapes and spaces for entertaining and relaxing in the great outdoors. Patios provide the perfect place for enjoying the outdoors without leaving the comforts of your own home. Every year, thousands of property owners in the area work with companies like DeKing decking to get the perfect patio for their property. Others enjoy the challenge of building a patio themselves.
 
 The process of building a patio depends on the materials and designs you want to use. Pavers may be the most popular material for DIY patio building, but some prefer other materials such as brick, wood or stone. For the purposes of this article, we will discuss how to build a patio with pavers. Covering your patio also depends on a variety of different variables and can be considered a separate process from your patio-building project.
 
@@ -46,7 +46,7 @@ If you need to split any pavers to fit corners or small holes, just determine wh
 
 Although building a patio with pavers seems fairly simple, building one that lasts for many years takes a lot of hard work. If you have the time and the energy to handle the job, just follow these steps and try to have fun!
 
-Deking are highly experienced in building patios and if you should like to have a patio professionally built by us, we would welcome you to contact us in this regard.  Click on the links to find out more information on our capabilities in [building patios](https://www.dekingdecks.com.au/patio-builders-brisbane/).
+Deking are highly experienced in building patios and if you should like to have a patio professionally built by us, we would welcome you to contact us in this regard.  Click on the links to find out more information on our capabilities in building patios.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
