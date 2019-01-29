@@ -52,8 +52,9 @@ qualificationsLogos:
     logo: /images/uploads/deking_seal_deckcheck.jpg
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/deking_seal_tidyman.jpg
-  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
-    logo: /images/uploads/12_year_seal.jpg
+  - link: >-
+      http://www.onlineservices.qbcc.qld.gov.au/OnlineLicenceSearch/VisualElements/ShowDetailResultContent.aspx?LicNO=1042297&licCat=LIC&name=&firstName=&searchType=Contractor&FromPage=SearchContr
+    logo: /images/uploads/qbcc-licence.png
 meta:
   canonicalLink: ''
   description: >-
