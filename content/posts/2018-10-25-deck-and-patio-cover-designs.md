@@ -112,7 +112,7 @@ To discuss deck and patio cover designs, or to get a quote, [contact David at D
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
 **
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio.
 
 Or
 
