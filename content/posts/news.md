@@ -98,7 +98,7 @@ So if you’re looking to improve the value of your home, a patio roof is a smar
 
 ## Contact us about patio roofing options
 
-Want to know more about your patio roofing options? [Contact us](https://www.dekingdecks.com.au/contact-us/) today.
+Want to know more about your patio roofing options? [Contact us](https://www.dekingdecks.com.au/contact/) today.
 
 We’d be happy to talk you through your options and create a solution that is perfectly suited to your individual needs.
 
