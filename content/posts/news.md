@@ -58,7 +58,7 @@ There are some great examples of patio roofs we’ve completed for a range of di
 
 ## Other patio roofing possibilities
 
-Haven’t seen anything that takes your fancy yet? Are you looking for more patio roofing possibilities? No problem. David from DeKing Decks has heard all kinds of requests over the years. So if you have an idea for a patio roof, don’t be afraid to [ask if it is possible](https://www.dekingdecks.com.au/contact-us/).
+Haven’t seen anything that takes your fancy yet? Are you looking for more patio roofing possibilities? No problem. David from DeKing Decks has heard all kinds of requests over the years. So if you have an idea for a patio roof, don’t be afraid to [ask if it is possible](https://www.dekingdecks.com.au/contact/).
 
 We are skilled and experienced [patio builders](https://www.dekingdecks.com.au/services/), so chances are that your idea is something we can make happen.
 
