@@ -35,6 +35,6 @@ Another option to obtain shade from your Timber Pergola is to can add timber lat
 
 Once you have your Timber Pergola built it is then time to add great outdoor furniture and accessories.
 
-If you feel your backyard landscape is lacking something special well now is the time to consider a Timber Pergola. The Deking Team are available to discuss your ideas give professional advice to assist you to make your dream Pergola come to life.  We are experts in constructing [Timber Pergolas for homes in Brisbane the Sunshine and Gold Coasts.](https://www.dekingdecks.com.au/pergolas/)
+If you feel your backyard landscape is lacking something special well now is the time to consider a Timber Pergola. The Deking Team are available to discuss your ideas give professional advice to assist you to make your dream Pergola come to life.  We are experts in constructing [Timber Pergolas for homes in Brisbane the Sunshine and Gold Coasts](https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/).
 
 DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
