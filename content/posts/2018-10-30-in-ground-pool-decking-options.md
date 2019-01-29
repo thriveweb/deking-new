@@ -16,7 +16,7 @@ meta:
     makes a big difference in overall deck performance, durability and longevity
   title: Inground Pool Decking Options & Ideas in Australia
 ---
-At DeKing Decks, we offer a range of [in-ground pool decking options](https://www.dekingdecks.com.au/pool-decking-australia/) to meet your needs. By choosing the right kind of pool decking, you’ll have a durable and long-lasting deck—and that means value for money.
+At DeKing Decks, we offer a range of [in-ground pool decking options](https://www.dekingdecks.com.au/services/pool-decking/) to meet your needs. By choosing the right kind of pool decking, you’ll have a durable and long-lasting deck—and that means value for money.
 
 So if you’re weighing up your options for in-ground pool decking, here are some things to think about and some ideas to inspire you.
 
