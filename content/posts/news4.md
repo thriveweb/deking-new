@@ -72,7 +72,7 @@ DeKing Decks doesn’t just build perfect patios for the iconic summer party. We
 
 ## Want to get your summer party started? Contact us
 
-Now is the perfect time to [contact DeKing Decks](https://www.dekingdecks.com.au/contact/) and arrange for your patio to be built. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate. See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. We can talk to you about your budget and what you want to do with your space. Get the summer season kick-started with your dream patio.
+Now is the perfect time to [contact DeKing Decks](https://www.dekingdecks.com.au/contact/) and arrange for your patio to be built. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate. See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. We can talk to you about your budget and what you want to do with your space. Get the summer season kick-started with your dream patio.
 
 **
 DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
