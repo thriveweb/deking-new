@@ -47,9 +47,10 @@ Firstly, you need to decide on basic things like:
 * What size and shape will the deck be?
 * How high off the ground will it be?
 
-If you’re unsure about these details, [contact David at DeKing Decks](https://www.dekingdecks.com.au/contact-us/) and have a chat. He can also help you with concept sketches and style ideas.
+If you’re unsure about these details, [contact David at DeKing Decks](https://www.dekingdecks.com.au/contact/) and have a chat. He can also help you with concept sketches and style ideas.
 
-**Who is going to draw up a plan for you?**
+**Who is going to draw up a plan for you?
+**
 
 Private certifiers won’t approve any old plan for a deck. You need to get a professional draftsperson to draw up a plan for you. A draftsperson will detail all of the important factors like dimensions and elevations.
 
@@ -65,4 +66,4 @@ David has over 12 years’ experience building stunning wooden decks and his top
 
 **Deking Decks Service Areas:**
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
