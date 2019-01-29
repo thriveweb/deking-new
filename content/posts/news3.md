@@ -21,7 +21,7 @@ meta:
 ---
 An insulated patio roof will transform your patio from something great to something really special. It becomes a comfortable space for entertaining or relaxing, all year round.
 
-Skilled and experience [patio builders](https://www.dekingdecks.com.au/patio-builders-brisbane/) from _Deking Decks_ will work with you to build the perfect insulated patio roof to suit your needs. Our insulated patio roofs are crafted so that they’re a seamless extension of your house, matching its existing style and colour scheme.
+Skilled and experience patio builders from _Deking Decks_ will work with you to build the perfect insulated patio roof to suit your needs. Our insulated patio roofs are crafted so that they’re a seamless extension of your house, matching its existing style and colour scheme.
 
 For a **quick quote**, see our [Insulated Patio Roof Calculator](https://www.dekingdecks.com.au/patio-calculator/).
 
@@ -29,13 +29,14 @@ For a **quick quote**, see our [Insulated Patio Roof Calculator](https://www.dek
 
 There are many benefits to insulated patio roofing, but, let’s face it, most of them have to do with combating Queensland’s harsh climate and extreme weather conditions—allowing you to get the most out of your patio space.
 
-**The benefits include:**
+**The benefits include:
+**
 
 * keeping you cool and comfortable outdoors all year round (especially summer)
 * reducing the noise from rain, making it easier to hear conversations
-*  cooling the interior of your house
-*  reducing your energy costs and carbon footprint
-*  increasing the value of your house.
+* cooling the interior of your house
+* reducing your energy costs and carbon footprint
+* increasing the value of your house.
 * Our insulated patio roofs are also low-maintenance and strong.
 
 ## Stratco Outback Range of Insulated Patio Roofing
