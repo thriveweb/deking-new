@@ -17,7 +17,7 @@ meta:
 ---
 Timber patios are a way of life in Queensland. You may remember the famous GANGgajang song, _Sounds Of Then_, that captured the essence of life on a patio so perfectly. As the song goes, _‘Out on the patio we sit / and the humidity we breathe / we’d watch the lightning crack over canefields / laugh and think, this is Australia’_. It’s practically in our blood—no wonder we love patios so much!
 
-But [timber patios](https://www.dekingdecks.com.au/timber-patios/) provide much more than just a great view. They’re also the perfect way to extend your living area, create that outdoor entertainment space you’ve always wanted, or compliment a pool.
+But [timber patios](https://www.dekingdecks.com.au/services/timber-decks/) provide much more than just a great view. They’re also the perfect way to extend your living area, create that outdoor entertainment space you’ve always wanted, or compliment a pool.
 
 So if you’re looking for a timber patio to refresh, revive, and revolutionise your current living space, get in touch with us at DeKing Decks. We can design and build the perfect patio deck for you!
 
@@ -39,7 +39,7 @@ At DeKing Decks, we pride ourselves on our high-quality timber patios and our ab
 * verandahs
 * pools.
 
-We’ve been designing and building [residential](https://www.dekingdecks.com.au/timber-patios/) and [commercial](https://www.dekingdecks.com.au/commercial-decking/) patio decks for more than 14 years, with countless happy clients.
+We’ve been designing and building [residentia](https://www.dekingdecks.com.au/services/timber-decks/)l and [commercial](https://www.dekingdecks.com.au/commercial-decking/) patio decks for more than 14 years, with countless happy clients.
 
 ![Timber Patios - Designs and Ideas Brisbane, Gold Coast](/images/uploads/second-floor-kwila-deck-at-cleveland-with-insulated-patio-roof.jpg)
 
