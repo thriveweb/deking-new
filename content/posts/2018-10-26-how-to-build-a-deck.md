@@ -16,7 +16,7 @@ meta:
     need to construct a deck providing an outside area for your family to enjoy.
   title: 'How to Build a Deck.: Step by Step Instructions'
 ---
-Building your own deck can be a challenging and stressful process, but if done the right way, it can be a great space for your family to enjoy for many years. Well-built decks can also add value to your property. [DIY Decking Kits from DeKing](https://www.dekingdecks.com.au/product-category/diy-decking-kits/) can give you a great start towards completing the DIY deck of your dreams. These step-by-step instructions can help you along the way!
+Building your own deck can be a challenging and stressful process, but if done the right way, it can be a great space for your family to enjoy for many years. Well-built decks can also add value to your property. [DIY Decking Kits from DeKing](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/) can give you a great start towards completing the DIY deck of your dreams. These step-by-step instructions can help you along the way!
 
 ## Step 1: Site Preparation
 
@@ -54,7 +54,7 @@ Drive one galvanised decking nail about 15mm from each board edge to secure the 
 
 The finishing stage of your deck depends greatly on the materials you have chosen. Durable materials such as Merbau and Batu do not require a finish and treated pine comes with some protection, but most timbers need some form of deck finishing. There are thousands of different paint colours and staining options available to create the look you want.
 
-Now that you’ve completed the finishing step, you can sit back and enjoy your work! Remember that the [DIY Decking Kits](https://www.dekingdecks.com.au/product-category/diy-decking-kits/) from [DeKing](https://www.dekingdecks.com.au/) are a great option for making this project easier on you.
+Now that you’ve completed the finishing step, you can sit back and enjoy your work! Remember that the [DIY Decking Kits](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/) from [DeKing](https://www.dekingdecks.com.au/) are a great option for making this project easier on you.
 
 If however you would like us to professionally build a deck for you click on the links and find out how we can help you add an attractive outdoor living space to your home.
 
