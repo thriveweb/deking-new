@@ -18,7 +18,8 @@ meta:
 ---
 So you want to build a deck over the top of something else—like a concrete patio, pool or septic tank—and you’re not sure if you’re allowed? Don’t worry, you’re not alone—you’d be surprised how many people have similar requests.
 
-**The most common things people want to build a deck over the top of include:**
+**The most common things people want to build a deck over the top of include:
+**
 
 * Concrete
 * An Empty Swimming Pool
@@ -52,17 +53,18 @@ Yes, you can do this as well. However, keep in mind that if you build a deck ove
 
 ## Can I build a deck over an air conditioner unit?
 
-Indeed you can. We often build what we call ‘privacy screens’ over air conditioner units as they’re not very attractive in outdoor entertaining spaces. But just be aware that you will need enough space for servicing and ventilation. The same applies to pool pumps.
+Indeed you can. We often build what we call ‘privacy screens’ over air conditioner units as they’re not very attractive in outdoor entertaining spaces. But just be aware that you will need enough space for servicing and ventilation.
+ The same applies to pool pumps.
 
 ## Can you build a deck over pavers or tiles?
 
 Sure, why not? You can certainly build a deck over pavers or tiles, you just need to make sure that the pavers have been laid correctly and are nicely settled. If it’s a botched DIY job, more work might need to be done before you can build a deck safely.
 
-To find out if we can build a deck over your pavers or tiles, [contact us](https://www.dekingdecks.com.au/contact-us/).
+To find out if we can build a deck over your pavers or tiles, [contact us](https://www.dekingdecks.com.au/contact/).
 
 ## Something else you want to build a deck over?
 
-If you have any other questions about what you can and can’t build a deck over—not matter how strange it might seem—[contact David at DeKing Decks](https://www.dekingdecks.com.au/contact-us/). He’s experienced with these kinds of jobs and can talk to you about your options and what is possible.
+If you have any other questions about what you can and can’t build a deck over—not matter how strange it might seem—[contact David at DeKing Decks](https://www.dekingdecks.com.au/contact/). He’s experienced with these kinds of jobs and can talk to you about your options and what is possible.
 
 **Deking Deck Service Areas:**
 
