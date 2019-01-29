@@ -62,7 +62,7 @@ Cooldek roofing also comes in 2 different styles:
 * Cooldek CGI (corrugated look)
 * Cooldek Classic (minimal pitch design).
 
-To find out more about the Stratco Cooldek range of insulated roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/).
+To find out more about the Stratco Cooldek range of insulated roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
 ## Insulated Flyover Roof
 
@@ -70,7 +70,7 @@ A very popular choice for insulated patio roofing these days is the ‘flyover�
 
 An insulated flyover roof gives you extra headroom and that ‘open-air’ feeling to your outdoor living space. It’s also designed to easily accommodate electrical wiring, downlights and ceiling fans, etc.
 
-To find out more about insulated flyover roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/).
+To find out more about insulated flyover roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
 ![Insulated Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/deking-decks-insulated-patio-roofing-benefits-types-and-materials.jpg)
 
@@ -80,11 +80,11 @@ Use our [Patio Roof Calculator](https://www.dekingdecks.com.au/patio-calculator/
 
 Once you’ve completed the simple 3-step process, the calculator will email you an estimate.
 
-For a fixed-price quote, [contact David](https://www.dekingdecks.com.au/contact-us/).
+For a fixed-price quote, [contact David](https://www.dekingdecks.com.au/contact/).
 
 ## Contact David at DeKing Decks
 
-For more information about insulated patio roofs, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/). He’d be more than happy to speak with you.
+For more information about insulated patio roofs, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/). He’d be more than happy to speak with you.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
