@@ -71,7 +71,7 @@ To help protect your privacy, a patio can include features that provide a bounda
 
 ## DIY patio options
 
-If you want to add a timber patio to your home, we’d usually recommend getting professionals to do it for you. However, if you know your way around a basic patio, we have some [DIY decking kits](https://www.dekingdecks.com.au/product-category/diy-decking-kits/) available.
+If you want to add a timber patio to your home, we’d usually recommend getting professionals to do it for you. However, if you know your way around a basic patio, we have some [DIY decking kits](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/) available.
 
 ## Contact us about timber patios
 
