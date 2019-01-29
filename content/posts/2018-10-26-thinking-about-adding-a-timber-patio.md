@@ -57,7 +57,7 @@ Find out more about the kinds of [timber we use in our patios](https://www.deki
 
 If you have an idea for a timber patio you’d like built, [contact us at DeKing Decks](https://www.dekingdecks.com.au/contact-us/). We can talk to you about your ideas and how to best make a patio work in your space.
 
-Or, if you’re looking for inspiration, check out our [image gallery](https://www.dekingdecks.com.au/gallery/) for timber patio ideas.
+Or, if you’re looking for inspiration, check out our [image gallery](https://www.dekingdecks.com.au/projects/) for timber patio ideas.
 
 We are a business who likes to consult with our clients, and our main goal is to make sure you are happy with the final product. So we’ll work with you from the ideas and concept stage, to design, and right through to construction to make sure that, together, we bring your dream patio to life.
 
