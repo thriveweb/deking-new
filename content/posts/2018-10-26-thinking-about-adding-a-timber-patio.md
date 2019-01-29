@@ -55,7 +55,7 @@ Find out more about the kinds of [timber we use in our patios](https://www.deki
 
 ## Do you have an idea for a timber patio?
 
-If you have an idea for a timber patio you’d like built, [contact us at DeKing Decks](https://www.dekingdecks.com.au/contact-us/). We can talk to you about your ideas and how to best make a patio work in your space.
+If you have an idea for a timber patio you’d like built, [contact us at DeKing Decks](https://www.dekingdecks.com.au/contact/). We can talk to you about your ideas and how to best make a patio work in your space.
 
 Or, if you’re looking for inspiration, check out our [image gallery](https://www.dekingdecks.com.au/projects/) for timber patio ideas.
 
@@ -75,7 +75,7 @@ If you want to add a timber patio to your home, we’d usually recommend getting
 
 ## Contact us about timber patios
 
-If you have any questions or would like more information about our range of timber patios, [contact us](https://www.dekingdecks.com.au/contact-us/) at DeKing Decks today.
+If you have any questions or would like more information about our range of timber patios, [contact us](https://www.dekingdecks.com.au/contact/) at DeKing Decks today.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
