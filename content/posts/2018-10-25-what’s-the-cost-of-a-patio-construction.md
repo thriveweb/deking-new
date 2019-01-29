@@ -18,7 +18,7 @@ meta:
 ---
 It’s the dream of pretty much every Queenslander: to build a patio extension on their house so they can entertain family and friends, or simply to set up a deck chair, lay back, and sip a cool drink or read a good book. As well as the practical benefits, a new deck can give you that warm holiday glow without leaving your own home.
 
-Of course, what everyone wants to know about their dream deck is how much it will cost. Well, with experienced [patio builders](https://www.dekingdecks.com.au/patio-builders-brisbane/) from DeKing Decks, the cost of a brand new, high-quality patio may surprise you. Check out our cost factors and quote calculator below—your decking dream may be closer to a reality than you think.
+Of course, what everyone wants to know about their dream deck is how much it will cost. Well, with experienced [patio builders](https://www.dekingdecks.com.au/services/) from DeKing Decks, the cost of a brand new, high-quality patio may surprise you. Check out our cost factors and quote calculator below—your decking dream may be closer to a reality than you think.
 
 ## Patio Cost Factors
 
