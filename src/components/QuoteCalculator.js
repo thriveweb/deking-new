@@ -162,7 +162,7 @@ class QuoteCalculator extends React.Component {
       subscribe,
       contact
     } = this.state
-
+    const globalSettings = this.props
     return (
       <div className="QuoteCalculator">
         <form
@@ -787,7 +787,10 @@ class QuoteCalculator extends React.Component {
               with you to provide you with a more accurate quote if you require
               one.
             </p>
-            <a href={`tel:0404040440`} className="Button  hasShadowHover">
+            <a
+              href={`tel:${globalSettings.phone2}`}
+              className="Button  hasShadowHover"
+            >
               Call us
             </a>
           </div>

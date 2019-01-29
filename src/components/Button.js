@@ -20,7 +20,7 @@ export default ({
   return (
     <Comp
       to={`/${_kebabCase(to)}/`}
-      href={`${_kebabCase(href)}/`}
+      href={`/${_kebabCase(href)}/`}
       className={`Button ${className}`}
       {...props}
     >

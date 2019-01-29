@@ -6,18 +6,18 @@ import QuoteCalculator from '../components/QuoteCalculator'
 import './QuotePage.css'
 
 // Export Template for use in CMS preview
-export const QuoteTemplate = ({ meta, title }) => (
+export const QuoteTemplate = ({ meta, title, globalSettings }) => (
   <Fragment>
     <Meta {...meta} />
     <main className="Quote">
-      <QuoteCalculator />
+      <QuoteCalculator globalSettings={globalSettings} />
     </main>
   </Fragment>
 )
 
 // Export Default Quote for front-end
-const Quote = ({ data: { page, services, projects } }) => (
-  <QuoteTemplate {...page.frontmatter} />
+const Quote = ({ data: { page, services, projects, globalSettings } }) => (
+  <QuoteTemplate {...page.frontmatter} globalSettings={globalSettings} />
 )
 export default Quote
 
@@ -33,6 +33,10 @@ export const pageQuery = graphql`
       frontmatter {
         title
       }
+    }
+    globalSettings: settingsYaml {
+      phone
+      phone2
     }
   }
 `
