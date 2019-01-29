@@ -60,7 +60,7 @@ Built-in seating is a very practical addition to a deck design. If you don’t i
 
 Built-in pool deck lighting creates a ‘wow factor’ for your pool area. If you don’t have lighting in your swimming pool, we highly recommend adding lighting to your deck design. Low voltage deck lights can create a wonderful atmosphere for you to enjoy your pool area in the evenings.
 
-Find out more about our l[ow-voltage deck lighting](https://www.dekingdecks.com.au/product/low-voltage-deck-lights-4-pack/).
+Find out more about our [low-voltage deck lighting](https://www.dekingdecks.com.au/services/deck-accessories/).
 
 ![Inground Pool Decking Options & Ideas in Australia](/images/uploads/inground-pool-decking-options-ideas-in-australia.jpg)
 
