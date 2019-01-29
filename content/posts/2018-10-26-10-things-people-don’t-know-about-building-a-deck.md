@@ -36,7 +36,7 @@ Although, creating a beautiful new living space the whole family will love isnâ€
 * **You can build a deck over a disused swimming pool**
   * Sick of pouring money into a swimming pool you barely use? DeKing Decks can build over the top of it for you!
 * **Price**
-  * Building a deck is a really cost-effective way of creating a new space. However, as with any kind of renovation, there are costs involved. Ring David and discuss pricing early on so you can get your budget in order. Or jump on their [online calculator](https://www.dekingdecks.com.au/decking-calculator/) and get a basic estimate immediately.
+  * Building a deck is a really cost-effective way of creating a new space. However, as with any kind of renovation, there are costs involved. Ring David and discuss pricing early on so you can get your budget in order. Or jump on their [online calculator](https://www.dekingdecks.com.au/quote-calculator/) and get a basic estimate immediately.
 * **Detail options**
   * You can choose different balustrade options including stainless steel wire, traditional federation style timber balustrade, and powder-coated aluminum.
 * **Roof options**
