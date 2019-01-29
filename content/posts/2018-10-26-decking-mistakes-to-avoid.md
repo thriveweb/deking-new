@@ -73,7 +73,7 @@ While some of these timber decking mistakes are a result of lack of knowledge s
 
 You can be assured that if you engage us to construct or extend your existing timber deck none of the mistakes as described will be made.
 
-At [Deking](href="https://www.dekingdecks.com.au/) we are professional timber decking builders and provide attractive, sturdy, long lasting and code approved decks.
+At Deking we are professional timber decking builders and provide attractive, sturdy, long lasting and code approved decks.
 
 Call us or [email us](https://www.dekingdecks.com.au/contact-us/) today (1800 335 464) at Deking and we will discuss how we can best meet your needs and your budget.
 
