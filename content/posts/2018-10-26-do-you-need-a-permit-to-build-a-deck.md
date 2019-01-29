@@ -29,7 +29,7 @@ Before Deking Decks can start building your new deck, there are a few steps that
 
 ## Step 1. Decide on a design idea
 
-Even if you’ve only got a rough idea in mind for a deck you would like, [contact David at DeKing Decks](https://www.dekingdecks.com.au/contact-us/) on **1800 335 464** and have a chat. He can help you with a concept sketch as well as decisions to do with sizing, placement and style.
+Even if you’ve only got a rough idea in mind for a deck you would like, [contact David at DeKing Decks](https://www.dekingdecks.com.au/contact/) on **1800 335 464** and have a chat. He can help you with a concept sketch as well as decisions to do with sizing, placement and style.
 
 ## Step 2. Send the concept to a draftsman
 
@@ -47,7 +47,7 @@ Once the plans for your deck are returned to us from the draftsmen, we can send 
 
 David from DeKing Decks can work with you throughout the process of building your dream deck. He has over 12 years experience in not only building decks but also working with design ideas and submissions to draftsmen and private certifiers.
 
-[Contact David from Deking Decks](https://www.dekingdecks.com.au/contact-us/) today on **1800 335 464**. He loves working with new clients and coming up with solutions for their decking and patio-roof needs.
+[Contact David from Deking Decks](https://www.dekingdecks.com.au/contact/) today on **1800 335 464**. He loves working with new clients and coming up with solutions for their decking and patio-roof needs.
 
 ## Further information
 
