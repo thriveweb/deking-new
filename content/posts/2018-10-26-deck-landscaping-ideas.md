@@ -36,7 +36,8 @@ Planting small trees in large artistic pots adds a lot of charm to any deck land
 
 The most common mistake in landscaping around a deck is using plants that are too large and crowd out precious square footage. When choosing plants for your deck design, check heights and diameters at maturity. You shouldn’t need to spend hours pruning and clipping to prevent a plant from taking over your space.
 
-**Use Painful Plants**
+**Use Painful Plants
+**
 
 Although some plants with thorns, spines and sharp leaves are very beautiful; they don’t work well when located near decks. Succulent plants like the agave can bring a unique look to your outdoor spaces, but many have potentially painful spines on their leaf tips. These can rip clothing, scratch legs and worse in certain scenarios. Be very careful about planting these painful plants. Roses, holly and cactus are the most common troublemakers.
 
@@ -50,6 +51,7 @@ If you do not as yet have a deck to landscape we are happy to help you design on
 
 ![Deck Landscaping Ideas and Tips Australia](/images/uploads/image-2-1024x768.jpg)
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+**
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate.
