@@ -41,7 +41,7 @@ To test if this process has worked, sprinkle water on the decking timbers and if
 
 Spa-N-Deck by The Flood Company or Ultradeck by Intergrain can now be applied as per the instructions on the tin.
 
-If you would prefer to have a professional do it for you and you live in Australia then please [Contact us](https://www.dekingdecks.com.au/contact-us/) today to get a free quote or to learn more about our services.
+If you would prefer to have a professional do it for you and you live in Australia then please [Contact us](https://www.dekingdecks.com.au/contact/) today to get a free quote or to learn more about our services.
 
 **Deking Decks service Brisbane, Redlands, Bayside, Logan, the Gold Coast and Sunshine Coast**
 
