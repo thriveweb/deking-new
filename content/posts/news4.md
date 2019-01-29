@@ -27,7 +27,7 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 ## How a patio makes a party
 
-An outdoor patio area dramatically increases your entertaining space and gives your house a relaxed flow. By building a patio in your backyard (or front yard), your indoor and outdoor area blends into one, allowing a seamless transition from [pool-side](https://www.dekingdecks.com.au/pool-decking-australia/), to lounge room, to dining table.
+An outdoor patio area dramatically increases your entertaining space and gives your house a relaxed flow. By building a patio in your backyard (or front yard), your indoor and outdoor area blends into one, allowing a seamless transition from [pool-side](https://www.dekingdecks.com.au/services/pool-decking/), to lounge room, to dining table.
 
 A patio is the ultimate mood creator—instantly putting your guests at ease, and setting the scene for a relaxed night of polite conversation or a pumping pool party where the stereo gets turned up to ten.
 
@@ -59,7 +59,7 @@ We also know a thing or two about building the perfect entertaining space for pa
 
 ## What else does DeKing Decks do?
 
-DeKing Decks doesn’t just build perfect patios for the iconic summer party. We can also build [pool decking](https://www.dekingdecks.com.au/pool-decking-australia/) and a range of outdoor entertainment spaces and add-ons for that heightened sense of luxury and comfort.
+DeKing Decks doesn’t just build perfect patios for the iconic summer party. We can also build [pool decking](https://www.dekingdecks.com.au/services/pool-decking/) and a range of outdoor entertainment spaces and add-ons for that heightened sense of luxury and comfort.
 
 **For example, we can build you a:
 **
