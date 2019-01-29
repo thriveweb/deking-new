@@ -30,6 +30,11 @@ export const Thanks = ({ data }) => {
           large
         />
 
+        <Helmet>
+          <meta name="robots" content="noindex" />
+          <meta name="googlebot" content="noindex" />
+        </Helmet>
+
         <div className="section Contact">
           <div className="container Contact--Section">
             <div className="EnquiryForm">
