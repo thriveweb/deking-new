@@ -162,7 +162,8 @@ class QuoteCalculator extends React.Component {
       subscribe,
       contact
     } = this.state
-    const globalSettings = this.props
+    const globalSettings = this.props.globalSettings
+
     return (
       <div className="QuoteCalculator">
         <form
