@@ -75,7 +75,7 @@ You can be assured that if you engage us to construct or extend your existing ti
 
 At Deking we are professional timber decking builders and provide attractive, sturdy, long lasting and code approved decks.
 
-Call us or [email us](https://www.dekingdecks.com.au/contact-us/) today (1800 335 464) at Deking and we will discuss how we can best meet your needs and your budget.
+Call us or [email us](https://www.dekingdecks.com.au/contact/) today (1800 335 464) at Deking and we will discuss how we can best meet your needs and your budget.
 
 Have a look at our [Decking Gallery](https://www.dekingdecks.com.au/projects/) to see examples of the decks that we have constructed for satisfied customers.
 
