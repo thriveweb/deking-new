@@ -51,7 +51,7 @@ So depending what colour and style of timber patio you want, we have the timber 
 
 Most of our clients choose either Merbau or Kwila timber. However, if you have a smaller budget, we also have treated cypress pine and standard pine available.
 
-Find out more about the kinds of [timber we use in our patios](https://www.dekingdecks.com.au/timber-decking-brisbane/).
+Find out more about the kinds of [timber we use in our patios](https://www.dekingdecks.com.au/services/timber-decks/).
 
 ## Do you have an idea for a timber patio?
 
