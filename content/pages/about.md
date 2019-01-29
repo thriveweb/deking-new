@@ -40,7 +40,7 @@ bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Enquire
   link: Contact
-qualificationsTitle: Our Guarantees
+qualificationsTitle: Our Licences & Guarantees
 qualificationsLogos:
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/25-year-warranty-shutterstock.jpg
