@@ -45,4 +45,4 @@ If you would prefer to have a professional do it for you and you live in Austral
 
 **Deking Decks service Brisbane, Redlands, Bayside, Logan, the Gold Coast and Sunshine Coast**
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate.
