@@ -16,7 +16,7 @@ meta:
     Use our Decking Calculators for a Free Quote
   title: 'Pool Decking Options, Advantages and Tips'
 ---
-[Pool decking](https://www.dekingdecks.com.au/pool-decking-australia/) if done right can substantially increase the aesthetic look of your pool increasing your enjoyment of sunny days spent around the pool.
+[Pool decking](https://www.dekingdecks.com.au/services/pool-decking/) if done right can substantially increase the aesthetic look of your pool increasing your enjoyment of sunny days spent around the pool.
 
 It is more cost effective and practical to have your pool and or pool and spa built first before your pool deck is constructed. It is possible to do it the other way around but is not ideal.
 
