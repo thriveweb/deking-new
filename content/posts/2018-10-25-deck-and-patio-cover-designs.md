@@ -105,7 +105,7 @@ Remember, the best deck and patio cover design is the one that’s ideal for <e
 
 ## Contact David at DeKing Decks
 
-To discuss deck and patio cover designs, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/).
+To discuss deck and patio cover designs, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
 <iframe src="https://www.youtube.com/embed/dghAJ8aBZGM?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
