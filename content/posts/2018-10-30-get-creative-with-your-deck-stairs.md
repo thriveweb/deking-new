@@ -38,10 +38,10 @@ When it comes to designing your [dream deck](https://www.dekingdecks.com.au/) yo
 
 DeKing can create for you a resort look and feel with long wide steps, these look great with deck lights installed. Check out DeKing’s online store as we stock [Low Voltage Deck lights](https://www.dekingdecks.com.au/product-category/patio-deck-lighting/) for sale.
 
-The tread steps and height need to be built to the correct rise and tread dimensions. To ensure a comfortable transition when you are walking down the stairs.
+The tread steps and height need to be built to the correct rise and tread dimensions. To ensure a comfortable transition when you are walking down the stairs.
 
-Don’t be afraid to ask if we can do something different, if you have photos of a deck that you admire make sure you show us, if you have photos that you would like to email then go right ahead. Also DeKing has a [Pinterest](http://www.pinterest.com/dekingdecks/) Account so start pinning.
+Don’t be afraid to ask if we can do something different, if you have photos of a deck that you admire make sure you show us, if you have photos that you would like to email then go right ahead. Also DeKing has a [Pinterest](http://www.pinterest.com/dekingdecks/) Account so start pinning.
 
-DeKing love to work with our clients to make your dream deck come to life so [contact us](https://www.dekingdecks.com.au/contact-us/) today.
+DeKing love to work with our clients to make your dream deck come to life so [contact us](https://www.dekingdecks.com.au/contact/) today.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
