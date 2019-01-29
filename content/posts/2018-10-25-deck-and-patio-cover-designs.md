@@ -86,7 +86,7 @@ If you have an older style brick house, [Stratco roofing products](https://www.s
 
 **Timber houses with patio covers**
 
-If you have a timber house, you may want to consider [Colorbond roofing](http://colorbond.com/products/roofing). You can achieve a simple but effective design with a corrugated roof that will add texture and character to your house. This is usually finished with a matching balustrade or handrail on your deck to provide your outdoor entertaining area with a touch of class.
+If you have a timber house, you may want to consider [Colorbond roofing](https://colorbond.com/products/roofing). You can achieve a simple but effective design with a corrugated roof that will add texture and character to your house. This is usually finished with a matching balustrade or handrail on your deck to provide your outdoor entertaining area with a touch of class.
 
 ## Functionality of your Patio Cover
 
