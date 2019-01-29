@@ -34,7 +34,7 @@ Climate is one thing; they want a space that can withstand direct sunlight and t
 
 ![Building A Timber Deck in Brisbane- Why Choose Timber?](/images/uploads/ee98aec45f32ee80141aabff3e02ef32.jpg)
 
-Timber decking is an ongoing trend that provides quality for every homeowner. If you want to improve the value of your property through timber decks, feel free to [contact the Deking team today](https://www.dekingdecks.com.au/contact-us/). We provide affordable solutions that suit your needs. See more information and images of our [residential decking](https://www.dekingdecks.com.au/services/timber-decks/), [pool decking](https://www.dekingdecks.com.au/pool-decking/) and [commercial decking](https://www.dekingdecks.com.au/commercial-decking/).
+Timber decking is an ongoing trend that provides quality for every homeowner. If you want to improve the value of your property through timber decks, feel free to [contact the Deking team today](https://www.dekingdecks.com.au/contact/). We provide affordable solutions that suit your needs. See more information and images of our [residential decking](https://www.dekingdecks.com.au/services/timber-decks/), [pool decking](https://www.dekingdecks.com.au/pool-decking/) and [commercial decking](https://www.dekingdecks.com.au/commercial-decking/).
 
 **Deking Decks service Brisbane, Redlands, Bayside, Logan, the Gold Coast and Sunshine Coast
 **
