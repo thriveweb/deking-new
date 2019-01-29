@@ -30,7 +30,7 @@ To create a relaxing and memorable outdoor entertainment area you need professio
 
 At DeKing Decks, we have years of experience creating and building beautiful outdoor entertainment areas with timber products that can match and enhance the look of your home.
 
-We can create pretty much anything your imagination can dream up. So [give us a call](https://www.dekingdecks.com.au/contact-us/), and think big with DeKing Decks.
+We can create pretty much anything your imagination can dream up. So [give us a call](https://www.dekingdecks.com.au/contact/), and think big with DeKing Decks.
 
 ![How To Build An Outdoor Entertaining Area In Queensland](/images/uploads/3.jpg)
 
