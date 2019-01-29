@@ -33,17 +33,20 @@ But before you decide to build a deck or patio cover, there are a number of thin
 3. Purpose
 4. Function
 
-**Location of deck**
+**Location of deck
+**
 
 The location of your deck is particularly important, as it will determine many of the other design factors. For example, a large backyard deck will have different design considerations to a small deck adjoining a bedroom, a high-set deck, a second story deck, an entranceway deck, or one for a swimming pool. It will also partially determine the size.
 
-**Size of deck**
+**Size of deck
+**
 
 Decks for an entranceway, bedroom or study are going to be on the smaller end of the spectrum: approximately 2m² – 16m². This means that you’ll need to choose a relatively simple design so you don’t clutter the space. You will also want a design that is easy to maintain and fits with the current design of your home.
 
 However, if you’re thinking about a deck design for a swimming pool, big backyard or entertaining area, this is likely to me more than 16m². A bigger deck means you can incorporate more features into your design, like seating. The deck can even become the centrepiece of your entire property.
 
-**Purpose and function of deck**
+**Purpose and function of deck
+**
 
 The purpose and function of your proposed deck will also influence its design and overall style. An entertaining deck may need space for a BBQ as well as electrical and plumbing. A pool deck may need seating and will need to work in around your pool. While a small deck for a bedroom may simply be used to relax in the sun.
 
@@ -57,7 +60,8 @@ If you have a garden or bush backyard, it’s a good idea to blend your deck des
 
 There are some common factors that affect the design of every patio cover (also known as a ‘patio roof’).
 
-**These include the:**
+**These include the:
+**
 
 1. Size of your house
 2. Size of your block and available space
@@ -90,7 +94,7 @@ A patio cover should also function properly. That means having adequate gutterin
 
 ## Deck and Patio Cover Design Ideas
 
-We have some great pictures on our website showing various deck and patio cover designs. Visit our [Decking Gallery](https://www.dekingdecks.com.au/gallery/) page and click on some of the image sets to see projects we’ve completed under the following categories:
+We have some great pictures on our website showing various deck and patio cover designs. Visit our [Decking Gallery](https://www.dekingdecks.com.au/projects/) page and click on some of the image sets to see projects we’ve completed under the following categories:
 
 * High-set decks with roofs
 * Patios – pergolas
@@ -105,7 +109,8 @@ To discuss deck and patio cover designs, or to get a quote, [contact David at D
 
 <iframe src="https://www.youtube.com/embed/dghAJ8aBZGM?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+**
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/price-guide/) with or without a patio.
 
