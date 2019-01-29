@@ -59,7 +59,7 @@ If you’re happy with the estimated cost, [contact David at Deking Decks](https
 
 ## More Information
 
-Want to find out more about DeKing Deck’s patios? Read our [10-Step Process](https://www.dekingdecks.com.au/10-step-process/) to building your dream deck. And for answers to frequently asked questions, check out our interview post with David, [10 Things People Don’t Know About Building A Deck](https://www.dekingdecks.com.au/building-a-deck-in-qld/).
+Want to find out more about DeKing Deck’s patios? Read our [10-Step Process](https://www.dekingdecks.com.au/10-step-process/) to building your dream deck. And for answers to frequently asked questions, check out our interview post with David, [10 Things People Don’t Know About Building A Deck](https://www.dekingdecks.com.au/posts/10-things-people-dont-know-about-building-a-deck/).
 
 And of course, if you’d rather just have a chat, give David a call on **1800 335 464 **— he loves talking to new clients and helping make their patio dreams a reality.
 
