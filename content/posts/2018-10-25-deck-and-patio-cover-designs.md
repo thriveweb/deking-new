@@ -82,7 +82,7 @@ Also, to get the most out of your investment, it’s important to design and pos
 
 **Brick houses with patio covers**
 
-If you have an older style brick house, [Stratco roofing products](https://www.stratco.com.au/our-products/building-construction/roofing/) have a great colour and style range to help your patio cover blend in. For example, the straight lines of the [Stratco Outback](http://www.stratco.com.au/our-products/home-improvement/outback-patios/) range work well with well with brick homes.
+If you have an older style brick house, [Stratco roofing products](https://www.stratco.com.au/our-products/building-construction/roofing/) have a great colour and style range to help your patio cover blend in. For example, the straight lines of the [Stratco Outback](https://www.stratco.com.au/products/patios/outback) range work well with well with brick homes.
 
 **Timber houses with patio covers**
 
