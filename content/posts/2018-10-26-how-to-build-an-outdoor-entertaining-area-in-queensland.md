@@ -48,7 +48,7 @@ Whatever your preference, DeKing Decks can help make this a reality.
 **
 
 * [Decking](https://www.dekingdecks.com.au/decking-calculator)
-* [Pool Decking](https://www.dekingdecks.com.au/pool-decking-australia/)
+* [Pool Decking](https://www.dekingdecks.com.au/services/pool-decking/)
 * [Patios](https://www.dekingdecks.com.au/services/)
 * [Patio Roofing](https://www.dekingdecks.com.au/patio-roofing/)
 * [Gazebos](https://www.dekingdecks.com.au/gazebos/)
