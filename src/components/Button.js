@@ -19,8 +19,8 @@ export default ({
   let Comp = to ? Link : A
   return (
     <Comp
-      to={`/${_kebabCase(to)}/`}
-      href={`/${_kebabCase(href)}/`}
+      to={`/${to}/`}
+      href={`/${href}/`}
       className={`Button ${className}`}
       {...props}
     >

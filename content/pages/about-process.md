@@ -114,7 +114,7 @@ bannerDescription: >-
 bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Enquire
-  link: Contact
+  link: contact
 meta:
   canonicalLink: ''
   description: >-
@@ -123,4 +123,3 @@ meta:
   noindex: false
   title: Our Process | Deking Decks
 ---
-

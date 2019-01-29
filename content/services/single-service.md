@@ -93,7 +93,7 @@ bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a F
 bannerImage: /images/uploads/egg-chair-promo.jpg
 bannerButton:
   label: Contact Us
-  link: Contact
+  link: contact
 categories:
   - category: Timber Decks
 meta:

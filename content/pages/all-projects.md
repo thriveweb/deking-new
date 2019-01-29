@@ -6,7 +6,7 @@ featuredImage: /images/uploads/3.jpg
 bannerTitle: View our gallery for inspiration for your new project
 bannerDescription: >
   With careful and clever design, you can transition the interior of your home
-  to a great outdoor living space. 
+  to a great outdoor living space.
 bannerImage: /images/uploads/9.jpg
 bannerButton:
   label: Enquire
@@ -19,4 +19,3 @@ meta:
   noindex: false
   title: Our Projects | Deking Decks
 ---
-

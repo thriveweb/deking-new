@@ -33,13 +33,13 @@ whatWeDo:
       We dont stop at Decks and Patios, we also install glass pool fencing,
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
-    title: 'Deck and Patio add on''s '
+    title: "Deck and Patio add on's "
 bannerTitle: Easter is coming!
 bannerDescription: Order now to have your Deck and Patio built for Easter
 bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Enquire
-  link: Contact
+  link: contact
 qualificationsTitle: Our Licences & Guarantees
 qualificationsLogos:
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
@@ -63,4 +63,3 @@ meta:
   noindex: false
   title: About Us | Deking Decks
 ---
-

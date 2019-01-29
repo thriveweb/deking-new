@@ -94,7 +94,7 @@ bannerTitle: ''
 bannerDescription: ''
 bannerButton:
   label: test
-  link: Contact
+  link: contact
 categories:
   - category: Eco Decking
 meta:

@@ -143,7 +143,7 @@ teamMembers:
     occupation: 'Metal roofer, Patio specialist'
 bannerButton:
   label: Enquire
-  link: Contact
+  link: contact
 meta:
   canonicalLink: ''
   description: >-
@@ -153,4 +153,3 @@ meta:
   noindex: false
   title: 'Meet the Deking Deck Team '
 ---
-

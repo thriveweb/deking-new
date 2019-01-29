@@ -41,7 +41,7 @@ bannerDescription: >-
 bannerImage: /images/uploads/1.jpg
 bannerButton:
   label: Enquire
-  link: Contact
+  link: contact
 meta:
   canonicalLink: ''
   description: >-
@@ -51,4 +51,3 @@ meta:
   noindex: false
   title: Our Guarantees | Deking Decks
 ---
-

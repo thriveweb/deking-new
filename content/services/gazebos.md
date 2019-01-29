@@ -72,7 +72,7 @@ bannerDescription: >-
 bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Contact Us
-  link: Contact
+  link: contact
 categories:
   - category: Gazebos & Outdoor Rooms
 meta:

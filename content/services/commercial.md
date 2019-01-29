@@ -116,7 +116,7 @@ bannerDescription: >-
 bannerImage: /images/uploads/dsc_0472.jpg
 bannerButton:
   label: Contact Us
-  link: Contact
+  link: contact
 categories:
   - category: 'Commercial '
 meta:
@@ -126,4 +126,3 @@ meta:
     vineyard walkway, or seaside pier
   title: 'Commercial Decking Brisbane, Gold Coast, Sunshine Coast '
 ---
-

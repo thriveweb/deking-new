@@ -85,7 +85,7 @@ bannerDescription: >
 bannerImage: /images/uploads/img_3130.jpg
 bannerButton:
   label: Contact Us
-  link: Contact
+  link: contact
 categories:
   - category: Pool Decking
 meta:

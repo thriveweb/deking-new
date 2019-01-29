@@ -136,7 +136,7 @@ bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a F
 bannerImage: /images/uploads/banner-background.jpg
 bannerButton:
   label: Contact Us
-  link: Contact
+  link: contact
 categories:
   - category: Patio Roofs
 meta:
