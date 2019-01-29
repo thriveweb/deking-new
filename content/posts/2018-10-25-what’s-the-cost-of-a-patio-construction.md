@@ -49,7 +49,7 @@ Many Queenslanders—when adding a patio deck to their house—are also choosing
 
 To help narrow the potential range for the cost of your dream patio, David has created an online Decking Calculator to give you an accurate estimate in just seconds.
 
-Visit Deking’s [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator/) and complete 3 simple steps to have an estimate emailed to you.
+Visit Deking’s [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/) and complete 3 simple steps to have an estimate emailed to you.
 
 Remember that the calculator can only give you an _estimate_, as it doesn’t take into account all the potential variables listed above.
 
@@ -65,4 +65,4 @@ And of course, if you’d rather just have a chat, give David a call on **1800 3
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/decking-calculator), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
