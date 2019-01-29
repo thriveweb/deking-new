@@ -27,7 +27,7 @@ locations:
     mapLink: 'https://www.google.com.au/maps/dir//Sunshine+Coast+QLD'
     phone: 1800 335 464
     title: Sunshine Coast
-otherLocationTitle: OUTSIDE SOUTH EAST QUEENSLAND
+otherLocationTitle: Outside South East Queensland
 otherLocation:
   - email: info@dekingdecks.com.au
   - phone: +617 3804 6400
@@ -39,3 +39,4 @@ meta:
   noindex: false
   title: Contact Deking Decks
 ---
+
