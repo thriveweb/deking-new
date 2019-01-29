@@ -159,7 +159,7 @@ export default class Nav extends Component {
             >
               {globalSettings.phone}
             </NavLink>
-            <Button className="NavLink--Button" href="/quote-calculator/">
+            <Button className="NavLink--Button" href="quote-calculator">
               <svg
                 className="calculator"
                 width="13"
