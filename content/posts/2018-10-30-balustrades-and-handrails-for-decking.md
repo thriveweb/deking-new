@@ -34,7 +34,7 @@ In South East Queensland and other parts of the country, balustrades may come in
 
 These are just some of the handrail and balustrade types which you can consider when building your home interior or timber decks.
 
-If you need further assistance, the [Deking](https://dekingdecks.com.au) team will be more than happy to show you other options. We offer high-grade pool fencing, handrails, and balustrades that suit your needs. [Contact us](https://dekingdecks.com.au/contact-us/) today to learn more.
+If you need further assistance, the Deking team will be more than happy to show you other options. We offer high-grade pool fencing, handrails, and balustrades that suit your needs. [Contact us](https://dekingdecks.com.au/contact-us/) today to learn more.
 
 <iframe src="https://www.youtube.com/embed/8HptJMlOyRs?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
