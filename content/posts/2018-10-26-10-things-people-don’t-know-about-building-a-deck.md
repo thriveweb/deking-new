@@ -52,7 +52,7 @@ Although, creating a beautiful new living space the whole family will love isn�
 * **Block size**
   * If you’re on a limited size block, especially a small lot code, you’re only allowed to build on a percentage of that block. A lot of the time it’s 50%, sometimes less.
 
-Deking Decks’ most popular product in Brisbane’s CBD is their [deck and patio roof combinations](https://www.dekingdecks.com.au/decks-and-patio-roofing). They also offer a ‘flyover’ roof that sits above the roofline of your house and covers the deck. This creates extra space underneath the patio roof, making it cooler in summer. ‘I think a lot of people get this done rather than getting an extension on their house with a proper walled-in room. Just for cost effectiveness, you get a lot more value for your dollar,’ David said.
+Deking Decks’ most popular product in Brisbane’s CBD is their [deck and patio roof combinations](https://www.dekingdecks.com.au/services/patio-roofs/). They also offer a ‘flyover’ roof that sits above the roofline of your house and covers the deck. This creates extra space underneath the patio roof, making it cooler in summer. ‘I think a lot of people get this done rather than getting an extension on their house with a proper walled-in room. Just for cost effectiveness, you get a lot more value for your dollar,’ David said.
 
 And once you’ve got your new deck, how do you keep it looking fabulous all-year-round? Deking Decks offer an oil treatment that will give your deck that brand-new look and feel. Some people opt to do this on an annual basis.
 
