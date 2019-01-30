@@ -14,21 +14,4 @@ socialMediaCard:
   pintrest: 'https://www.pinterest.com.au/DekingDecks/'
   twitter: 'https://www.houzz.com.au/pro/deking/deking-pty-ltd?irs=US'
   youtube: 'https://www.youtube.com/channel/UCtcPx6hv5-mBISS-YdQTWKw'
-headerScripts: >-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-
-  <script async
-  src="https://www.googletagmanager.com/gtag/js?id=UA-46463867-1"></script>
-
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-46463867-1');
-  </script>
-
-  <meta name="google-site-verification"
-  content="qG89fWbh3KTY5XWB33kJJpbA_pqfuq8T4FHLTKpkIxw" />
-
-  <meta name="msvalidate.01" content="B0112812CA622A13C327AF572E2BA5B5" />
+headerScripts: ''
