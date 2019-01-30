@@ -51,8 +51,8 @@ Whatever your preference, DeKing Decks can help make this a reality.
 * [Pool Decking](https://www.dekingdecks.com.au/services/pool-decking/)
 * [Patios](https://www.dekingdecks.com.au/services/)
 * [Patio Roofing](https://www.dekingdecks.com.au/patio-roofing/)
-* [Gazebos](https://www.dekingdecks.com.au/gazebos/)
-* [Pool Houses](https://www.dekingdecks.com.au/gazebos/)
+* [Gazebos](https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/)
+* [Pool Houses](https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/)
 * [Pergolas](https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/)
 * [Verandahs](https://www.dekingdecks.com.au/services/)
 
