@@ -18,7 +18,7 @@ meta:
     materials. 
   title: 'Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs'
 ---
-Getting the design right for a [deck and patio cover](https://www.dekingdecks.com.au/patio-roofing) can be the difference between a stunning addition to your home and an out-of-place novelty. In terms of functionality, it can also mean the difference between a space that you love to be in and one that you avoid.
+Getting the design right for a [deck and patio cover](https://www.dekingdecks.com.au/services/patio-roofs/) can be the difference between a stunning addition to your home and an out-of-place novelty. In terms of functionality, it can also mean the difference between a space that you love to be in and one that you avoid.
 
 _Deking Decks_ can design and build a deck and patio cover that’s as unique as you are. Whether you have a clear idea of what kind what you’d like or are just investigating the possibilities, we can work with you at every step of the way.
 
