@@ -43,7 +43,7 @@ There are many types of insulation available based on your needs. Common insulat
 
 We hope this deck insulation information is useful. If you live in Queensland and would like to talk about your specific situation then please call on 1800 335 464 or email us at <mailto:info@dekingdecks.com.au>. Also take a look at [Our Patios](https://www.dekingdecks.com.au/services/) page for more information.
 
-To get a quote for patio roofing with and without insulation [click here](https://www.dekingdecks.com.au/patio-calculator/)
+To get a quote for patio roofing with and without insulation [click here](https://www.dekingdecks.com.au/quote-calculator/)
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
