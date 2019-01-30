@@ -16,7 +16,7 @@ meta:
 ---
 I’ve just had a brand new deck built, now what?
 
-Wait…. 6-8 weeks of weathering is required before you can successfully apply a [decking treatment](https://www.dekingdecks.com.au/product-category/wood-care-products/), this is to allow the natural tannins to leach out of the timber so the treatment can adhere properly, if you don’t expect black spots to appear on the decking boards and more predominately at the butt joints.
+Wait…. 6-8 weeks of weathering is required before you can successfully apply a [decking treatment](https://www.dekingdecks.com.au/services/deck-accessories/), this is to allow the natural tannins to leach out of the timber so the treatment can adhere properly, if you don’t expect black spots to appear on the decking boards and more predominately at the butt joints.
 
 What are tannins? Tannins are the natural oils in timbers and are more inherent in hardwoods. There are products on the market that speed up the weathering process such as Powerlift from the Flood Company, and also Powerwash from Intergrain.
 
