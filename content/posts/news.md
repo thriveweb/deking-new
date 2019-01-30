@@ -52,7 +52,7 @@ A Cooldek insulated patio roof will keep you cooler in summer, so this is a smar
 
 ## Patio roofing options - Image Gallery
 
-If you’re looking for some inspiration, and are the kind of person who knows what they want once they see it, check out our [Decking Gallery](https://www.dekingdecks.com.au/deck-designs/) page.
+If you’re looking for some inspiration, and are the kind of person who knows what they want once they see it, check out our [Decking Gallery](https://www.dekingdecks.com.au/projects/) page.
 
 There are some great examples of patio roofs we’ve completed for a range of different houses.
 
