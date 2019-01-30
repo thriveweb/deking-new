@@ -17,7 +17,7 @@ meta:
     interesting.
   title: Deck Patio Combination Ideas | Deking Decks Brisbane
 ---
-When a customer is looking to add a really interesting feature to their home there are a number of [deck patio combination](https://www.dekingdecks.com.au/decks-and-patio-roofing/) ideas that are practical, as well as interesting, options to add additional living space to the property.
+When a customer is looking to add a really interesting feature to their home there are a number of [deck patio combination](https://www.dekingdecks.com.au/services/patio-roofs/) ideas that are practical, as well as interesting, options to add additional living space to the property.
 
 ## Deck Patio Combination Ideas - Stacked or Flowing
 
