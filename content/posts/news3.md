@@ -23,7 +23,7 @@ An insulated patio roof will transform your patio from something great to someth
 
 Skilled and experience patio builders from _Deking Decks_ will work with you to build the perfect insulated patio roof to suit your needs. Our insulated patio roofs are crafted so that they’re a seamless extension of your house, matching its existing style and colour scheme.
 
-For a **quick quote**, see our [Insulated Patio Roof Calculator](https://www.dekingdecks.com.au/patio-calculator/).
+For a **quick quote**, see our [Insulated Patio Roof Calculator](https://www.dekingdecks.com.au/quote-calculator/).
 
 ## Benefits of Insulated Patio Roofing
 
