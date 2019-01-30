@@ -56,7 +56,7 @@ Whatever your preference, DeKing Decks can help make this a reality.
 * [Pergolas](https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/)
 * [Verandahs](https://www.dekingdecks.com.au/services/)
 
-We also have a range of [eco decking options](https://www.dekingdecks.com.au/eco-decking/) for environmentally friendly solutions that use recycled materials. With eco decking you can get the look you want for your outdoor entertaining area while helping to look after the planet.
+We also have a range of [eco decking options](https://www.dekingdecks.com.au/services/eco-decking/) for environmentally friendly solutions that use recycled materials. With eco decking you can get the look you want for your outdoor entertaining area while helping to look after the planet.
 
 If you’re looking to build an outdoor entertaining area in South East Queensland, see our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculato](https://www.dekingdecks.com.au/quote-calculator/)r, [Patio Roofing Calculator](https://www.dekingdecks.com.au/patio-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/deck-and-roofing-calculator) to get a more accurate estimate from the experts at DeKing Decks. We can transform your home by building a range of spaces using the best quality timber products.
 
