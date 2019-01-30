@@ -55,7 +55,7 @@ Remember that the calculator can only give you an _estimate_, as it doesn’t ta
 
 ## Get a Fixed Price Quote
 
-If you’re happy with the estimated cost, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/) to get a fixed price quote. This quote will cover _all_ the relevant factors that determine the cost of a patio, including any that are unique to your proposal.
+If you’re happy with the estimated cost, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/) to get a fixed price quote. This quote will cover _all_ the relevant factors that determine the cost of a patio, including any that are unique to your proposal.
 
 ## More Information
 
