@@ -16,7 +16,7 @@ meta:
     the Gold Coast. Enjoy eco friendly decking today
   title: 'Recycled Timber Decking Brisbane, Gold Coast, Sunshine Coast'
 ---
-DeKing decking takes pride in serving the Brisbane community with high quality timber decking services. To help you lessen your impact on the environment, DeKing now provides recycled timber decking options. [EKODEKING](https://www.dekingdecks.com.au/eco-decking/), a division of DeKing, offers high-quality environmentally friendly decking services through recycled and composite decking materials. DeKing believes that you should be able to enjoy your property and the great outdoors without causing harm to the environment.
+DeKing decking takes pride in serving the Brisbane community with high quality timber decking services. To help you lessen your impact on the environment, DeKing now provides recycled timber decking options. [EKODEKING](https://www.dekingdecks.com.au/services/eco-decking/), a division of DeKing, offers high-quality environmentally friendly decking services through recycled and composite decking materials. DeKing believes that you should be able to enjoy your property and the great outdoors without causing harm to the environment.
 
 ## Recycled Timber and Composite Decking
 
