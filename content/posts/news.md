@@ -37,7 +37,7 @@ At DeKing Decks, all our patio roofs are made using the **Stratco Outback** ra
 * Outback Sunroof
 * Outback Pergola
 
-See pictures of all these patio roof styles on the [Stratco website](https://www.stratco.com.au/our-products/home-improvement/outback-patios/).
+See pictures of all these patio roof styles on the [Stratco website](https://www.stratco.com.au/products/patios/outback).
 
 ## Our patio roofing types
 
