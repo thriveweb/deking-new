@@ -79,7 +79,7 @@ Call us or [email us](https://www.dekingdecks.com.au/contact/) today (1800 335 4
 
 Have a look at our [Decking Gallery](https://www.dekingdecks.com.au/projects/) to see examples of the decks that we have constructed for satisfied customers.
 
-Image source: [www.mosbybuildingarts.com](http://www.mosbybuildingarts.com)
+Image source: [www.mosbybuildingarts.com](https://mosbybuildingarts.com/)
 
 **Deking Decks Service Areas:**
 
