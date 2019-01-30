@@ -76,7 +76,7 @@ To find out more about insulated flyover roofing, [contact David at Deking Decks
 
 ## Insulated Patio Roof Calculator
 
-Use our [Patio Roof Calculator](https://www.dekingdecks.com.au/patio-calculator/) to estimate how much an insulated patio roof would cost you.
+Use our [Patio Roof Calculator](https://www.dekingdecks.com.au/quote-calculator/) to estimate how much an insulated patio roof would cost you.
 
 Once you’ve completed the simple 3-step process, the calculator will email you an estimate.
 
