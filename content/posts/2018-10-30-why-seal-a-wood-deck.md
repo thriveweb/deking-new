@@ -22,7 +22,7 @@ Many people ask why seal a wood deck. Or why do I need to seal a wood deck.
 
 A quality wood finish will prolong the life and aesthetic features of your deck for years to come.
 
-[Contact us today](https://dekingdecks.com.au/contact-us/) to get a free quote or to learn more about our services.  Alternatively if you would like to do it yourself we have various [DIY deck sealing options](https://www.dekingdecks.com.au/product-category/wood-care-products/) in our online store.
+[Contact us today](https://www.dekingdecks.com.au/contact/) to get a free quote or to learn more about our services.  Alternatively if you would like to do it yourself we have various [DIY deck sealing options](https://www.dekingdecks.com.au/product-category/wood-care-products/) in our online store.
 
 **Watch this video for more information on the things required for deck maintenance**
 
