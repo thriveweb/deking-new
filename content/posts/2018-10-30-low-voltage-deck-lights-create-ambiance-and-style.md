@@ -16,7 +16,7 @@ meta:
     lights to your new or existing deck or patio. Find out more here.
   title: 'Low Voltage Deck Lighting Ideas: DeKing Decks Brisbane'
 ---
-There are so many great reasons why you should install [Low Voltage Deck lights](https://www.dekingdecks.com.au/product-category/patio-deck-lighting/) to your new or existing deck or patio. Deck Lights can add a sense of design and interest to the overall space.
+There are so many great reasons why you should install [Low Voltage Deck lights](https://www.dekingdecks.com.au/services/deck-accessories/) to your new or existing deck or patio. Deck Lights can add a sense of design and interest to the overall space.
 
 ## Where should I position the lights?
 
@@ -32,6 +32,6 @@ Deck lights can also be installed into eaves to provide soft downlight to highli
 
 This can really create some “Visual Wow” especially if you have a beautiful plant that you would like to highlight. They are also able to be installed on the horizontal creating a great uplight effect. Using Low Voltage Deck lights in different areas can totally enhance your Outdoor room creating a lovely ambiance.
 
-Info: Low Voltage Deck Lights are constructed from 304 stainless steel, they are easy to install you just need access to a power point. They are available in square or round fittings. Check out our [online store](https://www.dekingdecks.com.au/product-category/patio-deck-lighting/) for details.
+Info: Low Voltage Deck Lights are constructed from 304 stainless steel, they are easy to install you just need access to a power point. They are available in square or round fittings. 
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
