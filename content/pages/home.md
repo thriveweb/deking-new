@@ -21,7 +21,7 @@ bannerDescription: >
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
-  link: contact/
+  link: contact
 teamTitle: DeKing Decks – Brisbane & Gold Coast – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
@@ -95,4 +95,3 @@ meta:
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decking'
 ---
-
