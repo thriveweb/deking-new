@@ -51,7 +51,7 @@ Keep in mind, though, that the calculator can only provide you with an <em>estim
 
 ## Patio Roof Calculator
 
-Installing a patio roof has its own set of cost factors, so David has also created the [Patio Roof Calculator](https://www.dekingdecks.com.au/patio-calculator/) to help you estimate these expenses.
+Installing a patio roof has its own set of cost factors, so David has also created the [Patio Roof Calculator](https://www.dekingdecks.com.au/quote-calculator/) to help you estimate these expenses.
 
 This calculator also has a simple, 3-step process and will email you an estimate on completion.
 
