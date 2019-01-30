@@ -48,15 +48,18 @@ Eco wood is a more flexible material and provides different opportunities to tha
 
 Eco decking boards are more expensive than timber boards.  Thus the overall cost of materials for an eco deck is higher than if you chose to use timber.  For some people this is not all that important as they balance the importance of the benefits to the environment, the lack of maintenance and durability of eco decks as being more than sufficient to counteract the higher initial upfront cost that is required for materials.  For others the initial higher eco deck prices are not within their budget and a timber deck is preferred.
 
-**Requires Replacement Boards**
+**
+Requires Replacement Boards**
 
 If a section of an eco deck is damaged, say scratched by furniture, you can’t sand back the eco deck like you would with a wooden deck.  If eco boards are damaged they need to be replaced.
 
-**Timber Decks are More Versatile**
+**
+Timber Decks are More Versatile**
 
 You have more options with a timber deck.  A timber deck can be stained, oiled or painted.  Thus you can if you want completely transform your timber deck through repainting in a different colour for example.
 
-**Timber Decking is also be an Environmentally Friendly Option**
+**
+Timber Decking is also be an Environmentally Friendly Option**
 
 Timber decking too can be an environmentally friendly choice.  In fact, it is argued that the manufacturing process of eco decking is less energy efficient than the harvesting and transporting of traditional timber decking. Timber decking is also easier to dispose of than an eco deck once it reaches the end of its life.  Because of the materials that comprise an eco deck, it takes longer to decompose than the quicker rotting characteristics of wooden boards.
 
@@ -82,6 +85,7 @@ At the end of the day, the choice is yours, both options will provide you with a
 
 At DeKing Decks we offer customers the choice of timber and eco decking.
 
-[Click Here](https://www.dekingdecks.com.au/eco-decking/) for more information on Eco Decks at Deking Decks.
+[Click Here](https://www.dekingdecks.com.au/services/eco-decking/) for more information on Eco Decks at Deking Decks.
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+**
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
