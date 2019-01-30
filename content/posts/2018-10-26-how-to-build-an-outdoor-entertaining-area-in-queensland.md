@@ -47,7 +47,7 @@ Whatever your preference, DeKing Decks can help make this a reality.
 **We can create all kinds of entertainment spaces with a range of solutions, including:
 **
 
-* [Decking](https://www.dekingdecks.com.au/decking-calculator)
+* [Decking](https://www.dekingdecks.com.au/quote-calculator/)
 * [Pool Decking](https://www.dekingdecks.com.au/services/pool-decking/)
 * [Patios](https://www.dekingdecks.com.au/services/)
 * [Patio Roofing](https://www.dekingdecks.com.au/services/patio-roofs/)
