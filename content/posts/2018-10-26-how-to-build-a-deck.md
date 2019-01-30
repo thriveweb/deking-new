@@ -38,7 +38,7 @@ Place a timber plate at the bottom of every stump hole before setting your stump
 
 ## Step 4: Framing
 
-<b></b>When starting the framing step of building your own deck, you should focus on ensuring a solid transition between your new deck and your existing structure. If the existing structure features weatherboard, you should join the new bearers with the bearers from the existing structure. If the existing structure is brick or another material, you can connect a treated pine plate using masonry anchors.
+When starting the framing step of building your own deck, you should focus on ensuring a solid transition between your new deck and your existing structure. If the existing structure features weatherboard, you should join the new bearers with the bearers from the existing structure. If the existing structure is brick or another material, you can connect a treated pine plate using masonry anchors.
 
 Once you have fixed your plate and determined your bearer height, you need to transfer these dimensions to your stumps with a level and string line. Use a square-edge to mark off the dimension and cut the stumps accordingly.
 
@@ -62,4 +62,4 @@ If however you would like us to professionally build a deck for you click on the
 
 **DeKing Deck Service Areas:**
 
-<strong>DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
