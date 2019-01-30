@@ -41,7 +41,7 @@ Many Queenslanders—when adding a patio deck to their house—are also choosing
 
 ‘A standard patio roof is built with powder-coated steel posts and beams. Or, to blend with your existing house design, we can use materials such as large chunky hardwood posts or rendered columns, etc.,’ David said.
 
-‘All these [patio roof options](https://www.dekingdecks.com.au/patio-roofing/) have a weighting on the final price but can add a lot more value to your house by marrying with your existing design and creating a seamless extension,’ David said.
+‘All these [patio roof options](https://www.dekingdecks.com.au/services/patio-roofs/) have a weighting on the final price but can add a lot more value to your house by marrying with your existing design and creating a seamless extension,’ David said.
 
 ![What's the Cost of Patio Construction in Queensland?](/images/uploads/what-s-the-cost-of-patio-construction-in-queensland.jpg)
 
