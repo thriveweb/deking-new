@@ -43,7 +43,7 @@ See pictures of all these patio roof styles on the [Stratco website](https://www
 
 Another important decision is what type of patio roof you’d like. The 2 main questions here are:
 
-* Do you want a [Cooldek insulated](http://www.stratco.com.au/products/home-improvement/cooldek-roofing/) roof or Outback non-insulated roof?
+* Do you want a [Cooldek insulated](https://www.stratco.com.au/au/roofing/roofing-and-walling/cooldek-cgi-topside--smooth-underside-right-laying-50mm-thick-65mm-cutback-slate-grey-topside--off/) roof or Outback non-insulated roof?
 * Do you want a [flyover style roof](https://www.dekingdecks.com.au/patio-roofing/) or a fascia attached roof?
 
 A Cooldek insulated patio roof will keep you cooler in summer, so this is a smart option. And a flyover patio roof is becoming a popular modern option. But the most important thing is to choose the right options for you.
