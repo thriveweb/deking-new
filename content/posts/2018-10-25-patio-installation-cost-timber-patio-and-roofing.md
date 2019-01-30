@@ -59,7 +59,7 @@ Again, the figure you receive will be an _estimate_. You can contact David for a
 
 ## Get a fixed price quote
 
-If you’d like a fixed price quote for a timber patio and/or patio roof, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact-us/). This quote will incorporate every cost factor, including any that are unique to your particular patio.
+If you’d like a fixed price quote for a timber patio and/or patio roof, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/). This quote will incorporate every cost factor, including any that are unique to your particular patio.
 
 David loves talking to new clients and helping make their dreams a reality. Call him today on **1800 335 464
 **
