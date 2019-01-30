@@ -138,7 +138,7 @@ export const SingleServiceTemplate = ({
               <h4>{QuoteTitle}</h4>
               <Button
                 className="NavLink--Button PriceSection--Button"
-                to="/quote-calculator/"
+                to="quote-calculator"
               >
                 <svg
                   className="calculator"
