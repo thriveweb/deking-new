@@ -17,7 +17,6 @@ meta:
     areas.
   title: Small Deck Ideas for Outdoor Living
 ---
-
 Small outdoor decking areas can be a challenge and over the years we have faced this challenge many times.  We would like to share with you five small deck ideas we have obtained in making the most of small outdoor decking areas.
 
 ## Visually Larger Small Deck Ideas
@@ -38,7 +37,7 @@ The Japanese outdoor decking area as shown in the image below is a fantastic way
 
 ## Curves and Level
 
-Just because your small space is an unusual shape or the land is sloping, this doesn’t mean that you can't convert it into a usable, functional outdoor decking area.</span><b>
+Just because your small space is an unusual shape or the land is sloping, this doesn’t mean that you can't convert it into a usable, functional outdoor decking area.
 
 Decks do not have to be square or rectangular but can be curved to ensure that all possible area is used.  Also if your small garden area is uneven, decks can be built in tiers or steps can resolve that problem for you.
 
