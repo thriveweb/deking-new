@@ -73,9 +73,9 @@ Some would say, and it’s hard to argue that a well cared for timber deck has a
 
 **DIY Timber Decks**
 
-It is also possible to build your own deck using a timber board deck kit.  For a DIY kit for a 5m X 4m deck [Click Here.](https://www.dekingdecks.com.au/product/5m-x-4m-diy-deck/)
+It is also possible to build your own deck using a timber board deck kit.  For a DIY kit for a 5m X 4m deck [Click Here](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/).
 
-For DIY Kit for a 3m X 1.05m deck [Click Here](https://www.dekingdecks.com.au/product/deck-in-a-day/)
+For DIY Kit for a 3m X 1.05m deck [Click Here](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/)
 
 ## Eco Deck or Timber Deck
 
