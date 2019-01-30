@@ -44,7 +44,7 @@ See pictures of all these patio roof styles on the [Stratco website](https://www
 Another important decision is what type of patio roof you’d like. The 2 main questions here are:
 
 * Do you want a [Cooldek insulated](https://www.stratco.com.au/au/roofing/roofing-and-walling/cooldek-cgi-topside--smooth-underside-right-laying-50mm-thick-65mm-cutback-slate-grey-topside--off/) roof or Outback non-insulated roof?
-* Do you want a [flyover style roof](https://www.dekingdecks.com.au/patio-roofing/) or a fascia attached roof?
+* Do you want a [flyover style roof](https://www.dekingdecks.com.au/services/patio-roofs/) or a fascia attached roof?
 
 A Cooldek insulated patio roof will keep you cooler in summer, so this is a smart option. And a flyover patio roof is becoming a popular modern option. But the most important thing is to choose the right options for you.
 
@@ -72,7 +72,7 @@ Here are a few key reasons why you should get a patio roof.
 
 If you have a deck and want to ensure its longevity, protect it with patio roofing. A high-quality patio roof will protect your deck from the elements—such as rain and sun—as well as pollutants and dust that can settle on your deck.
 
-[Patio roofing](https://www.dekingdecks.com.au/patio-roofing/) is generally made of more durable material than the woods used in most decks, so it is more resilient when exposed to the elements.
+[Patio roofing](https://www.dekingdecks.com.au/services/patio-roofs/) is generally made of more durable material than the woods used in most decks, so it is more resilient when exposed to the elements.
 
 **Use your deck all year round**
 
