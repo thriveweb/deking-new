@@ -40,7 +40,7 @@ DeKing can create for you a resort look and feel with long wide steps, these loo
 
 The tread steps and height need to be built to the correct rise and tread dimensions. To ensure a comfortable transition when you are walking down the stairs.
 
-Don’t be afraid to ask if we can do something different, if you have photos of a deck that you admire make sure you show us, if you have photos that you would like to email then go right ahead. Also DeKing has a [Pinterest](http://www.pinterest.com/dekingdecks/) Account so start pinning.
+Don’t be afraid to ask if we can do something different, if you have photos of a deck that you admire make sure you show us, if you have photos that you would like to email then go right ahead. Also DeKing has a [Pinterest](https://www.pinterest.com.au/DekingDecks/) Account so start pinning.
 
 DeKing love to work with our clients to make your dream deck come to life so [contact us](https://www.dekingdecks.com.au/contact/) today.
 
