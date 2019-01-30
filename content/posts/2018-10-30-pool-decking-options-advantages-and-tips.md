@@ -70,7 +70,7 @@ Many people think that by laying the decking boards upside down (ridged side up)
 **DeKing Decks
 **
 
-At DeKing Decks we are experts in [Pool Decking](https://www.dekingdecks.com.au/pool-decking/); we will advise you on the most appropriate materials and even suggest design options for you. Have a look at some of the pool decks that we have built and you will get an idea of the high standard and both attractive and functional decks that we provide for our customers.
+At DeKing Decks we are experts in [Pool Decking](https://www.dekingdecks.com.au/services/pool-decking/); we will advise you on the most appropriate materials and even suggest design options for you. Have a look at some of the pool decks that we have built and you will get an idea of the high standard and both attractive and functional decks that we provide for our customers.
 
 ![null](/images/uploads/image-2-1024x576.jpg)
 
