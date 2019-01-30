@@ -39,7 +39,7 @@ At DeKing Decks, we pride ourselves on our high-quality timber patios and our ab
 * verandahs
 * pools.
 
-We’ve been designing and building [residentia](https://www.dekingdecks.com.au/services/timber-decks/)l and [commercial](https://www.dekingdecks.com.au/commercial-decking/) patio decks for more than 14 years, with countless happy clients.
+We’ve been designing and building [residentia](https://www.dekingdecks.com.au/services/timber-decks/)l and [commercial](https://www.dekingdecks.com.au/services/commercial-decking/) patio decks for more than 14 years, with countless happy clients.
 
 ![Timber Patios - Designs and Ideas Brisbane, Gold Coast](/images/uploads/second-floor-kwila-deck-at-cleveland-with-insulated-patio-roof.jpg)
 
