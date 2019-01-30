@@ -18,7 +18,7 @@ meta:
   noindex: false
   title: How Does a Patio Cover Add Value to a Home?
 ---
-There are so many ways that a [patio cover](https://www.dekingdecks.com.au/patio-roofing/) can add value to a home, listed below are some of the most important ones.
+There are so many ways that a [patio cover](https://www.dekingdecks.com.au/services/patio-roofs/) can add value to a home, listed below are some of the most important ones.
 
 ## Resale value
 
@@ -50,7 +50,7 @@ If you patio is constructed of decking timbers, a cover over the timber decking 
 
 A patio cover over say a western area of your home will help keep your house cooler during the hot summer months.  By keeping direct sunlight off your windows and exterior walls this should assist in savings through reduced power bills from air-conditioner use.
 
-**_So, how does a patio cover add value to a home?  A patio cover is one of the most affordable and most impactful home improvements that you can do.  A patio cover will pay for itself over and over not only through your greater enjoyment of your home but also in the increased resale value of your residence._**
+_**So, how does a patio cover add value to a home?  A patio cover is one of the most affordable and most impactful home improvements that you can do.  A patio cover will pay for itself over and over not only through your greater enjoyment of your home but also in the increased resale value of your residence.**_
 
 If you need a patio in Brisbane, the Gold or Sunshine Coast then please [contact us](https://www.dekingdecks.com.au/contact/) or visit our [patio roof estimater](https://www.dekingdecks.com.au/patio-calculator/) or [timber deck patio calculator](https://www.dekingdecks.com.au/quote-calculator/) and we will be happy to help you out
 
