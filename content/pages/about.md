@@ -33,10 +33,13 @@ whatWeDo:
       We dont stop at Decks and Patios, we also install glass pool fencing,
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
-    title: "Deck and Patio add on's "
-bannerTitle: Easter is coming!
-bannerDescription: Order now to have your Deck and Patio built for Easter
-bannerImage: /images/uploads/banner-background.jpg
+    title: 'Deck and Patio add on''s '
+bannerTitle: Brisbane Home Show Special
+bannerDescription: |-
+  $500 cashback on all Stratco Patio roofs. (Min size 24m2)
+  See us at the Home Show for other deals
+bannerImage: >-
+  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
   label: Enquire
   link: contact
@@ -63,3 +66,4 @@ meta:
   noindex: false
   title: About Us | Deking Decks
 ---
+
