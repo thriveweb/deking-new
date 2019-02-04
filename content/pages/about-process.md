@@ -105,13 +105,12 @@ processes:
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide. (link to document )
     title: Enjoy
-bannerTitle: Get in now for Easter
-bannerDescription: >-
-  Order now to have your Deck or Patio Roof built for Easter and receive a free
-  Egg Chair
-
-  T's & C's apply. Ask our friendly team for details
-bannerImage: /images/uploads/banner-background.jpg
+bannerTitle: Brisbane Home Show offer
+bannerDescription: |-
+  $500 cashback on all Stratco Patio roofs. (Min size 24m2)
+  See us at the Home Show for other deals
+bannerImage: >-
+  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
   label: Enquire
   link: contact
@@ -123,3 +122,4 @@ meta:
   noindex: false
   title: Our Process | Deking Decks
 ---
+
