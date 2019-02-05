@@ -131,9 +131,12 @@ servicePods:
     podsTitle: Insulated Roofing
 videoTitle: Stratco advertising that we built!
 videoURL: ''
-bannerTitle: Easter Special Free Egg Chair
-bannerDescription: Purchase a Deck and/or Patio Roof this Easter and receive a Free Egg Chair.
-bannerImage: /images/uploads/banner-background.jpg
+bannerTitle: Brisbane Home Show offer
+bannerDescription: |-
+  $500 cashback on all Stratco Patio roofs. (Min size 24m2)
+  See us at the Home Show for other deals
+bannerImage: >-
+  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
   label: Contact Us
   link: contact
