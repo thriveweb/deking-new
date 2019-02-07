@@ -90,8 +90,8 @@
   }
 
   .TeamCard--Popup-content {
-    width: 95%;
-    padding: 4rem 0rem;
+    width: 95% !important;
+    padding: 4rem 0rem !important;
   }
 
   .TeamCard--Popup-content .Popup--Image,
