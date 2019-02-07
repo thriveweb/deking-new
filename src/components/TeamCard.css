@@ -57,6 +57,10 @@
   box-shadow: none;
 }
 
+.TeamCard--CloseButton {
+  cursor: pointer;
+}
+
 .TeamCard:hover,
 .TeamCard:focus {
   transform: translateY(-1px);

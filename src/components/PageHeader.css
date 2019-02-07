@@ -91,14 +91,16 @@
 
   .TeamCard--Popup-content {
     width: 95% !important;
-    padding: 4rem 0rem !important;
+    padding: 4rem !important;
     height: 80vh !important;
     overflow: scroll !important;
+    display: block !important;
   }
 
   .TeamCard--Popup-content .Popup--Image,
   .Popup--Content {
-    width: 80% !important;
+    width: 100% !important;
+    padding: 0 0 3rem !important;
   }
 }
 
