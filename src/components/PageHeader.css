@@ -92,6 +92,8 @@
   .TeamCard--Popup-content {
     width: 95% !important;
     padding: 4rem 0rem !important;
+    height: 80vh !important;
+    overflow: scroll !important;
   }
 
   .TeamCard--Popup-content .Popup--Image,
