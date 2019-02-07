@@ -86,7 +86,17 @@
   .PageHeader-split-half {
     width: 100%;
     padding: 0 3rem;
-    background: rgba(39, 33, 33, 0.8);
+    background: rgba(39, 33, 33, 0.6);
+  }
+
+  .TeamCard--Popup-content {
+    width: 95%;
+    padding: 4rem 0rem;
+  }
+
+  .TeamCard--Popup-content .Popup--Image,
+  .Popup--Content {
+    width: 80% !important;
   }
 }
 
