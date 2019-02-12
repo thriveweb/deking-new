@@ -114,7 +114,7 @@
 }
 
 .TeamCard--Popup-content {
-  padding: 8rem;
+  padding: 8rem 4rem;
   width: 80%;
   min-height: 80vh;
   margin: 0 auto;
@@ -133,7 +133,7 @@
 }
 
 .Popup--Content {
-  width: 50%;
+  width: 80%;
 }
 
 .Popup--Image {
