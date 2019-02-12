@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 externalVideoURL: ''
-videoPoster: /images/uploads/home-banner.jpg
+videoPoster: /images/uploads/homebannerrefresh.jpg
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/11.jpg
 featureButton:
