@@ -1,8 +1,8 @@
 ---
 template: HomePage
 slug: ''
-externalVideoURL: 'https://clients.thrivex.io/dekingdecks/home.mp4'
-videoPoster: /images/uploads/background-video.jpg
+externalVideoURL: 'https://clients.thrivex.io/dekingdecks/home-banner.jpg'
+videoPoster: /images/uploads/home-banner.jpg
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/11.jpg
 featureButton:
@@ -95,3 +95,4 @@ meta:
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decking'
 ---
+
