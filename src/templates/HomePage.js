@@ -51,14 +51,20 @@ export const HomePageTemplate = ({
     <Meta {...meta} />
     <main className="Home">
       <div className="home--banner section-image">
-        {videoPoster &&
-          videoPoster.publicURL && (
+        {externalVideoURL &&
+          externalVideoURL.length && (
             <BackgroundVideo poster={videoPoster.publicURL}>
-              {externalVideoURL && (
-                <source src={externalVideoURL} type="video/mp4" />
-              )}
+              <source src={externalVideoURL} type="video/mp4" />
             </BackgroundVideo>
           )}
+
+        {!externalVideoURL &&
+          !externalVideoURL.length &&
+          videoPoster &&
+          videoPoster.publicURL && (
+            <Image background src={videoPoster.publicURL} alt={title} />
+          )}
+
         {title && (
           <div className="home--banner-sidebar relative">
             <h1 id="home-title" className="PageHeader--Title afterTitle">
