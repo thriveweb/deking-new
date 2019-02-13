@@ -647,6 +647,33 @@ class QuoteCalculator extends React.Component {
                 Please email me the calculation and add me to the mailing list.
               </label>
             </div>
+            <input
+              type="hidden"
+              name="Quote price"
+              value={ResultAmount({
+                option: option,
+                sqm: width * length,
+                extras: {
+                  stairs,
+                  handrail,
+                  insulated,
+                  attached
+                }
+              })}
+            />
+            {console.log(
+              <ResultAmount
+                option={option}
+                sqm={width * length}
+                extras={{
+                  stairs,
+                  handrail,
+                  insulated,
+                  attached
+                }}
+              />
+            )}
+
             <div className="center-buttons">
               <input
                 type="button"
@@ -765,16 +792,18 @@ class QuoteCalculator extends React.Component {
           <div className="Result--Calculations">
             <div className="Result--Calculations-Row price">
               <div className="title">Estimated Price:</div>
-              <ResultAmount
-                option={option}
-                sqm={width * length}
-                extras={{
-                  stairs,
-                  handrail,
-                  insulated,
-                  attached
-                }}
-              />
+              <div className={`ResultAmount`}>
+                <ResultAmount
+                  option={option}
+                  sqm={width * length}
+                  extras={{
+                    stairs,
+                    handrail,
+                    insulated,
+                    attached
+                  }}
+                />
+              </div>
             </div>
             <div className="Result--Calculations-Row council">
               <div className="title">Plans, Council Permit QBCC:</div>
