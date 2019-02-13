@@ -42,6 +42,7 @@ class QuoteCalculator extends React.Component {
     width: '',
     confirmEmail: '',
     subscribe: false,
+    quotePrice: 0,
     contact: false,
     disabled: false,
     currentStep: 0,
@@ -123,12 +124,23 @@ class QuoteCalculator extends React.Component {
 
   handleSubmit = e => {
     e.preventDefault()
+    this.setState()
     const form = e.target
     fetch('/', {
       method: 'POST',
       body: encode({
         subject: 'quote',
         'form-name': form.getAttribute('name'),
+        quotePrice: ResultAmount({
+          option: option,
+          sqm: width * length,
+          extras: {
+            stairs,
+            handrail,
+            insulated,
+            attached
+          }
+        }),
         ...this.state
       })
     })
@@ -160,6 +172,7 @@ class QuoteCalculator extends React.Component {
       postCode,
       phone,
       subscribe,
+      quotePrice,
       contact
     } = this.state
     const globalSettings = this.props.globalSettings
@@ -647,32 +660,6 @@ class QuoteCalculator extends React.Component {
                 Please email me the calculation and add me to the mailing list.
               </label>
             </div>
-            <input
-              type="hidden"
-              name="Quote price"
-              value={ResultAmount({
-                option: option,
-                sqm: width * length,
-                extras: {
-                  stairs,
-                  handrail,
-                  insulated,
-                  attached
-                }
-              })}
-            />
-            {console.log(
-              <ResultAmount
-                option={option}
-                sqm={width * length}
-                extras={{
-                  stairs,
-                  handrail,
-                  insulated,
-                  attached
-                }}
-              />
-            )}
 
             <div className="center-buttons">
               <input
