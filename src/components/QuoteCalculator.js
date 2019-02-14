@@ -124,23 +124,24 @@ class QuoteCalculator extends React.Component {
 
   handleSubmit = e => {
     e.preventDefault()
-    this.setState()
+    this.setState({
+      quotePrice: ResultAmount({
+        option: this.state.option,
+        sqm: this.state.width * this.state.length,
+        extras: {
+          stairs: this.state.stairs,
+          handrail: this.state.handrail,
+          insulated: this.state.insulated,
+          attached: this.state.attached
+        }
+      })
+    })
     const form = e.target
     fetch('/', {
       method: 'POST',
       body: encode({
         subject: 'quote',
         'form-name': form.getAttribute('name'),
-        'quote-price': ResultAmount({
-          option: this.state.option,
-          sqm: this.state.width * this.state.length,
-          extras: {
-            stairs: this.state.stairs,
-            handrail: this.state.handrail,
-            insulated: this.state.insulated,
-            attached: this.state.attached
-          }
-        }),
         ...this.state
       })
     })
