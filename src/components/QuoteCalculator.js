@@ -42,7 +42,7 @@ class QuoteCalculator extends React.Component {
     width: '',
     confirmEmail: '',
     subscribe: false,
-    quotePrice: 0,
+    quotePrice: '',
     contact: false,
     disabled: false,
     currentStep: 0,
@@ -114,7 +114,17 @@ class QuoteCalculator extends React.Component {
     this.setState(
       {
         [name]: value,
-        skipOptions: skippy
+        skipOptions: skippy,
+        quotePrice: ResultAmount({
+          option: this.state.option,
+          sqm: this.state.width * this.state.length,
+          extras: {
+            stairs: this.state.stairs,
+            handrail: this.state.handrail,
+            insulated: this.state.insulated,
+            attached: this.state.attached
+          }
+        })
       },
       () => {
         if (name === 'option') this.handelNavigate()
@@ -124,18 +134,7 @@ class QuoteCalculator extends React.Component {
 
   handleSubmit = e => {
     e.preventDefault()
-    this.setState({
-      quotePrice: ResultAmount({
-        option: this.state.option,
-        sqm: this.state.width * this.state.length,
-        extras: {
-          stairs: this.state.stairs,
-          handrail: this.state.handrail,
-          insulated: this.state.insulated,
-          attached: this.state.attached
-        }
-      })
-    })
+    this.setState()
     const form = e.target
     fetch('/', {
       method: 'POST',
