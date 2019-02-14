@@ -131,7 +131,7 @@ class QuoteCalculator extends React.Component {
       body: encode({
         subject: 'quote',
         'form-name': form.getAttribute('name'),
-        quotePrice: ResultAmount({
+        'quote-price': ResultAmount({
           option: this.state.option,
           sqm: this.state.width * this.state.length,
           extras: {
@@ -660,6 +660,20 @@ class QuoteCalculator extends React.Component {
                 Please email me the calculation and add me to the mailing list.
               </label>
             </div>
+            <input
+              type="hidden"
+              name="quotePrice"
+              value={ResultAmount({
+                option: option,
+                sqm: width * length,
+                extras: {
+                  stairs: stairs,
+                  handrail: handrail,
+                  insulated: insulated,
+                  attached: attached
+                }
+              })}
+            />
 
             <div className="center-buttons">
               <input
