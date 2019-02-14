@@ -132,13 +132,13 @@ class QuoteCalculator extends React.Component {
         subject: 'quote',
         'form-name': form.getAttribute('name'),
         quotePrice: ResultAmount({
-          option: option,
-          sqm: width * length,
+          option: this.state.option,
+          sqm: this.state.width * this.state.length,
           extras: {
-            stairs,
-            handrail,
-            insulated,
-            attached
+            stairs: this.state.stairs,
+            handrail: this.state.handrail,
+            insulated: this.state.insulated,
+            attached: this.state.attached
           }
         }),
         ...this.state
