@@ -111,6 +111,7 @@ class QuoteCalculator extends React.Component {
     const type = e.target.type
     const name = e.target.name
     const value = type === 'checkbox' ? e.target.checked : e.target.value
+
     this.setState(
       {
         [name]: value,
@@ -674,6 +675,7 @@ class QuoteCalculator extends React.Component {
                 }
               })}
             />
+            {console.log(width * length)}
 
             <div className="center-buttons">
               <input

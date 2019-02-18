@@ -44,8 +44,6 @@ export default ({ option, sqm, extras }) => {
     }
   }
   if (option === 'upperLevelDeckPatio') {
-    min = sqm * 370
-    max = sqm * 400
     if (extras.stairs === 'stairs') {
       min = min + 3700
       max = max + 4700
@@ -70,10 +68,10 @@ export default ({ option, sqm, extras }) => {
         max = max + 75
       }
     }
+    min = sqm * 370
+    max = sqm * 400
   }
   if (option === 'lowerLevelDeckPatio') {
-    min = sqm * 300
-    max = sqm * 330
     if (extras.attached === 'attached') {
       min = 200
       max = 250
@@ -90,6 +88,8 @@ export default ({ option, sqm, extras }) => {
         max = max + 75
       }
     }
+    min = sqm * 300
+    max = sqm * 330
   }
 
   const totalMin = min
