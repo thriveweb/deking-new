@@ -11,9 +11,8 @@ categories:
 meta:
   canonicalLink: ''
   description: >-
-    DeKing Decks are experts at building patio roofs to suit your needs. Our
-    extensive patio roofing options can be customised using the Stratco Outback
-    range. Use our Patio Roofing Calculators for a Free Quote
+    DeKing Decks are experts at building patio roofs to suit your needs. Use our
+    Patio Roofing Calculators for a Free Quote.
   noindex: false
   title: 'Outdoor Patio Roofing Options: Types & Materials - Brisbane'
 ---
