@@ -92,8 +92,8 @@ meta:
   canonicalLink: ''
   description: >-
     DeKing Decks are Timber Pool Deck building specialists creating better
-    lifestyles for you. Pool Decking Brisbane, Logan, Ipswich, Sunshine Coast,
-    and Gold Coast.
+    lifestyles for you. Pool Decking Services from the Sunshine Coast to the
+    Gold Coast.
   noindex: false
   title: 'Pool Decking Brisbane, Timber Pool Deck Builders: DeKing '
 ---
