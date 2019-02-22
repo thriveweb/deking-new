@@ -5,7 +5,7 @@ status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/price-back.jpg
 excerpt: >-
-  DeKing are licenced Carpenters proudly also building Gazebos, Outdoor Rooms, 
+  DeKing are licensed Carpenters proudly also building Gazebos, Outdoor Rooms, 
   Pool Houses, & small Extensions.
 welcomeTitle: Gazebos
 welcomeDescription: >-
