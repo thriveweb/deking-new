@@ -89,9 +89,9 @@ partnerLogos:
 meta:
   canonicalLink: ''
   description: >-
-    DeKing Decks Brisbane are Quality Deck Builders with over 15 years servicing
-    the Gold Coast to Sunshine Coast with affordable beautiful Timber Decks &
-    Patio Roofing.
+    DeKing Decks are Quality Deck Builders with over 15 years servicing the Gold
+    Coast to Sunshine Coast with affordable beautiful Timber Decking & Patio
+    Roofing.
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decking'
 ---
