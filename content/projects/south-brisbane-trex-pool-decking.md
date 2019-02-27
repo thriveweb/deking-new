@@ -23,5 +23,10 @@ feedback:
 categories:
   - category: 'Commercial '
   - category: Eco Decking
+meta:
+  description: >-
+    The existing deck at the Silhouette Apartments was starting to deteriorate
+    and needed upgrading to make it safe for the tenants of the complex. 
+  title: South Brisbane Trex Pool Decking | Deking Decks
 ---
 
