@@ -14,10 +14,9 @@ meta:
   canonicalLink: ''
   description: >-
     Just like you insulate the inside of your home, to keep you cool in summer
-    and warm in winter, you can also install insulation for patio roofing. Use
-    our Patio Roofing Calculators for a Free Quote
+    and warm in winter, you can also install insulation for patio roofing.
   noindex: false
-  title: 'Deck Insulation, Patio Roofing Insulation - DeKing Brisbane'
+  title: 'Deck Insulation, Patio Roofing Insulation | Deking Decks'
 ---
 Have you ever walked onto a deck in Summer time, to enjoy the summer breeze and shade, only to find the deck is hotter than any other place in the house? This deck does not have deck insulation.
 
