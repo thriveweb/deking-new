@@ -18,6 +18,9 @@ gallery:
   - image: /images/uploads/patios-verandah-carport-outback-flat-11.jpg
   - image: /images/uploads/patios-verandah-carport-outback-flat-07.jpg
   - image: /images/uploads/img_1668.jpg
+content: >-
+  A collection of non insulated flat patio roofs that best suits Brisbane, Gold
+  Coast, & Sunshine Coast.
 accordion:
   - description: >-
       The Stratco Outback Patio roof is a the leader in patio roofs, with its
@@ -27,5 +30,10 @@ accordion:
     title: Stratco Outback non-insulated patio roofs
 categories:
   - category: Patio Roofs
+meta:
+  description: >-
+    A collection of non-insulated flat patio roofs that best suits Brisbane,
+    Gold Coast, & Sunshine Coast.
+  title: Stratco Outback Patio Roofs for Brisbane | Deking Decks
 ---
 
