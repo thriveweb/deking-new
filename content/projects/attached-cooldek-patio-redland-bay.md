@@ -18,5 +18,7 @@ content: >-
   gave it a real room feel
 categories:
   - category: Patio Roofs
+meta:
+  title: 'Attached Cooldek Patio, Redland Bay'
 ---
 
