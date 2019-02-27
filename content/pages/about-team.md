@@ -151,5 +151,6 @@ meta:
     needs. Try out our quote calculator or price guide and make an appointment
     with us.
   noindex: false
-  title: 'Meet the Deking Deck Team '
+  title: Meet the Team | Deking Decks
 ---
+
