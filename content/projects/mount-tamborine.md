@@ -6,7 +6,7 @@ date: '2018-10-14'
 featuredImage: /images/uploads/pool_decking.jpg
 excerpt: >-
   Upper and lower pool deck and flyover insulated patio roof with glass fencing
-  and external staps
+  and external steps
 gallery:
   - image: /images/uploads/pool_decking.jpg
   - image: /images/uploads/alfresco_decking.jpg
@@ -14,6 +14,9 @@ gallery:
   - image: /images/uploads/pool_deck.jpg
   - image: /images/uploads/under_deck_screening_steps.jpg
   - image: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
+content: >-
+  Upper and lower pool deck and flyover insulated patio roof with glass fencing
+  and external steps
 accordion:
   - description: >-
       Hardwood decking was used for its hardwearing abilities along with an
@@ -28,10 +31,13 @@ feedback:
 
       Regards,
     from: Pat.
-    image: /images/uploads/iconmaleface.png
-    title: Very happy client
 categories:
   - category: Pool Decking
   - category: Patio Roofs
+meta:
+  description: >-
+    Upper and lower pool deck and flyover insulated patio roof with glass
+    fencing and external steps
+  title: Gold Coast Pool Decking & Flyover Patio Roof | Deking Decks
 ---
 
