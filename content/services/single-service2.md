@@ -9,7 +9,7 @@ excerpt: >-
 
   Patio roofs create an additional space for playing, eating, reading, storing,
   entertaining, footy watching..
-welcomeTitle: DeKing are also Patio Builders & Patio Roofing Specialists.
+welcomeTitle: Patio Builders & Patio Roofing Specialists.
 welcomeDescription: >-
   Patios allow you to enjoy outdoor activities while being sheltered from the
   harsh sun and Queensland's storms. Yoga, table tennis, pool table, treadmill
