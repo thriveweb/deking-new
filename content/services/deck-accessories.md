@@ -5,7 +5,7 @@ status: Published
 date: '2018-12-16'
 featuredImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
 excerpt: We are the Number 1 stop shop when it comes to a complete outdoor makeover
-welcomeTitle: 'Deck add ons '
+welcomeTitle: 'Deck add-ons '
 welcomeDescription: "We don't just stop at building you a deck or patio roof, there is a full catalogue of add ons and accessories that are also available.  •\tBench seating •\tPrivacy screens •\tGlass pool fencing and balustrades •\tAluminium fencing •\tLighting (Low voltage LEDs) •\tBlinds •\tBuilt in planter boxes"
 welcomeImage: /images/uploads/yhwd2jfuqzg0yc2hb8sdog.jpg
 accordion:
