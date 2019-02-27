@@ -14,7 +14,7 @@ meta:
   description: >-
     How to Build a Deck - DIY Decking Kits from DeKing provide you with all you
     need to construct a deck providing an outside area for your family to enjoy.
-  title: 'How to Build a Deck.: Step by Step Instructions'
+  title: 'How to Build a Deck: Step by Step Instructions | Deking Decks'
 ---
 Building your own deck can be a challenging and stressful process, but if done the right way, it can be a great space for your family to enjoy for many years. Well-built decks can also add value to your property. [DIY Decking Kits from DeKing](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/) can give you a great start towards completing the DIY deck of your dreams. These step-by-step instructions can help you along the way!
 
