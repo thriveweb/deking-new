@@ -14,7 +14,7 @@ meta:
   description: >-
     How to Landscape Around a Deck. Landscaping around a deck provides the
     finishing touches needed to create a wonderful welcoming outdoor space.
-  title: Deck Landscaping Ideas and Tips Australia
+  title: Deck Landscaping Ideas and Tips Australia | DeKing Decks
 ---
 When it comes to landscaping around your deck, your own ideas and creativity will determine the majority of the job. Good landscaping can make your deck feel like a natural environment for outdoor relaxation. Poorly designed landscaping can compromise the size of your space, make maintenance a constant headache and destroy the quality of your outdoor space. While a professional landscaping designer can help you in this area, understanding the dos and don’ts of deck landscaping will give you a great head start!
 
