@@ -24,7 +24,7 @@ There are however some common timber decking mistakes to avoid. We at Deking wou
 
 While some of these timber decking mistakes are a result of lack of knowledge some occur by non reputable builders cutting corners. So whether you are planning to build your own timber deck or have one built for you we recommend you take the time to read about decking mistakes to avoid.
 
-## Decking mistakes to avoid:
+**Decking mistakes to avoid:**
 
 **Getting the most out of your deck**
 
