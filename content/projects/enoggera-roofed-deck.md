@@ -4,9 +4,7 @@ title: Enoggera Roofed Deck
 status: Published
 date: '2019-01-14'
 featuredImage: /images/uploads/img_6933.jpg
-excerpt: >-
-  Traditional style Pergola Roof with Spotted Gum Decking and Louvred Privacy
-  Screens.
+excerpt: Traditional style Pergola Roof
 gallery:
   - image: /images/uploads/img_6933.jpg
   - image: /images/uploads/img_6937.jpg
@@ -14,6 +12,9 @@ gallery:
   - image: /images/uploads/img_6927.jpg
   - image: /images/uploads/img_6925.jpg
   - image: /images/uploads/img_6946.jpg
+content: >-
+  Traditional style Pergola Roof with Spotted Gum Decking and Louvred Privacy
+  Screens.
 accordion:
   - description: Decking used was Spotted Gum for that authentic Australian look and feel
     title: Spotted Gum Deck
@@ -31,10 +32,13 @@ accordion:
 feedback:
   - description: 'Thanks for a great job, I''ll get you back for future works.'
     from: Ken
-    image: /images/uploads/iconmaleface.png
-    title: Very Happy Client
 categories:
   - category: Timber Decks
   - category: Pergolas
+meta:
+  description: >-
+    Traditional style Pergola Roof with Spotted Gum Decking and Louvred Privacy
+    Screens.
+  title: Enoggera Roofed Deck
 ---
 
