@@ -5,16 +5,16 @@ status: Published
 date: '2017-02-17'
 featuredImage: /images/uploads/how-to-get-a-deck-permit-in-qld-australia.jpeg
 shortDescription: >-
-  At DeKing Decks, we offer a range of in-ground pool decking options to meet
-  your needs. By choosing the right kind of pool decking, you’ll have a durable
-  and long-lasting deck—and that means value for money.
+  By choosing the right kind of pool decking, you’ll have a durable and
+  long-lasting deck—and that means value for money. At DeKing Decks, we offer a
+  range of in-ground pool decking options to meet your needs. 
 categories:
   - category: Pool Decking
 meta:
   description: >-
-    Inground Pool Decking Options. The right kind of in-ground pool decking
-    makes a big difference in overall deck performance, durability and longevity
-  title: Inground Pool Decking Options & Ideas in Australia
+    By choosing the right kind of pool decking, you’ll have a durable and
+    long-lasting deck and that means value for money.
+  title: Inground Pool Decking Options & Ideas in Australia | Deking Decks
 ---
 At DeKing Decks, we offer a range of [in-ground pool decking options](https://www.dekingdecks.com.au/services/pool-decking/) to meet your needs. By choosing the right kind of pool decking, you’ll have a durable and long-lasting deck—and that means value for money.
 
