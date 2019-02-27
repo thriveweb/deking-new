@@ -5,7 +5,7 @@ status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/img_9614.jpg
 excerpt: A deck that takes nothing from mother nature
-welcomeTitle: ECO Decking Types And Services
+welcomeTitle: EKODEKING Types And Services
 welcomeDescription: >-
   EKODEKING offers an array of excellent composite eco decking materials to meet
   all of our customers’ needs. Although these materials present the same look
@@ -103,3 +103,4 @@ meta:
     outdoors from your deck without harming the environment.
   title: 'ECO Decking Brisbane, Gold Coast, Sunshine Coast'
 ---
+
