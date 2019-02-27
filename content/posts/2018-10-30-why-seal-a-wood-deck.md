@@ -13,9 +13,9 @@ meta:
     deck are two fold, especially living in South East Queensland
   title: Why Seal a Wood Deck in Brisbane?
 ---
-Many people ask why seal a wood deck. Or why do I need to seal a wood deck.
+Why Seal a Wood Deck in Brisbane? **The advantages of coating your new wood deck are two fold, especially living in South East Queensland**
 
-**The advantages of coating your new wood deck are two fold, especially living in South East Queensland**
+Many people ask why seal a wood deck. Or why do I need to seal a wood deck.
 
 1. Longevity, by sealing your new hardwood decking boards will create a barrier to the elements including the sun and rain. Water or the suns harmful UV will deteriorate the timber which will shorten the life expectancy of your pride and joy.
 2. Appearance, The look and feel will be heightened with a good quality finish applied to the timbers, bringing out the rich grains and natural textures of the wood
