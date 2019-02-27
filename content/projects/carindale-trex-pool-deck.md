@@ -32,5 +32,8 @@ feedback:
 categories:
   - category: Pool Decking
   - category: Eco Decking
+meta:
+  description: Pool deck rebuild using Trex composite decking
+  title: Carindale Trex Pool Deck | Deking Decks
 ---
 
