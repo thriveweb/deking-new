@@ -17,7 +17,7 @@ meta:
     servicing South East Queensland for over 15 years and can build your dream
     deck.
   noindex: false
-  title: Why Every Summer Party Needs A Patio
+  title: Why Every Summer Party Needs A Patio | Deking Decks
 ---
 Backyard summer parties are iconic in Queensland. Whether it’s a pool party, cocktail party, or something more laid-back, like a dinner party, every summer party needs a patio.
 
