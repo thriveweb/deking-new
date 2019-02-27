@@ -13,7 +13,7 @@ meta:
     DeKing Decks design and build high-quality timber patios that are durable
     and affordable. With over 15 years' experience, we can build your dream
     timber patio.
-  title: 'Timber Patios - Designs and Ideas Brisbane, Gold Coast'
+  title: Timber Patios Designs and Ideas | Deking Decks
 ---
 Timber patios are a way of life in Queensland. You may remember the famous GANGgajang song, _Sounds Of Then_, that captured the essence of life on a patio so perfectly. As the song goes, _‘Out on the patio we sit / and the humidity we breathe / we’d watch the lightning crack over canefields / laugh and think, this is Australia’_. It’s practically in our blood—no wonder we love patios so much!
 
