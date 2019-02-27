@@ -18,5 +18,10 @@ content: >-
 feedback: []
 categories:
   - category: Timber Decks
+meta:
+  description: >-
+    A low level timber deck with privacy screening and a rock wall, inset with a
+    water feature
+  title: Timber Deck Carindale | Deking Decks
 ---
 
