@@ -15,7 +15,7 @@ meta:
   description: >-
     Balustrades and Handrails for Decking. Here are some of the basic types of
     balustrade-handrail system you might consider for your current or new deck
-  title: 'Balustrades and Handrails for Decking in Brisbane, QLD'
+  title: 'Balustrades and Handrails for Decking in Brisbane, QLD | Deking Decks'
 ---
 Timber decks won’t be complete without handrails and balustrades. These barriers assure that your family and guests are protected from accidental falls and slips. Setting them up in your decks or home interior will greatly reduce the chances for injuries to occur.
 
