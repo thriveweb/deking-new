@@ -4,15 +4,16 @@ title: Rochedale South Deck with Flyover Roof
 status: Published
 date: '2018-03-27'
 featuredImage: /images/uploads/16.jpg
-excerpt: >-
-  High level deck with insulated patio roof and stairs. Traditional style
-  balustrade
+excerpt: High-level deck with insulated patio roof and stairs.
 gallery:
   - image: /images/uploads/16.jpg
   - image: /images/uploads/17.jpg
   - image: /images/uploads/19.jpg
   - image: /images/uploads/21.jpg
   - image: /images/uploads/before.jpg
+content: >-
+  High level deck with insulated patio roof and stairs. Traditional style
+  balustrade
 accordion:
   - description: >-
       Treated timber frame with hardwood decking. Insulated flyover patio roof
@@ -26,15 +27,15 @@ feedback:
       We have been enjoying the deck, thanks for organising this David, its
       great
     from: Mark
-    image: /images/uploads/iconmaleface.png
-    title: Happy Client
 categories:
   - category: Timber Decks
   - category: Patio Roofs
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    High-level deck with insulated patio roof and stairs. Traditional style
+    balustrade
   noindex: false
-  title: ''
+  title: Rochedale South Deck with Flyover Roof | Deking Decks
 ---
 
