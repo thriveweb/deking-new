@@ -148,6 +148,6 @@ meta:
     DeKing is the Outdoor Decking specialists in South East Queensland. Use our
     Decking and Patio Roofing Calculators for a Free Quote
   noindex: false
-  title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine '
+  title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine | DeKing Decks'
 ---
 
