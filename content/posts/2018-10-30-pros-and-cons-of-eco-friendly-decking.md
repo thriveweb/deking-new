@@ -14,7 +14,7 @@ meta:
     Eco Friendly Decking - Pro and Cons: Eco decking is becoming increasing
     popular. There are many reasons for eco decking. Here are the pros and cons
     listed.
-  title: Eco Friendly Decking - Pro and Cons
+  title: Pros and Cons of Eco Friendly Decking | Deking Decks
 ---
 Eco decking is becoming increasing popular.  There are many reasons for this – the pros and cons of an eco deck are listed below.
 
