@@ -18,5 +18,8 @@ content: >-
   for the owners
 categories:
   - category: Patio Roofs
+meta:
+  description: 'Caravan cover to protect the van from summer storms and damaging UV '
+  title: Caravan Roof Rochedale South | Deking Decks
 ---
 
