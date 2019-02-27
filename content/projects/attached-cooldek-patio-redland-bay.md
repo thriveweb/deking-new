@@ -19,6 +19,9 @@ content: >-
 categories:
   - category: Patio Roofs
 meta:
-  title: 'Attached Cooldek Patio, Redland Bay'
+  description: >-
+    An attached insulated patio roof with Merbau posts, LED lights, & ceiling
+    fans
+  title: 'Attached Cooldek Patio, Redland Bay | Deking Decks'
 ---
 
