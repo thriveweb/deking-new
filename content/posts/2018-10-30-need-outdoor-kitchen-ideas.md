@@ -15,7 +15,7 @@ meta:
     DeKing Decks can build you a beautiful outdoor kitchen to your
     specifications. Read this article for outdoor kitchen ideas and
     inspiration. 
-  title: Outdoor Kitchen Ideas? Outdoor Kitchens Brisbane
+  title: Outdoor Kitchen Ideas? Outdoor Kitchens Brisbane | DeKing Decks
 ---
 ![Outdoor Kitchen Ideas? Outdoor Kitchens Brisbane](/images/uploads/need-outdoor-kitchen-ideas-1.jpg)
 
