@@ -14,10 +14,18 @@ gallery:
   - image: /images/uploads/show_home_claredon_deck.jpg
   - image: /images/uploads/show_home_claredon_arbor.jpg
   - image: /images/uploads/show_home_claredon_pergola.jpg
+content: >-
+  Award winning homes with distinctive decking, pergolas, privacy screens,
+  steps, and fencing
 accordion: []
 categories:
   - category: 'Commercial '
   - category: Timber Decks
   - category: Pergolas
+meta:
+  description: >-
+    Award winning homes with distinctive decking, pergolas, privacy screens,
+    steps, and fencing
+  title: Brisbane Show Home Decks & Pergolas | Deking Decks
 ---
 
