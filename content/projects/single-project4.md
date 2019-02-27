@@ -11,6 +11,7 @@ gallery:
   - image: /images/uploads/bracken-ridge-3-.jpg
   - image: /images/uploads/bracken-ridge-4.jpg
   - image: /images/uploads/bracken-ridge-before.jpg
+content: Low level deck with open rafter style pergola roof
 accordion:
   - description: >-
       Treated timber frame and hardwood decking boards. Pergola roof including
@@ -21,8 +22,6 @@ accordion:
 feedback:
   - description: 25 year warranty
     from: Deking Pty Ltd
-    image: /images/uploads/25-year-warranty-shutterstock.jpg
-    title: 25 Year Warranty
 categories:
   - category: Timber Decks
 meta:
