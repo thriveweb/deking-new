@@ -15,7 +15,7 @@ meta:
     Small outdoor decks can be a challenge. We would like to share five small
     deck ideas we have obtained in making the most of small outdoor decking
     areas.
-  title: Small Deck Ideas for Outdoor Living
+  title: Small Deck Ideas for Outdoor Living | Deking Decks
 ---
 Small outdoor decking areas can be a challenge and over the years we have faced this challenge many times.  We would like to share with you five small deck ideas we have obtained in making the most of small outdoor decking areas.
 
