@@ -6,7 +6,10 @@ featuredImage: /images/uploads/img_2526.jpg
 order: 7
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    View our Gazebos & Outdoor Room gallery for inspiration for your new
+    project. Use our Decking Calculators for a Free Quote
   noindex: false
-  title: ''
+  title: Gazebos & Outdoor Rooms | Deking Decks
 ---
+
