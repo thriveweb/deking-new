@@ -5,18 +5,17 @@ status: Featured / Published
 date: '2014-11-11'
 featuredImage: /images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg
 shortDescription: >-
-  There are so many ways that a patio cover can add value to a home, listed
-  below are some of the most important ones.
+  How does a patio cover add value to a home? Patio Covers are an affordable way
+  to add the 'wow' factor to you home, increase resale value and more.
 categories:
   - category: Patio Roofing
 meta:
   canonicalLink: ''
   description: >-
     How does a patio cover add value to a home? Patio Covers are an affordable
-    way to add the 'wow' factor to you home, increase resale value and more. Use
-    our Patio Roofing Calculators for a Free Quote
+    way to add the 'wow' factor to you home, increase resale value and more.
   noindex: false
-  title: How Does a Patio Cover Add Value to a Home?
+  title: How Does a Patio Cover Add Value to a Home? | Deking Decks
 ---
 There are so many ways that a [patio cover](https://www.dekingdecks.com.au/services/patio-roofs/) can add value to a home, listed below are some of the most important ones.
 
