@@ -14,7 +14,7 @@ meta:
   description: >-
     There are so many great reasons why you should install Low Voltage Deck
     lights to your new or existing deck or patio. Find out more here.
-  title: 'Low Voltage Deck Lighting Ideas: DeKing Decks Brisbane'
+  title: Low Voltage Deck Lighting Ideas | Deking Decks Brisbane
 ---
 There are so many great reasons why you should install [Low Voltage Deck lights](https://www.dekingdecks.com.au/services/deck-accessories/) to your new or existing deck or patio. Deck Lights can add a sense of design and interest to the overall space.
 
