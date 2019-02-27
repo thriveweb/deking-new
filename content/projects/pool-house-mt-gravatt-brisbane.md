@@ -13,11 +13,12 @@ gallery:
   - image: /images/uploads/dsc_0229.jpg
 content: Colorbond Roofed Pool House with timber deck
 accordion:
-  - description: Stainless steel wire rop balustrade to all exposed edges of the deck
-    title: >-
+  - description: >-
       Hardwood decking with a treated pine frame.The pergola is treated pine and
       stained to look like hardwood. Colorbond roofing including flashings and
-      gutter
+      gutter. Stainless steel wire rope balustrade to all exposed edges of the
+      deck
+    title: Hardwood decking with a treated pine frame.
 categories:
   - category: Gazebos & Outdoor Rooms
   - category: Pool Decking
