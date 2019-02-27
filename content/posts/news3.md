@@ -13,11 +13,11 @@ categories:
 meta:
   canonicalLink: ''
   description: >-
-    Find out about Deking Decks' insulated patio roof options. Using the Stratco
-    Outback range of patio roofing, DeKing services Brisbane, Logan, Ipswich,
-    Sunshine Coast, and the Gold Coast
+    An insulated patio roof will transform your patio from something great to
+    something really special. It becomes a comfortable space for entertaining
+    all year round.
   noindex: false
-  title: 'Insulated Patio Roofing Options: Types & Materials - Brisbane'
+  title: 'Insulated Patio Roofing Options: Types & Materials | Deking Decks'
 ---
 An insulated patio roof will transform your patio from something great to something really special. It becomes a comfortable space for entertaining or relaxing, all year round.
 
