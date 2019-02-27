@@ -25,5 +25,10 @@ accordion:
     title: Price guide
 categories:
   - category: Timber Decks
+meta:
+  description: >-
+    Timber deck with 2 sets of external stairs, stainless steel wire rope
+    handrail and a flyover metal patio roof
+  title: Bundamba Deck with a Flyover Outback Patio Roof | Deking Decks
 ---
 
