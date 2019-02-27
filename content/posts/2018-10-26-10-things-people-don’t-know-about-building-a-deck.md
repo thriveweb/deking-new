@@ -5,20 +5,19 @@ status: Published
 date: '2015-09-02'
 featuredImage: /images/uploads/9s6upf4itnaxawhrgcsn7w.jpg
 shortDescription: >-
-  DeKing Decks started out in 2003 as a 1800 number—don’t worry, not that kind
-  of 1800 number—and has now grown into a world-class decking business servicing
-  all of South East Queensland, including the Sunshine and Gold Coasts. But as
-  David Rider explains, there’s still quite a lot that people don’t know about
-  decks.
+  Building a Deck in QLD? - 10 things you probably don't know. For example, do
+  you need a permit? how big can the deck be? can I build over a swimming pool?
 categories:
   - category: Deck Builders
 meta:
   description: >-
-    Building a Deck in QLD? - 10 things you probably don't know. For example do
+    Building a Deck in QLD? - 10 things you probably don't know. For example, do
     you need a permit? how big can the deck be? can I build over a swimming
     pool?
   title: Building a Deck in QLD? - 10 things you probably don't know
 ---
+Building a Deck in QLD? - 10 things you probably don't know. For example, do you need a permit? how big can the deck be? can I build over a swimming pool?
+
 DeKing Decks started out in 2003 as a 1800 number—don’t worry, not _that_ kind of 1800 number—and has now grown into a world-class decking business servicing all of South East Queensland, including the Sunshine and Gold Coasts. But as David Rider explains, there’s still quite a lot that people don’t know about decks.
 
 After working for builders in the housing sector, David found a real need for a company that specialised in timber outdoor decking, and now builds decks, patios, carports, roofing, and gazebos.
