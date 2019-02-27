@@ -14,7 +14,7 @@ meta:
   description: >-
     Find out how much it will cost to build your dream Patio. David explains
     that the cost of patio construction depends on a number of factors.
-  title: What's the Cost of Patio Construction in Queensland?
+  title: What's the Cost of Patio Construction in Queensland? | Deking Decks
 ---
 It’s the dream of pretty much every Queenslander: to build a patio extension on their house so they can entertain family and friends, or simply to set up a deck chair, lay back, and sip a cool drink or read a good book. As well as the practical benefits, a new deck can give you that warm holiday glow without leaving your own home.
 
