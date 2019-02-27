@@ -14,7 +14,7 @@ meta:
   description: >-
     Deck Stairs - check out our 4 creative ideas for your deck stairs. DeKing
     Decks services Brisbane, Logan, Ipswich, Sunshine Coast, and the Gold Coast
-  title: 'Deck Stairs Brisbane: 4 Creative Ideas: DeKing'
+  title: 'Deck Stairs Brisbane: 4 Creative Ideas | Deking Decks'
 ---
 When it comes to designing your [dream deck](https://www.dekingdecks.com.au/) you must consider what style or size you would like your steps to be. Steps can make a huge difference to the look and feel of your deck and the overall appeal of the area.
 
