@@ -11,6 +11,7 @@ gallery:
   - image: /images/uploads/dsc_0218.jpg
   - image: /images/uploads/dsc_0237.jpg
   - image: /images/uploads/dsc_0229.jpg
+content: Colorbond Roofed Pool House with timber deck
 accordion:
   - description: Stainless steel wire rop balustrade to all exposed edges of the deck
     title: >-
@@ -20,5 +21,8 @@ accordion:
 categories:
   - category: Gazebos & Outdoor Rooms
   - category: Pool Decking
+meta:
+  description: Colorbond Roofed Pool House with timber deck
+  title: 'Pool House, Mt Gravatt, Brisbane | Deking Decks'
 ---
 
