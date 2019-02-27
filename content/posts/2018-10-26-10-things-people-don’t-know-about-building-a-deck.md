@@ -28,7 +28,7 @@ David loves meeting and talking with new clients, working out how to meet their 
 
 Although, creating a beautiful new living space the whole family will love isn’t quite as simple as some people think. ‘Especially for low-level decks, a lot of people think you can just put decking boards over the ground,’ David laughed.
 
-## **On that note, here are the top 10 things people don’t know or understand about building a deck:**
+**On that note, here are the top 10 things people don’t know or understand about building a deck:**
 
 * **The structure**
   * All decks need a supportive frame, they don’t just hang there in mid air. Typically DeKing’s decks are built using treated pine framing timbers that have a 50-year warranty and are harvested from renewable forests. The beauty of a timber structure is that carbon is stored for life unlike a steel frame.
