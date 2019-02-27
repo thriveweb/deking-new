@@ -13,8 +13,7 @@ meta:
   description: >-
     Pool Decking Options - The right deck can enhance your pool, garden and
     home; increase your outdoor living area plus the resale value of your home.
-    Use our Decking Calculators for a Free Quote
-  title: 'Pool Decking Options, Advantages and Tips'
+  title: 'Pool Decking Options, Advantages and Tips | Deking Decks'
 ---
 [Pool decking](https://www.dekingdecks.com.au/services/pool-decking/) if done right can substantially increase the aesthetic look of your pool increasing your enjoyment of sunny days spent around the pool.
 
