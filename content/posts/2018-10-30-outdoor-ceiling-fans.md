@@ -14,7 +14,7 @@ meta:
     Outdoor Ceiling Fans: Considering a luxury outdoor ceiling fan on a deck.
     Now recognised as a necessary & valuable addition to any outdoor living
     area.
-  title: Are Outdoor Ceiling Fans Effective in Australia
+  title: Are Outdoor Ceiling Fans Effective in Australia | DeKing Decks
 ---
 Once considered a luxury outdoor ceiling fans on a deck are now recognised as a necessary and valuable addition to any outdoor living area.
 
