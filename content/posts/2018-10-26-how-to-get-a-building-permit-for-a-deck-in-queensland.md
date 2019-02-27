@@ -26,7 +26,7 @@ At DeKing Decks, we can help you at every stage of the process, including gettin
 
 ![How to Get a Building Permit for a Deck in Queensland?](/images/uploads/red-meranti.jpg)
 
-## How do I get a building permit for a deck?
+**How do I get a building permit for a deck?**
 
 Local councils no longer approve plans and issue building permits to build decks. Instead, private certifiers now fulfil this role.
 
