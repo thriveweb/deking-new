@@ -11,6 +11,7 @@ gallery:
   - image: /images/uploads/fullsizeoutput_1f17.jpg
   - image: /images/uploads/fullsizeoutput_1d14.jpg
   - image: /images/uploads/fullsizeoutput_1f18.jpg
+content: Deck and patio roof combination with external stairs and privacy screen.
 accordion:
   - description: >-
       Hardwood deck, external stairs with mid landing, stainless steel wire rope
@@ -27,10 +28,11 @@ feedback:
 
 
       Kent W.
-    image: /images/uploads/iconmaleface.png
-    title: Very Happy Client.
 categories:
   - category: Timber Decks
   - category: Patio Roofs
+meta:
+  description: Deck and patio roof combination with external stairs and privacy screen.
+  title: Sunshine Coast Deck and Patio Roof | Deking Decks
 ---
 
