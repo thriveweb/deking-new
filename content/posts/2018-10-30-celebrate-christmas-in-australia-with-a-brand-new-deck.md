@@ -14,8 +14,7 @@ categories:
 meta:
   description: >-
     DeKing Decks can help you celebrate Christmas in Australia with a brand new
-    deck. We've been servicing South East Queensland since 2003 with timber
-    decks. Use our Decking Calculators for a Free Quote
+    deck. Use our Decking Calculators for a Free Quote
   title: How to celebrate Christmas in Australia with a brand new deck
 ---
 Is there any better way to celebrate Christmas in Australia than with a brand new deck? Especially in South East Queensland where summer temperatures and humidity can soar—sending family and friends outside in search of a cool breeze or a pool to dip their feet in.
