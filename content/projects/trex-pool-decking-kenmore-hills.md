@@ -15,5 +15,10 @@ content: >-
 categories:
   - category: Pool Decking
   - category: Eco Decking
+meta:
+  description: >-
+    Trex composite decking was chosen so our clients could keep their weekends
+    free to enjoy the pool area.
+  title: Trex Pool Decking Kenmore Hills | Deking Decks
 ---
 
