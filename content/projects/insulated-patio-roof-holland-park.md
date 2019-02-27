@@ -13,5 +13,8 @@ content: >-
   look and feel
 categories:
   - category: Patio Roofs
+meta:
+  description: New insulated patio roof with large merbau posts
+  title: Insulated Patio Roof Holland Park | Deking Decks
 ---
 
