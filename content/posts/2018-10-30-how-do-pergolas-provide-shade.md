@@ -21,7 +21,7 @@ Timber Pergolas provide partial shade and add a lot of style to your backyard. A
 
 From a practical point of view a Timber Pergola located on the western side of your home is the most effective location to assist in cooling your home from the hot summer sun in the afternoon.
 
-## How do Pergolas Provide Shade
+**How do Pergolas Provide Shade**
 
 ![How do Pergolas Provide Shade? Living or Lattice Panels](/images/uploads/deking-gazebo.jpg)
 
