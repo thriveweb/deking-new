@@ -21,7 +21,7 @@ welcomeDescription: >-
   exceptional durability and performance
 welcomeImage: /images/uploads/alfresco3-1024x897.jpg
 accordion: []
-servicePriceTitle: Gazebos
+servicePriceTitle: Outdoor Rooms
 QuoteTitle: Pine framing - Hardwood framing
 servicePriceDescription:
   - materials: Hardwood posts and colorbond roofing
