@@ -4,15 +4,16 @@ title: Manly West Deck & Cooldek Patio
 status: Featured
 date: '2018-03-27'
 featuredImage: /images/uploads/deck-1-2.jpg
-excerpt: >-
-  Brisbane's landscape is perfectly suited to a combination of a deck and patio
-  roof with external stairs for access. 
+excerpt: Deck & Cooldek Patio
 gallery:
   - image: /images/uploads/deck-1-2.jpg
   - image: /images/uploads/deck-5-2.jpg
   - image: /images/uploads/deck-4-2.jpg
   - image: /images/uploads/deck-2-2.jpg
   - image: /images/uploads/stairway-manly-west-3.jpg
+content: >-
+  Brisbane's landscape is perfectly suited to a combination of a deck and patio
+  roof with external stairs for access.
 accordion:
   - description: >-
       This project consisted of a Treated frame from renewable forests and
@@ -27,15 +28,15 @@ feedback:
     from: >-
       Thanks so much for getting your guys to attend to our project, we really
       like what they did. Looks good!
-    image: /images/uploads/stairway-manly-west-3.jpg
-    title: Very happy client
 categories:
   - category: Timber Decks
   - category: Gazebos & Outdoor Rooms
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Brisbane's landscape is perfectly suited to a combination of a deck and
+    patio roof with external stairs for access.
   noindex: false
-  title: ''
+  title: Manly West Deck & Cooldek Patio | Deking Decks
 ---
 
