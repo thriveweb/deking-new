@@ -19,7 +19,7 @@ meta:
 ---
 When a customer is looking to add a really interesting feature to their home there are a number of [deck patio combination](https://www.dekingdecks.com.au/services/patio-roofs/) ideas that are practical, as well as interesting, options to add additional living space to the property.
 
-## Deck Patio Combination Ideas - Stacked or Flowing
+## Stacked or Flowing
 
 There are two different deck patio combinations available to home owners. The first is where the deck is built over the top of the patio – this is most prevalent in homes, such as Queenslanders, where downstairs space is utilised for storage or a secondary entertainment area – and the deck is generally the primary entertaining area – leading on from the kitchen. This is a great way to utilise a smaller area of land, as multiple living areas are stacked on one another to create a high area of usable space.
 
