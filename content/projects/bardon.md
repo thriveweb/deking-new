@@ -14,6 +14,7 @@ gallery:
   - image: /images/uploads/sojc0pussh6ixhtmikn-ra.jpg
   - image: /images/uploads/sa0xvkp5s5a-hxitpq1k4q.jpg
   - image: /images/uploads/8xxojs-oqfojkartuimtkg.jpg
+content: .
 accordion:
   - description: >-
       Merbau hardwood decking. Seat box with lids for storing kids toys. Low
@@ -24,9 +25,12 @@ accordion:
 feedback:
   - description: 'Thank you kindly for our new deck, the lights set it off'
     from: Rebecca
-    image: /images/uploads/iconfemaleface.png
-    title: Very Happy Client
 categories:
   - category: Timber Decks
+meta:
+  description: >-
+    Merbau hardwood decking. Seat box with lids for storing kids toys. Low
+    voltage LED lighting for ambience 
+  title: Merbau hardwood Timber Deck Brisbane | Deking Decks
 ---
 
