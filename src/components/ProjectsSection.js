@@ -45,14 +45,6 @@ class ProjectsSection extends React.Component {
     return (
       <div className="ProjectsSection">
         <div className="container">
-          {related ? (
-            <div className="flex relatedProjects">
-              <h2 className="relatedProjects--Title">{title}</h2>
-            </div>
-          ) : (
-            <h2 className="ProjectsSection--Title">{title}</h2>
-          )}
-
           {visibleProjects &&
             visibleProjects.length > 0 && (
               <div className="ProjectsSection--Grid">
