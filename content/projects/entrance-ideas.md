@@ -14,6 +14,7 @@ gallery:
   - image: /images/uploads/adam.jpg
   - image: /images/uploads/fullsizeoutput_1f1e.jpg
   - image: /images/uploads/fullsizeoutput_200b.jpg
+content: Need inspiration for the entrance of your home?
 accordion:
   - description: >-
       A simple deck can transform the entrance to your home and vastly improve
@@ -21,5 +22,8 @@ accordion:
     title: Entrance deck ideas
 categories:
   - category: Timber Decks
+meta:
+  description: Need inspiration for the entrance of your home?
+  title: Decking Entrance ideas | Deking Decks
 ---
 
