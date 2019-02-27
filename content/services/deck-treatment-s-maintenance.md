@@ -71,6 +71,6 @@ meta:
   description: >-
     Deck Oil or Acrylic for Treatment and Maintenance. Here what DeKing Decks
     have to say about the best options for Australian Decks
-  title: 'Deck Treatment and Maintenance: Deck Oil or Acrylic '
+  title: 'Deck Treatment and Maintenance: Deck Oil or Acrylic | DeKing Decks'
 ---
 
