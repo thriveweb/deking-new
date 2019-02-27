@@ -6,7 +6,10 @@ featuredImage: /images/uploads/gable-clearspan-04.jpg
 order: 2
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    View our Patio Roof gallery for inspiration for your new project. Use our
+    Decking Calculators for a Free Quote
   noindex: false
-  title: ''
+  title: Patio Roof Project Category | Deking Decks
 ---
+
