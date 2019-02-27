@@ -18,5 +18,10 @@ content: >-
   the warmer seasons
 categories:
   - category: Patio Roofs
+meta:
+  description: >-
+    An insulated patio roof using Stratco Cooldek roofing panels. The roof was
+    raised above the house roof using extenda brackets.
+  title: Flyover Patio Roof Redland Bay | Deking Decks
 ---
 
