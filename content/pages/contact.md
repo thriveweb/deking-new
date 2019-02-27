@@ -37,6 +37,6 @@ meta:
     Contact Deking Decks: Deck builder of timber decks, outdoor deck design,
     pool deck design, patio roofing and more 1800 335 464
   noindex: false
-  title: Contact Deking Decks
+  title: Contact Us | Deking Decks
 ---
 
