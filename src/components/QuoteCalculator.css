@@ -440,8 +440,8 @@
 .QuoteCalculator--Option-image input.poolDeck {
   background: url(/images/PoolDeck.jpg) top center no-repeat;
 }
-.roofFlyoverAttached,
-.QuoteCalculator--Option-image input.roofFlyoverAttached {
+.patioRoof,
+.QuoteCalculator--Option-image input.patioRoof {
   background: url(/images/AttachedRoof.jpg) top center no-repeat;
 }
 .upperLevelDeckPatio,
