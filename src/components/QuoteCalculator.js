@@ -255,18 +255,18 @@ class QuoteCalculator extends React.Component {
               </label>
               <label
                 className={`QuoteCalculator--Label QuoteCalculator--Option-image ${
-                  option === 'roofFlyoverAttached' ? 'selected' : ''
+                  option === 'patioRoof' ? 'selected' : ''
                 }`}
               >
                 <input
                   type="radio"
-                  checked={option === 'roofFlyoverAttached'}
+                  checked={option === 'patioRoof'}
                   onChange={this.handleChange}
                   name="option"
-                  className={`roofFlyoverAttached ${
-                    option === 'roofFlyoverAttached' ? 'checked' : ''
+                  className={`patioRoof ${
+                    option === 'patioRoof' ? 'checked' : ''
                   }`}
-                  value="roofFlyoverAttached"
+                  value="patioRoof"
                   required
                 />
                 Patio roof flyover or attached
@@ -437,7 +437,7 @@ class QuoteCalculator extends React.Component {
                     </div>
                   </Fragment>
                 ),
-                roofFlyoverAttached: (
+                patioRoof: (
                   <Fragment>
                     <OptionGallery selectedOptions={[insulated, attached]}>
                       <OptionSlide
@@ -661,6 +661,7 @@ class QuoteCalculator extends React.Component {
                 Please email me the calculation and add me to the mailing list.
               </label>
             </div>
+
             <input
               type="hidden"
               name="quotePrice"
@@ -675,8 +676,6 @@ class QuoteCalculator extends React.Component {
                 }
               })}
             />
-            {console.log(width * length)}
-
             <div className="center-buttons">
               <input
                 type="button"
@@ -749,6 +748,15 @@ class QuoteCalculator extends React.Component {
                 <p>
                   <strong>Deck type: </strong>
                   {_startCase(option)}
+                  {insulated &&
+                    attached && (
+                      <span>
+                        {'Roof: '}
+                        {_startCase(attached)}
+                        {' - '}
+                        {_startCase(insulated)}
+                      </span>
+                    )}
                 </p>
               )}
 

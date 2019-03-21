@@ -5,6 +5,7 @@ import './ResultAmount.css'
 export default ({ option, sqm, extras }) => {
   let min = 0
   let max = 0
+  let bats = 0
   if (option === 'groundLevelDeck') {
     min = sqm * 300
     max = sqm * 330
@@ -30,16 +31,18 @@ export default ({ option, sqm, extras }) => {
       min = 200
       max = 250
       if (extras.insulated === 'insulated') {
-        min = min + 75
-        max = max + 75
+        bats = 75 * sqm
+        min = min + bats
+        max = max + bats
       }
     }
     if (extras.attached === 'flyover') {
       min = 225
       max = 275
       if (extras.insulated === 'insulated') {
-        min = min + 75
-        max = max + 75
+        bats = 75 * sqm
+        min = min + bats
+        max = max + bats
       }
     }
     min = sqm * 370 + min
@@ -59,8 +62,9 @@ export default ({ option, sqm, extras }) => {
       max = max + 250
 
       if (extras.insulated === 'insulated') {
-        min = min + 75
-        max = max + 75
+        bats = 75 * sqm
+        min = min + bats
+        max = max + bats
       }
     }
     if (extras.attached === 'flyover') {
@@ -68,8 +72,9 @@ export default ({ option, sqm, extras }) => {
       max = max + 275
 
       if (extras.insulated === 'insulated') {
-        min = min + 75
-        max = max + 75
+        bats = 75 * sqm
+        min = min + bats
+        max = max + bats
       }
     }
     min = sqm * 370 + min
@@ -80,16 +85,18 @@ export default ({ option, sqm, extras }) => {
       min = 200
       max = 250
       if (extras.insulated === 'insulated') {
-        min = min + 75
-        max = max + 75
+        bats = 75 * sqm
+        min = min + bats
+        max = max + bats
       }
     }
     if (extras.attached === 'flyover') {
       min = 225
       max = 275
       if (extras.insulated === 'insulated') {
-        min = min + 75
-        max = max + 75
+        bats = 75 * sqm
+        min = min + bats
+        max = max + bats
       }
     }
     min = sqm * 300 + min
