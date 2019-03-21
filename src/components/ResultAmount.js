@@ -26,7 +26,7 @@ export default ({ option, sqm, extras }) => {
     min = sqm * 330
     max = sqm * 370
   }
-  if (option === 'roofFlyoverAttached') {
+  if (option === 'patioRoof') {
     if (extras.attached === 'attached') {
       min = 200
       max = 250

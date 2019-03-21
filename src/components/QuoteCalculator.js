@@ -751,9 +751,10 @@ class QuoteCalculator extends React.Component {
                   {insulated &&
                     attached && (
                       <span>
+                        <br />
                         {'Roof: '}
                         {_startCase(attached)}
-                        {' - '}
+                        {' & '}
                         {_startCase(insulated)}
                       </span>
                     )}
