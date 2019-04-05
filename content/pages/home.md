@@ -6,8 +6,8 @@ videoPoster: /images/uploads/homebannerrefresh.jpg
 title: Building Your Better lifestyle
 featuredImage: /images/uploads/11.jpg
 featureButton:
-  label: Our services
-  link: services
+  label: Get Started
+  link: contact us
 welcomeTitle: ' We can simply make it happen.'
 welcomeButton:
   label: About Us
