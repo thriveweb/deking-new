@@ -105,10 +105,10 @@ processes:
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide. (link to document )
     title: Enjoy
-bannerTitle: Brisbane Home Show offer
+bannerTitle: Easter Patio special offer
 bannerDescription: |-
   $500 cashback on all Stratco Patio roofs. (Min size 24m2)
-  See us at the Home Show for other deals
+  Ask our team for the T's and C's
 bannerImage: >-
   /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
