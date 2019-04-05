@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 externalVideoURL: ''
 videoPoster: /images/uploads/homebannerrefresh.jpg
-title: Building Your Better lifestyle
+title: Let's start a new project together
 featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get Started
