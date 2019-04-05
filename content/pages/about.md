@@ -9,10 +9,13 @@ welcomeDescription: >-
   The Deking Decks company was established in 2003 by director David Rider.
   Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has grown
   from strength to strength and prides itself on building strong and ongoing
-  client relationships. 15 years down the track, bursting with experience and a
+  client relationships. 16 years down the track, bursting with experience and a
   new larger factory and office at Ormeau, our team includes 3 passionate design
   consultants, licensed trade professionals, our apprentice and Shelley our
   awesome, “only too happy to help“, client service co-ordinator.
+
+  With 960 completed projects to our name, we are also looking forward to
+  completing your new addition and adding you to our family!
 welcomeImage: /images/uploads/fullsizeoutput_1ed5.jpg
 welcomeButton:
   label: Meet the team
@@ -34,10 +37,8 @@ whatWeDo:
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
     title: 'Deck and Patio add on''s '
-bannerTitle: Brisbane Home Show Special
-bannerDescription: |-
-  $500 cashback on all Stratco Patio roofs. (Min size 24m2)
-  See us at the Home Show for other deals
+bannerTitle: Easter Patio Special
+bannerDescription: $500 cashback on all Stratco Patio roofs. (Min size 24m2)
 bannerImage: >-
   /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
