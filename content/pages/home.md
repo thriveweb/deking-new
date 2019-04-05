@@ -3,10 +3,10 @@ template: HomePage
 slug: ''
 externalVideoURL: ''
 videoPoster: /images/uploads/homebannerrefresh.jpg
-title: Let's start a new project together
+title: Let's build your new project together
 featuredImage: /images/uploads/11.jpg
 featureButton:
-  label: Get Started
+  label: Get started
   link: contact
 welcomeTitle: ' We can simply make it happen.'
 welcomeButton:
