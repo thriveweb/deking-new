@@ -87,10 +87,10 @@ servicePods:
       functional, and provides real value to your property.
     podImage: /images/uploads/21.jpg
     podsTitle: What style of Deck do you need?
-bannerTitle: Brisbane Home Show offer
+bannerTitle: Easter Patio Special Offer
 bannerDescription: |-
   $500 cashback on all Stratco Patio roofs. (Min size 24m2)
-  See us at the Home Show for other deals
+  Ask our team for all the details
 bannerImage: >-
   /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
