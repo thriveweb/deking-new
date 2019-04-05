@@ -7,7 +7,7 @@ title: Let's start a new project together
 featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get Started
-  link: contact us
+  link: contact page
 welcomeTitle: ' We can simply make it happen.'
 welcomeButton:
   label: About Us
