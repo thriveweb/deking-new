@@ -131,10 +131,10 @@ servicePods:
     podsTitle: Insulated Roofing
 videoTitle: Stratco advertising that we built!
 videoURL: ''
-bannerTitle: Brisbane Home Show offer
+bannerTitle: Easter Patio Roof Offer
 bannerDescription: |-
   $500 cashback on all Stratco Patio roofs. (Min size 24m2)
-  See us at the Home Show for other deals
+  Give our team a call for the details
 bannerImage: >-
   /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
