@@ -38,7 +38,7 @@ partnerLogos:
   - link: ''
   - logo: /images/logo.svg
 reviews:
-  - stars: 0
+  - stars: '0'
   - title: ''
   - details: ''
   - by: ''
