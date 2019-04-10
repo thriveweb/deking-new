@@ -400,7 +400,6 @@ export const pageQuery = graphql`
           link
         }
         reviews {
-          stars
           title
           details
           by
