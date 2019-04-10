@@ -127,10 +127,10 @@ reviews:
     details: Great value and great service
     stars: '5'
     title: Great value and great service
-  - by: Kayster
+  - by: Kaylee Bouradas
     details: |-
       Cannot praise these guys enough. 
-      So great to deal with.
+      So great to deal with. Thanks for my amazing deck!!
     stars: '5'
     title: Thanks for my amazing deck!!
   - by: Steve Irwin
@@ -150,6 +150,23 @@ reviews:
       I highly recommend them.
     stars: '5'
     title: Excellent job
+  - by: Nathan McDonald
+    details: >-
+      The construction team were fantastic when it came to filling me in with
+      what was happening and the deck looks amazing.
+    stars: '5'
+    title: Deck looks amazing
+  - by: Kent-John White
+    details: >-
+      Deking Decks, great job on our deck at Maleny. Friendly, professional, and
+      helpful staff, everyone from Shelley in administration and accounts, Roly
+      with site engineering, Greg with design, and David in project management.
+
+      Quality and timely finish.
+
+      Thank you very much.
+    stars: '5'
+    title: Quality and timely finish.
 meta:
   canonicalLink: ''
   description: >-
