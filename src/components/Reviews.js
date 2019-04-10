@@ -9,7 +9,7 @@ export default ({ reviews = [] }) => {
   const params = {
     slidesPerView: 'auto',
     spaceBetween: 0,
-    autoHeight: true,
+    autoHeight: false,
     grabCursor: true,
     centeredSlides: true,
     // remove gatsby Image
