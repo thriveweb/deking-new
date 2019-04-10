@@ -121,8 +121,35 @@ reviews:
     details: >-
       An extremely efficient & professional company. We couldn't be happy with
       the our new deck. Would highly recommend them.
-    stars: 5
+    stars: '4'
     title: Efficient & professional
+  - by: Ben Campbell
+    details: Great value and great service
+    stars: '5'
+    title: Great value and great service
+  - by: Kayster
+    details: |-
+      Cannot praise these guys enough. 
+      So great to deal with.
+    stars: '5'
+    title: Thanks for my amazing deck!!
+  - by: Steve Irwin
+    details: |-
+      We had such great experience with the team at deckingdecks! 
+      Top notch build quality and great customer service!!!
+    stars: '5'
+    title: Great customer service!!!
+  - by: Michael Cole
+    details: >-
+      Excellent job, started and completed when they said.
+
+      That in itself is a minor miracle compared with all the other trades I
+      have had to deal with over the past 5 months whilst doing a major house
+      renovation.
+
+      I highly recommend them.
+    stars: '5'
+    title: Excellent job
 meta:
   canonicalLink: ''
   description: >-
