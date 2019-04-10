@@ -26,7 +26,7 @@ export default ({ reviews = [] }) => {
       <Swiper {...params}>
         {reviews.map((review, index) => (
           <div className="Review-card" key={`Review${index}`}>
-            <div className={`Review-card-stars count-${review.stars}`}>
+            <div className={`Review-card-stars count-5`}>
               <svg
                 fill="#F12337"
                 width="20px"
