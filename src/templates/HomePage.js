@@ -263,19 +263,16 @@ export const HomePageTemplate = ({
         )}
 
       {partnerLogos &&
-        partnerLogos.lenght > 0 && (
+        partnerLogos.length > 0 && (
           <div className="section PartnersSection thin">
             <div className="container">
               <h2 className="taCenter">{partnersTitle}</h2>
               <div className="flex">
                 {partnerLogos.map((logo, index) => {
                   return (
-                    <a
-                      key={index + logo.link}
-                      className="PartnersSection--Logo"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href={logo.link}
+                    <div
+                      className="PartnersSection--Logo one-quarter"
+                      key={index + partnersTitle}
                     >
                       <Image
                         background
@@ -283,7 +280,7 @@ export const HomePageTemplate = ({
                         src={logo.logo}
                         alt={partnersTitle}
                       />
-                    </a>
+                    </div>
                   )
                 })}
               </div>

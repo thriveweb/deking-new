@@ -22,7 +22,7 @@ export default ({ reviews = [] }) => {
 
   return (
     <div className="Reviews">
-      <h3>Our Reviews</h3>
+      <h2 className="taCenter">Our Reviews</h2>
       <Swiper {...params}>
         {reviews.map((review, index) => (
           <div className="Review-card" key={`Review${index}`}>
