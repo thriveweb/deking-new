@@ -56,17 +56,16 @@ teamMembers:
     profileImage: /images/uploads/fullsizeoutput_1ede.jpg
     profileImage2: /images/uploads/fullsizeoutput_1ee0.jpg
   - bio: >-
-      Andrew A.K.A. Pants, has been with Deking for 10 plus years and is a
-      veteran of the team. Pants will work on your project like its his own and
-      loves a challenging project to exercise his carpentry skills!
+      Brett has a long background in the home improvement industry with his
+      speciality in metal products which makes him our Patio Roof Guru.
 
 
-      Spare time for Pants involves skateboards and motor racing along with
-      precious moments with his daughter.
-    name: Andrew (Pants)
-    occupation: Carpenter
-    profileImage: /images/uploads/img_4147.jpg
-    profileImage2: /images/uploads/img_8900.jpg
+      You'll find Brett in the weekends exploring the queensland coastline in
+      search of the perfect fishing spot
+    name: Brett
+    occupation: Patio Designer
+    profileImage: /images/uploads/brett.jpg
+    profileImage2: /images/uploads/brett.jpg
   - bio: >-
       Roly has a wealth of experience in the trade and with his easy going and
       approachable persona will ensure you of a great result
@@ -79,17 +78,17 @@ teamMembers:
     profileImage: /images/uploads/img_4257.jpg
     profileImage2: /images/uploads/img_4287.jpg
   - bio: >-
-      Luke is our newest recruit with just over a year with the Deking team.
-      Luke gained his carpentry qualification through the armed services which
-      has put him in good stead with getting the job done right the first time
-      and on time.
+      Andrew A.K.A. Pants, has been with Deking for 10 plus years and is a
+      veteran of the team. Pants will work on your project like its his own and
+      loves a challenging project to exercise his carpentry skills!
 
 
-      Luke is married with 1 little girl who keeps him busy in his spare time
-    name: luke
+      Spare time for Pants involves skateboards and motor racing along with
+      precious moments with his daughter.
+    name: Andrew (Pants)
     occupation: Carpenter
-    profileImage: /images/uploads/img_4140.jpg
-    profileImage2: /images/uploads/img_4356.jpg
+    profileImage: /images/uploads/img_4147.jpg
+    profileImage2: /images/uploads/img_8900.jpg
   - bio: >-
       Aaron is our quiet achiever who has an amazing eye for detail, nothing
       goes past Aaron unless its 100% spot on!
@@ -107,13 +106,17 @@ teamMembers:
     profileImage: /images/uploads/img_4133.jpg
     profileImage2: /images/uploads/img_4293.jpg
   - bio: >-
-      Let’s not forget Floydy the fat cat, office mascot. He is a well-loved
-      part of the Deking family, although we are not sure what his role is, as
-      he is too well looked after to even think twice about mice.
-    name: Floyd
-    occupation: Sleep & Eat
-    profileImage: /images/uploads/floyd.jpg
-    profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
+      Luke is our newest recruit with just over a year with the Deking team.
+      Luke gained his carpentry qualification through the armed services which
+      has put him in good stead with getting the job done right the first time
+      and on time.
+
+
+      Luke is married with 1 little girl who keeps him busy in his spare time
+    name: luke
+    occupation: Carpenter
+    profileImage: /images/uploads/img_4140.jpg
+    profileImage2: /images/uploads/img_4356.jpg
   - bio: >-
       Antony is a qualified carpenter with years of experience in metal
       construction which makes him a much valued asset for our patio department
@@ -133,14 +136,13 @@ teamMembers:
     profileImage: /images/uploads/img_4200.jpg
     profileImage2: /images/uploads/img_8929.jpg
   - bio: >-
-      Lawrence has joined our team after his father retired from the patio roof
-      trade.
-
-
-      Laurie brings with him a wealth of metal roofing knowledge and a keen eye
-      for getting the job done right
-    name: Lawrence
-    occupation: 'Metal roofer, Patio specialist'
+      Let’s not forget Floydy the fat cat, office mascot. He is a well-loved
+      part of the Deking family, although we are not sure what his role is, as
+      he is too well looked after to even think twice about mice.
+    name: Floyd
+    occupation: Sleep & Eat
+    profileImage: /images/uploads/floyd.jpg
+    profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
 bannerButton:
   label: Enquire
   link: contact
