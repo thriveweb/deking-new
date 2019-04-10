@@ -129,13 +129,13 @@ reviews:
     title: Great value and great service
   - by: Kaylee Bouradas - Cleveland
     details: |-
-      Cannot praise these guys enough. 
+      Cannot praise these guys enough.
       So great to deal with. Thanks for my amazing deck!!
     stars: '5'
     title: Thanks for my amazing deck!!
   - by: Steve Irwin - Wynnum
     details: |-
-      We had such great experience with the team at deckingdecks! 
+      We had such great experience with the team at deckingdecks!
       Top notch build quality and great customer service!!!
     stars: '5'
     title: Great customer service!!!
@@ -176,4 +176,3 @@ meta:
   noindex: false
   title: DeKing Decks Brisbane & Gold Coast | Timber Deck Specialists
 ---
-
