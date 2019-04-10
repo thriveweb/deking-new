@@ -87,14 +87,14 @@ partnerLogos:
     logo: /images/uploads/qbcc-logo.jpg
   - logo: /images/uploads/ekodeking.jpg
 reviews:
-  - by: Steve Heisig
+  - by: Steve Heisig - Cleveland
     details: >-
       We use Deking Decks for our custom built Heisig Homes. We highly recommend
       Deking Decks and look forward to a very long working relationship with
       them.
     stars: 5
     title: Custom built Heisig Homes
-  - by: Lindsay Riddell
+  - by: Lindsay Riddell - Redbank Plains
     details: >-
       From the day of the quote through to the building of our deck the service
       has been friendly and very professional. Our builder was here every day
@@ -103,43 +103,43 @@ reviews:
       DekingDecks and wouldn't hesitate to use them again.
     stars: 5
     title: Friendly and very professional
-  - by: Neal Bostock
+  - by: Neal Bostock - Carindale
     details: >-
       So pleased with our new deck. Top job from quick quote and thru the whole
       build process. Two builders with great attention to detail and left th3
       site clean every day. Highly recommend DeckingDecks
     stars: 5
     title: Great attention to detail
-  - by: Michael Mott
+  - by: Michael Mott - Springfield Lakes
     details: >-
       The decks (3 of them) are amazing and I can't wait to see the end result
       after they are stained. Excellent service....kept us updated at every
       stage
     stars: 5
     title: Amazing result
-  - by: Michelle Pill
+  - by: Michelle Pill - Fitzgibbon
     details: >-
       An extremely efficient & professional company. We couldn't be happy with
       the our new deck. Would highly recommend them.
     stars: '4'
     title: Efficient & professional
-  - by: Ben Campbell
+  - by: Ben Campbell - Ascot
     details: Great value and great service
     stars: '5'
     title: Great value and great service
-  - by: Kaylee Bouradas
+  - by: Kaylee Bouradas - Cleveland
     details: |-
       Cannot praise these guys enough. 
       So great to deal with. Thanks for my amazing deck!!
     stars: '5'
     title: Thanks for my amazing deck!!
-  - by: Steve Irwin
+  - by: Steve Irwin - Wynnum
     details: |-
       We had such great experience with the team at deckingdecks! 
       Top notch build quality and great customer service!!!
     stars: '5'
     title: Great customer service!!!
-  - by: Michael Cole
+  - by: 'Michael Cole - Pimpama '
     details: >-
       Excellent job, started and completed when they said.
 
@@ -150,13 +150,13 @@ reviews:
       I highly recommend them.
     stars: '5'
     title: Excellent job
-  - by: Nathan McDonald
+  - by: Nathan McDonald - Mt Cotton
     details: >-
       The construction team were fantastic when it came to filling me in with
       what was happening and the deck looks amazing.
     stars: '5'
     title: Deck looks amazing
-  - by: Kent-John White
+  - by: Kent-John White - Maleny
     details: >-
       Deking Decks, great job on our deck at Maleny. Friendly, professional, and
       helpful staff, everyone from Shelley in administration and accounts, Roly
