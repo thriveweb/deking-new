@@ -86,6 +86,19 @@ partnerLogos:
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
   - logo: /images/uploads/ekodeking.jpg
+reviews:
+  - stars: 5
+    title: amazing services
+    details: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam.
+    by: Joe Blogs
+  - stars: 5
+    title: amazing services
+    details: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam.
+    by: Joe Blogs
+  - stars: 5
+    title: amazing services
+    details: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam.
+    by: Joe Blogs
 meta:
   canonicalLink: ''
   description: >-
@@ -95,4 +108,3 @@ meta:
   noindex: false
   title: DeKing Decks Brisbane & Gold Coast | Timber Deck Specialists
 ---
-

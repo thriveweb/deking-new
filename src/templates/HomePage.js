@@ -11,6 +11,7 @@ import ProjectCard from '../components/ProjectCard'
 import BreakoutBanner from '../components/BreakoutBanner'
 import Content from '../components/Content'
 import BackgroundVideo from '../components/BackgroundVideo'
+import Reviews from '../components/Reviews'
 
 import '../components/PageHeader.css'
 import './HomePage.css'
@@ -45,7 +46,8 @@ export const HomePageTemplate = ({
   partnersTitle,
   partnerLogos,
   services,
-  projects
+  projects,
+  reviews
 }) => (
   <Fragment>
     <Meta {...meta} />
@@ -288,6 +290,15 @@ export const HomePageTemplate = ({
             </div>
           </div>
         )}
+
+      {reviews &&
+        reviews.length > 0 && (
+          <div className="section ReviewsSection thin">
+            <div className="container">
+              <Reviews reviews={reviews} />
+            </div>
+          </div>
+        )}
     </main>
   </Fragment>
 )
@@ -387,6 +398,12 @@ export const pageQuery = graphql`
             ...SmallImage
           }
           link
+        }
+        reviews {
+          stars
+          title
+          details
+          by
         }
       }
     }

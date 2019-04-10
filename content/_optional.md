@@ -37,6 +37,11 @@ partnersTitle: ''
 partnerLogos:
   - link: ''
   - logo: /images/logo.svg
+reviews:
+  - stars: 0
+  - title: ''
+  - details: ''
+  - by: ''
 whatWeDo:
   - icon: /images/logo.svg
   - title: ''
