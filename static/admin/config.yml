@@ -258,16 +258,10 @@ collections: # A list of collections the CMS should be able to edit
             widget: 'list'
             required: false
             fields:
-              - { name: stars, label: stars, widget: string, required: false }
               - { name: title, label: title, widget: string, required: false }
-              - {
-                  name: details,
-                  label: details,
-                  widget: text,
-                  required: false,
-                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
-                }
+              - { name: details, label: details, widget: text, required: false }
               - { name: by, label: by, widget: string, required: false }
+              - { name: stars, label: stars, widget: string, required: false }
           - label: 'Meta'
             required: false
             name: 'meta'
