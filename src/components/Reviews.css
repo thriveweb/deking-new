@@ -1,0 +1,38 @@
+.Review-card.swiper-slide {
+  width: calc(33.33% - 2rem) !important;
+  padding: 2rem 2rem 2rem 0;
+}
+@media screen and (max-width: 880px) {
+  .Review-card.swiper-slide {
+    width: calc(100% - 4rem) !important;
+    padding: 2rem;
+  }
+}
+
+.Review-card-stars svg {
+  display: none;
+}
+
+.Review-card-stars.count-1 svg:nth-child(1) {
+  display: inline;
+}
+.Review-card-stars.count-2 svg:nth-child(-n + 2) {
+  display: inline;
+}
+.Review-card-stars.count-3 svg:nth-child(-n + 3) {
+  display: inline;
+}
+.Review-card-stars.count-4 svg:nth-child(-n + 4) {
+  display: inline;
+}
+.Review-card-stars.count-5 svg:nth-child(-n + 5) {
+  display: inline;
+}
+
+.Review-card-title {
+}
+.Review-card-details {
+}
+.Review-card-by {
+  font-style: italic;
+}

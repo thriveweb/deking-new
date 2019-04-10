@@ -86,6 +86,27 @@ partnerLogos:
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
   - logo: /images/uploads/ekodeking.jpg
+reviews:
+  - stars: 5
+    title: Custom built Heisig Homes
+    details: We use Deking Decks for our custom built Heisig Homes. We highly recommend Deking Decks and look forward to a very long working relationship with them.
+    by: Steve Heisig
+  - stars: 5
+    title: Friendly and very professional
+    details: From the day of the quote through to the building of our deck the service has been friendly and very professional. Our builder was here every day early and worked hard. He was friendly and discussed any queries I had. Before he left each day he left a clean work site. I thoroughly recommend DekingDecks and wouldn't hesitate to use them again
+    by: Lindsay Riddell
+  - stars: 5
+    title: Great attention to detail
+    details: So pleased with our new deck. Top job from quick quote and thru the whole build process. Two builders with great attention to detail and left th3 site clean every day. Highly recommend DeckingDecks
+    by: Neal Bostock
+  - stars: 5
+    title: Amazing result
+    details: The decks (3 of them) are amazing and I can't wait to see the end result after they are stained. Excellent service....kept us updated at every stage
+    by: Michael Mott
+  - stars: 5
+    title: Efficient & professional
+    details: An extremely efficient & professional company. We couldn't be happy with the our new deck. Would highly recommend them.
+    by: Michelle Pill
 meta:
   canonicalLink: ''
   description: >-
@@ -95,4 +116,3 @@ meta:
   noindex: false
   title: DeKing Decks Brisbane & Gold Coast | Timber Deck Specialists
 ---
-
