@@ -10,8 +10,8 @@ featureButton:
   link: contact
 welcomeTitle: ' We can simply make it happen.'
 welcomeButton:
-  label: About Us
-  link: about
+  label: Our Process
+  link: process
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Guarantee
 bannerDescription: >
@@ -43,8 +43,8 @@ teamDescription: >-
   to help and can simply make it happen.
 teamImage: /images/uploads/team.jpg
 teamButton:
-  label: ''
-  link: ''
+  label: About us
+  link: about
 benefitsTitle: Benefits of a timber deck
 benefits:
   - description: >-
@@ -92,7 +92,6 @@ reviews:
       We use Deking Decks for our custom built Heisig Homes. We highly recommend
       Deking Decks and look forward to a very long working relationship with
       them.
-
     title: Custom built Heisig Homes
   - by: Lindsay Riddell - Redbank Plains
     details: >-
@@ -101,43 +100,36 @@ reviews:
       early and worked hard. He was friendly and discussed any queries I had.
       Before he left each day he left a clean work site. I thoroughly recommend
       DekingDecks and wouldn't hesitate to use them again.
-
     title: Friendly and very professional
   - by: Neal Bostock - Carindale
     details: >-
       So pleased with our new deck. Top job from quick quote and thru the whole
       build process. Two builders with great attention to detail and left th3
       site clean every day. Highly recommend DeckingDecks
-
     title: Great attention to detail
   - by: Michael Mott - Springfield Lakes
     details: >-
       The decks (3 of them) are amazing and I can't wait to see the end result
       after they are stained. Excellent service....kept us updated at every
       stage
-
     title: Amazing result
   - by: Michelle Pill - Fitzgibbon
     details: >-
       An extremely efficient & professional company. We couldn't be happy with
       the our new deck. Would highly recommend them.
-
     title: Efficient & professional
   - by: Ben Campbell - Ascot
     details: Great value and great service
-
     title: Great value and great service
   - by: Kaylee Bouradas - Cleveland
     details: |-
       Cannot praise these guys enough.
       So great to deal with. Thanks for my amazing deck!!
-
     title: Thanks for my amazing deck!!
   - by: Steve Irwin - Wynnum
     details: |-
       We had such great experience with the team at deckingdecks!
       Top notch build quality and great customer service!!!
-
     title: Great customer service!!!
   - by: 'Michael Cole - Pimpama '
     details: >-
@@ -148,13 +140,11 @@ reviews:
       renovation.
 
       I highly recommend them.
-
     title: Excellent job
   - by: Nathan McDonald - Mt Cotton
     details: >-
       The construction team were fantastic when it came to filling me in with
       what was happening and the deck looks amazing.
-
     title: Deck looks amazing
   - by: Kent-John White - Maleny
     details: >-
@@ -165,7 +155,6 @@ reviews:
       Quality and timely finish.
 
       Thank you very much.
-
     title: Quality and timely finish.
 meta:
   canonicalLink: ''
@@ -176,3 +165,4 @@ meta:
   noindex: false
   title: DeKing Decks Brisbane & Gold Coast | Timber Deck Specialists
 ---
+
