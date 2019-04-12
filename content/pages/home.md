@@ -85,7 +85,6 @@ partnerLogos:
   - logo: /images/uploads/25-year-warranty-shutterstock.jpg
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
-  - logo: /images/uploads/ekodeking.jpg
 reviews:
   - by: Steve Heisig - Cleveland
     details: >-
