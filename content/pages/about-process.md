@@ -18,10 +18,6 @@ processes:
 
 
       Email: info@deking.com.au
-
-
-      [Our online calculator can also assist you with a quick estimate of your
-      likely project cost ](https://dekingdecks.thrivex.xyz/quote-calculator/)
     title: Get in Touch
   - buttonText: ''
     content: >-
@@ -53,7 +49,7 @@ processes:
 
       After your approval, a Master Builders contract is prepared for signing,
       along with a 5-10% deposit invoice. Payments are made via Bank transfer or
-      credit card. Financing options are also available at this link…(link)
+      credit card. Financing options are also available.
 
 
       With over 15 years’ experience, Deking project management makes it simple.
@@ -76,21 +72,21 @@ processes:
       Sit back and watch your new project come to life.
 
 
-      Our 25-year deck guarantee \*( link) and 15-year patio guarantee \*(
-      link)(T’s & C’s apply (link)provide you with peace of mind with regards to
-      site safety and workmanship.
+      Our 25-year deck guarantee and 15-year patio guarantee (T’s & C’s apply)
+      provide you with peace of mind with regards to site safety and
+      workmanship.
 
 
       Deking remove all waste materials on completion as a part of our tidy deck
-      guarantee* (link to document)
+      guarantee
     title: Construction Commences
   - buttonText: ''
     content: >-
       On completion of all our workmanship, together with you, we will perform a
       final handover inspection. On projects that require council permits, a
       private certifier, on behalf of the council, will inspect your project and
-      provide a final certificate (link to Form 21) that the project has been
-      completed to all applicable codes and building standards.
+      provide a final certificate (Form 21) that the project has been completed
+      to all applicable codes and building standards.
 
 
       Deking will give you a helpful maintenance manual with information that
@@ -103,7 +99,7 @@ processes:
 
 
       In 12 months’ time, we will return to do a maintenance check as part of
-      the care and warranty package we provide. (link to document )
+      the care and warranty package we provide.
     title: Enjoy
 bannerTitle: Easter Patio special offer
 bannerDescription: |-
