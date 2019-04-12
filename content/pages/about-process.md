@@ -17,7 +17,7 @@ processes:
       Phone: 3804 6400
 
 
-      Email: info@deking.com.au
+      Email: admin@deking.com.au
     title: Get in Touch
   - buttonText: ''
     content: >-
