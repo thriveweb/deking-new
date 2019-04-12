@@ -11,7 +11,7 @@ featureButton:
 welcomeTitle: ' We can simply make it happen.'
 welcomeButton:
   label: Our Process
-  link: process
+  link: About Process
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Guarantee
 bannerDescription: >
