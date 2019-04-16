@@ -75,19 +75,13 @@ export default class Contact extends React.Component {
           method="post"
           action="/contact/thanks/"
           data-netlify="true"
-          data-netlify-honeypot="bot-field"
           data-netlify-recaptcha="true"
           onSubmit={this.handleSubmit}
         >
           {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
           <input type="hidden" name="form-name" value="file-upload-contact" />
           {/* <ReactNotification ref={input => (this.notificationDOMRef = input)} /> */}
-          <p hidden>
-            <label>
-              Don’t fill this out{' '}
-              <input name="bot-field" onChange={this.handleChange} />
-            </label>
-          </p>
+
           <div className="flex">
             <label className="EnquiryForm--Label">
               Your Full name
@@ -188,11 +182,8 @@ export default class Contact extends React.Component {
             />
             Please include me in your mailing list
           </label>
-          <div className="clear">
-            <br />
-            reca
-            <div data-netlify-recaptcha="true" />
-          </div>
+          <br />
+          <div data-netlify-recaptcha="true" />
           <input
             className="Button EnquiryForm--SubmitButton"
             type="submit"
