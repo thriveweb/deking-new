@@ -89,8 +89,9 @@ servicePods:
     podsTitle: What style of Deck do you need?
 bannerTitle: Easter Patio Special Offer
 bannerDescription: |-
-  $500 cashback on all Stratco Patio roofs. (Min size 24m2)
-  Ask our team for all the details
+  $500 discount on all Decks and/or Patio roofs, minimum size 25m2
+  not valid with interest free finance.
+  Offer ends 30th April. 
 bannerImage: >-
   /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
