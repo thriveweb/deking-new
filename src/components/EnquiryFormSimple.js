@@ -4,6 +4,9 @@ import Helmet from 'react-helmet'
 import { navigateTo } from 'gatsby-link'
 import ReactNotification from 'react-notifications-component'
 import 'react-notifications-component/dist/theme.css'
+import Recaptcha from 'react-google-recaptcha'
+
+const RECAPTCHA_KEY = process.env.SITE_RECAPTCHA_KEY
 
 import './EnquiryForm.css'
 
@@ -46,6 +49,10 @@ export default class Contact extends React.Component {
     } else {
       this.setState({ [e.target.name]: e.target.files[0] })
     }
+  }
+
+  handleRecaptcha = value => {
+    this.setState({ 'g-recaptcha-response': value })
   }
 
   handleSubmit = e => {
@@ -183,7 +190,11 @@ export default class Contact extends React.Component {
             Please include me in your mailing list
           </label>
           <br />
-          <div data-netlify-recaptcha="true" />
+          <Recaptcha
+            ref="recaptcha"
+            sitekey={RECAPTCHA_KEY}
+            onChange={this.handleRecaptcha}
+          />
           <input
             className="Button EnquiryForm--SubmitButton"
             type="submit"
