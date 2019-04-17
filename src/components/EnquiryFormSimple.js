@@ -6,7 +6,7 @@ import ReactNotification from 'react-notifications-component'
 import 'react-notifications-component/dist/theme.css'
 import Recaptcha from 'react-google-recaptcha'
 
-const RECAPTCHA_KEY = process.env.SITE_RECAPTCHA_KEY
+const RECAPTCHA_KEY = process.env.GATSBY_SITE_RECAPTCHA_KEY
 
 import './EnquiryForm.css'
 
@@ -192,7 +192,7 @@ export default class Contact extends React.Component {
           <br />
           <Recaptcha
             ref="recaptcha"
-            sitekey="6LdEpJ4UAAAAAPPXyGwdJjDk6RTk5yOCWApWzBHU"
+            sitekey={RECAPTCHA_KEY}
             onChange={this.handleRecaptcha}
           />
           <input
