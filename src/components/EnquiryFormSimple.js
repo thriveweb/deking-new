@@ -192,7 +192,7 @@ export default class Contact extends React.Component {
           <br />
           <Recaptcha
             ref="recaptcha"
-            sitekey={RECAPTCHA_KEY}
+            sitekey="6LdEpJ4UAAAAAPPXyGwdJjDk6RTk5yOCWApWzBHU"
             onChange={this.handleRecaptcha}
           />
           <input
