@@ -24,7 +24,7 @@ accordion:
       part of aluminium screens are that you never have to maintain them, apart
       from an annual hose off if they become dusty. You have the option of
       positioning the slat horizontally or vertically depending on your taste
-      and circumstances  
+      and circumstances
     title: Privacy screens
   - description: >-
       Glass pool fencing offers an unrestricted view of your area while
@@ -56,7 +56,7 @@ servicePriceDescription:
 servicePods:
   - podDescription: >-
       Glass pool fencing offers an unrestricted view of your area while
-      maintaining a safe zone 
+      maintaining a safe zone
 
 
       Stainless steel spigots are either core drilled into the concrete floor or
@@ -74,7 +74,7 @@ servicePods:
       attached to the deck surface with a handrail of either merbau 90x42mm or
       stainless steel.
     podImage: /images/uploads/caloundra-2-660x1024.jpg
-    podLink: ''
+
     podsTitle: Glass Fencing & Balustrades
   - podDescription: >-
       Stainless steel wire balustrades provide an unobstructed view from your
@@ -115,4 +115,3 @@ meta:
     catalogue of add ons and accessories that are also available.
   title: Deck Accessories | Deking Decks
 ---
-

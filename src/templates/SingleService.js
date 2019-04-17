@@ -184,15 +184,6 @@ export const SingleServiceTemplate = ({
                   {item.podDescription && (
                     <Content source={item.podDescription} />
                   )}
-                  {item.podLink && (
-                    <Button
-                      href={item.podLink.publicURL}
-                      target="_blank"
-                      className="Button"
-                    >
-                      Download
-                    </Button>
-                  )}
                 </div>
               </div>
             ))}
@@ -334,9 +325,6 @@ export const pageQuery = graphql`
           }
           podsTitle
           podDescription
-          podLink {
-            publicURL
-          }
         }
         videoTitle
         videoContent

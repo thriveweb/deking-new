@@ -105,7 +105,7 @@ servicePods:
       living space, get in touch with us at DeKing. We can design and build the
       perfect patio for you!
     podImage: /images/uploads/2.jpg
-    podLink: ''
+    
     podsTitle: Replacing old Patios
   - podDescription: >-
       Insulated roofing offers a clean and simple alternative to conventional

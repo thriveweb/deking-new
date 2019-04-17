@@ -56,7 +56,7 @@ servicePods:
       of Spotted Gum or some type of Australian Mixed species. This type of
       decking is more rustic with natural gum lines for character.
     podImage: /images/uploads/11.jpg
-    podLink: ''
+    
     podsTitle: Timber Decking Materials
   - podDescription: >-
       Dekings decks are backed with a 25 year warranty, so to maintain this
