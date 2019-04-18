@@ -155,6 +155,14 @@ reviews:
 
       Thank you very much.
     title: Quality and timely finish.
+  - by: Kristy-Lee Cristea
+    details: >-
+      Good afternoon Shelley. Thanks to you and your team for our new deck, it
+      looks amazing and we are very happy with it.  
+
+      Thankyou!
+    stars: '5'
+    title: Thanks to you and your team for our new deck
 meta:
   canonicalLink: ''
   description: >-
