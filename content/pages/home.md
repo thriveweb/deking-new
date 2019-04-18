@@ -166,7 +166,7 @@ reviews:
       Thank you very much.
     stars: '5'
     title: Quality and timely finish.
-  - by: Kristy-Lee Cristea
+  - by: Kristy-Lee Cristea - Goodna
     details: >-
       Good afternoon Shelley. Thanks to you and your team for our new deck, it
       looks amazing and we are very happy with it.  
