@@ -174,6 +174,17 @@ reviews:
       Thankyou!
     stars: '5'
     title: Thanks to you and your team for our new deck
+  - by: Liz Lunn - East Brisbane
+    details: >-
+      “I found decking decks to be very efficient and professional.The process
+      was very quick from the quote to the work being done. Thanks to Roly and
+      Luke.
+
+      Our deck looks great! 
+
+      I would definitely use them again.”
+    stars: '5'
+    title: I would definitely use them again
 meta:
   canonicalLink: ''
   description: >-
