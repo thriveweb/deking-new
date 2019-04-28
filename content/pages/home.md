@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 externalVideoURL: ''
 videoPoster: /images/uploads/homebannerrefresh.jpg
-title: Let's build your new project together
+title: Let's design your new deck and patio together
 featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
@@ -13,11 +13,11 @@ welcomeButton:
   label: Our Process
   link: about/process
 servicesTitle: How can we help you today?
-bannerTitle: 25 Year Guarantee
+bannerTitle: 25 Year Deck Guarantee
 bannerDescription: >
   As we are confident that our workmanship and materials used are of the highest
-  standard we are pleased to be able to offer you a 25 year warranty. T's & C's
-  apply*
+  standard we are pleased to be able to offer you a 25 year warranty on our
+  decks. T's & C's apply*
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
