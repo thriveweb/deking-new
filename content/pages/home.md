@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 externalVideoURL: ''
 videoPoster: /images/uploads/homebannerrefresh.jpg
-title: Let's design your new deck and patio together
+title: Let's start your new deck and patio together
 featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
