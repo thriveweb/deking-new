@@ -76,13 +76,13 @@ priceDescription: >-
 priceButton:
   label: Build your deck
   link: quote-calculator
-partnersTitle: Our Licences and Partners
+partnersTitle: Our Trusted Partners
 partnerLogos:
   - link: about
     logo: /images/uploads/qualifications1.png
   - link: about
     logo: /images/uploads/stratco-outback.png
-  - logo: /images/uploads/25-year-warranty-shutterstock.jpg
+  - logo: /images/uploads/trexpro-logo.jpg
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
 reviews:
