@@ -61,7 +61,7 @@ So you’ve decided that you want to build an outdoor kitchen, but you don’t k
 
 There are some great outdoor kitchen ideas and inspiration available online that can help you get started (if you don’t know where to start) or narrow your focus (if you want help making decisions).
 
-If it’s pure inspiration you’re after, check out some of the amazing possibilities for an outdoor kitchen space in the **_Houzz_** article, ‘[How to Build the Perfect Outdoor Kitchen](https://www.houzz.com/ideabooks/64023153/thumbs/how-to-build-the-perfect-outdoor-kitchen)’.
+If it’s pure inspiration you’re after, check out some of the amazing possibilities for an outdoor kitchen space in the _**Houzz**_ article, ‘[How to Build the Perfect Outdoor Kitchen](https://www.houzz.com/magazine/how-to-build-the-perfect-outdoor-kitchen-stsetivw-vs~64023153?vm=thumbs)’.
 
 ## Contact Us
 
