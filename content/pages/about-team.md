@@ -82,21 +82,6 @@ teamMembers:
     profileImage: /images/uploads/img_4147.jpg
     profileImage2: /images/uploads/img_8900.jpg
   - bio: >-
-      Let’s not forget Floydy the fat cat, office mascot. He is a well-loved
-      part of the Deking family, although we are not sure what his role is, as
-      he is too well looked after to even think twice about mice.
-    name: Floyd
-    occupation: Sleep & Eat
-    profileImage: /images/uploads/floyd.jpg
-    profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
-  - bio: >-
-      Antony is a qualified carpenter with years of experience in metal
-      construction which makes him a much valued asset for our patio department
-    name: Antony
-    occupation: Patio Roof Installer
-    profileImage: /images/uploads/img_8922.jpg
-    profileImage2: /images/uploads/img_4347.jpg
-  - bio: >-
       Aaron is our quiet achiever who has an amazing eye for detail, nothing
       goes past Aaron unless its 100% spot on!
 
@@ -107,6 +92,24 @@ teamMembers:
     occupation: Carpenter
     profileImage: /images/uploads/fullsizeoutput_1ece.jpg
     profileImage2: /images/uploads/fullsizeoutput_1ed0.jpg
+  - bio: >-
+      Antony is a qualified carpenter with years of experience in metal
+      construction which makes him a much valued asset for our patio department
+    name: Antony
+    occupation: Carpenter
+    profileImage: /images/uploads/img_8922.jpg
+    profileImage2: /images/uploads/img_4347.jpg
+  - bio: >-
+      Laurie is our metal roofing guru with an inheritance of knowledge from
+      previously working in the trade with his fathers patio business (Now
+      retired)
+
+
+      His 5 year old daughter keeps him more than entertained in the weekends!
+    name: Laurie
+    occupation: Patio Installer
+    profileImage: /images/uploads/qa5l-8axrxwftg-16-t3fq.jpg
+    profileImage2: /images/uploads/oxncvwccqtudlf1jsowapw.jpg
   - bio: >-
       Luke is our newest recruit with just over a year with the Deking team.
       Luke gained his carpentry qualification through the armed services which
@@ -120,17 +123,6 @@ teamMembers:
     profileImage: /images/uploads/img_4140.jpg
     profileImage2: /images/uploads/img_4356.jpg
   - bio: >-
-      Laurie is our metal roofing guru with an inheritance of knowledge from
-      previously working in the trade with his fathers patio business (Now
-      retired)
-
-
-      His 5 year old daughter keeps him more than entertained in the weekends!
-    name: Laurie
-    occupation: Patio Installer
-    profileImage: /images/uploads/qa5l-8axrxwftg-16-t3fq.jpg
-    profileImage2: /images/uploads/oxncvwccqtudlf1jsowapw.jpg
-  - bio: >-
       Grant has been in the fold for over 7 years with a track record of
       "nothing is a problem"
 
@@ -141,6 +133,16 @@ teamMembers:
     occupation: Carpenter
     profileImage: /images/uploads/img_4200.jpg
     profileImage2: /images/uploads/img_8929.jpg
+  - bio: >-
+      Let’s not forget Floydy the fat cat, office mascot. He is a well-loved
+      part of the Deking family, although we are not sure what his role is, as
+      he is too well looked after to even think twice about mice.
+    name: Floyd
+    occupation: Sleep & Eat
+    profileImage: /images/uploads/floyd.jpg
+    profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
+  - name: Aaron
+    occupation: Patio installer
 bannerButton:
   label: Enquire
   link: contact
