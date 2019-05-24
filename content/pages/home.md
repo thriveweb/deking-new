@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 externalVideoURL: ''
-videoPoster: /images/uploads/homebannerrefresh.jpg
+videoPoster: /images/uploads/dekingdecks-timber-deck.jpg
 title: Let's start your new deck and patio together
 featuredImage: /images/uploads/11.jpg
 featureButton:
@@ -91,7 +91,6 @@ reviews:
       We use Deking Decks for our custom built Heisig Homes. We highly recommend
       Deking Decks and look forward to a very long working relationship with
       them.
-    stars: '5'
     title: Custom built Heisig Homes
   - by: Lindsay Riddell - Redbank Plains
     details: >-
@@ -100,43 +99,36 @@ reviews:
       early and worked hard. He was friendly and discussed any queries I had.
       Before he left each day he left a clean work site. I thoroughly recommend
       DekingDecks and wouldn't hesitate to use them again.
-    stars: '5'
     title: Friendly and very professional
   - by: Neal Bostock - Carindale
     details: >-
       So pleased with our new deck. Top job from quick quote and thru the whole
       build process. Two builders with great attention to detail and left th3
       site clean every day. Highly recommend DeckingDecks
-    stars: '5'
     title: Great attention to detail
   - by: Michael Mott - Springfield Lakes
     details: >-
       The decks (3 of them) are amazing and I can't wait to see the end result
       after they are stained. Excellent service....kept us updated at every
       stage
-    stars: '5'
     title: Amazing result
   - by: Michelle Pill - Fitzgibbon
     details: >-
       An extremely efficient & professional company. We couldn't be happy with
       the our new deck. Would highly recommend them.
-    stars: '4'
     title: Efficient & professional
   - by: Ben Campbell - Ascot
     details: Great value and great service
-    stars: '5'
     title: Great value and great service
   - by: Kaylee Bouradas - Cleveland
     details: |-
       Cannot praise these guys enough.
       So great to deal with. Thanks for my amazing deck!!
-    stars: '5'
     title: Thanks for my amazing deck!!
   - by: Steve Irwin - Wynnum
     details: |-
       We had such great experience with the team at deckingdecks!
       Top notch build quality and great customer service!!!
-    stars: '5'
     title: Great customer service!!!
   - by: 'Michael Cole - Pimpama '
     details: >-
@@ -147,13 +139,11 @@ reviews:
       renovation.
 
       I highly recommend them.
-    stars: '5'
     title: Excellent job
   - by: Nathan McDonald - Mt Cotton
     details: >-
       The construction team were fantastic when it came to filling me in with
       what was happening and the deck looks amazing.
-    stars: '5'
     title: Deck looks amazing
   - by: Kent-John White - Maleny
     details: >-
@@ -164,7 +154,6 @@ reviews:
       Quality and timely finish.
 
       Thank you very much.
-    stars: '5'
     title: Quality and timely finish.
   - by: Kristy-Lee Cristea - Goodna
     details: >-
@@ -172,7 +161,6 @@ reviews:
       looks amazing and we are very happy with it.  
 
       Thankyou!
-    stars: '5'
     title: Thanks to you and your team for our new deck
   - by: Liz Lunn - East Brisbane
     details: >-
@@ -183,7 +171,6 @@ reviews:
       Our deck looks great! 
 
       I would definitely use them again.”
-    stars: '5'
     title: I would definitely use them again
   - by: Christina Huber - Marsden
     details: >-
@@ -191,7 +178,6 @@ reviews:
       what I wanted and came up with it and in budget. Ben did a wonderful job
       building the Orchid Lath (bush House). He left everything clean and now I
       have a Lath which is everything I wanted. Thank you Deking a job well done
-    stars: '5'
     title: Thank you Deking a job well done
 meta:
   canonicalLink: ''
