@@ -752,7 +752,7 @@ class QuoteCalculator extends React.Component {
                     attached && (
                       <span>
                         <br />
-                        {'Roof: '}
+                        <strong>{'Roof: '}</strong>
                         {_startCase(attached)}
                         {' & '}
                         {_startCase(insulated)}
@@ -763,16 +763,12 @@ class QuoteCalculator extends React.Component {
 
               <div>
                 {stairs === null ||
-                  handrail === null ||
-                  insulated === null ||
-                  attached === null || (
+                  handrail === null || (
                     <Fragment>
                       <strong>Options: </strong>
                       <ul>
                         {stairs && <li>{_startCase(stairs)} </li>}
                         {handrail && <li>{_startCase(handrail)} </li>}
-                        {insulated && <li>Roof - {_startCase(insulated)} </li>}
-                        {attached && <li>Roof - {_startCase(attached)} </li>}
                       </ul>
                     </Fragment>
                   )}

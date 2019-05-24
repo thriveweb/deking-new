@@ -4,9 +4,9 @@
   position: relative;
 }
 .QuoteStep {
-  height: 0;
+  /* height: 0;
   margin: 0;
-  overflow: hidden;
+  overflow: hidden; */
 }
 
 .QuoteStep.step1.active,

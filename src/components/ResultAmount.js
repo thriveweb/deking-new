@@ -7,29 +7,29 @@ export default ({ option, sqm, extras }) => {
   let max = 0
   let bats = 0
   if (option === 'groundLevelDeck') {
-    min = sqm * 300
-    max = sqm * 330
+    min = sqm * 320
+    max = sqm * 350
   }
   if (option === 'upperLevelDeck') {
-    min = sqm * 370
-    max = sqm * 400
+    min = sqm * 410
+    max = sqm * 450
     if (extras.stairs === 'stairs') {
       min = min + 3700
       max = max + 4700
     }
     if (extras.handrail === 'handrail') {
-      min = min + 300
-      max = max + 350
+      min = min + 250
+      max = max + 300
     }
   }
   if (option === 'poolDeck') {
-    min = sqm * 330
-    max = sqm * 370
+    min = sqm * 340
+    max = sqm * 380
   }
   if (option === 'patioRoof') {
     if (extras.attached === 'attached') {
-      min = 200
-      max = 250
+      min = 180
+      max = 230
       if (extras.insulated === 'insulated') {
         bats = 75 * sqm
         min = min + bats
@@ -54,12 +54,12 @@ export default ({ option, sqm, extras }) => {
       max = max + 4700
     }
     if (extras.handrail === 'handrail') {
-      min = min + 300
-      max = max + 350
+      min = min + 250
+      max = max + 300
     }
     if (extras.attached === 'attached') {
-      min = min + 200
-      max = max + 250
+      min = min + 180
+      max = max + 230
 
       if (extras.insulated === 'insulated') {
         bats = 75 * sqm
@@ -82,8 +82,8 @@ export default ({ option, sqm, extras }) => {
   }
   if (option === 'lowerLevelDeckPatio') {
     if (extras.attached === 'attached') {
-      min = 200
-      max = 250
+      min = 180
+      max = 230
       if (extras.insulated === 'insulated') {
         bats = 75 * sqm
         min = min + bats
