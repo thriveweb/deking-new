@@ -56,7 +56,6 @@ servicePods:
       of Spotted Gum or some type of Australian Mixed species. This type of
       decking is more rustic with natural gum lines for character.
     podImage: /images/uploads/11.jpg
-    
     podsTitle: Timber Decking Materials
   - podDescription: >-
       Dekings decks are backed with a 25 year warranty, so to maintain this
@@ -87,13 +86,13 @@ servicePods:
       functional, and provides real value to your property.
     podImage: /images/uploads/21.jpg
     podsTitle: What style of Deck do you need?
-bannerTitle: Easter Special Offer
+bannerTitle: Winter Special
 bannerDescription: |-
-  $500 discount on all Decks and/or Patio roofs, minimum size 25m2
-  not valid with interest free finance.
-  Offer ends 30th April. 
-bannerImage: >-
-  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
+  Free Heatstrip heater with every Insulated Patio Roof. 
+  Minimum size 25m2.
+  Not valid with interest free finance.
+  Offer ends 30th June. Call for T's & C's
+bannerImage: /images/uploads/heatstrip_gazebo.jpg
 bannerButton:
   label: Contact Us
   link: contact
