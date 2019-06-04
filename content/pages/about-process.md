@@ -101,13 +101,13 @@ processes:
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide.
     title: Enjoy
-bannerTitle: Easter Patio special offer
+bannerTitle: Winter Special
 bannerDescription: |-
-  $500 discount on all Decks and/or Patio roofs, minimum size 25m2
-  not valid with interest free finance.
-  Offer ends 30th April. 
-bannerImage: >-
-  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
+  Free Heatstrip heater with every Insulated Patio Roof. 
+  Minimum size 25m2.
+  Not valid with interest free finance.
+  Offer ends 30th June. Call for T's & C's
+bannerImage: /images/uploads/heatstrip_special_2.jpg
 bannerButton:
   label: Enquire
   link: contact
