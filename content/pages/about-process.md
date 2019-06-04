@@ -107,7 +107,7 @@ bannerDescription: |-
   Minimum size 25m2.
   Not valid with interest free finance.
   Offer ends 30th June. Call for T's & C's
-bannerImage: /images/uploads/heatstrip_special_2.jpg
+bannerImage: /images/uploads/heatstrip_gazebo.jpg
 bannerButton:
   label: Enquire
   link: contact
