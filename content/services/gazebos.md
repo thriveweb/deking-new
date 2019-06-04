@@ -65,11 +65,13 @@ servicePods:
     podsTitle: Small Extensions & Additions
 videoTitle: ' '
 videoURL: ''
-bannerTitle: Easter Special
-bannerDescription: >-
-  Order your new Gazebo or Outdoor Room before Easter and we will give you a
-  Free Egg Chair, ask us for details
-bannerImage: /images/uploads/banner-background.jpg
+bannerTitle: Winter Special
+bannerDescription: |-
+  Free Heatstrip heater with every Insulated Patio Roof. 
+  Minimum size 25m2.
+  Not valid with interest free finance.
+  Offer ends 30th June. Call for T's & C's
+bannerImage: /images/uploads/heatstrip_gazebo.jpg
 bannerButton:
   label: Contact Us
   link: contact
