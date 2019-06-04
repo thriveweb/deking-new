@@ -105,7 +105,6 @@ servicePods:
       living space, get in touch with us at DeKing. We can design and build the
       perfect patio for you!
     podImage: /images/uploads/2.jpg
-    
     podsTitle: Replacing old Patios
   - podDescription: >-
       Insulated roofing offers a clean and simple alternative to conventional
@@ -131,13 +130,13 @@ servicePods:
     podsTitle: Insulated Roofing
 videoTitle: Stratco advertising that we built!
 videoURL: ''
-bannerTitle: Easter Patio Roof Offer
+bannerTitle: Winter Special
 bannerDescription: |-
-  $500 discount on all Decks and/or Patio roofs, minimum size 25m2
-  not valid with interest free finance.
-  Offer ends 30th April. 
-bannerImage: >-
-  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
+  Free Heatstrip heater with every Insulated Patio Roof. 
+  Minimum size 25m2.
+  Not valid with interest free finance.
+  Offer ends 30th June. Call for T's & C's
+bannerImage: /images/uploads/heatstrip_gazebo.jpg
 bannerButton:
   label: Contact Us
   link: contact
