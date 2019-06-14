@@ -71,7 +71,7 @@ videoContent: >-
   every day, year after year... Making memories with your family and friends.
   Learn more about Trex composite decking and our 25-year warranty!
 videoURL: 'https://youtu.be/tNvQ7F8P6e8'
-priceTitle: Price Guide
+priceTitle: Deck and Patio Calculators
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
   estimated cost of your new project, there is also a calculator for your
