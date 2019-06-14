@@ -180,6 +180,15 @@ reviews:
       have a Lath which is everything I wanted. Thank you Deking a job well
       done.
     title: Thank you Deking a job well done
+  - by: 'Milena Mcfarlane '
+    details: >-
+      “Professional and efficient service from consultation to delivery. We
+      loved the clear communication and punctuality. Everyone we dealt with was
+      polite and happy to discuss details and options with us. All trades were
+      professional neat and tidy. 
+
+      Thanks guys, we love our new deck.”
+    title: We loved the clear communication and punctuality.
 meta:
   canonicalLink: ''
   description: >-
