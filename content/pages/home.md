@@ -70,7 +70,7 @@ videoContent: >-
   Thinking about a new maintenance free deck? Trex Composite decking looks great
   every day, year after year... Making memories with your family and friends.
   Learn more about Trex composite decking and our 25-year warranty!
-videoURL: 'https://youtu.be/tNvQ7F8P6e8'
+videoURL: 'https://www.youtube.com/watch?v=tNvQ7F8P6e8&feature=youtu.be'
 priceTitle: Deck and Patio Calculators
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
