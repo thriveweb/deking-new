@@ -13,7 +13,7 @@ welcomeButton:
   label: Our Process
   link: about/process
 servicesTitle: How can we help you today?
-bannerTitle: 25 Year Deck Guarantee
+bannerTitle: 25 Year Deck & Patio Guarantee
 bannerDescription: >
   As we are confident that our workmanship and materials used are of the highest
   standard we are pleased to be able to offer you a 25 year warranty on our
@@ -65,9 +65,13 @@ benefits:
   - description: They create a wonderful flow between your inside and outside spaces.
     icon: /images/uploads/icon-flow.png
     title: Creates Flow
-videoTitle: ''
-videoContent: ''
-videoURL: ''
+videoTitle: TrexPro. We are Brisbane's licenced Trex decking installers
+videoContent: >-
+  Thinking about a new maintenance free deck? Trex Composite decking looks great
+  every day, year after year... Making memories, like roasting marshmallows over
+  a fire with your family and friends. Learn more about Trex composite decking
+  and our 25-year warranty!
+videoURL: 'https://youtu.be/v5tp8nEhbmU'
 priceTitle: Price Guide
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
