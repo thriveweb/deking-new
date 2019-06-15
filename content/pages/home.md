@@ -70,7 +70,7 @@ videoContent: >-
   Thinking about a new maintenance free deck? Trex Composite decking looks great
   every day, year after year... Making memories with your family and friends.
   Learn more about Trex composite decking and our 25-year warranty!
-videoURL: 'https://www.dekingdecks.com.au/projects/carindale-trex-pool-deck/'
+videoURL: 'https://youtu.be/R2llGx5DSx0'
 priceTitle: Deck and Patio Calculators
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
