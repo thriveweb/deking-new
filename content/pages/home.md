@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-externalVideoURL: 'https://clients.thrivex.io/dekingdecks/Commercial_Poolside.mp4'
+externalVideoURL: ''
 videoPoster: /images/uploads/dekingdecks-timber-deck.jpg
 title: Let's start your new deck and patio together
 featuredImage: /images/uploads/11.jpg
@@ -70,7 +70,7 @@ videoContent: >-
   Thinking about a new maintenance free deck? Trex Composite decking looks great
   every day, year after year... Making memories with your family and friends.
   Learn more about Trex composite decking and our 25-year warranty!
-videoURL: ''
+videoURL: 'https://clients.thrivex.io/dekingdecks/Commercial_Poolside.mp4'
 priceTitle: Deck and Patio Cost Calculators
 priceDescription: >-
   Enter your dream decking dimensions into our online calculator for an
