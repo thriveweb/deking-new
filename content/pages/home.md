@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-externalVideoURL: ''
+externalVideoURL: 'https://clients.thrivex.io/dekingdecks/Commercial_Poolside.mp4'
 videoPoster: /images/uploads/dekingdecks-timber-deck.jpg
 title: Let's start your new deck and patio together
 featuredImage: /images/uploads/11.jpg
