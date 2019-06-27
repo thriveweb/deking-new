@@ -68,9 +68,11 @@ bannerButton:
   link: ''
 categories: []
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/services/deck-treatments-maintenance/'
   description: >-
-    Deck Oil or Acrylic for Treatment and Maintenance. Here what DeKing Decks
-    have to say about the best options for Australian Decks
-  title: 'Deck Treatment and Maintenance: Deck Oil or Acrylic | DeKing Decks'
+    Deck Treatment and Maintenance Services - Deck Oil or Acrylic for Treatment
+    and Maintenance. Here what DeKing Decks have to say about the best options
+    for Australian Decks
+  title: 'Deck Treatment and Maintenance Brisbane, Gold Coast & SE QLD'
 ---
 
