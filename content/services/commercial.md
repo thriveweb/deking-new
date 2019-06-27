@@ -11,7 +11,7 @@ excerpt: >-
   more...
 welcomeTitle: Commercial Decking
 welcomeDescription: >-
-  Deking Pty Ltd has designed and built commercial decks, boardwalks, pergolas
+  DeKing Pty Ltd has designed and built commercial decks, boardwalks, pergolas
   and patios throughout the greater Brisbane, Gold Coast, and Sunshine Coast
   areas. Getting the ultimate timber deck or boardwalk for your riverside
   restaurant, hotel pool, beachfront esplanade, community pool, vineyard
