@@ -32,7 +32,7 @@ otherLocation:
   - email: info@dekingdecks.com.au
   - phone: +617 3804 6400
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/contact/'
   description: >-
     Contact Deking Decks: Deck builder of timber decks, outdoor deck design,
     pool deck design, patio roofing and more 1800 335 464
