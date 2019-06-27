@@ -12,12 +12,12 @@ bannerButton:
   label: Enquire
   link: contact
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/'
   description: >-
     Decking Gallery - deck designs and photos. Please visit our gallery to view
     our timber decking designs in Brisbane, Ipswich, Logan, Sunshine Coast, Gold
     Coast and surrounds
   noindex: false
-  title: 'Decking Designs Brisbane, Timber Deck Design, Decking Gallery'
+  title: 'Decking Designs Brisbane, Gold Coast Deck Design, Decking Gallery'
 ---
 
