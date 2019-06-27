@@ -112,7 +112,7 @@ bannerButton:
   label: Enquire
   link: contact
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/about/process/'
   description: >-
     Working together with Deking provides clarity and confidence from initial
     contact to completion in 6 simple steps.
