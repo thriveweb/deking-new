@@ -6,7 +6,7 @@ date: '2019-06-27'
 featuredImage: /images/uploads/deking-some-types-of-decks-brisbane-gold-coast-australia.png
 shortDescription: >-
   15 types of decks that you might see in Australia. Particularly in Southeast
-  QLD where DeKing Decks would be happy to build one for you
+  QLD where DeKing Decks would be happy to build one for you.
 categories:
   - category: Decks and Patio Roofing
 meta:
@@ -18,7 +18,7 @@ meta:
   noindex: false
   title: '15 Types of Decks Brisbane, Gold Coast Australia [Infographic]'
 ---
-There are at least 15 different types of decks suitable to add to the front, back, or side of your house or even as a freestanding deck.
+There are at least 15 different types of decks suitable to add to the front, back, or side of your house. You could even add a freestanding deck. They can come with or without patio roofing.
 
 DeKing Decks would be happy to build any of these for you if you are in living in South East QLD
 
