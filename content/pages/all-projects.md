@@ -14,8 +14,10 @@ bannerButton:
 meta:
   canonicalLink: ''
   description: >-
-    View our gallery for inspiration for your new project. Use our Decking
-    Calculators for a Free Quote
+    Decking Gallery - deck designs and photos. Please visit our gallery to view
+    our timber decking designs in Brisbane, Ipswich, Logan, Sunshine Coast, Gold
+    Coast and surrounds
   noindex: false
-  title: Our Projects | Deking Decks
+  title: 'Decking Designs Brisbane, Timber Deck Design, Decking Gallery'
 ---
+
