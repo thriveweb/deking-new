@@ -25,7 +25,7 @@ bannerButton:
   label: Enquire
   link: contact
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/about/join/'
   description: >-
     We are always on the lookout for motivated and enthusiastic team members
     that want to make a difference to people's way of life.
