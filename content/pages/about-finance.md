@@ -65,7 +65,7 @@ learnMore: HSBC Finance for For Decks & Patios
 learnMoreImage: /images/uploads/hsbc-logo.jpg
 learnMoreLink: 'https://www.hsbc.com.au/credit-cards/products/classic/retailer-sign-up/'
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/about/finance/'
   description: >-
     Deck Finance Options with Interest Free Payments Brisbane, Logan, Ipswich,
     Sunshine Coast and Gold Coast. Build your dream deck now and pay later.
