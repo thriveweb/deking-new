@@ -43,7 +43,7 @@ bannerButton:
   label: Enquire
   link: contact
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/about/guarantees/'
   description: >-
     The 25 Year Structural Guarantee is specific to the initial purchaser and is
     transferable to new owners of the home if they agree into the maintenance
@@ -51,3 +51,4 @@ meta:
   noindex: false
   title: Our Guarantees | Deking Decks
 ---
+
