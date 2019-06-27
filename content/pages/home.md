@@ -193,7 +193,7 @@ reviews:
       Thanks guys, we love our new deck.”
     title: We loved the clear communication and punctuality.
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/'
   description: >-
     DeKing Decks are Quality Deck Builders with over 15 years servicing the Gold
     Coast to Sunshine Coast with affordable beautiful Timber Decking & Patio
