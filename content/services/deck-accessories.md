@@ -74,7 +74,6 @@ servicePods:
       attached to the deck surface with a handrail of either merbau 90x42mm or
       stainless steel.
     podImage: /images/uploads/caloundra-2-660x1024.jpg
-
     podsTitle: Glass Fencing & Balustrades
   - podDescription: >-
       Stainless steel wire balustrades provide an unobstructed view from your
@@ -110,8 +109,10 @@ bannerButton:
   link: contact
 categories: []
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/services/deck-accessories/'
   description: >-
     We don't just stop at building you a deck or patio roof, there is a full
     catalogue of add ons and accessories that are also available.
   title: Deck Accessories | Deking Decks
 ---
+
