@@ -199,6 +199,6 @@ meta:
     Coast to Sunshine Coast with affordable beautiful Timber Decking & Patio
     Roofing.
   noindex: false
-  title: Decks Brisbane & Gold Coast | Timber Deck Builders
+  title: Decks Brisbane & Gold Coast | Timber Deck Builders SE QLD
 ---
 
