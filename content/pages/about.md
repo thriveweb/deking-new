@@ -63,7 +63,7 @@ qualificationsLogos:
       http://www.onlineservices.qbcc.qld.gov.au/OnlineLicenceSearch/VisualElements/ShowDetailResultContent.aspx?LicNO=1042297&licCat=LIC&name=&firstName=&searchType=Contractor&FromPage=SearchContr
     logo: /images/uploads/qbcc-licence.png
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/about/'
   description: >-
     DeKing Decks is the king of outdoor decking when it comes to the design and
     installation of outdoor decking, verandas, pool decking, and patio roofing.
