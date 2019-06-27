@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: Timber decks
+title: Timber Decks
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
@@ -104,6 +104,6 @@ meta:
     DeKing are Timber Decking specialists in Brisbane, Ipswich, Logan, the Gold
     Coast and Sunshine Coast. Use our Decking Calculators for a Free Quote.
   noindex: false
-  title: 'Timber Deck Builder Specialists Brisbane | DeKing Decks '
+  title: 'Timber Deck Builders Brisbane, Gold Coast, Sunshine Coast & SE QLD'
 ---
 
