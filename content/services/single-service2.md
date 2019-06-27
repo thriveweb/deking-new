@@ -143,11 +143,12 @@ bannerButton:
 categories:
   - category: Patio Roofs
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/services/patio-roofs/'
   description: >-
-    DeKing is the Outdoor Decking specialists in South East Queensland. Use our
-    Decking and Patio Roofing Calculators for a Free Quote
+    Patio Roofing by DeKing. Specialists in deck, verandah and patio roofing.
+    Installer of Insulated Cooldek Range and Stratco Outback Flyover. Use our
+    Patio Roofing Calculators for a Free Quote
   noindex: false
-  title: 'Deck and Patio Roofing Brisbane, Gold Coast, Sunshine | DeKing Decks'
+  title: 'Patio Roofing Brisbane, Gold Coast, Sunshine Coast: Installation'
 ---
 
