@@ -20,7 +20,7 @@ meta:
 ---
 There are at least 15 different types of decks suitable to add to the front, back, or side of your house. You could even add a freestanding deck. They can come with or without patio roofing.
 
-DeKing Decks would be happy to build any of these for you if you are in living in South East QLD
+DeKing Decks would be happy to build any of these for you if you are in living in South East QLD and the surrounding area.
 
 ## 15 Australian Deck Types Infographic
 
