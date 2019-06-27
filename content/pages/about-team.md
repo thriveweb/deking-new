@@ -147,7 +147,7 @@ bannerButton:
   label: Enquire
   link: contact
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/about/team/'
   description: >-
     Our team is happy to work with you to meet your individual home improvement
     needs. Try out our quote calculator or price guide and make an appointment
