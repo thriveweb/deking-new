@@ -89,12 +89,12 @@ bannerButton:
 categories:
   - category: Pool Decking
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/services/pool-decking/'
   description: >-
     DeKing Decks are Timber Pool Deck building specialists creating better
     lifestyles for you. Pool Decking Services from the Sunshine Coast to the
     Gold Coast.
   noindex: false
-  title: 'Pool Decking Brisbane, Timber Pool Deck Builders: DeKing '
+  title: 'Pool Decking Brisbane, Gold Coast: Timber Pool Deck Builders'
 ---
 
