@@ -10,9 +10,12 @@ bannerButton:
   label: Quote calulator
   link: 'https://dekingdecks.thrivex.xyz/quote-calculator/'
 meta:
-  canonicalLink: ''
-  description: Use our Decking Calculators for a Free Quote
+  canonicalLink: 'https://www.dekingdecks.com.au/services/'
+  description: >-
+    Deking create Timber decks and Patio roofing, Pool Decking, Commercial
+    Decking, ECO Decking, Gazebos and Outdoor Rooms, as well as Deck Treatment,
+    Maintenance and Accessories. Use our Decking Calculator for a Free Quote
   noindex: false
-  title: All Services | Deking Decks
+  title: 'Decks Logan, Ipswich, Redlands, Bayside, Moreton Bay, Scenic Rim'
 ---
 
