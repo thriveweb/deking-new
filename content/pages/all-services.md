@@ -12,7 +12,7 @@ bannerButton:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/services/'
   description: >-
-    Deking create Timber decks and Patio roofing, Pool Decking, Commercial
+    DeKing create Timber decks and Patio roofing, Pool Decking, Commercial
     Decking, ECO Decking, Gazebos and Outdoor Rooms, as well as Deck Treatment,
     Maintenance and Accessories. Use our Decking Calculator for a Free Quote
   noindex: false
