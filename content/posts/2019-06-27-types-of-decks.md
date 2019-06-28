@@ -22,7 +22,7 @@ There are at least 15 different types of decks suitable to add to the front, bac
 
 DeKing Decks would be happy to build any of these for you if you are in living in South East QLD and the surrounding area.
 
-## 15 Australian Deck Types Infographic
+## 15 Australian Deck Types 
 
 ![null](/images/uploads/types-of-decks-by-deking-decks.png)
 
