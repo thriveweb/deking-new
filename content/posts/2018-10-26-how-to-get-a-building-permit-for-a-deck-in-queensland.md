@@ -16,7 +16,7 @@ meta:
     Find out how to get a building permit to build a deck in Queensland. DeKing
     Decks can help you at every stage of the process, from planning to
     completion.
-  title: How to Get a Building Permit for a Deck in Queensland? | Deking Decks
+  title: 'How to Get a Building Permit for a Deck in Queensland? | Deking '
 ---
 Getting a building permit for a deck in Queensland isn’t usually difficult. But it does require some careful planning and a course of action.
 
