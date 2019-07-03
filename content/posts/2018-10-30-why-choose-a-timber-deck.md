@@ -10,10 +10,11 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/why-choose-a-timber-deck/'
   description: >-
     Building A Timber Deck in Queensland. There’s plenty of reasons why
     Queenslanders choose timber decking above all others. Climate is one thing
-  title: Building A Timber Deck in Brisbane- Why Choose Timber?
+  title: Timber Decking Benefits & Advantages in SE Queensland
 ---
 There’s plenty of reasons why Queenslanders choose [timber decking](https://www.dekingdecks.com.au/categories/timber-decks/) above all others.
 
