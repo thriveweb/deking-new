@@ -15,7 +15,7 @@ meta:
   description: >-
     Pool Decking Options - The right deck can enhance your pool, garden and
     home; increase your outdoor living area plus the resale value of your home.
-  title: 'Pool Decking Options, Advantages and Tips | Deking Decks'
+  title: 'Pool Decking Options, Advantages and Tips SE QLD'
 ---
 [Pool decking](https://www.dekingdecks.com.au/services/pool-decking/) if done right can substantially increase the aesthetic look of your pool increasing your enjoyment of sunny days spent around the pool.
 
@@ -79,4 +79,4 @@ See some more of our [Pool Decking designs](https://www.dekingdecks.com.au/categ
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/)  to get a more accurate estimate.
