@@ -17,13 +17,13 @@ meta:
     servicing South East Queensland for over 15 years and can build your dream
     patio.
   noindex: false
-  title: 'Outdoor Patio Ideas Brisbane, Gold Coast, SE QLD'
+  title: '7 Outdoor Patio Ideas Brisbane, Gold Coast, SE QLD'
 ---
 Backyard summer parties are iconic in Queensland. Whether it’s a pool party, cocktail party, or something more laid-back, like a dinner party, every summer party needs a patio.
 
 When the sun goes down and the heat dips with it, it’s party time in the sunshine state. So why not create the perfect entertaining area with a high-quality wooden deck from DeKing Decks?
 
-## Outdoor Patio Ideas
+## 7 Outdoor Patio Ideas
 
 **1. Indoor / Outdoor room with extra pergola roofing**
 
@@ -51,9 +51,9 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 
 
-7. 
+**7. Build a Deck over the existing Patio**
 
-![]()
+![](/images/uploads/deck-1-2.jpg)
 
 
 
