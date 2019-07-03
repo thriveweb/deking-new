@@ -25,23 +25,27 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 ## Outdoor Patio Ideas
 
-1. Indoor / Outdoor room with extra pergola roofing
+**1. Indoor / Outdoor room with extra pergola roofing**
 
 ![Why Every Summer Party Needs a Patio](/images/uploads/why-every-summer-party-needs-a-patio.jpg)
 
-2. Timber patio with patio roofing to extend your living space
+**2. Timber patio with patio roofing to extend your living space**
 
 ![](/images/uploads/deking-timber-deck-and-patio-roofing.jpg)
 
-3. Create a whole extra living space with a tiled patio and patio roofing
+**3. Create a whole extra living space with a tiled patio and patio roofing**
 
 ![](/images/uploads/patios-verandah-carport-outback-gable-04.jpg)
 
-4.
+**4. Add a patio roof to an already existing outdoor area to make it useful in all weather conditions**
+
+![](/images/uploads/cooldekredlandbaymerbauposts.jpg)
 
 
 
+5.
 
+![]()
 
 
 
