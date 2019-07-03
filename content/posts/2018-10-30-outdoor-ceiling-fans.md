@@ -10,6 +10,7 @@ shortDescription: >-
 categories:
   - category: Deck Accessories
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/outdoor-ceiling-fans/'
   description: >-
     Outdoor Ceiling Fans: Considering a luxury outdoor ceiling fan on a deck.
     Now recognised as a necessary & valuable addition to any outdoor living
