@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Pool Decking
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/in-ground-pool-decking-options/'
   description: >-
     By choosing the right kind of pool decking, you’ll have a durable and
     long-lasting deck and that means value for money.
