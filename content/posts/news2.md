@@ -11,7 +11,8 @@ shortDescription: >-
 categories:
   - category: Patio Roofing
 meta:
-  canonicalLink: ''
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/deck-insulation-and-patio-roofing-insulation/
   description: >-
     Just like you insulate the inside of your home, to keep you cool in summer
     and warm in winter, you can also install insulation for patio roofing.
