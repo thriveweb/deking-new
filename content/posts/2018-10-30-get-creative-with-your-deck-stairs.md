@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Handrails and Stairs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/get-creative-with-your-deck-stairs/'
   description: >-
     Deck Stairs - check out our 4 creative ideas for your deck stairs. DeKing
     Decks services Brisbane, Logan, Ipswich, Sunshine Coast, and the Gold Coast
