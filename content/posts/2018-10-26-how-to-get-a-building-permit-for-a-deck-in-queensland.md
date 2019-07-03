@@ -10,6 +10,8 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/how-to-get-a-building-permit-for-a-deck-in-queensland/
   description: >-
     Find out how to get a building permit to build a deck in Queensland. DeKing
     Decks can help you at every stage of the process, from planning to
