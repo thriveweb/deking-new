@@ -10,6 +10,8 @@ shortDescription: >
 categories:
   - category: Treatment and Maintenance
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/what-is-the-best-wood-deck-treatment-in-queensland/
   description: >-
     What is the Best Wood Deck Treatment in Queensland? and How do I apply it?
     Find out the answers from DeKing the decking specialists
