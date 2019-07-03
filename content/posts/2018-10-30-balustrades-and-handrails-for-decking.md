@@ -26,20 +26,24 @@ In South East Queensland and other parts of the country, balustrades may come in
 
 **Here are some of the basic types of balustrade-handrail system you might consider:**
 
-* Glass
+* **Glass**
   * A system consisting of a glass balustrade combined with handrails made either from stainless steel or timber. Most structural glass systems have lowered their prices over the years, making them more affordable for most consumers.
 
 ![glass balustrade combined with handrails](/images/uploads/balustrade_handrail_stainlesssteelwire.jpg)
 
-* Stainless steel
+* **Stainless steel**
   * A type of balustrade-handrail system where all the components are entirely made from stainless steel. There are also other hybrid models available in the market today. For example, a 
 
 ![Steel balustrade-handrail system](/images/uploads/commercial-deck-at-southport-gold-coast-deking-decks.jpg)
 
 ![stainless steel balustrade handrails  timber.](/images/uploads/deking-stainless-steel-handrail-1024x768.jpg)
 
-* 3kN system
+* **3kN system**
   * A type of protective barrier which consists of handrails that have larger diameters and made from stainless steel. This type is most suitable for assembly buildings where handrails receive the greatest stress.
+* **Wooden**
+  * Both the handrails and balustrades can be made from timber
+
+![timber handrails and balustrades](/images/uploads/10.jpg)
 
 These are just some of the handrail and balustrade types which you can consider when building your home interior or timber decks.
 
