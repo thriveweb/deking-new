@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Decks and Patio Roofing
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/deck-patio-combination-ideas/'
   description: >-
     When a customer is looking to add an interesting feature to their home there
     are a number of deck patio combination ideas that are practical and
