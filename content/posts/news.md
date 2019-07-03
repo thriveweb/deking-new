@@ -11,10 +11,10 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/patio-roofing-options/'
   description: >-
-    DeKing Decks are experts at building patio roofs to suit your needs. Use our
-    Patio Roofing Calculators for a Free Quote.
+    DeKing Decks are experts at building patio roofs to suit your needs and are
+    located in SE QLD. Use our Patio Roofing Calculators for a Free Quote.
   noindex: false
-  title: 'Outdoor Patio Roofing Options: Types & Materials - Brisbane'
+  title: 'Outdoor Patio Roofing Options Brisbane, Gold Coast SE QLD'
 ---
 Are you thinking of adding a patio roof to your house, but aren’t sure what kind you’d like or what is possible? No problem. We are experts at building patio roofs to suit your needs. You can customise your roof in a variety of ways with our range of patio roofing options.
 
