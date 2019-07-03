@@ -40,7 +40,7 @@ This works especially well in the Queensland climate, where we like to enjoy the
 
 ## Reduced Yard Maintenance
 
-![Deck Patio Combination Ideas - Deking Decks Brisbane](/images/uploads/deking-decks-brisbane-deck-patio-combination-ideas.jpg)
+![Deck Patio Combination Ideas - Deking Decks Brisbane](/images/uploads/homebannerrefresh.jpg)
 
 A deck patio combination also allows for reduced yard maintenance as well. Especially in smaller homes, townhouses or split level homes a deck can be built into the house and a patio can be installed, replacing partially or fully any grass or garden. This reduces weekly garden maintenance and is especially appealing for those who are time poor or are no longer mobile enough to do their own garden maintenance. Importantly however, a selection of low maintenance pot plants can be incorporated into the patio décor to ensure the area still feels vibrant and alive.
 
