@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Outdoor Kitchens
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/need-outdoor-kitchen-ideas/'
   description: >-
     DeKing Decks can build you a beautiful outdoor kitchen to your
     specifications. Read this article for outdoor kitchen ideas and
