@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Can I Build a Deck over Concrete, Pools or Septic Tanks?'
 status: Published
 date: '2016-09-29'
-featuredImage: /images/uploads/garage-deck-and-roof.jpg
+featuredImage: /images/uploads/bracken-ridge-3-.jpg
 shortDescription: >-
   So you want to build a deck over the top of something else—like a concrete
   patio, pool or septic tank—and you’re not sure if you’re allowed?
@@ -51,7 +51,7 @@ Yes you can. And it may sound like a nifty solution, but not many people end up 
 
 Yes, you can do this as well. However, keep in mind that if you build a deck over a septic tank, you’ll need adequate space to access it and service it. You’ll also need space for ventilation.
 
-![Can I Build A Deck Over Concrete Patio, Pool Or Septic Tank?](/images/uploads/garage-deck-and-roof.jpg)
+![Can I Build A Deck Over Concrete Patio, Pool Or Septic Tank?](/images/uploads/8xxojs-oqfojkartuimtkg.jpg)
 
 ## Can I build a deck over an air conditioner unit?
 
