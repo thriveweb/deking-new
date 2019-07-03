@@ -3,7 +3,7 @@ template: SinglePost
 title: How to Build a Deck
 status: Published
 date: '2014-07-27'
-featuredImage: /images/uploads/how-to-build-a-deck-step-by-step-instructions.jpg
+featuredImage: /images/uploads/8xxojs-oqfojkartuimtkg.jpg
 shortDescription: >-
   Building your own deck can be a challenging and stressful process, but if done
   the right way, it can be a great space for your family to enjoy for many
@@ -15,7 +15,7 @@ meta:
   description: >-
     How to Build a Deck - DIY Decking Kits from DeKing provide you with all you
     need to construct a deck providing an outside area for your family to enjoy.
-  title: 'How to Build a Deck: Step by Step Instructions | Deking Decks'
+  title: 'How to Build a Deck in SE QLD: Step by Step Instructions | Deking Decks'
 ---
 Building your own deck can be a challenging and stressful process, but if done the right way, it can be a great space for your family to enjoy for many years. Well-built decks can also add value to your property. [DIY Decking Kits from DeKing](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/) can give you a great start towards completing the DIY deck of your dreams. These step-by-step instructions can help you along the way!
 
@@ -45,11 +45,17 @@ Once you have fixed your plate and determined your bearer height, you need to tr
 
 To attach the bearers to the stumps, you can drive nails through the bearer and into the stumps at an angle. You can also use framing anchors and nail plates if you would like. Continually check all of your levels and angles throughout the framing process. The joists should set on top of the bearers every 400 to 600mm.
 
+![](/images/uploads/white-ant-repair.jpg)
+
+## 
+
 ## Step 5: Laying Your Decking
 
 Since the surface will always be the most visible part of the deck, you should take plenty of time to ensure accuracy during this step. Each board of decking material needs to be square to the existing structure as well as the other boards. Although quality decking boards are dressed, you will undoubtedly run into a few bowed boards. Take care to ensure you are easing the bow as you nail the boards into place.
 
 Drive one galvanised decking nail about 15mm from each board edge to secure the boards. Remember to leave a gap of approximately 4mm between each board for drainage. To avoid splitting, you can drill each board end before nailing. Always make sure that the joins in each board are staggered and occur on top of a joist. Leave some extra length overhanging on your boards so that you can cut them with a saw after completing the step. This will help you achieve a straight edge.
+
+![]()
 
 ## Step 6: Finishing
 
@@ -57,10 +63,8 @@ The finishing stage of your deck depends greatly on the materials you have chose
 
 Now that you’ve completed the finishing step, you can sit back and enjoy your work! Remember that the [DIY Decking Kits](https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/) from [DeKing](https://www.dekingdecks.com.au/) are a great option for making this project easier on you.
 
-If however you would like us to professionally build a deck for you click on the links and find out how we can help you add an attractive outdoor living space to your home.
+If however you would like us to professionally build a deck for you[ click here to see our decking calculator](https://www.dekingdecks.com.au/quote-calculator/) and find out how we can help you add an attractive outdoor living space to your home.
 
 ![How to Build a Deck.: Step by Step Instructions](/images/uploads/how-to-build-a-deck-step-by-step-instructions.jpg)
-
-**DeKing Deck Service Areas:**
 
 DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
