@@ -29,7 +29,11 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 ![Why Every Summer Party Needs a Patio](/images/uploads/why-every-summer-party-needs-a-patio.jpg)
 
-2. 
+2. Timber patio with patio roofing to extend your living space
+
+![](/images/uploads/deking-timber-deck-and-patio-roofing.jpg)
+
+3. 
 
 
 
