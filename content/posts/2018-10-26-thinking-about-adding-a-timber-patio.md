@@ -14,7 +14,7 @@ meta:
     DeKing Decks design and build high-quality timber patios that are durable
     and affordable. With over 15 years' experience, we can build your dream
     timber patio.
-  title: Timber Patios Designs and Ideas | Deking Decks
+  title: 'Timber Patios Designs and Ideas Brisbane, Gold Coast SE QLD'
 ---
 Timber patios are a way of life in Queensland. You may remember the famous GANGgajang song, _Sounds Of Then_, that captured the essence of life on a patio so perfectly. As the song goes, _‘Out on the patio we sit / and the humidity we breathe / we’d watch the lightning crack over canefields / laugh and think, this is Australia’_. It’s practically in our blood—no wonder we love patios so much!
 
@@ -80,4 +80,4 @@ If you have any questions or would like more information about our range of timb
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
