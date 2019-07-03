@@ -9,7 +9,7 @@ shortDescription: 'How to Choose the Right Patio Roof, and Why They’re Always 
 categories:
   - category: Patio Roofing
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/patio-roofing-options/'
   description: >-
     DeKing Decks are experts at building patio roofs to suit your needs. Use our
     Patio Roofing Calculators for a Free Quote.
