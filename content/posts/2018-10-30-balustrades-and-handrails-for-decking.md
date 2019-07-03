@@ -32,7 +32,12 @@ In South East Queensland and other parts of the country, balustrades may come in
 ![glass balustrade combined with handrails](/images/uploads/balustrade_handrail_stainlesssteelwire.jpg)
 
 * Stainless steel
-  * A type of balustrade-handrail system where all the components are entirely made from stainless steel. There are also other hybrid models available in the market today. For example, a stainless steel balustrade may be accompanied by handrails made from other materials like nylon or timber.
+  * A type of balustrade-handrail system where all the components are entirely made from stainless steel. There are also other hybrid models available in the market today. For example, a 
+
+![Steel balustrade-handrail system](/images/uploads/commercial-deck-at-southport-gold-coast-deking-decks.jpg)
+
+![stainless steel balustrade handrails  timber.](/images/uploads/deking-stainless-steel-handrail-1024x768.jpg)
+
 * 3kN system
   * A type of protective barrier which consists of handrails that have larger diameters and made from stainless steel. This type is most suitable for assembly buildings where handrails receive the greatest stress.
 
