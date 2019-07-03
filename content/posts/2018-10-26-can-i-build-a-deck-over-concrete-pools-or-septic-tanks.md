@@ -10,6 +10,8 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/can-i-build-a-deck-over-concrete-pools-or-septic-tanks/
   description: >-
     Find out if you can build a deck over the top of things like a concrete
     patio, swimming pool, septic tank, air conditioner, and pavers, with DeKing
