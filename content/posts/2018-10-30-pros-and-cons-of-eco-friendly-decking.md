@@ -12,10 +12,9 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/pros-and-cons-of-eco-friendly-decking/'
   description: >-
-    Eco Friendly Decking - Pro and Cons: Eco decking is becoming increasing
-    popular. There are many reasons for eco decking. Here are the pros and cons
-    listed.
-  title: Pros and Cons of Eco Friendly Decking | Deking Decks
+    Eco Friendly Decking Pros and Cons. Eco decking is becoming increasingly
+    popular. There are many reasons to use eco decking in South East QLD
+  title: 'Eco Friendly Decking Pros and Cons: DeKing Decks SE QLD'
 ---
 Eco decking is becoming increasing popular.  There are many reasons for this – the pros and cons of an eco deck are listed below.
 
