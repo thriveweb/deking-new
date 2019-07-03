@@ -11,6 +11,7 @@ shortDescription: >
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/small-deck-ideas-for-outdoor-living/'
   description: >-
     Small outdoor decks can be a challenge. We would like to share five small
     deck ideas we have obtained in making the most of small outdoor decking
