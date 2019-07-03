@@ -18,7 +18,7 @@ meta:
     something really special. It becomes a comfortable space for entertaining
     all year round.
   noindex: false
-  title: 'Insulated Patio Roofing Options SE QLD: Types & Materials | Deking Decks'
+  title: 'Insulated Patio Roofing Options SE QLD: Types & Materials '
 ---
 An insulated patio roof will transform your patio from something great to something really special. It becomes a comfortable space for entertaining or relaxing, all year round.
 
