@@ -13,9 +13,9 @@ meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/decking-mistakes-to-avoid/'
   description: >-
     There are some common timber decking mistakes to avoid when installing a
-    deck in your home. DeKing looks at some of these so you don't repeat these
-    mistakes
-  title: Decking Mistakes to Avoid - Timber Decks
+    deck in your home in Queensland. DeKing wants to help you avoid these costly
+    errors.
+  title: 'Decking Mistakes to Avoid in QLD Australia: DeKing Decks'
 ---
 A well designed and built timber deck can be a wonderful addition to your home in terms of beauty, functionality and monetary value to your property.
 
