@@ -23,6 +23,8 @@ It is more cost effective and practical to have your pool and or pool and spa bu
 
 If you are reading this article, you are probably already considering timber decking around your pool, however in case you have missed a few we have listed some of the advantages of pool decking below.
 
+![pool decking with a view](/images/uploads/deck-and-patio-cover-designs-brisbane-australia-patio-roofs.jpg)
+
 ## Advantages of Pool Decking
 
 * Wooden decks are more flexible than paved or concrete pool surrounds and is thus more child friendly in the event of a fall.
