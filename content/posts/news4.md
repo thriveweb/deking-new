@@ -33,7 +33,11 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 ![](/images/uploads/deking-timber-deck-and-patio-roofing.jpg)
 
-3. 
+3. Create a whole extra living space with a tiled patio and patio roofing
+
+![](/images/uploads/patios-verandah-carport-outback-gable-04.jpg)
+
+4.
 
 
 
