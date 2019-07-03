@@ -26,8 +26,14 @@ Climate is one thing; they want a space that can withstand direct sunlight and t
 
 * They offer good aesthetic value
   * Timber decks are made from natural woods that are harvested through legal means. And aside from durability, they are also known for their attractive, rich colors. There are different variations of wood with unique color shades for each—something that not even the best artwork will be able to replicate.
+
+![](/images/uploads/image-13.jpg)
+
 * They are very durable
   * Hardwood timbers are graded based on their durability. As a standard, Class 1 timbers offer the most quality. They are designed to withstand harsh climates and can handle the biggest BBQ party you can throw at it.
+
+![](/images/uploads/flat-outback-05.jpg)
+
 * They are environment-friendly
   * Timber decks mostly come from natural woods that carry Forest Stewardship Council (FSC) trademark. In other words, they were harvested using legal means and are also proven to be bio-degradable or safe for general use. Remember that trees take carbon out of our environment and store it for life.
 * They provide uniformity
