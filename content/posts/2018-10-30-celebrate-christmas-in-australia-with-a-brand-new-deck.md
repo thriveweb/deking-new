@@ -41,7 +41,7 @@ DeKing Decks have been building world-class timber decks since 2003. We’re a l
 
 We’ve been ‘beating Santa to the punch’ for ages, delivering quality decks in time for many South East Queensland homes just in time for Christmas.
 
-![](/images/uploads/bracken-ridge-3-.jpg)
+![Outdoor deck for family](/images/uploads/bracken-ridge-3-.jpg)
 
 ## How Much will my New Timber Deck Cost?
 
@@ -55,7 +55,7 @@ Alternatively, if you’re the kind of person who likes to talk through your opt
 
 ## Want a Deck for Christmas? Call now
 
-![](/images/uploads/price-back.jpg)
+![outdoor entertaining deck](/images/uploads/price-back.jpg)
 
 If you want a deck for Christmas, now is the time to act. [Contact us at DeKing Decks](https://www.dekingdecks.com.au/contact/). See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking and or Patio Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate. We’ll do everything we can to get your deck finished to perfection in time for Christmas. And we guarantee it will be the most exciting present you never unwrap.
 
