@@ -29,11 +29,13 @@ One of the most commonly overlooked aspects of deck landscaping is fragrance. By
 
 You should have an idea of what you want to achieve with the fragrances. For example, if you’d like an intense aromatic experience near the outdoor dining table, you may want to position fragrant flowers such as jasmine close by. If you are going for a more subtle experience, you can add distance between the fragrances and your deck The direction of the wind can also play a role in positioning.
 
+![Deck landscaping with plants](/images/uploads/cooldekrooflightsvictoriapoint.jpg)
+
 **Use Pots for Small Trees**
 
 Planting small trees in large artistic pots adds a lot of charm to any deck landscaping design, especially if you don’t have much fresh ground to work with. Potted trees can serve as important distractions from bare walls or other objects you don’t want your guests to notice. You can also use them as visual partitions and for added privacy.
 
-![](/images/uploads/small-deck-ideas-for-outdoor-living-2.jpg)
+![](/images/uploads/3.jpg)
 
 ## Not so Good Deck Landscaping Options...
 
