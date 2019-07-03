@@ -13,12 +13,11 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/small-deck-ideas-for-outdoor-living/'
   description: >-
-    Small outdoor decks can be a challenge. We would like to share five small
-    deck ideas we have obtained in making the most of small outdoor decking
-    areas.
-  title: Small Deck Ideas for Outdoor Living | Deking Decks
+    Small outdoor decks can be a challenge. We share five small deck ideas to
+    make the most of small outdoor spaces in SE Queensland.
+  title: 'Small Deck Ideas for Outdoor Living in Brisbane, Gold Coast, Logan'
 ---
-Small outdoor decking areas can be a challenge and over the years we have faced this challenge many times.  We would like to share with you five small deck ideas we have obtained in making the most of small outdoor decking areas.
+Small outdoor decking areas can be a challenge and over the years we have faced this challenge many times.  We share five small deck ideas to make the most of small outdoor spaces.
 
 ## Visually Larger Small Deck Ideas
 
@@ -42,6 +41,8 @@ Just because your small space is an unusual shape or the land is sloping, this d
 
 Decks do not have to be square or rectangular but can be curved to ensure that all possible area is used.  Also if your small garden area is uneven, decks can be built in tiers or steps can resolve that problem for you.
 
+![small outdoor deck curved](/images/uploads/ee98aec45f32ee80141aabff3e02ef32.jpg)
+
 ## Vertical Feature
 
 A small horizontal space will appear larger if a vertical feature is included.  This draws the eye up and gives the illusion of a larger area.  This can easily be done by incorporating a narrow vertical plant such as a pot of bamboo.
@@ -55,6 +56,8 @@ A small outdoor decking area that is is overlooked or has a neighbour’s home v
 This does not have to be the case.  One solution is to make the privacy wall feature such as has been done in the image below.
 
 Another solution is to install outdoor shutters which will provide you with privacy but also light and an outlook.
+
+![](/images/uploads/8xxojs-oqfojkartuimtkg.jpg)
 
 ## For more ideas
 
