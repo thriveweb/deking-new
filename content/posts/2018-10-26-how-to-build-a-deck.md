@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/how-to-build-a-deck/'
   description: >-
     How to Build a Deck - DIY Decking Kits from DeKing provide you with all you
     need to construct a deck providing an outside area for your family to enjoy.
