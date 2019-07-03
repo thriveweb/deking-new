@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/deck-landscaping-ideas/'
   description: >-
     How to Landscape Around a Deck. Landscaping around a deck provides the
     finishing touches needed to create a wonderful welcoming outdoor space.
