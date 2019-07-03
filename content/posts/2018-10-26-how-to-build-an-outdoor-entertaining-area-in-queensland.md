@@ -14,7 +14,7 @@ meta:
     If you're looking to build an outdoor entertaining area in Queensland, come
     to the professionals at DeKing Decks. We have a range of DIY & luxury
     solutions.
-  title: How To Build An Outdoor Entertaining Area In Queensland
+  title: How To Build An Outdoor Entertaining Area In SE Queensland
 ---
 ## When do you want a DIY outdoor entertaining area
 
