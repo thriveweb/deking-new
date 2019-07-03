@@ -8,6 +8,7 @@ shortDescription: Many people ask why seal a wood deck. Or why do I need to seal
 categories:
   - category: Treatment and Maintenance
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/why-seal-a-wood-deck/'
   description: >-
     Why Seal a Wood Deck in Brisbane? The advantages of coating your new wood
     deck are two fold, especially living in South East Queensland
