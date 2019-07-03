@@ -14,8 +14,9 @@ meta:
     https://www.dekingdecks.com.au/posts/what-is-the-best-wood-deck-treatment-in-queensland/
   description: >-
     What is the Best Wood Deck Treatment in Queensland? and How do I apply it?
-    Find out the answers from DeKing the decking specialists
-  title: What is the Best Wood Deck Treatment in Brisbane? | Deking Decks
+    Find out the answers from DeKing the decking specialists From the Gold Coast
+    to Brisbane to Sunshine Coast
+  title: What is the Best Wood Deck Treatment in SE QLD
 ---
 I’ve just had a brand new deck built, now what?
 
