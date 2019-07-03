@@ -17,7 +17,7 @@ meta:
     When considering different deck and patio cover designs there are numerous
     things to decide, such as size, usage requirements, functionality and
     materials. 
-  title: 'Deck Roof and Patio Cover Designs, Brisbane, Gold Coast Australia'
+  title: 'Deck and Patio Roof Designs, Brisbane, Gold Coast Australia'
 ---
 When considering different deck and patio cover designs there are numerous things to decide, such as size, usage requirements, functionality and materials. Getting the design right for a [deck and patio cover](https://www.dekingdecks.com.au/services/patio-roofs/) can be the difference between a stunning addition to your home and an out-of-place novelty. In terms of functionality, it can also mean the difference between a space that you love to be in and one that you avoid.
 
@@ -37,6 +37,8 @@ But before you decide to build a deck or patio cover, there are a number of thin
 **Location of deck
 **
 
+![](/images/uploads/deck-design-process.jpg)
+
 The location of your deck is particularly important, as it will determine many of the other design factors. For example, a large backyard deck will have different design considerations to a small deck adjoining a bedroom, a high-set deck, a second story deck, an entranceway deck, or one for a swimming pool. It will also partially determine the size.
 
 **Size of deck
@@ -44,14 +46,18 @@ The location of your deck is particularly important, as it will determine many o
 
 Decks for an entranceway, bedroom or study are going to be on the smaller end of the spectrum: approximately 2m² – 16m². This means that you’ll need to choose a relatively simple design so you don’t clutter the space. You will also want a design that is easy to maintain and fits with the current design of your home.
 
+![Front deck design](/images/uploads/img_0451.jpg)
+
 However, if you’re thinking about a deck design for a swimming pool, big backyard or entertaining area, this is likely to me more than 16m². A bigger deck means you can incorporate more features into your design, like seating. The deck can even become the centrepiece of your entire property.
+
+![Deck Designs Se QLD](/images/uploads/pool_decking.jpg)
 
 **Purpose and function of deck
 **
 
 The purpose and function of your proposed deck will also influence its design and overall style. An entertaining deck may need space for a BBQ as well as electrical and plumbing. A pool deck may need seating and will need to work in around your pool. While a small deck for a bedroom may simply be used to relax in the sun.
 
-## A Deck that Blends with its Environment
+**A Deck that Blends with its Environment**
 
 If you have a garden or bush backyard, it’s a good idea to blend your deck design with the architectural flow of your home and reflect the characteristics of your property. You can further enhance and integrate your deck by adding a few well-placed plants, shrubs, and flowers.
 
@@ -79,13 +85,15 @@ Ideally, the design of your patio cover should blend with your house. If your pa
 
 Also, to get the most out of your investment, it’s important to design and position your patio cover/roof to take full advantage of light and breezes. This will enable you to enjoy your deck area all-year-round to entertain guests or simply relax.
 
-![Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs](/images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg)
-
 **Brick houses with patio covers**
+
+![Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs](/images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg)
 
 If you have an older style brick house, [Stratco roofing products](https://www.stratco.com.au/products/roofing) have a great colour and style range to help your patio cover blend in. For example, the straight lines of the [Stratco Outback](https://www.stratco.com.au/products/patios/outback) range work well with well with brick homes.
 
 **Timber houses with patio covers**
+
+![](/images/uploads/deck-5-2.jpg)
 
 If you have a timber house, you may want to consider [Colorbond roofing](https://colorbond.com/products/roofing). You can achieve a simple but effective design with a corrugated roof that will add texture and character to your house. This is usually finished with a matching balustrade or handrail on your deck to provide your outdoor entertaining area with a touch of class.
 
