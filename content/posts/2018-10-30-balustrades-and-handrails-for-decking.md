@@ -16,7 +16,7 @@ meta:
   description: >-
     Balustrades and Handrails for Decking. Here are some of the basic types of
     balustrade-handrail system you might consider for your current or new deck
-  title: 'Balustrades and Handrails for Decking in Brisbane, QLD | Deking Decks'
+  title: 'Balustrades and Handrails for Decks Brisbane, Gold Coast, SE QLD '
 ---
 Timber decks won’t be complete without handrails and balustrades. These barriers assure that your family and guests are protected from accidental falls and slips. Setting them up in your decks or home interior will greatly reduce the chances for injuries to occur.
 
@@ -39,6 +39,6 @@ If you need further assistance, the Deking team will be more than happy to show 
 
 <iframe src="https://www.youtube.com/embed/8HptJMlOyRs?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Deking Decks service Brisbane, Redlands, Bayside, Logan, the Gold Coast and Sunshine Coast**
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
