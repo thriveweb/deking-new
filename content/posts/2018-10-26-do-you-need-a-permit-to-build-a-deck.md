@@ -10,6 +10,7 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/do-you-need-a-permit-to-build-a-deck/'
   description: >-
     Thinking about building a deck or patio extension on your house? Don't
     forget that you need a permit to build a deck. Find out the steps involved.
