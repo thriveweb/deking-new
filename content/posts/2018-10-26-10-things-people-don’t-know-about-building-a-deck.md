@@ -10,6 +10,8 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/10-things-people-dont-know-about-building-a-deck/
   description: >-
     Building a Deck in QLD? - 10 things you probably don't know. For example, do
     you need a permit? how big can the deck be? can I build over a swimming
