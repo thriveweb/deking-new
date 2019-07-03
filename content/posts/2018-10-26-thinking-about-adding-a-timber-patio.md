@@ -9,6 +9,7 @@ shortDescription: Here Are Some Design Ideas to Revolutionise Your Current Livin
 categories:
   - category: Timber Patios
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/thinking-about-adding-a-timber-patio/'
   description: >-
     DeKing Decks design and build high-quality timber patios that are durable
     and affordable. With over 15 years' experience, we can build your dream
