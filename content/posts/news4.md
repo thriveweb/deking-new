@@ -41,13 +41,13 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 ![](/images/uploads/cooldekredlandbaymerbauposts.jpg)
 
+**5. Open up the kitchen so it is an indoor outdoor kitchen**
 
+![](/images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg)
 
-5.
+6. 
 
 ![]()
-
-
 
 
 
