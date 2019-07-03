@@ -12,6 +12,7 @@ shortDescription: >-
 categories:
   - category: Handrails and Stairs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/balustrades-and-handrails-for-decking/'
   description: >-
     Balustrades and Handrails for Decking. Here are some of the basic types of
     balustrade-handrail system you might consider for your current or new deck
