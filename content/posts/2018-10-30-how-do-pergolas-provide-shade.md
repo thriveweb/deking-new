@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Pergolas
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/how-do-pergolas-provide-shade/'
   description: >-
     How do Pergolas Provide Shade - Vines and creepers provide an attractive
     shade option for your pergola - or you can choose to add timber lattice
