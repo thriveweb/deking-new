@@ -56,11 +56,13 @@ If you use the right materials and hire skilled pool decking builders you should
 * Built using stainless steel nails or screws to prevent rust from forming.
 * Built to Australian Standards and include an approved pool fencing and gate with correct child safety latch.
 
-![Pool Decking Options, Advantages and Tips](/images/uploads/image-7.jpg)
+![Pool Decking Options, Advantages and Tips](/images/uploads/pink-poodle-3-copy.jpg)
 
 ## Pool Decking Design
 
 Every pool is different and you need to ensure that you obtain the right pool deck design for your pool that will ensure that it is functional as well as aesthetically pleasing. Design challenges for pool decks can include sloping blocks and unusual pool shapes.
+
+![pool deeck design](/images/uploads/deck-design-process.jpg)
 
 **Timber Pool Decking Maintenance**
 
@@ -75,7 +77,7 @@ Many people think that by laying the decking boards upside down (ridged side up)
 
 At DeKing Decks we are experts in [Pool Decking](https://www.dekingdecks.com.au/services/pool-decking/); we will advise you on the most appropriate materials and even suggest design options for you. Have a look at some of the pool decks that we have built and you will get an idea of the high standard and both attractive and functional decks that we provide for our customers.
 
-![null](/images/uploads/image-2-1024x576.jpg)
+![null](/images/uploads/pool_decking.jpg)
 
 See some more of our [Pool Decking designs](https://www.dekingdecks.com.au/categories/pool-decking/) in our decking gallery
 
