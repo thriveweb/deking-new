@@ -26,6 +26,8 @@ After working for builders in the housing sector, David found a real need for a 
 
 Whatever your needs, David is always up for a challenge. ‘We get all sorts of requests from decking over the top of garages to decking over the top of swimming pools that people no longer want … we’ve done a couple of them now,’ David said.
 
+![](/images/uploads/alfresco_decking.jpg)
+
 David loves meeting and talking with new clients, working out how to meet their decking needs, solving problems, and turning the job around quickly. But his biggest thrill is seeing the client’s excitement at the finished product—their brand new living space. ‘It’s not like a bathroom renovation—you always had a bathroom, so to get a new one is good, but it’s not a massive big wow! But when you build a deck on someone’s house, all of a sudden they’ve got a view and an entertaining area and a place to put a new BBQ,’ David said.
 
 Although, creating a beautiful new living space the whole family will love isn’t quite as simple as some people think. ‘Especially for low-level decks, a lot of people think you can just put decking boards over the ground,’ David laughed.
@@ -53,14 +55,18 @@ Although, creating a beautiful new living space the whole family will love isn�
 * **Block size**
   * If you’re on a limited size block, especially a small lot code, you’re only allowed to build on a percentage of that block. A lot of the time it’s 50%, sometimes less.
 
-Deking Decks’ most popular product in Brisbane’s CBD is their [deck and patio roof combinations](https://www.dekingdecks.com.au/services/patio-roofs/). They also offer a ‘flyover’ roof that sits above the roofline of your house and covers the deck. This creates extra space underneath the patio roof, making it cooler in summer. ‘I think a lot of people get this done rather than getting an extension on their house with a proper walled-in room. Just for cost effectiveness, you get a lot more value for your dollar,’ David said.
+![](/images/uploads/dsc_0204.jpg)
+
+Deking Decks’ most popular product is their [deck and patio roof combinations](https://www.dekingdecks.com.au/services/patio-roofs/). They also offer a ‘flyover’ roof that sits above the roofline of your house and covers the deck. This creates extra space underneath the patio roof, making it cooler in summer. ‘I think a lot of people get this done rather than getting an extension on their house with a proper walled-in room. Just for cost effectiveness, you get a lot more value for your dollar,’ David said.
+
+![](/images/uploads/bundambadeck.jpg)
 
 And once you’ve got your new deck, how do you keep it looking fabulous all-year-round? Deking Decks offer an oil treatment that will give your deck that brand-new look and feel. Some people opt to do this on an annual basis.
 
-Although the business has grown significantly, some things have always remained the same. Twelve years on you can still call David on Deking’s original 1800 number: **1800 DeKing**, which is **1800 365 464**. David will be happy to [answer your questions](https://www.dekingdecks.com.au/contact/) and help make your outdoor living dream a reality.
+Although the business has grown significantly, some things have always remained the same. Twelve years on you can still call David on Deking’s original 1800 number: **1800 DeKing**, which is **1800 335 464**. David will be happy to [answer your questions](https://www.dekingdecks.com.au/contact/) and help make your outdoor living dream a reality.
 
 See some more of our Decking designs in our decking gallery
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
-See our average cost to build a deck with or without a patio. Or use our Decking Calculator, Patio Roofing Calculator or Deck and Patio Roofing Calculator to get a more accurate estimate
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
