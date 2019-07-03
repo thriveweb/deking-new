@@ -10,6 +10,7 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/decking-mistakes-to-avoid/'
   description: >-
     There are some common timber decking mistakes to avoid when installing a
     deck in your home. DeKing looks at some of these so you don't repeat these
