@@ -12,6 +12,7 @@ shortDescription: >-
 categories:
   - category: Decks and Patio Roofing
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/deck-and-patio-cover-designs/'
   description: >-
     When considering different deck and patio cover designs there are numerous
     things to decide, such as size, usage requirements, functionality and
