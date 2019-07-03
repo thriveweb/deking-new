@@ -11,6 +11,8 @@ shortDescription: >-
 categories:
   - category: Eco Decking
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/going-green-with-recycled-timber-decking/
   description: >-
     Recycled Timber Decking for Brisbane, Logan, Ipswich, Sunshine Coast, and
     the Gold Coast. Enjoy eco friendly decking today
