@@ -18,7 +18,7 @@ meta:
     something really special. It becomes a comfortable space for entertaining
     all year round.
   noindex: false
-  title: 'Insulated Patio Roofing Options: Types & Materials | Deking Decks'
+  title: 'Insulated Patio Roofing Options SE QLD: Types & Materials | Deking Decks'
 ---
 An insulated patio roof will transform your patio from something great to something really special. It becomes a comfortable space for entertaining or relaxing, all year round.
 
@@ -89,4 +89,4 @@ For more information about insulated patio roofs, [contact David at Deking Decks
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
 
-See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
