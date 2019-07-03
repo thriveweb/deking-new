@@ -8,6 +8,8 @@ shortDescription: When do you want a DIY outdoor entertaining area?
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/how-to-build-an-outdoor-entertaining-area-in-queensland/
   description: >-
     If you're looking to build an outdoor entertaining area in Queensland, come
     to the professionals at DeKing Decks. We have a range of DIY & luxury
