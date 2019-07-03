@@ -12,6 +12,8 @@ shortDescription: >-
 categories:
   - category: Deck Builders
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/celebrate-christmas-in-australia-with-a-brand-new-deck/
   description: >-
     DeKing Decks can help you celebrate Christmas in Australia with a brand new
     deck. Use our Decking Calculators for a Free Quote
