@@ -34,9 +34,11 @@ The second deck patio combination is a split level effect, whereby the deck is c
 
 When considering different deck patio combination ideas it is important to consider the integration of the deck and patio and how the two features can be combined and built to offer the best entertainment area experience. An example of this is the [roofing](https://www.dekingdecks.com.au/services/patio-roofs/) of the overall area. When considering a deck patio combination, one option is to cover the deck and keep the patio uncovered. 
 
-![]()
+![](/images/uploads/heatstrip_special_2.jpg)
 
 This works especially well in the Queensland climate, where we like to enjoy the sunshine during summer, but are well aware rain can come at any time. This configuration also works well in winter, whereby entertaining can occur on the uncovered patio during the day to keep warm- or with the installation of a fire pit, entertaining can occur at night, under the stars, but with the warmth of an outdoor fire. By having a covered/uncovered combination the entertainment area allows you to optimise the weather conditions, without having to retreat indoors if the weather changes.
+
+## Reduced Yard Maintenance
 
 ![Deck Patio Combination Ideas - Deking Decks Brisbane](/images/uploads/deking-decks-brisbane-deck-patio-combination-ideas.jpg)
 
