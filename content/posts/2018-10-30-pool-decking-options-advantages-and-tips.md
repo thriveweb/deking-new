@@ -10,6 +10,8 @@ shortDescription: >
 categories:
   - category: Pool Decking
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/pool-decking-options-advantages-and-tips/
   description: >-
     Pool Decking Options - The right deck can enhance your pool, garden and
     home; increase your outdoor living area plus the resale value of your home.
