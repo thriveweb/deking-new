@@ -11,7 +11,8 @@ shortDescription: >-
 categories:
   - category: Patio Roofing
 meta:
-  canonicalLink: ''
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/insulated-patio-roofing-benefits-types-and-materials/
   description: >-
     An insulated patio roof will transform your patio from something great to
     something really special. It becomes a comfortable space for entertaining
