@@ -17,7 +17,7 @@ meta:
     How to Build a Patio. Step by Step Instruction on how to successfully
     construct a patio providing you with an external room and adding value to
     your home.
-  title: How to Build a Paved Patio | Deking Decks
+  title: 'How to Build a Paved Patio Brisbane, Gold Coast, SE QLD'
 ---
 Queensland offers beautiful landscapes and spaces for entertaining and relaxing in the great outdoors. Patios provide the perfect place for enjoying the outdoors without leaving the comforts of your own home. Every year, thousands of property owners in the area work with companies like DeKing decking to get the perfect patio for their property. Others enjoy the challenge of building a patio themselves.
 
