@@ -12,6 +12,7 @@ shortDescription: >-
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/how-to-build-a-paved-patio/'
   description: >-
     How to Build a Patio. Step by Step Instruction on how to successfully
     construct a patio providing you with an external room and adding value to
