@@ -10,6 +10,7 @@ shortDescription: >-
 categories:
   - category: Eco Decking
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/pros-and-cons-of-eco-friendly-decking/'
   description: >-
     Eco Friendly Decking - Pro and Cons: Eco decking is becoming increasing
     popular. There are many reasons for eco decking. Here are the pros and cons
