@@ -14,9 +14,9 @@ meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/need-outdoor-kitchen-ideas/'
   description: >-
     DeKing Decks can build you a beautiful outdoor kitchen to your
-    specifications. Read this article for outdoor kitchen ideas and
-    inspiration. 
-  title: Outdoor Kitchen Ideas? Outdoor Kitchens Brisbane | DeKing Decks
+    specifications. Read this article for outdoor kitchen ideas and inspiration.
+    Servicing Brisbane, Logan, Ipswich, Sunshine and Gold Coast
+  title: 'Outdoor Kitchen Ideas? Outdoor Kitchens Brisbane, Gold Coast, Logan'
 ---
 ![Outdoor Kitchen Ideas? Outdoor Kitchens Brisbane](/images/uploads/need-outdoor-kitchen-ideas-1.jpg)
 
