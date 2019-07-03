@@ -15,17 +15,35 @@ meta:
   description: >-
     Discover why every summer party needs a patio from DeKing Decks. We've been
     servicing South East Queensland for over 15 years and can build your dream
-    deck.
+    patio.
   noindex: false
-  title: Why Every Summer Party Needs A Patio | Deking Decks
+  title: 'Outdoor Patio Ideas Brisbane, Gold Coast, SE QLD'
 ---
 Backyard summer parties are iconic in Queensland. Whether it’s a pool party, cocktail party, or something more laid-back, like a dinner party, every summer party needs a patio.
 
 When the sun goes down and the heat dips with it, it’s party time in the sunshine state. So why not create the perfect entertaining area with a high-quality wooden deck from DeKing Decks?
 
+## Outdoor Patio Ideas
+
+1. Indoor / Outdoor room with extra pergola roofing
+
 ![Why Every Summer Party Needs a Patio](/images/uploads/why-every-summer-party-needs-a-patio.jpg)
 
-## How a patio makes a party
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Benefits of an Outdoor Patio
 
 An outdoor patio area dramatically increases your entertaining space and gives your house a relaxed flow. By building a patio in your backyard (or front yard), your indoor and outdoor area blends into one, allowing a seamless transition from [pool-side](https://www.dekingdecks.com.au/services/pool-decking/), to lounge room, to dining table.
 
@@ -37,21 +55,9 @@ Planning on feeding a bunch of family and friends? A patio provides the perfect 
 
 ![Why Every Summer Party Needs a Patio](/images/uploads/gable-clearspan-04.jpg)
 
-## Why choose Deking Decks to build your patio?
+## Why choose Deking Decks to build your outdoor patio?
 
-We’ve been designing and building [wooden patios](https://www.dekingdecks.com.au/services/timber-decks/) to the highest standards since 2003. And we certainly understand the South East Queensland lifestyle.
-
-**We service areas including:
-**
-
-* Brisbane
-* Sunshine Coast
-* Gold Coast
-* Logan
-* Redlands
-* Ipswich
-* Moreton Bay
-* Scenic Rim
+We’ve been designing and building [wooden patios](https://www.dekingdecks.com.au/services/timber-decks/) and patio roofs to the highest standards since 2003. And we certainly understand the South East Queensland lifestyle.
 
 Our flawless workmanship, stunning results and unrivalled customer satisfaction speak for themselves. We’ve built a reputation as a trusted local business with a desire to please.
 
@@ -72,7 +78,7 @@ DeKing Decks doesn’t just build perfect patios for the iconic summer party. We
 
 ## Want to get your summer party started? Contact us
 
-Now is the perfect time to [contact DeKing Decks](https://www.dekingdecks.com.au/contact/) and arrange for your patio to be built. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate. See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. We can talk to you about your budget and what you want to do with your space. Get the summer season kick-started with your dream patio.
+Now is the perfect time to [contact DeKing Decks](https://www.dekingdecks.com.au/contact/) and arrange for your patio to be built. Or use our [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate. See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. We can talk to you about your budget and what you want to do with your space. Get the summer season kick-started with your dream patio.
 
 **
 DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
