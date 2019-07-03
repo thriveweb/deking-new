@@ -18,7 +18,7 @@ meta:
     and warm in winter, you can also install insulation for patio roofing.
     Contact DeKIng Decks in SE QLD
   noindex: false
-  title: 'Deck Insulation, Patio Roofing Insulation Brisbane, Gold Coast, SE QLD'
+  title: 'Deck Insulation, Patio Roofing Insulation Brisbane, Gold Coast'
 ---
 Have you ever walked onto a deck in Summer time, to enjoy the summer breeze and shade, only to find the deck is hotter than any other place in the house? This deck does not have deck insulation.
 
