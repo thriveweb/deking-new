@@ -45,13 +45,15 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 ![](/images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg)
 
-6. 
+**6. Create a small patio roofed section for shade while keeping the pool in the sun**
+
+![](/images/uploads/img_7453.jpg)
+
+
+
+7. 
 
 ![]()
-
-
-
-
 
 
 
