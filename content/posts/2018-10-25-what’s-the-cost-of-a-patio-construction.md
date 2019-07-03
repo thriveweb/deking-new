@@ -11,6 +11,7 @@ shortDescription: >-
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/whats-the-cost-of-a-patio-construction/'
   description: >-
     Find out how much it will cost to build your dream Patio. David explains
     that the cost of patio construction depends on a number of factors.
