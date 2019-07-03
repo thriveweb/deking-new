@@ -10,7 +10,8 @@ shortDescription: >-
 categories:
   - category: Patio Roofing
 meta:
-  canonicalLink: ''
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/how-does-a-patio-cover-add-value-to-a-home/
   description: >-
     How does a patio cover add value to a home? Patio Covers are an affordable
     way to add the 'wow' factor to you home, increase resale value and more.
