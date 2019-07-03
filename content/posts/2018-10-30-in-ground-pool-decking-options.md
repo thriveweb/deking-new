@@ -15,7 +15,7 @@ meta:
   description: >-
     By choosing the right kind of pool decking, you’ll have a durable and
     long-lasting deck and that means value for money.
-  title: Inground Pool Decking Options & Ideas in Australia | Deking Decks
+  title: Inground Pool Decking Options & Ideas For SE QLD | Deking Decks
 ---
 At DeKing Decks, we offer a range of [in-ground pool decking options](https://www.dekingdecks.com.au/services/pool-decking/) to meet your needs. By choosing the right kind of pool decking, you’ll have a durable and long-lasting deck—and that means value for money.
 
@@ -96,3 +96,5 @@ And, if you’re going to invest in an outdoor entertaining area, you may also w
 If you live in South East Queensland, [contact DeKing](https://www.dekingdecks.com.au/contact/) to discuss your in-ground pool decking options. We can help you design and build the perfect deck for you.
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim.**
+
+See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/)  to get a more accurate estimate.
