@@ -16,7 +16,7 @@ meta:
     solutions.
   title: How To Build An Outdoor Entertaining Area In SE Queensland
 ---
-## When do you want a DIY outdoor entertaining area
+## DIY outdoor entertaining area
 
 So you’ve decided you’d like to build an outdoor entertaining area? And perhaps you’re thinking of a do-it-yourself (DIY) approach? For basic outdoor entertaining areas, DIY can be a cheap and effective way of creating a bit of extra space.
 
@@ -26,7 +26,7 @@ But if you want something to take your entertaining area to the next level, and 
 
 ![How To Build An Outdoor Entertaining Area In Queensland](/images/uploads/image-2.jpg)
 
-## When you want a luxurious outdoor entertainment area
+## Luxurious outdoor entertainment area
 
 To create a relaxing and memorable outdoor entertainment area you need professional designers and builders.
 
