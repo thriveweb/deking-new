@@ -28,6 +28,9 @@ In South East Queensland and other parts of the country, balustrades may come in
 
 * Glass
   * A system consisting of a glass balustrade combined with handrails made either from stainless steel or timber. Most structural glass systems have lowered their prices over the years, making them more affordable for most consumers.
+
+![glass balustrade combined with handrails](/images/uploads/balustrade_handrail_stainlesssteelwire.jpg)
+
 * Stainless steel
   * A type of balustrade-handrail system where all the components are entirely made from stainless steel. There are also other hybrid models available in the market today. For example, a stainless steel balustrade may be accompanied by handrails made from other materials like nylon or timber.
 * 3kN system
