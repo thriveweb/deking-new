@@ -17,7 +17,7 @@ meta:
   description: >-
     DeKing Decks can help you celebrate Christmas in Australia with a brand new
     deck. Use our Decking Calculators for a Free Quote
-  title: How to celebrate Christmas in Australia with a brand new deck
+  title: Christmas Present for Family - A Brand New Deck to Entertain on
 ---
 Is there any better way to celebrate Christmas in Australia than with a brand new deck? Especially in South East Queensland where summer temperatures and humidity can soar—sending family and friends outside in search of a cool breeze or a pool to dip their feet in.
 
@@ -41,19 +41,23 @@ DeKing Decks have been building world-class timber decks since 2003. We’re a l
 
 We’ve been ‘beating Santa to the punch’ for ages, delivering quality decks in time for many South East Queensland homes just in time for Christmas.
 
+![](/images/uploads/bracken-ridge-3-.jpg)
+
 ## How Much will my New Timber Deck Cost?
 
 Don’t worry, DeKing Decks knows that Santa can’t blow all his cash on a deck for Christmas. That’s why we offer very competitive prices on all our decks and patios.
 
 So, how much will your new timber deck cost? Well, that depends (of course) on what kind of deck you want. For example, how big it is, whether it’s on the ground floor or second floor, and what extras you’d like, such as a patio roof.
 
-The easiest way to estimate the cost of your new deck is to use our DeKing Decks [decking calculator](https://www.dekingdecks.com.au/quote-calculator/) or [patio roofing calculator](https://www.dekingdecks.com.au/quote-calculator/).
+The easiest way to estimate the cost of your new deck is to use our [calculator](https://www.dekingdecks.com.au/quote-calculator/) 
 
 Alternatively, if you’re the kind of person who likes to talk through your options, give us a call.
 
 ## Want a Deck for Christmas? Call now
 
-If you want a deck for Christmas, now is the time to act. [Contact us at DeKing Decks](https://www.dekingdecks.com.au/contact/). See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate. We’ll do everything we can to get your deck finished to perfection in time for Christmas. And we guarantee it will be the most exciting present you never unwrap.
+![](/images/uploads/price-back.jpg)
+
+If you want a deck for Christmas, now is the time to act. [Contact us at DeKing Decks](https://www.dekingdecks.com.au/contact/). See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking and or Patio Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate. We’ll do everything we can to get your deck finished to perfection in time for Christmas. And we guarantee it will be the most exciting present you never unwrap.
 
 **DeKing Decks Service Areas:**
 
