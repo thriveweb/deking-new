@@ -3,7 +3,7 @@ template: SinglePost
 title: Get Creative with your Deck Stairs
 status: Published
 date: '2014-02-03'
-featuredImage: /images/uploads/image-2-1024x768.jpg
+featuredImage: /images/uploads/stairway-manly-west-3.jpg
 shortDescription: >-
   When it comes to designing your dream deck you must consider what style or
   size you would like your steps to be. Steps can make a huge difference to the
@@ -14,8 +14,9 @@ meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/get-creative-with-your-deck-stairs/'
   description: >-
     Deck Stairs - check out our 4 creative ideas for your deck stairs. DeKing
-    Decks services Brisbane, Logan, Ipswich, Sunshine Coast, and the Gold Coast
-  title: 'Deck Stairs Brisbane: 4 Creative Ideas | Deking Decks'
+    Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold
+    Coast, Sunshine Coast, Scenic Rim
+  title: 'Deck Stairs Ideas Brisbane, Gold Coast, Logan, Sunshine Coast'
 ---
 When it comes to designing your [dream deck](https://www.dekingdecks.com.au/) you must consider what style or size you would like your steps to be. Steps can make a huge difference to the look and feel of your deck and the overall appeal of the area.
 
@@ -23,13 +24,19 @@ When it comes to designing your [dream deck](https://www.dekingdecks.com.au/) yo
 
 **Make your stairs multi-purpose**
 
-* You can provide extra seating by adding some comfortable seat cushions which adds colour and your own personal style.
+![](/images/uploads/deck_box2.jpg)
 
-**Add Planter Boxes**
+* Stairs and seating. You can always provide extra seating by adding some comfortable seat cushions which adds colour and your own personal style.
 
-* Ask the team at DeKing about built in timber planter boxes which can run along the edge of a set of Deck stairs. These can be planted out with some striking architecturally shaped plants which would look fabulous lit up with some strategically placed [deck lights](https://www.dekingdecks.com.au/services/deck-accessories/). Or why not fill the flower beds with seasonal colours making a grand and attractive statement? DeKing have had many happy customers who have enjoyed adding their own flair to their outdoor Decking space.  When we revisit our clients for their Free 12 month Deck Check service,  we are always impressed with how the landscaping and the timber decking have ‘married’ together beautifully.
+**Add Plants or Planter Boxes**
+
+![](/images/uploads/landscape-gazebo.jpg)
+
+* Ask the team at DeKing about adding plants. We can also provide built in timber planter boxes which can run along the edge of a set of Deck stairs. These can be planted out with some striking architecturally shaped plants which would look fabulous lit up with some strategically placed [deck lights](https://www.dekingdecks.com.au/services/deck-accessories/). Or why not fill the flower beds with seasonal colours making a grand and attractive statement? DeKing have had many happy customers who have enjoyed adding their own flair to their outdoor Decking space.  When we revisit our clients for their Free 12 month Deck Check service,  we are always impressed with how the landscaping and the timber decking have ‘married’ together beautifully.
 
 **Boardwalk stairs look great**
+
+![](/images/uploads/slider-image.jpg)
 
 * Especially alongside some well planted garden beds. Timber boardwalk stairs create visual impact and flair. Stairs do not need to be standard, this is where you can add some creativity. Remember it is just a matter of asking your DeKing representative and we can help you come up with a great overall look.
 
