@@ -146,8 +146,7 @@ meta:
   canonicalLink: 'https://www.dekingdecks.com.au/services/patio-roofs/'
   description: >-
     Patio Roofing by DeKing. Specialists in deck, verandah and patio roofing.
-    Installer of Insulated Cooldek Range and Stratco Outback Flyover. Use our
-    Patio Roofing Calculators for a Free Quote
+    Installer of Insulated Cooldek Range and Stratco Outback Flyover.
   noindex: false
   title: 'Patio Roofing Brisbane, Gold Coast, Sunshine Coast: Installation'
 ---
