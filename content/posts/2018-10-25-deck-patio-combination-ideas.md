@@ -13,9 +13,9 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/deck-patio-combination-ideas/'
   description: >-
-    When a customer is looking to add an interesting feature to their home there
-    are a number of deck patio combination ideas that are practical and
-    interesting for SE QLD.
+    When looking to add an interesting feature to your home there are a number
+    of deck patio combination ideas that are practical and interesting for SE
+    QLD.
   title: 'Deck Patio Combination Ideas Brisbane, Gold Coast, SE QLD'
 ---
 When a customer is looking to add a really interesting feature to their home there are a number of [deck patio combination](https://www.dekingdecks.com.au/services/patio-roofs/) ideas that are practical, as well as interesting, options to add additional living space to the property.
