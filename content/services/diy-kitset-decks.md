@@ -98,8 +98,7 @@ meta:
   canonicalLink: 'https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/'
   description: >-
     DeKing DIY Deck Kits 5m x 4m  and 3m x 1.5m - Australian Species Hardwood
-    sourced responsibly from renewable forests. Includes DVD. Also Custom DIY
-    Patio Kits.
+    sourced responsibly from renewable forests. Includes DVD. 
   title: DIY Decking Kits Australia and DIY Kitset Patio Roofing
 ---
 
