@@ -80,9 +80,8 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/'
   description: >-
-    DeKing build custom Gazebos, Pergolas and Outdoor Rooms in Brisbane, the
-    Gold Coast, and Sunshine Coast. A great addition to the outdoor
-    entertainment and relaxation space on your property
+    DeKing build custom Gazebos in Brisbane, the Gold Coast, and Sunshine Coast.
+    A great addition your outdoor area.
   title: 'Gazebos Brisbane, Gold Coast, Sunshine Coast: Design, Install'
 ---
 
