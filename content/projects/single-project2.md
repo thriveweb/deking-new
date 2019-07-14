@@ -27,8 +27,10 @@ categories:
   - category: Gazebos & Outdoor Rooms
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Re-build of an existing deck with new, including a Patio Roof, external
+    stairs, handrail, lighting, and oiling treatment
   noindex: false
-  title: ''
+  title: Red Hill Decking with an insulated Patio Roof | Deking Decks
 ---
 
