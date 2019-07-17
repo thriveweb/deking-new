@@ -8,7 +8,13 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
-
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        id: 'GTM-TBSMTRK',
+        includeInDevelopment: false
+      }
+    },
     // Add static assets before markdown files
     {
       resolve: 'gatsby-source-filesystem',
