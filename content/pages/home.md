@@ -199,6 +199,15 @@ reviews:
       professionalism was next to none!! Highly recommend these guys!! Thanks
       Deking Decks
     title: 'Just love our new deck:))'
+  - by: 'John Bain - Bellbowrie '
+    details: >-
+      We could not have asked for a better building experience, quoted and
+      supervised by Roly Mosse. The quotes were competitive, the tradesmen
+      skilled and adaptable, but above all Roly was personable, knowledgeable,
+      and easily contacted. The job was finished on schedule and to a very high
+      standard. Would I recommend this company to a close friend? With no
+      hesitation.
+    title: We could not have asked for a better building experience
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/'
   description: >-
