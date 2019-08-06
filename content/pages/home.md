@@ -183,7 +183,7 @@ reviews:
       have a Lath which is everything I wanted. Thank you Deking a job well
       done.
     title: Thank you Deking a job well done
-  - by: 'Milena Mcfarlane '
+  - by: 'Milena Mcfarlane - Brighton '
     details: >-
       “Professional and efficient service from consultation to delivery. We
       loved the clear communication and punctuality. Everyone we dealt with was
