@@ -192,6 +192,13 @@ reviews:
 
       Thanks guys, we love our new deck.”
     title: We loved the clear communication and punctuality.
+  - by: Jenny Bedford-Smyth - Wynnum
+    details: >-
+      Can’t go wrong with this company!! Just love our new deck:)) They gave us
+      the best price for what we wanted and nothing was to hard and there
+      professionalism was next to none!! Highly recommend these guys!! Thanks
+      Deking Decks
+    title: 'Just love our new deck:))'
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/'
   description: >-
