@@ -27,16 +27,6 @@ export default ({ children, data }) => {
           integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
           crossorigin="anonymous"
         />
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=UA-46463867-1"
-        />
-        <script>
-          {`window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'UA-46463867-1');`}
-        </script>
 
         <script>
           {`!function(f,b,e,v,n,t,s)
