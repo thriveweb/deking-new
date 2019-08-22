@@ -146,13 +146,14 @@ class Footer extends React.Component {
           </div>
           <div className="CopyFooter dark">
             <div className="container taCenter">
-              © {new Date().getFullYear()} All rights reserved.{' '}
+              © 2002-
+              {new Date().getFullYear()} DeKing Decks | All Rights Reserved.{' '}
               <span>
                 Crafted by{' '}
                 <a
                   href="https://thriveweb.com.au"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow"
                 >
                   Thrive
                 </a>

@@ -2,12 +2,14 @@ import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 
 import PageHeader from '../components/PageHeader'
+import Meta from '../components/Meta'
 import PostSection from '../components/PostSection'
 import './BlogIndex.css'
 
 // Export Template for use in CMS preview
 export const BlogIndexTemplate = ({
   title,
+  meta,
   featuredImage,
   posts = [],
   categories = [],
@@ -21,6 +23,7 @@ export const BlogIndexTemplate = ({
 
   return (
     <Fragment>
+      <Meta {...meta} />
       <main className="Blog">
         <PageHeader large title={title} backgroundImage={featuredImage} />
 
@@ -68,6 +71,7 @@ export const pageQuery = graphql`
       fields {
         contentType
       }
+      ...Meta
       frontmatter {
         title
         template

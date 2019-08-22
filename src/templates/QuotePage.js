@@ -1,16 +1,22 @@
 import React, { Fragment } from 'react'
 
 import Meta from '../components/Meta'
+import Content from '../components/Content'
 import QuoteCalculator from '../components/QuoteCalculator'
 
 import './QuotePage.css'
 
 // Export Template for use in CMS preview
-export const QuoteTemplate = ({ meta, title, globalSettings }) => (
+export const QuoteTemplate = ({ meta, title, info, globalSettings }) => (
   <Fragment>
     <Meta {...meta} />
     <main className="Quote">
       <QuoteCalculator globalSettings={globalSettings} />
+      <div className="section">
+        <div className="container">
+          <Content src={info} />
+        </div>
+      </div>
     </main>
   </Fragment>
 )
@@ -32,6 +38,7 @@ export const pageQuery = graphql`
       ...Meta
       frontmatter {
         title
+        info
       }
     }
     globalSettings: settingsYaml {
