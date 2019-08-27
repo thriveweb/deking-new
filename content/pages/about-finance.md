@@ -13,8 +13,8 @@ welcomeDescription: >-
   space you and your family will really love.
 
 
-  Have it now with no interest payments over a set time with only a small set up
-  cost
+  Have it now with no interest payments over 12 months with only a small set up
+  fee.
 welcomeImage: /images/uploads/hsbc_visa_finance.jpeg
 faq:
   - content: >-
