@@ -39,8 +39,8 @@ faq:
       application and best of all there is No Interest.
 
 
-      Payment plans can range from 12 months to 36 months depending on your
-      circumstances
+      Payment plans are for 12 months, or longer options are available with an
+      additional facility fee.
     title: What is a HSBC Payment Plan?
   - content: >-
       Please read your HSBC continuing credit payment plan agreement carefully.
@@ -54,7 +54,7 @@ faq:
       information about your purchase(s), credit schedule(s), access to our 1800
       customer call in facility and other benefits.
     title: What are the fees and charges for HSBC?
-  - content: 'No, just the annual fee of $79'
+  - content: 'No, just the annual fee of $99'
     title: Are there any other charges?
   - content: >-
       Once your purchase(s) have been paid in full and your account balance is
