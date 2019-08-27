@@ -49,7 +49,7 @@ faq:
 
 
       When you make a purchase, HSBC will open an account for you. You will pay
-      an establishment fee of $79 to set up your account. This is payable over
+      an establishment fee of $99 to set up your account. This is payable over
       the term of the purchase. The account will provide you access to online
       information about your purchase(s), credit schedule(s), access to our 1800
       customer call in facility and other benefits.
