@@ -5,7 +5,7 @@ import { MapPin, Smartphone, Mail } from 'react-feather'
 import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import EnquiryFormSimple from '../components/EnquiryFormSimple'
-import SimpleMap from '../components/SimpleMap'
+// import SimpleMap from '../components/SimpleMap'
 import Content from '../components/Content'
 import './ContactPage.css'
 
@@ -29,7 +29,6 @@ export const ContactPageTemplate = ({
         backgroundImage={featuredImage}
         large
       />
-
       <div className="section Contact">
         <div className="container Contact--Section">
           <div>
@@ -113,7 +112,6 @@ export const ContactPageTemplate = ({
           </div>
         </div>
       </div>
-      {locations && locations.length > 0 && <SimpleMap locations={locations} />}
     </main>
   </Fragment>
 )

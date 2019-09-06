@@ -6,17 +6,23 @@ import ReactNotification from 'react-notifications-component'
 import 'react-notifications-component/dist/theme.css'
 import Recaptcha from 'react-google-recaptcha'
 
+//
+// let RECAPTCHA_KEY = ''
+// if (window.location.hostname === 'localhost') {
+//   RECAPTCHA_KEY = '6LdEpJ4UAAAAAPPXyGwdJjDk6RTk5yOCWApWzBHU'
+// } else {
+//   RECAPTCHA_KEY = process.env.GATSBY_SITE_RECAPTCHA_KEY
+// }
+
 const RECAPTCHA_KEY = process.env.GATSBY_SITE_RECAPTCHA_KEY
 
 import './EnquiryForm.css'
 
 function encode(data) {
   const formData = new FormData()
-
   for (const key of Object.keys(data)) {
     formData.append(key, data[key])
   }
-
   return formData
 }
 
