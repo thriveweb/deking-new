@@ -10,6 +10,6 @@ meta:
     View our Commercial Deck gallery for inspiration for your new or upgraded
     deck for your pool, waterfront, terrace, entrance and more. Use our Decking
     Calculators for a Free Quote
-  title: 'Commercial Deck Designs Photos Brisbane: Pool, Terrace, Waterfront, Entrance'
+  title: 'Commercial Deck Designs Photos Brisbane, Gold Coast: Pool, Entrance...'
 ---
 
