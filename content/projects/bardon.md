@@ -28,6 +28,7 @@ feedback:
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/decks-brisbane/'
   description: >-
     Merbau hardwood decking. Seat box with lids for storing kids toys. Low
     voltage LED lighting for ambience 
