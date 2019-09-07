@@ -14,6 +14,7 @@ content: >-
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/insulated-patio-roof-holland-park/'
   description: New insulated patio roof with large merbau posts
   title: Insulated Patio Roof Holland Park | Deking Decks
 ---
