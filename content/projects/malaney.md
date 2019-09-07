@@ -32,6 +32,7 @@ categories:
   - category: Timber Decks
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/sunshine-coast-deck-and-patio-roof/'
   description: Deck and patio roof combination with external stairs and privacy screen.
   title: Sunshine Coast Deck and Patio Roof | Deking Decks
 ---
