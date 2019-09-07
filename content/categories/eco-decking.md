@@ -5,6 +5,7 @@ subtitle: Composite decking
 featuredImage: /images/uploads/img_9612.jpg
 order: 6
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/categories/eco-decking/'
   description: >-
     View our Eco Decking gallery for inspiration for your new project. Use our
     Decking Calculators for a Free Quote
