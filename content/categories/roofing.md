@@ -5,7 +5,7 @@ subtitle: Custom Designed To Extend Your Living Space
 featuredImage: /images/uploads/img_2526.jpg
 order: 7
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/categories/gazebos-outdoor-rooms/'
   description: >-
     View our Gazebos & Outdoor Room gallery for inspiration for your new
     project. Use our Decking Calculators for a Free Quote
