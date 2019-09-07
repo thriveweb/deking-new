@@ -1,7 +1,7 @@
 ---
 template: ProjectsIndex
 title: 'Commercial '
-subtitle: Catering to all commercial and large scale projects
+subtitle: Catering to all commercial and large scale deck projects
 featuredImage: /images/uploads/dsc_0484.jpg
 order: 4
 meta:
