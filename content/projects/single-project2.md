@@ -26,7 +26,8 @@ categories:
   - category: Timber Decks
   - category: Gazebos & Outdoor Rooms
 meta:
-  canonicalLink: ''
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/red-hill-decking-with-an-insulated-patio-roof/
   description: >-
     Re-build of an existing deck with new, including a Patio Roof, external
     stairs, handrail, lighting, and oiling treatment
