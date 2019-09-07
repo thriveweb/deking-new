@@ -4,7 +4,7 @@ title: Timber Decks
 featuredImage: /images/uploads/ep29netysia1-ssxg4w3ma.jpg
 order: 1
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/categories/timber-decks/'
   description: >-
     View our Timber Deck gallery for inspiration for your new project. Use our
     Decking Calculators for a Free Quote
