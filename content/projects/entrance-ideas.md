@@ -23,6 +23,7 @@ accordion:
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/decking-entrance-ideas/'
   description: Need inspiration for the entrance of your home?
   title: Decking Entrance ideas | Deking Decks
 ---
