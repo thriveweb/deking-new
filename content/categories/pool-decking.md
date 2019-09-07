@@ -4,7 +4,7 @@ title: Pool Decking
 featuredImage: /images/uploads/coroy3.jpg
 order: 3
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/categories/pool-decking/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/pool-decking/'
   description: >-
     View our Pool Decking gallery for inspiration for your new pool deck
     project. We also provide Eco Decking and patio/ deck/ pool roofing. Use our
