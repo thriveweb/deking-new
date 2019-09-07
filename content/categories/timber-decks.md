@@ -4,11 +4,11 @@ title: Timber Decks
 featuredImage: /images/uploads/ep29netysia1-ssxg4w3ma.jpg
 order: 1
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/categories/timber-decks/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/timber-decks/'
   description: >-
     View our Timber Deck gallery for inspiration for your new project. Use our
     Decking Calculators for a Free Quote
   noindex: false
-  title: Timber Decks Project Category | Deking Decks
+  title: 'Timber Decks Photo Gallery Brisbane, Gold Coast | Deking Decks'
 ---
 
