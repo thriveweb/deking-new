@@ -36,6 +36,7 @@ categories:
   - category: Timber Decks
   - category: Pergolas
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/enoggera-roofed-deck/'
   description: >-
     Traditional style Pergola Roof with Spotted Gum Decking and Louvred Privacy
     Screens.
