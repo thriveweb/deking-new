@@ -9,6 +9,6 @@ meta:
   description: >-
     View our Pergola gallery for inspiration for your new project. Use our
     Decking Calculators for a Free Quote
-  title: Pergolas Project Category | Deking Decks
+  title: 'Pergolas Photo Gallery Brisbane, Gold Coast | Deking Decks'
 ---
 
