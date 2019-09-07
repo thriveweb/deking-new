@@ -20,6 +20,7 @@ accordion:
 categories:
   - category: 'Commercial '
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/titanium-bar-gold-coast/'
   description: 'Refurbishment to an existing deck, with all new hardwood frame and decking'
   title: Titanium Bar Gold Coast | Deking Decks
 ---
