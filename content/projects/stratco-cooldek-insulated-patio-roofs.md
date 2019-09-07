@@ -28,6 +28,8 @@ accordion:
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/stratco-cooldek-insulated-patio-roofs/
   description: >-
     Cooldek insulated panels offer a cool roofing option with a ceiling like
     appearance with the ability to add flush lights and fans.
