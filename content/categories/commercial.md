@@ -7,8 +7,9 @@ order: 4
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/categories/commercial/'
   description: >-
-    View our Commercial Deck gallery for inspiration for your new project. Use
-    our Decking Calculators for a Free Quote
-  title: Commercial Deck Project Category | Deking Decks
+    View our Commercial Deck gallery for inspiration for your new or upgraded
+    deck for your pool, waterfront, terrace, entrance and more. Use our Decking
+    Calculators for a Free Quote
+  title: 'Commercial Deck Designs Photos Brisbane: Pool, Terrace, Waterfront, Entrance'
 ---
 
