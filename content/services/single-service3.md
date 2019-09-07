@@ -73,8 +73,8 @@ servicePods:
       above mentioned reason, this includes the decking screws.
     podImage: /images/uploads/3.jpg
     podsTitle: Pool Decking for inground concrete pools.
-videoTitle: Video example title here
-videoURL: ''
+videoTitle: Pool Decking Video Gallery
+videoURL: 'https://www.youtube.com/watch?v=N4kXOYIxHMM'
 bannerTitle: ' Can I build a deck around an above ground pool?'
 bannerDescription: >
   Yes, you can build a deck around an above ground pool. Pool decking provides a
