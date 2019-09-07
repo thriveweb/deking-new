@@ -20,6 +20,7 @@ categories:
   - category: Timber Decks
   - category: 'Commercial '
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/gold-coast-commercial-decking/'
   description: >-
     Cafe deck to increase seating capacity for this business, including a child
     safe handrail.
