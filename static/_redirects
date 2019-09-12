@@ -1,5 +1,11 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
+https://www.dekingdecks.com.au/decking-calculator/ https://www.dekingdecks.com.au/quote-calculator/:splat 301!
+https://www.dekingdecks.com.au/patio-calculator/ https://www.dekingdecks.com.au/quote-calculator/:splat 301!
+https://www.dekingdecks.com.au/deck-patio-cost-estimators/ https://www.dekingdecks.com.au/quote-calculator/:splat 301!
+https://www.dekingdecks.com.au/deck-and-roofing-calculator/ https://www.dekingdecks.com.au/quote-calculator/:splat 301!
+https://www.dekingdecks.com.au/price-guide/ https://www.dekingdecks.com.au/quote-calculator/:splat 301!
+
 # Redirects from what the browser requests to what we serve
 /types-of-decks						/posts/types-of-decks
 /deck-builders-Ipswich 					/services
