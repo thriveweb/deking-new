@@ -85,8 +85,6 @@ export default ({ option, sqm, extras }) => {
     min = sqm * 300 + min
     max = sqm * 330 + max
   }
-  console.log(min)
-  console.log(max)
 
   const totalMin = min
     ? min.toFixed().replace(/(\d)(?=(\d{3})+(?:\.\d+)?$)/g, '$1,')
