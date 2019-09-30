@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react'
 import { stringify } from 'qs'
 import _startCase from 'lodash/startCase'
+import _camelCase from 'lodash/camelCase'
 import qs from 'qs'
 
 import Image from '../components/Image'
@@ -738,7 +739,9 @@ class QuoteCalculator extends React.Component {
           </div>
           <div className="ResultFlex">
             <div className="one-half">
-              {option && <h2 className="afterTitle">{_startCase(option)}</h2>}
+              {option && (
+                <h2 className="afterTitle">{_startCase(_camelCase(option))}</h2>
+              )}
               <div className="relative ResultOption-image">
                 <div className={`BackgroundImage ${option}`} />
               </div>
@@ -747,15 +750,15 @@ class QuoteCalculator extends React.Component {
               {option && (
                 <p>
                   <strong>Deck type: </strong>
-                  {_startCase(option)}
+                  {_startCase(_camelCase(option))}
                   {insulated &&
                     attached && (
                       <span>
                         <br />
                         <strong>{'Roof: '}</strong>
-                        {_startCase(attached)}
+                        {_startCase(_camelCase(attached))}
                         {' & '}
-                        {_startCase(insulated)}
+                        {_startCase(_camelCase(insulated))}
                       </span>
                     )}
                 </p>
@@ -767,8 +770,10 @@ class QuoteCalculator extends React.Component {
                     <Fragment>
                       <strong>Options: </strong>
                       <ul>
-                        {stairs && <li>{_startCase(stairs)} </li>}
-                        {handrail && <li>{_startCase(handrail)} </li>}
+                        {stairs && <li>{_startCase(_camelCase(stairs))} </li>}
+                        {handrail && (
+                          <li>{_startCase(_camelCase(handrail))} </li>
+                        )}
                       </ul>
                     </Fragment>
                   )}

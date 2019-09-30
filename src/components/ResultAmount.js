@@ -27,23 +27,18 @@ export default ({ option, sqm, extras }) => {
     max = sqm * 380
   }
   if (option === 'patioRoof') {
+    if (extras.insulated === 'insulated') {
+      bats = 75 * sqm
+      min = min + bats
+      max = max + bats
+    }
     if (extras.attached === 'attached') {
-      min = 180
-      max = 230
-      if (extras.insulated === 'insulated') {
-        bats = 75 * sqm
-        min = min + bats
-        max = max + bats
-      }
+      min = sqm * 180 + min
+      max = sqm * 230 + max
     }
     if (extras.attached === 'flyover') {
-      min = 225
-      max = 275
-      if (extras.insulated === 'insulated') {
-        bats = 75 * sqm
-        min = min + bats
-        max = max + bats
-      }
+      min = sqm * 225 + min
+      max = sqm * 275 + max
     }
     min = sqm * 370 + min
     max = sqm * 400 + max
@@ -57,51 +52,41 @@ export default ({ option, sqm, extras }) => {
       min = min + 250
       max = max + 300
     }
+    if (extras.insulated === 'insulated') {
+      bats = 75 * sqm
+      min = min + bats
+      max = max + bats
+    }
     if (extras.attached === 'attached') {
-      min = min + 180
-      max = max + 230
-
-      if (extras.insulated === 'insulated') {
-        bats = 75 * sqm
-        min = min + bats
-        max = max + bats
-      }
+      min = sqm * 180 + min
+      max = sqm * 230 + max
     }
     if (extras.attached === 'flyover') {
-      min = min + 225
-      max = max + 275
-
-      if (extras.insulated === 'insulated') {
-        bats = 75 * sqm
-        min = min + bats
-        max = max + bats
-      }
+      min = sqm * 225 + min
+      max = sqm * 275 + max
     }
     min = sqm * 370 + min
     max = sqm * 400 + max
   }
   if (option === 'lowerLevelDeckPatio') {
+    if (extras.insulated === 'insulated') {
+      bats = 75 * sqm
+      min = min + bats
+      max = max + bats
+    }
     if (extras.attached === 'attached') {
-      min = 180
-      max = 230
-      if (extras.insulated === 'insulated') {
-        bats = 75 * sqm
-        min = min + bats
-        max = max + bats
-      }
+      min = sqm * 180 + min
+      max = sqm * 230 + max
     }
     if (extras.attached === 'flyover') {
-      min = 225
-      max = 275
-      if (extras.insulated === 'insulated') {
-        bats = 75 * sqm
-        min = min + bats
-        max = max + bats
-      }
+      min = sqm * 225 + min
+      max = sqm * 275 + max
     }
     min = sqm * 300 + min
     max = sqm * 330 + max
   }
+  console.log(min)
+  console.log(max)
 
   const totalMin = min
     ? min.toFixed().replace(/(\d)(?=(\d{3})+(?:\.\d+)?$)/g, '$1,')
