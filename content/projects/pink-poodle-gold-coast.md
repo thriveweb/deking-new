@@ -26,6 +26,7 @@ feedback: []
 categories:
   - category: 'Commercial '
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/pink-poodle-gold-coast/'
   description: >-
     Larger hardwood decking boards with stainless fasteners for longevity and
     low maintenance

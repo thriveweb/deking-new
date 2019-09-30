@@ -16,6 +16,7 @@ categories:
   - category: Pool Decking
   - category: Eco Decking
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/trex-pool-decking-kenmore-hills/'
   description: >-
     Trex composite decking was chosen so our clients could keep their weekends
     free to enjoy the pool area.

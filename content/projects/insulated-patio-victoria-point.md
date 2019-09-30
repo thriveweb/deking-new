@@ -17,6 +17,7 @@ content: >-
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/insulated-patio-victoria-point/'
   description: >-
     An insulated Patio Roof with Lightboxes for extra lighting into the living
     room

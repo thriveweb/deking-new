@@ -35,6 +35,8 @@ categories:
   - category: Pool Decking
   - category: Patio Roofs
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/gold-coast-pool-decking-flyover-patio-roof/
   description: >-
     Upper and lower pool deck and flyover insulated patio roof with glass
     fencing and external steps

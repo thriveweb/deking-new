@@ -4,11 +4,12 @@ title: Pool Decking
 featuredImage: /images/uploads/coroy3.jpg
 order: 3
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/services/pool-decking/'
   description: >-
-    View our Pool Decking gallery for inspiration for your new project. Use our
+    View our Pool Decking gallery for inspiration for your new pool deck
+    project. We also provide Eco Decking and patio/ deck/ pool roofing. Use our
     Decking Calculators for a Free Quote
   noindex: false
-  title: Pool Decking Project Category | Deking Decks
+  title: 'Pool Decking, Pool House Design Photos Brisbane, Gold Coast'
 ---
 

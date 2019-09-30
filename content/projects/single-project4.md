@@ -25,7 +25,8 @@ feedback:
 categories:
   - category: Timber Decks
 meta:
-  canonicalLink: ''
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/northside-low-level-deck-colorbond-roof/
   description: Low level deck with open rafter style pergola roof
   noindex: false
   title: Brisbane Northside low level Deck & Colorbond Roof |Deking Decks

@@ -22,6 +22,7 @@ feedback:
 categories:
   - category: Pool Decking
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/burleigh-heads-pool-decking/'
   description: Pool deck with extra wide decking boards and integrated seating
   title: Burleigh Heads Pool decking | Deking Decks
 ---

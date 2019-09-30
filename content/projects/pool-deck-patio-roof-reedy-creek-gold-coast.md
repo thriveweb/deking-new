@@ -22,6 +22,8 @@ accordion:
 categories:
   - category: Pool Decking
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/pool-deck-patio-roof-reedy-creek-gold-coast/
   description: >-
     Hardwood decking over 2 levels on a treated pine frame and an insulated
     flyover patio roof with a set of external stairs.

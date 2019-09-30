@@ -65,15 +65,24 @@ servicePods:
       Timber Pool Decking looks great and will last a life time when properly
       designed and built to exacting standards. Special considerations need to
       be addressed at the design stage to ensure a quality finish is achieved
-      for now and into the future. The frame of the deck has to be made of
-      treated pine with a minimum H3 treatment, a steel frame will not last
-      around a pool with the salt or chlorine corroding the metals within 5 or
-      so years, no where near close to Deking’s 25 year warranty. Stainless
-      steel fasteners must be used within the splash zone of the pool for the
-      above mentioned reason, this includes the decking screws.
+      for now and into the future. 
+
+
+      The frame of the deck has to be made of treated pine with a minimum H3
+      treatment, a steel frame will not last around a pool with the salt or
+      chlorine corroding the metals within 5 or so years, no where near close to
+      Deking’s 25 year warranty. 
+
+
+      Stainless steel fasteners must be used within the splash zone of the pool
+      for the above mentioned reason, this includes the decking screws.
+
+
+      <iframe src="https://www.youtube.com/embed/N4kXOYIxHMM?rel=0" width="560"
+      height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     podImage: /images/uploads/3.jpg
     podsTitle: Pool Decking for inground concrete pools.
-videoTitle: Video example title here
+videoTitle: ''
 videoURL: ''
 bannerTitle: ' Can I build a deck around an above ground pool?'
 bannerDescription: >

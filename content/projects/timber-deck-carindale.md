@@ -19,6 +19,7 @@ feedback: []
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/timber-deck-carindale/'
   description: >-
     A low level timber deck with privacy screening and a rock wall, inset with a
     water feature

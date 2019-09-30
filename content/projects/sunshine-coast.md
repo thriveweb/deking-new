@@ -25,6 +25,7 @@ categories:
   - category: Pool Decking
   - category: Pergolas
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/sunshine-coast-pool-deck-gazebo/'
   description: >-
     Pool decking and pool compliant fencing with a Pergola shelter, finished
     with an acrylic decking oil.

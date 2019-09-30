@@ -19,6 +19,7 @@ content: >-
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/caravan-roof-rochedale-south/'
   description: 'Caravan cover to protect the van from summer storms and damaging UV '
   title: Caravan Roof Rochedale South | Deking Decks
 ---

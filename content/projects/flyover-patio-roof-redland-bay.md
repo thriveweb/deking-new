@@ -19,6 +19,7 @@ content: >-
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/flyover-patio-roof-redland-bay/'
   description: >-
     An insulated patio roof using Stratco Cooldek roofing panels. The roof was
     raised above the house roof using extenda brackets.

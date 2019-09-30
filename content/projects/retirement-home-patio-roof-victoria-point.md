@@ -18,6 +18,8 @@ categories:
   - category: Patio Roofs
   - category: 'Commercial '
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/retirement-home-patio-roof-victoria-point/
   description: >-
     The pool area was too hot in summer and needed some sort of structure for
     shade. An insulated flyover patio roof was the solution as the previous

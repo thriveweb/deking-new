@@ -211,8 +211,9 @@ reviews:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/'
   description: >-
-    DeKing Decks are Quality Deck Builders servicing the Gold Coast to Sunshine
-    Coast with affordable beautiful Timber Decking & Patio Roofing.
+    DeKing Decks are Quality Deck Builders servicing Brisbane and also the Gold
+    Coast & Sunshine Coast with affordable beautiful Timber Decking & Patio
+    Roofing.
   noindex: false
   title: Decks Brisbane & Gold Coast | Timber Deck Builders SE QLD
 ---

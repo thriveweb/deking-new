@@ -26,6 +26,8 @@ accordion:
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/bundamba-deck-with-a-flyover-outback-patio-roof/
   description: >-
     Timber deck with 2 sets of external stairs, stainless steel wire rope
     handrail and a flyover metal patio roof

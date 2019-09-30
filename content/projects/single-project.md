@@ -32,7 +32,7 @@ categories:
   - category: Timber Decks
   - category: Gazebos & Outdoor Rooms
 meta:
-  canonicalLink: ''
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/manly-west-deck-cooldek-patio/'
   description: >-
     Brisbane's landscape is perfectly suited to a combination of a deck and
     patio roof with external stairs for access.

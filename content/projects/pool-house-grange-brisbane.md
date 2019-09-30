@@ -19,6 +19,7 @@ accordion:
 categories:
   - category: Gazebos & Outdoor Rooms
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/pool-house-mt-gravatt-brisbane/'
   description: Timber framed pergola roofs to 2 sides of the swimming pool
   title: 'Pool House, Grange, Brisbane | Deking Decks'
 ---

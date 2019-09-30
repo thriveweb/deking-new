@@ -31,6 +31,8 @@ accordion:
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/stratco-outback-patio-roofs-for-brisbane/
   description: >-
     A collection of non-insulated flat patio roofs that best suits Brisbane,
     Gold Coast, & Sunshine Coast.

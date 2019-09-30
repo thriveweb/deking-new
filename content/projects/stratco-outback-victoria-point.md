@@ -15,6 +15,7 @@ content: >-
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/stratco-outback-victoria-point/'
   description: An attached Stratco outback Patio roof for a new pool table room
   title: Stratco Outback Victoria Point | Deking Decks
 ---

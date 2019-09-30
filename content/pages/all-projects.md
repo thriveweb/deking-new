@@ -14,8 +14,9 @@ bannerButton:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/'
   description: >-
-    Decking Gallery, Please visit our gallery to view our timber decking designs
-    in Brisbane, Ipswich, Logan, Sunshine Coast, Gold Coast and surrounds.
+    Decking Gallery for commercial and residential decks including, pool
+    decking, Pergolas, Gazebos and outdoor rooms, Patio and deck roofing and Eco
+    Decking.
   noindex: false
   title: 'Decking Designs Brisbane, Gold Coast Deck Design, Decking Gallery'
 ---

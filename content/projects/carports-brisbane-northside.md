@@ -15,6 +15,7 @@ content: A Stratco Patio roof makes a great Carport cover.
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/carports-brisbane-northside/'
   description: A collection of carports on the Northside of Brisbane
   title: Carports Brisbane Northside | Deking Decks
 ---

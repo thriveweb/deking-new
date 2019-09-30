@@ -24,6 +24,7 @@ categories:
   - category: Pool Decking
   - category: Eco Decking
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/trex-decking-at-kenmore/'
   description: >-
     TREX Composite decking is made from 95% recycled materials and comes with a
     25 year warranty with minimal maintenance.

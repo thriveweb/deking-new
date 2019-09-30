@@ -24,6 +24,7 @@ categories:
   - category: Pool Decking
   - category: Gazebos & Outdoor Rooms
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/brisbane-pool-deck-patio-roof/'
   description: Pool house including a raised deck and gazebo with cafe blinds
   title: Brisbane Pool Deck & Patio Roof | Deking Decks
 ---

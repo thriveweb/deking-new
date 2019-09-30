@@ -31,7 +31,8 @@ categories:
   - category: Timber Decks
   - category: Patio Roofs
 meta:
-  canonicalLink: ''
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/projects/rochedale-south-deck-with-flyover-roof/
   description: >-
     High-level deck with insulated patio roof and stairs. Traditional style
     balustrade

@@ -23,6 +23,7 @@ categories:
   - category: Timber Decks
   - category: Pergolas
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/brisbane-show-home-decks-pergolas/'
   description: >-
     Award winning homes with distinctive decking, pergolas, privacy screens,
     steps, and fencing

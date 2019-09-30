@@ -23,6 +23,7 @@ categories:
   - category: Gazebos & Outdoor Rooms
   - category: Pool Decking
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/pool-house-grange-brisbane/'
   description: Colorbond Roofed Pool House with timber deck
   title: 'Pool House, Mt Gravatt, Brisbane | Deking Decks'
 ---

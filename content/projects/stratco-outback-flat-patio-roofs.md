@@ -25,6 +25,7 @@ accordion:
 categories:
   - category: Patio Roofs
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/gable-patio-roofs/'
   description: >-
     Gable patio roofs give a new dimension to the basic patio roof, with its
     pitched roofing to replicate your homes roof
