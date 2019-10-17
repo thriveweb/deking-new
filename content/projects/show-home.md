@@ -75,8 +75,8 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/brisbane-show-home-decks-pergolas/'
   description: >-
-    Award winning homes with distinctive decking, pergolas, privacy screens,
-    steps, and fencing
-  title: Brisbane Show Home Decks & Pergolas | Deking Decks
+    Award-winning Brisbane homes with distinctive decking, pergolas, privacy
+    screens, steps, and fencing by DeKing Decks and Patios
+  title: Brisbane Show Home Decks & Pergola Designs | Deking Decks
 ---
 
