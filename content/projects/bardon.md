@@ -58,21 +58,13 @@ content: >-
   Patios](https://www.dekingdecks.com.au/contact/) for a free design
   consultation.
 accordion:
+  - {}
   - description: >-
       Merbau hardwood decking. Seat box with lids for storing kids toys. Low
       voltage LED lighting for ambience
     title: Materials used
   - description: '$7500.00 - $10,000.00'
     title: Project cost
-  - description: >-
-      We recommend re-oiling your deck on an annual basis to protect your timber
-      from the harsh Australian sun and other factors which may shorten the life
-      of your deck such as saltwater and organic waste.  We do offer a
-      comprehensive maintenance service for our decks which provides an industry
-      leading 25 year Warranty. We will inspect and re-oil the deck ensuring the
-      life of the deck is maximized and our customers can continue to enjoy
-      their deck for years to come.
-    title: Maintenance
 feedback:
   - description: 'Thank you kindly for our new deck, the lights set it off'
     from: Rebecca
