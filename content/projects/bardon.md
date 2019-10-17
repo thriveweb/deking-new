@@ -74,7 +74,8 @@ meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/decks-brisbane/'
   description: >-
     Merbau hardwood decking. Seat box with lids for storing kids toys. Low
-    voltage LED lighting for ambience 
-  title: Merbau Hardwood Timber Deck Brisbane | Deking Decks
+    voltage LED lighting for ambience by DeKing Decks and Patios covering
+    Brisbane, Gold Coast and Lower Sunshine Coast
+  title: Merbau Hardwood Timber Deck Brisbane Gold Coast | Deking Decks
 ---
 
