@@ -19,12 +19,10 @@ content: >-
   across Brisbane, the lower sunshine coast and the Gold Coast.
 
 
-
   Poolside structures provide a space for gathering to enjoy and appreciate the
   outdoor lifestyle so popular with Australian families. It can also provide a
   retreat where you can block out the outside world and relax in your
   surroundings.
-
 
 
   **Pergolas / Pool house Materials**
@@ -54,26 +52,28 @@ content: >-
   additional protection from heat transference is not required.
 
 
-  **Landscaping Options**
-
-
-
-  Pergolas / Pool houses are often designed to incorporate surround landscape
-  features such as retaining walls, paving and greenery. Privacy screens are
-  often included to create a visually protected environment when in a
-  residential setting. Storage boxes, bars and benches are common elements often
-  considered in outdoor entertaining spaces.
-
 
 
   [Contact Decking Decks and Patios](https://www.dekingdecks.com.au/contact/) to
   discuss all of the material options with you. We also offer information around
   suitability and warranty to ensure a quality outcome you can enjoy.
 accordion:
+  - {}
   - description: >-
       Free standing Timber framed pergola roofs to 2 sides of the swimming pool
       with privacy screening and bench seating with cushions
     title: Painted pergola with colorbond roofing
+  - description: >-
+      Contact us or Visit our quote calculator for pricing ideas for pool house
+      and pergola projects
+    title: Pricing
+  - description: >-
+      Pergolas / Pool houses are often designed to incorporate surround
+      landscape features such as retaining walls, paving and greenery. Privacy
+      screens are often included to create a visually protected environment when
+      in a residential setting. Storage boxes, bars and benches are common
+      elements often considered in outdoor entertaining spaces.
+    title: Landscaping Options
 categories:
   - category: Gazebos & Outdoor Rooms
 meta:
