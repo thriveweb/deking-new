@@ -21,7 +21,6 @@ content: >-
   provide a bold feature to the presentation of your property.
 
 
-
   **Design Considerations**
 
 
@@ -39,36 +38,27 @@ content: >-
 
 
 
-  **Average Carport Price**
-
-
-  Single car carports range from $4K-$8K as a guide with double car carports in
-  the $6K-10K range.
-
-
-
-  **Carport Materials**
-
-
-  Deking Decks and Patios can provide carports featuring materials such as
-  finished timber, high gloss long span single skin roofing and insulated panels
-  with a flat ceiling finish.
-
-
-
-  **Brands and Warranty**
-
-
-  Our Stratco carports come with a 25 year Structural Warranty using quality
-  Australian made materials and are installed by qualified and licensed
-  tradesmen giving our clients confidence that the outcome is a well-built value
-  for money structure.
-
-
 
   If you need a carport at your property, [contact Decking Decks and
   Patios](https://www.dekingdecks.com.au/contact/) for a free design
   consultation.
+accordion:
+  - {}
+  - description: >-
+      Deking Decks and Patios can provide carports featuring materials such as
+      finished timber, high gloss long span single skin roofing and insulated
+      panels with a flat ceiling finish.
+    title: Carport Materials
+  - description: >-
+      Single car carports range from $4K-$8K as a guide with double car carports
+      in the $6K-10K range.
+    title: Average Carport Price
+  - description: >-
+      Our Stratco carports come with a 25 year Structural Warranty using quality
+      Australian made materials and are installed by qualified and licensed
+      tradesmen giving our clients confidence that the outcome is a well-built
+      value for money structure.
+    title: Brands and Warranty
 categories:
   - category: Patio Roofs
 meta:
