@@ -53,6 +53,7 @@ content: >-
   [Contact Decking Decks and Patios](https://www.dekingdecks.com.au/contact/)
   for a free consultation.
 accordion:
+  - {}
   - description: >-
       We recommend re-oiling your deck on an annual basis to protect your timber
       from the harsh Australian sun and other factors which may shorten the life
@@ -62,6 +63,8 @@ accordion:
       ensuring the life of the deck is maximized and our customers can continue
       to enjoy their deck for years to come.
     title: Deck Maintenance
+  - description: Visit our quote calculator for pricing ideas for any of these projects
+    title: Pricing
 categories:
   - category: 'Commercial '
   - category: Timber Decks
