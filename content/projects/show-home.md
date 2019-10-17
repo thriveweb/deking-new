@@ -50,24 +50,18 @@ content: >-
 
 
 
-  **Deck Maintenance**
-
-
-  We recommend re-oiling your deck on an annual basis to protect your timber
-  from the harsh Australian sun and other factors which may shorten the life of
-  your deck such as saltwater and organic waste.
-
-
-  We do offer a comprehensive maintenance service for our decks, which provides
-  an industry leading 25 year Warranty. We will inspect and re-oil the deck
-  ensuring the life of the deck is maximized and our customers can continue to
-  enjoy their deck for years to come.
-
-
-
   [Contact Decking Decks and Patios](https://www.dekingdecks.com.au/contact/)
   for a free consultation.
-accordion: []
+accordion:
+  - description: >-
+      We recommend re-oiling your deck on an annual basis to protect your timber
+      from the harsh Australian sun and other factors which may shorten the life
+      of your deck such as saltwater and organic waste.  We do offer a
+      comprehensive maintenance service for our decks, which provides an
+      industry leading 25 year Warranty. We will inspect and re-oil the deck
+      ensuring the life of the deck is maximized and our customers can continue
+      to enjoy their deck for years to come.
+    title: Deck Maintenance
 categories:
   - category: 'Commercial '
   - category: Timber Decks
