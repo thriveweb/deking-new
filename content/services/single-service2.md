@@ -50,8 +50,8 @@ servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom patio design
 servicePriceDescription:
   - materials: Flyover Insulated Patio roof
-    max: $9000
-    min: $8000
+    max: $8500
+    min: $7000
     size: 6 metres by 4 metres
 servicePods:
   - podDescription: >-
@@ -132,11 +132,11 @@ videoTitle: Stratco advertising that we built!
 videoURL: ''
 bannerTitle: Winter Special
 bannerDescription: |-
-  Free Heatstrip heater with every Insulated Patio Roof. 
+  Free ceiling lights with Cooldek patio roofs
   Minimum size 25m2.
-  Not valid with interest free finance.
-  Offer ends 30th June. Call for T's & C's
-bannerImage: /images/uploads/heatstrip_gazebo.jpg
+  Available with 12 months interest free.
+  Offer ends 2019. Call for T's & C's
+bannerImage: /images/uploads/cooldekredlandbay.jpg
 bannerButton:
   label: Contact Us
   link: contact
