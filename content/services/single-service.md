@@ -86,13 +86,17 @@ servicePods:
       functional, and provides real value to your property.
     podImage: /images/uploads/21.jpg
     podsTitle: What style of Deck do you need?
-bannerTitle: Winter Special
-bannerDescription: |-
-  Free Heatstrip heater with every Insulated Patio Roof. 
-  Minimum size 25m2.
-  Not valid with interest free finance.
-  Offer ends 30th June. Call for T's & C's
-bannerImage: /images/uploads/heatstrip_gazebo.jpg
+bannerTitle: End of year Special
+bannerDescription: >-
+  Free 32inch TV with all decks, watch the boxing day test on your new outdoor
+  deck
+
+  Minimum deck size 25m2.
+
+  Available with 12 months interest free
+
+  Offer ends 2019. Call for T's & C's
+bannerImage: /images/uploads/patios-verandah-carport-outback-gable-04.jpg
 bannerButton:
   label: Contact Us
   link: contact
