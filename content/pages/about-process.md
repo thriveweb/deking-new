@@ -101,13 +101,13 @@ processes:
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide.
     title: Enjoy
-bannerTitle: Winter Special
+bannerTitle: Summer Special
 bannerDescription: |-
-  Free Heatstrip heater with every Insulated Patio Roof. 
+  Free ceiling lights with Cooldek patio roofs. 
   Minimum size 25m2.
-  Not valid with interest free finance.
-  Offer ends 30th June. Call for T's & C's
-bannerImage: /images/uploads/heatstrip_gazebo.jpg
+  Offer ends 2019. Call for T's & C's
+bannerImage: >-
+  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
 bannerButton:
   label: Enquire
   link: contact
