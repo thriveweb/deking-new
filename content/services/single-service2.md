@@ -130,7 +130,7 @@ servicePods:
     podsTitle: Insulated Roofing
 videoTitle: Stratco advertising that we built!
 videoURL: ''
-bannerTitle: Winter Special
+bannerTitle: End of year Special
 bannerDescription: |-
   Free ceiling lights with Cooldek patio roofs
   Minimum size 25m2.
