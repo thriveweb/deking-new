@@ -37,13 +37,13 @@ whatWeDo:
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
     title: 'Deck and Patio add on''s '
-bannerTitle: Winter Special
+bannerTitle: 2020 Special
 bannerDescription: |-
-  Free Heatstrip heater with every Insulated Patio Roof. 
+  Free ceiling lights with Cooldek patio roofs
   Minimum size 25m2.
-  Not valid with interest free finance.
-  Offer ends 30th June. Call for T's & C's
-bannerImage: /images/uploads/heatstrip_gazebo.jpg
+  12 months interest free terms are available
+  Offer ends 2019. Call for T's & C's
+bannerImage: /images/uploads/cooldekrooflightsvictoriapoint.jpg
 bannerButton:
   label: Enquire
   link: contact
