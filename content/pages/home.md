@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 externalVideoURL: 'https://clients.thrivex.io/dekingdecks/Commercial_Poolside.mp4'
 videoPoster: /images/uploads/dekingdecks-timber-deck.jpg
-title: Let's start your new Brisbane deck and patio together
+title: 'Let''s start your combination patios and decks Brisbane, SE QLD'
 featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
