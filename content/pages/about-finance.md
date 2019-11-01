@@ -61,7 +61,7 @@ faq:
       zero, you can cancel at any time. There are NO additional fees for closing
       your account or paying out early.
     title: Can I close my account and are there any charges?
-learnMore: HSBC Finance for For Decks & Patios
+learnMore: 'Apply online, click here to get started'
 learnMoreImage: /images/uploads/hsbc-logo.jpg
 learnMoreLink: 'https://apply.hsbc.com.au/multiapp/multiapp?identifier=THXO1200231000034'
 meta:
