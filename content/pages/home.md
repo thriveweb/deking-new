@@ -35,12 +35,11 @@ teamDescription: >-
   way to enhance lifestyle, connect to your family whilst also increasing both
   living space and value in your home. From private residences to commercial
   projects we are proud of what we do. We invite you to talk to us, or check out
-  our[ 6 simple step
-  process](https://deking-decks.netlify.com/quote-calculator/), our extensive
-  gallery in our [projects](https://deking-decks.netlify.com/projects/) or try
-  out our online pricing
-  [calculators](https://deking-decks.netlify.com/quote-calculator/). We are here
-  to help and can simply make it happen.
+  our [6 simple step process,](https://www.dekingdecks.com.au/about/process/)
+  our extensive gallery in our
+  [projects](https://deking-decks.netlify.com/projects/) or try out our online
+  pricing [calculators](https://deking-decks.netlify.com/quote-calculator/). We
+  are here to help and can simply make it happen.
 teamImage: /images/uploads/team.jpg
 teamButton:
   label: About us
