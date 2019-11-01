@@ -14,7 +14,7 @@ welcomeDescription: >-
 
 
   Have it now with no interest payments over 12 months with only a small set up
-  fee.
+  fee of $99.
 welcomeImage: /images/uploads/hsbc_visa_finance.jpeg
 faq:
   - content: >-
