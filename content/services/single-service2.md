@@ -9,12 +9,20 @@ excerpt: >-
 
   Patio roofs create an additional space for playing, eating, reading, storing,
   entertaining, footy watching..
-welcomeTitle: Patio Builders & Patio Roofing Specialists.
+welcomeTitle: Brisbane Patio Builders & Patio Roofing Specialists.
 welcomeDescription: >-
   Patios allow you to enjoy outdoor activities while being sheltered from the
-  harsh sun and Queensland's storms. Yoga, table tennis, pool table, treadmill
+  harsh sun and Brisbane's storms. Yoga, table tennis, pool table, treadmill
   training, watching the footy, or bird-watching are all great activities that
   you can do from a patio. Along with entertaining your family and friends.
+
+
+  Want to know what your patio roof will cost? 
+
+
+  [Click here](https://www.dekingdecks.com.au/quote-calculator/) to the cost
+  calculator page and get an estimate, or feel free to [contact
+  us](https://www.dekingdecks.com.au/contact/) for an onsite measure and quote
 welcomeImage: /images/uploads/patios-verandah-carport-outback-cooldek-19.jpg
 accordion:
   - description: >-
