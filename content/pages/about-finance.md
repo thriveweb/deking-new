@@ -63,7 +63,7 @@ faq:
     title: Can I close my account and are there any charges?
 learnMore: HSBC Finance for For Decks & Patios
 learnMoreImage: /images/uploads/hsbc-logo.jpg
-learnMoreLink: 'https://www.hsbc.com.au/credit-cards/products/classic/retailer-sign-up/'
+learnMoreLink: 'https://apply.hsbc.com.au/multiapp/multiapp?identifier=THXO1200231000034'
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/finance/'
   description: >-
