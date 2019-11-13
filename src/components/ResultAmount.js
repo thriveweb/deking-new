@@ -28,7 +28,7 @@ export default ({ option, sqm, extras }) => {
   }
   if (option === 'patioRoof') {
     if (extras.insulated === 'insulated') {
-      bats = 75 * sqm
+      bats = 50 * sqm
       min = min + bats
       max = max + bats
     }
@@ -40,8 +40,8 @@ export default ({ option, sqm, extras }) => {
       min = sqm * 225 + min
       max = sqm * 275 + max
     }
-    min = sqm * 370 + min
-    max = sqm * 400 + max
+    min = min
+    max = max
   }
   if (option === 'upperLevelDeckPatio') {
     if (extras.stairs === 'stairs') {
