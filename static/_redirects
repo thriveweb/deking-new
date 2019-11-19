@@ -1,5 +1,8 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
+# Redirect default Netlify subdomain to primary domain
+https://deking-decks.netlify.com/* https://dekingdecks.com.au/:splat 301!
+
 # Redirects from what the browser requests to what we serve
 /types-of-decks						/posts/types-of-decks
 /deck-builders-Ipswich 					/services
