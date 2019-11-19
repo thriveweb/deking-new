@@ -14,7 +14,7 @@ locations:
     phone: 07 3804 6400
     title: Brisbane
   - address: >-
-      Unit 13/22 Mavis Court, Ormeau. QLD. 4208 and PO Box 795, Burleigh Heads.
+      Unit 13/22 Mavis Court, Ormeau. QLD. 4208 <br> PO Box 795, Burleigh Heads.
       QLD. 4220
     fax: ''
     lat: '-27,753601'
