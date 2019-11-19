@@ -108,6 +108,6 @@ meta:
     DeKing are Timber Decking specialists in Brisbane, Ipswich, Logan, the Gold
     Coast and Sunshine Coast. Use our Decking Calculators for a Free Quote.
   noindex: false
-  title: 'Timber Deck Builders Brisbane, Gold Coast, Sunshine Coast & SE QLD'
+  title: 'Timber Deck Builders Gold Coast, Sunshine Coast, Brisbane & SE QLD'
 ---
 
