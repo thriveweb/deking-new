@@ -4,18 +4,18 @@ title: Timber Decks
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
-excerpt: 'A Deking Deck will add Value, quality, longevity, and style to your home.'
-welcomeTitle: Brisbane and Gold Coast Specialist Deck Builder
+excerpt: 'A DeKing Deck will add Value, quality, longevity, and style to your home.'
+welcomeTitle: Brisbane & Gold Coast Deck Builder
 welcomeDescription: >-
-  Deking designs, builds, maintains and restores high quality commercial and
-  residential decks. Dekings design and construction service comes with a 25
+  DeKing designs, builds, maintains and restores high quality commercial and
+  residential decks. DeKings design and construction service comes with a 25
   year guarantee.  We pride ourselves on working together with our clients to
   ensure a great result.   Our clients enjoy the quality of our workmanship,
   customized designs and attention to detail evident in everything down to the
   quality fittings and screws used as standard on all our projects.  From large
   outdoor entertaining decks with covered outdoor kitchens to small statement
-  entry patios, the Deking team has a wealth of design and construction
-  experience to bring to any decking project.
+  entry patios, the DeKing team has a wealth of design and construction
+  experience to bring to any decking project on the Gold Coast or SE QLD.
 welcomeImage: /images/uploads/7.jpg
 accordion: []
 servicePriceTitle: Price guide
@@ -32,13 +32,13 @@ servicePods:
       groups of friends.
 
 
-      Whatever your reason, we at Deking can create your ideal space that is an
+      Whatever your reason, we at DeKing can create your ideal space that is an
       enjoyable building experience and will give you years of enjoyable outdoor
       living
 
 
       All our decks are backed with a 25 year warranty so sit back, enjoy the
-      process of your new build and relax on your new Deking Deck
+      process of your new build and relax on your new DeKing Deck
     podImage: /images/uploads/girl_pet_dog_deck.jpg
     podsTitle: What will you use your timber deck for?
   - podDescription: >-
@@ -58,9 +58,10 @@ servicePods:
     podImage: /images/uploads/11.jpg
     podsTitle: Timber Decking Materials
   - podDescription: >-
-      Dekings decks are backed with a 25 year warranty, so to maintain this
+      DeKings decks are backed with a 25 year warranty, so to maintain this
       standard there are a lot of things that go on above, and below the decking
-      surface.
+      surface. We started out on the Gold Coast and also build decks and patios
+      in Brisbane.
 
 
       A good deck has to start with a good foundation, following through a
@@ -105,8 +106,8 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/services/timber-decks/'
   description: >-
-    DeKing are Timber Decking specialists in Brisbane, Ipswich, Logan, the Gold
-    Coast and Sunshine Coast. Use our Decking Calculators for a Free Quote.
+    DeKing are Timber Decking specialists on the Gold Coast, Brisbane, Ipswich,
+    Logan, and Sunshine Coast. Use our Decking Calculators for a Free Quote.
   noindex: false
   title: 'Timber Deck Builders Gold Coast, Sunshine Coast, Brisbane & SE QLD'
 ---
