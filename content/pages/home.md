@@ -22,7 +22,7 @@ bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
   link: contact
-teamTitle: DeKing Decks – Brisbane & Gold Coast – The Timber Deck Builder Specialists
+teamTitle: DeKing Decks – Brisbane  – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
   people](https://deking-decks.netlify.com/about/team/) at Deking have been
@@ -214,6 +214,6 @@ meta:
     Coast & Sunshine Coast with affordable beautiful Timber Decking & Patio
     Roofing.
   noindex: false
-  title: Decks Brisbane & Gold Coast | Timber Deck Builders SE QLD
+  title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decks'
 ---
 
