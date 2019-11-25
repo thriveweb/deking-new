@@ -8,14 +8,14 @@ guarantees:
   content: >-
     Since 2003, Deking Decks has been building quality timber decks. We have
     worked hard to maintain our commitment to design, construction, quality and
-    customer service. The 25 Year Structural Guarantee is specific to the
-    initial purchaser and is transferable to new owners of the home if they
-    agree into the maintenance plan.
+    customer service. The 25 Year  Guarantee is specific to the initial
+    purchaser and is transferable to new owners of the home if they agree into
+    the maintenance plan.
 
 
     1. **All our decks come with a 25 year warranty!***
 
-    2. **Patios roofs come with a 15 year structural warranty backed by
+    2. **Patios roofs also come with a 25 year structural warranty backed by
     Stratco**
 
     3. **12 Month Deck Check**
@@ -30,7 +30,7 @@ guarantees:
     During the construction process we keep your property clean and tidy to
     ensure you, your family, and the Deking team are kept safe. On completion we
     remove all our building waste and leave your property tidy
-  title: 25 Year Structural Warranty*
+  title: The Diamond Difference. 25 Year Warranty*
 bannerTitle: Guarantees
 bannerDescription: >-
   Our Guarantee's to give you piece of mind.
