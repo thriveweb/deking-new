@@ -58,8 +58,8 @@ servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate on your custom patio design
 servicePriceDescription:
   - materials: Flyover Insulated Patio roof
-    max: $8500
-    min: $7000
+    max: $7800.00
+    min: $6600.00
     size: 6 metres by 4 metres
 servicePods:
   - podDescription: >-
