@@ -21,6 +21,7 @@ meta:
   description: >-
     An insulated Patio Roof with Lightboxes for extra lighting into the living
     room
+  noindex: true
   title: Insulated Patio Victoria Point | Deking Decks
 ---
 
