@@ -27,6 +27,7 @@ meta:
   description: >-
     Hardwood decking over 2 levels on a treated pine frame and an insulated
     flyover patio roof with a set of external stairs.
+  noindex: true
   title: 'Pool Deck & Patio Roof Reedy Creek, Gold Coast | Deking Decks'
 ---
 
