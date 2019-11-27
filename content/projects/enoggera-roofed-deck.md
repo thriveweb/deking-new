@@ -40,6 +40,7 @@ meta:
   description: >-
     Traditional style Pergola Roof with Spotted Gum Decking and Louvred Privacy
     Screens.
+  noindex: true
   title: Enoggera Roofed Deck | Deking Decks
 ---
 
