@@ -20,6 +20,7 @@ meta:
   description: >-
     Trex composite decking was chosen so our clients could keep their weekends
     free to enjoy the pool area.
+  noindex: true
   title: Trex Pool Decking Kenmore Hills | Deking Decks
 ---
 
