@@ -29,6 +29,7 @@ meta:
   description: >-
     Gable patio roofs give a new dimension to the basic patio roof, with its
     pitched roofing to replicate your homes roof
+  noindex: true
   title: Gable Patio Roofs | Deking Decks
 ---
 
