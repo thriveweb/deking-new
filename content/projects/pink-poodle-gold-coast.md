@@ -30,6 +30,7 @@ meta:
   description: >-
     Larger hardwood decking boards with stainless fasteners for longevity and
     low maintenance
+  noindex: true
   title: Pink Poodle Gold Coast | Deking Decks
 ---
 
