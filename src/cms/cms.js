@@ -5,7 +5,7 @@ import './cms-utils'
 import { HomePageTemplate } from '../templates/HomePage'
 import { AboutPageTemplate } from '../templates/AboutPage'
 import { FinancePageTemplate } from '../templates/FinancePage'
-import { ContactPageTemplate } from '../templates/ContactPage'
+// import { ContactPageTemplate } from '../templates/ContactPage'
 import { ServicesIndexTemplate } from '../templates/ServicesIndex'
 import { ProjectsIndexTemplate } from '../templates/ProjectsIndex'
 import { SingleServiceTemplate } from '../templates/SingleService'
@@ -36,9 +36,9 @@ CMS.registerPreviewTemplate('about-page', ({ entry }) => (
 CMS.registerPreviewTemplate('about-finance-page', ({ entry }) => (
   <FinancePageTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
-  <ContactPageTemplate {...entry.toJS().data} />
-))
+// CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
+//   <ContactPageTemplate {...entry.toJS().data} />
+// ))
 CMS.registerPreviewTemplate('services-page', ({ entry }) => (
   <ServicesIndexTemplate {...entry.toJS().data} />
 ))
