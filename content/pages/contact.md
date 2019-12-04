@@ -14,8 +14,7 @@ locations:
     phone: 07 3804 6400
     title: DeKing Decks Brisbane
   - address: >-
-      Unit 13/22 Mavis Court, Ormeau. QLD. 4208  | PO Box 795, Burleigh Heads.
-      QLD. 4220
+      Unit 13/22 Mavis Court, Ormeau. QLD. 4208
     fax: ''
     lat: '-27,753601'
     lng: '153.245472'
@@ -42,4 +41,3 @@ meta:
   noindex: false
   title: Contact Us | Deking Decks
 ---
-
