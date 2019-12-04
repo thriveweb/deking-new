@@ -61,6 +61,12 @@ export const ContactPageTemplate = ({
                           {location.address}
                         </p>
                       )}
+                      {location.address2 && (
+                        <p>
+                          <span className="red">Address 2</span>
+                          {location.address2}
+                        </p>
+                      )}
                       {location.mapLink && (
                         <a
                           target="_blank"
@@ -153,6 +159,7 @@ export const pageQuery = graphql`
           phone
           fax
           address
+          address2
           mapLink
           lat
           lng

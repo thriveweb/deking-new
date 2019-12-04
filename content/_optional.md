@@ -57,6 +57,7 @@ locations:
   - phone: ''
   - fax: ''
   - address: ''
+  - address2: ''
   - mapLink: ''
   - lat: ''
   - lng: ''

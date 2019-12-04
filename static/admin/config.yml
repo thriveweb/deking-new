@@ -959,6 +959,13 @@ collections: # A list of collections the CMS should be able to edit
                   default: '',
                 }
               - {
+                  name: address2,
+                  label: address2,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
                   name: mapLink,
                   label: mapLink,
                   widget: string,
