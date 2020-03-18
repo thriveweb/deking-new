@@ -42,7 +42,7 @@ bannerDescription: |-
   Free ceiling lights with Cooldek patio roofs
   Minimum size 25m2.
   12 months interest free terms are available
-  Offer ends 2019. Call for T's & C's
+  Offer ends EOFY 2020. Call for T's & C's
 bannerImage: /images/uploads/cooldekrooflightsvictoriapoint.jpg
 bannerButton:
   label: Enquire
