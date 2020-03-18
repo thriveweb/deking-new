@@ -1,49 +1,53 @@
 ---
 template: MarketingPage
-slug: 'patios-and-decks-brisbane-qld'
-title: Marketing
-subtitle: Building Quality and Relationships
-featuredImage: /images/uploads/img_8748.jpg
-welcomeTitle: Who we are
+slug: patios-and-decks-brisbane-qld
+title: Brisbane Home Show Special on Decks and Patios
+subtitle: Deck & Patio Roof specials extended to EOFY 2020
+featuredImage: /images/uploads/brisbanehomeshow.jpg
+welcomeTitle: '2020 Brisbane Home Show offers have been extended to June 30th '
 welcomeDescription: >-
-  The Deking Decks company was established in 2003 by director David Rider.
-  Servicing Brisbane, Gold Coast and the Sunshine Coast, Deking Decks has grown
-  from strength to strength and prides itself on building strong and ongoing
-  client relationships. 16 years down the track, bursting with experience and a
-  new larger factory and office at Ormeau, our team includes 3 passionate design
-  consultants, licensed trade professionals, our apprentice and Shelley our
-  awesome, “only too happy to help“, client service co-ordinator.
-
-  With 960 completed projects to our name, we are also looking forward to
-  completing your new addition and adding you to our family!
-welcomeImage: /images/uploads/fullsizeoutput_1ed5.jpg
+  The 2020 Brisbane Home show was a massive success with record numbers of
+  people visiting. With this in mind we have extended our specials until the end
+  of this financial year, not only that we are also offering 12 months interest
+  free for those who want to defer their payments while we are in the grip of
+  this horrible Covid-19 virus
+welcomeImage: /images/uploads/brisbanehomeshow.jpg
 welcomeButton:
-  label: Meet the team
-  link: about/team
-whatWeDoTitle: What We Do
+  label: Sign Me Up
+  link: contact
+whatWeDoTitle: Extended Brisbane Home Show Deals
 whatWeDo:
   - description: >-
-      Decks are a great way to significantly increase the living space of your
-      home.
-    icon: /images/uploads/icon-size.svg
-    title: 'Timber Decks, Pool decks, Verandahs '
+      Hardwood decking. 
+
+      Balustrade to all 3 sides.
+
+      Insulated flyover patio roof.
+
+      Includes standard certification (council permit) Drafted plans, and QBCC
+      insurance certificate
+    icon: >-
+      /images/uploads/deking-decks-insulated-patio-roofing-benefits-types-and-materials.jpg
+    title: '5m x 4m Upper story deck and insulated flyover patio roof $24,990.00'
   - description: >-
-      Building a Patio roof increases the value of your home and makes it more
-      attractive to potential buyers.
-    icon: /images/uploads/icon-house.svg
-    title: Patio Roofing
+      Carport attached to house. Non-insulated roofing sheets. Includes standard
+      certification (council permit) Drafted plans, and QBCC insurance
+      certificate
+    icon: /images/uploads/doublecarport.jpg
+    title: 6m x 6m Carport $7990.00
   - description: >-
-      We dont stop at Decks and Patios, we also install glass pool fencing,
-      external blinds, privacy screens, etc, etc...
-    icon: /images/uploads/icon-relax.svg
-    title: "Deck and Patio add on's "
-bannerTitle: 2020 Special
-bannerDescription: |-
-  Free ceiling lights with Cooldek patio roofs
-  Minimum size 25m2.
-  12 months interest free terms are available
-  Offer ends 2019. Call for T's & C's
-bannerImage: /images/uploads/cooldekrooflightsvictoriapoint.jpg
+      Free standing. Non-insulated roofing sheets. Includes standard
+      certification (council permit) Drafted plans, and QBCC insurance
+      certificate
+    icon: /images/uploads/caravanroof.jpg
+    title: Caravan Shelter $8990.00
+bannerTitle: Flyover insulated patio roof. 6m x 4.8m $7990.00
+bannerDescription: >-
+  Insulated panels. 4x LED lights. 
+
+  Includes standard certification (council permit) Drafted plans, and QBCC
+  insurance certificate
+bannerImage: /images/uploads/cooldekredlandbay.jpg
 bannerButton:
   label: Enquire
   link: contact
@@ -53,8 +57,6 @@ qualificationsLogos:
     logo: /images/uploads/25-year-warranty-shutterstock.jpg
   - link: 'https://www.dekingdecks.com.au/services/eco-decking/'
     logo: /images/uploads/ekodeking.jpg
-  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
-    logo: /images/uploads/patios-stratco-outback-warranty-1.png
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/deking_seal_deckcheck.jpg
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
@@ -70,3 +72,4 @@ meta:
   noindex: false
   title: Marketing | Deking Decks
 ---
+
