@@ -143,7 +143,7 @@ bannerDescription: |-
   Free ceiling lights with Cooldek patio roofs
   Minimum size 25m2.
   Available with 12 months interest free.
-  Offer ends 2019. Call for T's & C's
+  Offer ends EOFY 2020. Call for T's & C's
 bannerImage: /images/uploads/cooldekredlandbay.jpg
 bannerButton:
   label: Contact Us
