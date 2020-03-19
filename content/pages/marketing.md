@@ -1,6 +1,6 @@
 ---
 template: MarketingPage
-slug: patios-and-decks-brisbane-qld
+slug: promotions-specials-events
 title: Brisbane Home Show Special on Decks and Patios
 subtitle: Deck & Patio Roof specials extended to EOFY 2020
 featuredImage: /images/uploads/brisbanehomeshow.jpg
@@ -18,7 +18,7 @@ welcomeButton:
 whatWeDoTitle: Extended Brisbane Home Show Deals
 whatWeDo:
   - description: >-
-      Hardwood decking. 
+      Hardwood decking.
 
       Balustrade to all 3 sides.
 
@@ -43,7 +43,7 @@ whatWeDo:
     title: Caravan Shelter $8990.00
 bannerTitle: Flyover insulated patio roof. 6m x 4.8m $7990.00
 bannerDescription: >-
-  Insulated panels. 4x LED lights. 
+  Insulated panels. 4x LED lights.
 
   Includes standard certification (council permit) Drafted plans, and QBCC
   insurance certificate
@@ -66,10 +66,7 @@ qualificationsLogos:
     logo: /images/uploads/qbcc-licence.png
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/'
-  description: >-
-    DeKing Decks is the king of outdoor decking when it comes to the design and
-    installation of outdoor decking, verandas, pool decking, and patio roofing.
+  description: DeKing Decks promotions and special events. See our latest specials and upcoming events where you can catch up with us in person.
   noindex: false
-  title: Marketing | Deking Decks
+  title: Promotions and Special Events | Deking Decks
 ---
-
