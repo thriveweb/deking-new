@@ -16,6 +16,10 @@ bannerDescription: ''
 bannerButton:
   label: ''
   link: ''
+promoTitle: ''
+promoButton:
+  label: ''
+  link: ''
 teamTitle: ''
 teamDescription: ''
 teamButton:

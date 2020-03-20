@@ -30,6 +30,8 @@ export const HomePageTemplate = ({
   bannerDescription,
   bannerImage,
   bannerButton,
+  promoTitle,
+  promoButton,
   teamTitle,
   teamDescription,
   teamImage,
@@ -119,6 +121,19 @@ export const HomePageTemplate = ({
           description={bannerDescription}
           link={bannerButton}
         />
+      )}
+
+      {promoTitle && (
+        <div className="section dark taCenter WelcomeSection">
+          <div className="container skinny">
+            <h2>{promoTitle}</h2>
+            {promoButton.link && (
+              <Button className="PageHeader--Button" to={promoButton.link}>
+                {promoButton.label}
+              </Button>
+            )}
+          </div>
+        </div>
       )}
 
       <div className="section TeamSection">
@@ -357,6 +372,11 @@ export const pageQuery = graphql`
         bannerDescription
         bannerImage {
           ...FluidImage
+        }
+        promoTitle
+        promoButton {
+          label
+          link
         }
         teamImage {
           ...FluidImage

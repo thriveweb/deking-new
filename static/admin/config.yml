@@ -126,6 +126,31 @@ collections: # A list of collections the CMS should be able to edit
                   default: '',
                 }
           - {
+              name: promoTitle,
+              label: Promo Title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - name: promoButton
+            label: Promo Button
+            widget: object
+            fields:
+              - {
+                  name: label,
+                  label: label,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: link,
+                  label: Link,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+          - {
               name: teamTitle,
               label: Team Title,
               widget: string,

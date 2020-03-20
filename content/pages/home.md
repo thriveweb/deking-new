@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 externalVideoURL: 'https://clients.thrivex.io/dekingdecks/Commercial_Poolside.mp4'
 videoPoster: /images/uploads/dekingdecks-timber-deck.jpg
-title: 'Let''s start your combination patios and decks Brisbane, SE QLD'
+title: "Let's start your combination patios and decks Brisbane, SE QLD"
 featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
@@ -22,6 +22,10 @@ bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
   link: contact
+promoTitle: 'Specials extended to EOFY 2020'
+promoButton:
+  label: Our Promotions
+  link: promotions-specials-events
 teamTitle: DeKing Decks – Brisbane  – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
@@ -170,7 +174,7 @@ reviews:
       was very quick from the quote to the work being done. Thanks to Roly and
       Luke.
 
-      Our deck looks great! 
+      Our deck looks great!
 
       I would definitely use them again.”
     title: I would definitely use them again
@@ -187,7 +191,7 @@ reviews:
       “Professional and efficient service from consultation to delivery. We
       loved the clear communication and punctuality. Everyone we dealt with was
       polite and happy to discuss details and options with us. All trades were
-      professional neat and tidy. 
+      professional neat and tidy.
 
       Thanks guys, we love our new deck.”
     title: We loved the clear communication and punctuality.
@@ -216,4 +220,3 @@ meta:
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decks'
 ---
-
