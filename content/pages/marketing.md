@@ -2,7 +2,7 @@
 template: MarketingPage
 slug: promotions-specials-events
 title: Brisbane Home Show Special on Decks and Patios
-subtitle: Deck & Patio Roof specials extended to EOFY 2020
+subtitle: Deck & Patio Roof specials
 featuredImage: /images/uploads/brisbanehomeshow.jpg
 welcomeTitle: '2020 Brisbane Home Show offers have been extended to June 30th '
 welcomeDescription: >-
@@ -66,7 +66,10 @@ qualificationsLogos:
     logo: /images/uploads/qbcc-licence.png
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/'
-  description: DeKing Decks promotions and special events. See our latest specials and upcoming events where you can catch up with us in person.
+  description: >-
+    DeKing Decks promotions and special events. See our latest specials and
+    upcoming events where you can catch up with us in person.
   noindex: false
   title: Promotions and Special Events | Deking Decks
 ---
+
