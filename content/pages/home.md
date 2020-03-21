@@ -22,7 +22,7 @@ bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
   link: contact
-promoTitle: Brisbane HomeShow Specials Extended to 30th June
+promoTitle: Brisbane Home Show Specials Extended to 30th June
 promoButton:
   label: Our Promotions
   link: promotions-specials-events
