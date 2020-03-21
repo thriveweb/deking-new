@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 externalVideoURL: 'https://clients.thrivex.io/dekingdecks/Commercial_Poolside.mp4'
 videoPoster: /images/uploads/dekingdecks-timber-deck.jpg
-title: "Let's start your combination patios and decks Brisbane, SE QLD"
+title: 'Let''s start your combination patios and decks Brisbane, SE QLD'
 featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
@@ -22,7 +22,7 @@ bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
   link: contact
-promoTitle: 'Specials extended to EOFY 2020'
+promoTitle: Brisbane HomeShow Specials Extended to 30th June
 promoButton:
   label: Our Promotions
   link: promotions-specials-events
@@ -220,3 +220,4 @@ meta:
   noindex: false
   title: 'Decks Brisbane, Deck Builders Brisbane, Timber Decks'
 ---
+
