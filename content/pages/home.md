@@ -22,9 +22,9 @@ bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: Enquire
   link: contact
-promoTitle: Brisbane Home Show Specials Extended to 30th June
+promoTitle: Home Office and Garage Conversions
 promoButton:
-  label: Our Promotions
+  label: Enquire
   link: promotions-specials-events
 teamTitle: DeKing Decks – Brisbane  – The Timber Deck Builder Specialists
 teamDescription: >-
