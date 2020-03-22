@@ -24,7 +24,7 @@ bannerButton:
   link: about/guarantees
 promoTitle: Home Office and Garage Conversions
 promoButton:
-  label: Enquire
+  label: Make your home a haven
   link: promotions-specials-events
 teamTitle: DeKing Decks – Brisbane  – The Timber Deck Builder Specialists
 teamDescription: >-
