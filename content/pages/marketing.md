@@ -6,9 +6,9 @@ subtitle: Make Your Home a Haven
 featuredImage: /images/uploads/garage-conversion.jpg
 welcomeTitle: We have a team of professional carpenters ready to build your home office
 welcomeDescription: >-
-  Don't expect a handshake, but you will receive a smile and the best customer
-  service starting from our team of trusted design advisors through to our
-  professional carpenters.
+  While this Covid-19 is going on please don't expect a handshake, but you will
+  receive a smile and the best customer service starting from our team of
+  trusted design advisors through to our professional carpenters.
 
   We can take care of your home office needs by converting your garage or unused
   spare room. You may even have enough room in your roof space to build an attic
