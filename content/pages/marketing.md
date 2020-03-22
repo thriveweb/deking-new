@@ -33,9 +33,9 @@ whatWeDo:
   - description: >-
       A small studio that is separate from your house in a style that matches
       your home or something completely different, did you always want a small
-      piece of 1950's mid century modern design? We take care of the drafted
-      plans, council approval and QBCC insurances. All we need is your vision
-      and we will bring it to life!
+      piece of 1950's mid century modern design in your backyard? We take care
+      of the drafted plans, council approval and QBCC insurances. All we need is
+      your vision and we will bring it to life!
     icon: /images/uploads/home-studio-office.jpg
     title: Outdoor Studio
   - description: >-
