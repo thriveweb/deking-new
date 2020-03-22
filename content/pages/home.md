@@ -84,10 +84,12 @@ priceButton:
   link: quote-calculator
 partnersTitle: 'Our Licences, Trusted Partners, & Awards'
 partnerLogos:
-  - link: about
+  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/qualifications1.png
-  - logo: /images/uploads/trexpro-logo.jpg
-  - link: about
+  - link: 'https://www.dekingdecks.com.au/services/eco-decking/'
+    logo: /images/uploads/trexpro-logo.jpg
+  - link: >-
+      https://www.onlineservices.qbcc.qld.gov.au/OnlineLicenceSearch/VisualElements/ShowDetailResultContent.aspx?LicNO=1042297&licCat=LIC&name=&firstName=&searchType=Contractor&FromPage=SearchContr
     logo: /images/uploads/qbcc-licence.png
   - link: 'https://www.houzz.com.au/pro/deking/deking-decks-brisbane'
     logo: /images/uploads/badge_49_8-2x.png
