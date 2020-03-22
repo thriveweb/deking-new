@@ -68,7 +68,7 @@ qualificationsLogos:
       src="https://st.hzcdn.com/static_en-AU/badge_49_8@2x.png" alt="David Rider
       in Ormeau, QLD, AU on Houzz" width="80" height="80" border="0"
       /></a></td></tr></table>
-    logo: /images/uploads/best-of-houzz-service-social-post-1024x1024.png
+    logo: /images/uploads/badge_49_8-2x.png
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/'
   description: >-
