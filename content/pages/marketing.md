@@ -28,7 +28,7 @@ whatWeDo:
       plastered and painted. The garage door can be replaced with sliding glass
       doors or left in place and building a false wall over that can be removed
       at a later date
-    icon: /images/uploads/garage-door-windows.jpg
+    icon: /images/uploads/icon-garage-conversion.png
     title: Garage Conversions
   - description: >-
       A small studio that is separate from your house in a style that matches
