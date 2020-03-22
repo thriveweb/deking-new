@@ -51,7 +51,7 @@ bannerImage: /images/uploads/garage-conversion.jpg
 bannerButton:
   label: Enquire
   link: contact
-qualificationsTitle: Our Licences & Guarantees
+qualificationsTitle: 'Our Licences, Guarantees, & Awards'
 qualificationsLogos:
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/25-year-warranty-shutterstock.jpg
