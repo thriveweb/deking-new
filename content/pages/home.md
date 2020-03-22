@@ -21,7 +21,7 @@ bannerDescription: >
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: enquire
-  link: contact
+  link: about/guarantees/
 promoTitle: Home Office and Garage Conversions
 promoButton:
   label: Make your home a haven
