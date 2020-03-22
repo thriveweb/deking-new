@@ -82,15 +82,20 @@ priceDescription: >-
 priceButton:
   label: Build your deck
   link: quote-calculator
-partnersTitle: Our Trusted Partners
+partnersTitle: 'Our Licences, Trusted Partners, & Awards'
 partnerLogos:
   - link: about
     logo: /images/uploads/qualifications1.png
-  - link: about
-    logo: /images/uploads/stratco-outback.png
   - logo: /images/uploads/trexpro-logo.jpg
   - link: about
     logo: /images/uploads/qbcc-logo.jpg
+  - link: >-
+      <table style="width: 80px;" cellpadding="0" cellspacing="0"><tr><td><a
+      href="https://www.houzz.com.au/pro/deking/deking-decks-brisbane"><img
+      src="https://st.hzcdn.com/static_en-AU/badge_49_8@2x.png" alt="David Rider
+      in Ormeau, QLD, AU on Houzz" width="80" height="80" border="0"
+      /></a></td></tr></table>
+    logo: /images/uploads/best-of-houzz-service-social-post-1024x1024.png
 reviews:
   - by: Steve Heisig - Cleveland
     details: >-
