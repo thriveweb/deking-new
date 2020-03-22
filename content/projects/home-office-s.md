@@ -11,6 +11,7 @@ gallery:
   - image: /images/uploads/home-office.jpg
   - image: /images/uploads/home-studio-office.jpg
 content: Brisbane home office conversions and outdoor studios
-categories: []
+categories:
+  - {}
 ---
 
