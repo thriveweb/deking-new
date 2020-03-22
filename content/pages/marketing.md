@@ -36,7 +36,7 @@ whatWeDo:
       piece of 1950's mid century modern design in your backyard? We take care
       of the drafted plans, council approval and QBCC insurances. All we need is
       your vision and we will bring it to life!
-    icon: /images/uploads/home-studio-office.jpg
+    icon: /images/uploads/studio.png
     title: Outdoor Studio
   - description: >-
       Add value to your home by simply repairing and maintaining what you
