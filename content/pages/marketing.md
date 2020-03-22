@@ -62,7 +62,12 @@ qualificationsLogos:
   - link: >-
       http://www.onlineservices.qbcc.qld.gov.au/OnlineLicenceSearch/VisualElements/ShowDetailResultContent.aspx?LicNO=1042297&licCat=LIC&name=&firstName=&searchType=Contractor&FromPage=SearchContr
     logo: /images/uploads/qbcc-licence.png
-  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
+  - link: >-
+      <table style="width: 80px;" cellpadding="0" cellspacing="0"><tr><td><a
+      href="https://www.houzz.com.au/pro/deking/deking-decks-brisbane"><img
+      src="https://st.hzcdn.com/static_en-AU/badge_49_8@2x.png" alt="David Rider
+      in Ormeau, QLD, AU on Houzz" width="80" height="80" border="0"
+      /></a></td></tr></table>
     logo: /images/uploads/best-of-houzz-service-social-post-1024x1024.png
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/'
