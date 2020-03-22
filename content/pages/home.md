@@ -89,12 +89,7 @@ partnerLogos:
   - logo: /images/uploads/trexpro-logo.jpg
   - link: about
     logo: /images/uploads/qbcc-licence.png
-  - link: >-
-      <table style="width: 80px;" cellpadding="0" cellspacing="0"><tr><td><a
-      href="https://www.houzz.com.au/pro/deking/deking-decks-brisbane"><img
-      src="https://st.hzcdn.com/static_en-AU/badge_49_8@2x.png" alt="David Rider
-      in Ormeau, QLD, AU on Houzz" width="80" height="80" border="0"
-      /></a></td></tr></table>
+  - link: 'https://www.houzz.com.au/pro/deking/deking-decks-brisbane'
     logo: /images/uploads/badge_49_8-2x.png
 reviews:
   - by: Steve Heisig - Cleveland
