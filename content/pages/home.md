@@ -88,7 +88,7 @@ partnerLogos:
     logo: /images/uploads/qualifications1.png
   - logo: /images/uploads/trexpro-logo.jpg
   - link: about
-    logo: /images/uploads/qbcc-logo.jpg
+    logo: /images/uploads/qbcc-licence.png
   - link: >-
       <table style="width: 80px;" cellpadding="0" cellspacing="0"><tr><td><a
       href="https://www.houzz.com.au/pro/deking/deking-decks-brisbane"><img
