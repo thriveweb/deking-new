@@ -21,7 +21,7 @@ bannerDescription: >
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: T's & C's
-  link: 'our guarantees '
+  link: about/guarantees
 promoTitle: Home Office and Garage Conversions
 promoButton:
   label: Enquire
