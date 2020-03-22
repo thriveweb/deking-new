@@ -20,8 +20,8 @@ bannerDescription: >
   decks and patios. T's & C's apply*
 bannerImage: /images/uploads/10.jpg
 bannerButton:
-  label: T's & C's
-  link: about-guarantees
+  label: enquire
+  link: contact
 promoTitle: Home Office and Garage Conversions
 promoButton:
   label: Make your home a haven
