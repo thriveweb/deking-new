@@ -67,9 +67,9 @@ qualificationsLogos:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/'
   description: >-
-    Home office build, garage conversions, outdoor studios, granny flats, small
-    extensions and additions
+    DeKing provides home office builds, garage conversions, outdoor studios,
+    granny flats, small extensions and additions
   noindex: false
-  title: Home office build Brisbane
+  title: 'Garage Conversion Brisbane, Convert Garage to Office, Home Office Build'
 ---
 
