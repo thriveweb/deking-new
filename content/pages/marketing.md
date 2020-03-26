@@ -1,52 +1,33 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: 'Home Office, Garage Conversions, Small Extensions & Additions'
-subtitle: Make Your Home a Haven
+title: 'COVID-19 update: 26 March 2020'
+subtitle: How to Make Your Home a Haven
 featuredImage: /images/uploads/garage-conversion.jpg
-welcomeTitle: We have a team of professional carpenters ready to build your home office
+welcomeTitle: Construction remains an essential service and we are open for business.
 welcomeDescription: >-
-  While this Covid-19 is going on please don't expect a handshake, but you will
-  receive a smile and the best customer service starting from our team of
-  trusted design advisors through to our professional carpenters.
-
-  We can take care of your home office needs by converting your garage or unused
-  spare room. You may even have enough room in your roof space to build an attic
-  or loft office.
-
-  Another option is to build Granny Flat or Outdoor Studio.
+  Deking Decks and Patios acknowledges that we all need to act responsibly in
+  relation to COVID-19 and the health risk it poses to the elderly and those
+  with compromised immunity. As a small family company, we pride ourselves on
+  our care for both our customers and our staff. We are following all
+  recommendations provided to the community by the Federal and Qld Governments
+  in the practice of “social distancing” and hygiene practices.
 welcomeImage: /images/uploads/home-office.jpg
 welcomeButton:
-  label: Sign Me Up
+  label: enquire
   link: contact
-whatWeDoTitle: Are you working from home and need more space?
+whatWeDoTitle: 'What we are doing:'
 whatWeDo:
-  - description: >-
-      Adding of windows for more light. Resurfacing of the concrete floor by;
-      polishing the concrete, tiling, floating timber floors, carpeting, or
-      simply just a good clean along with strategically laid mats. Walls are
-      plastered and painted. The garage door can be replaced with sliding glass
-      doors or left in place and building a false wall over that can be removed
-      at a later date
-    icon: /images/uploads/icon-garage-conversion.png
-    title: Garage Conversions
-  - description: >-
-      A small studio that is separate from your house in a style that matches
-      your home or something completely different, did you always want a small
-      piece of 1950's mid century modern design in your backyard? We take care
-      of the drafted plans, council approval and QBCC insurances. All we need is
-      your vision and we will bring it to life!
-    icon: /images/uploads/studio.png
-    title: Outdoor Studio
-  - description: >-
-      Add value to your home by simply repairing and maintaining what you
-      already have. All our carpenters are fully qualified with a combined total
-      of 85 years experience!  We can hang doors, fit Ikea cabinetry, replace
-      kitchen cupboards and anything carpentry
-    icon: /images/uploads/icon-house.png
-    title: Carpentry Repairs and Maintenance
+  - description: "•\tAll staff, including admin are instructed on social distancing requirements currently advised as a min of 1.5 meters. Any handshakes or hugs will have to wait but we appreciate any feedback via email or phone.\n\n•\tAll staff carpenters and design consultants are kitted with hand sanitizer and required to use it before entering and exiting any property.\n\n•\tWe are shortly going to provide our carpenters with surgical face masks for projects with clients who are either elderly or in the “at risk” category.\n\n•\tIf you would prefer not to meet in person for a design consultation, with a few photos and basic dimensions from you, we can easily use google maps to provide a budget for your project via email and phone.\n\n•\tDuring any visits by our design consultants, we will endeavor to assist you without entering your home where possible.\n\n•\tWe are monitoring the health of our employees constantly and have advised anyone who is feeling unwell to stay home from work for the required quarantine period\n"
+    icon: /images/uploads/carpenter-icon.jpg
+    title: Onsite Professional Carpenters and Sales team
+  - description: "•\tIf you are feeling unwell or have come into contact with anyone you suspect may have been exposed to COVID 19, please advise us immediately so that we can make alternative arrangements to assist you.\n\n•\tPlease act responsibly when our staff or carpenters are at your home… No need to offer us a cup of tea or biscuits.  We request that any questions you have are directed by phone or email to our beautiful Shelley in admin or our design consultant’s Roly and Brett. This helps the carpenters to do their job without any social interaction, meaning that your project will be completed that much sooner for your enjoyment. \n\n•\tIf our design consultants visit your home to provide a quotation, we ask that the 1.5 metre social distancing rule is respected for your safety and ours.  \n\n•\tWhere possible, guide our design consultants around your potential project from outside the home.\n"
+    icon: /images/uploads/family__home-08-512.png
+    title: 'What you can do:'
 bannerTitle: 'Simply send us some photos, basic measurements, and we''ll provide you a quote'
-bannerDescription: ''
+bannerDescription: >-
+  Together, with responsibility, we can create the outdoor space you and your
+  family needs at home during this challenging time.
 bannerImage: /images/uploads/garage-conversion.jpg
 bannerButton:
   label: Enquire
