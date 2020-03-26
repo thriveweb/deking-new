@@ -8,10 +8,10 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: ' We can simply make it happen.'
+welcomeTitle: 'COVID-19 update: 26 March 2020  '
 welcomeButton:
-  label: Our Process
-  link: about/process
+  label: Make your home a haven
+  link: promotions-specials-events
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Deck & Patio Guarantee
 bannerDescription: >
@@ -22,10 +22,10 @@ bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: enquire
   link: about/guarantees/
-promoTitle: 'COVID-19 update: 26 March 2020'
+promoTitle: We can simply make it happen.
 promoButton:
-  label: Make your home a haven
-  link: promotions-specials-events
+  label: Our Process
+  link: 'about/process   '
 teamTitle: DeKing Decks – Brisbane  – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
