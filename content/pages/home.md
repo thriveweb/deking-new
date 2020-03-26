@@ -22,7 +22,7 @@ bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: enquire
   link: about/guarantees/
-promoTitle: Home Office and Garage Conversions
+promoTitle: 'COVID-19 update: 26 March 2020'
 promoButton:
   label: Make your home a haven
   link: promotions-specials-events
