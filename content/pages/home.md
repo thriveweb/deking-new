@@ -10,7 +10,7 @@ featureButton:
   link: contact
 welcomeTitle: 'COVID-19 update: 26 March 2020  '
 welcomeButton:
-  label: Make your home a haven
+  label: we can remote quote your new project
   link: promotions-specials-events
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Deck & Patio Guarantee
