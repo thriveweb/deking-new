@@ -33,12 +33,36 @@ servicePods:
       and choose what design and budget suits you best.
     podImage: /images/uploads/nearmaps.png
     podsTitle: Aerial photography to quote your next project
+  - podDescription: >-
+      Adding of windows for more light. Resurfacing of the concrete floor by;
+      polishing the concrete, tiling, floating timber floors, carpeting, or
+      simply just a good clean along with strategically laid mats. Walls are
+      plastered and painted. The garage door can be replaced with sliding glass
+      doors or left in place and building a false wall over that can be removed
+      at a later date
+    podImage: /images/uploads/garage-door-windows.jpg
+    podsTitle: Garage Conversions
+  - podDescription: >-
+      A small studio that is separate from your house in a style that matches
+      your home or something completely different, did you always want a small
+      piece of 1950's mid century modern design in your backyard? We take care
+      of the drafted plans, council approval and QBCC insurances. All we need is
+      your vision and we will bring it to life!
+    podImage: /images/uploads/home-studio-office.jpg
+    podsTitle: Outdoor Studio
+  - podDescription: >-
+      Add value to your home by simply repairing and maintaining what you
+      already have. All our carpenters are fully qualified with a combined total
+      of 85 years experience! We can hang doors, fit Ikea cabinetry, replace
+      kitchen cupboards and anything carpentry
+    podImage: /images/uploads/img_8748.jpg
+    podsTitle: Carpentry Repairs and Maintenance
 videoTitle: ''
 videoContent: ''
 bannerTitle: Remote Quoting
 bannerDescription: >-
   Simply send us some photos, basic measurements, and we'll provide you a quote,
-  or FaceTime us, Skype, Zoom, messenger...
+  or FaceTime us, Skype, Zoom, drone, messenger...
 bannerImage: /images/uploads/garage-conversion.jpg
 bannerButton:
   label: Remote quote
