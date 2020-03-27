@@ -1,7 +1,7 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: 'COVID-19 update: 26 March 2020'
+title: 'COVID-19 update: 27th March 2020'
 subtitle: How to Make Your Home a Haven
 featuredImage: /images/uploads/garage-conversion.jpg
 welcomeTitle: Construction remains an essential service and we are open for business.
