@@ -1,10 +1,15 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: 'COVID-19 update: 27th March 2020'
-subtitle: Are you working from home and need a quiet space away from the kids?
+title: Now that COVID-19 is keeping us home - We can start your project together
+subtitle: >-
+  If you’re working from home and need a quiet space away from the rest of the
+  family, we have your solution
 featuredImage: /images/uploads/garage-conversion.jpg
-welcomeTitle: Construction remains an essential service and we are open for business.
+welcomeTitle: >-
+  With COVID-19 changing the way we work, there’s never been a better time to
+  convert your garage or spare room  to a home office. It’s quick and easy, and
+  best of all won’t break the bank which is important in these uncertain times.
 welcomeDescription: >-
   Deking Decks and Patios acknowledges that we all need to act responsibly in
   relation to COVID-19 and the health risk it poses to the elderly and those
@@ -29,8 +34,8 @@ whatWeDo:
     title: 'What you can do:'
 bannerTitle: 'Simply send us some photos, basic measurements, and we''ll provide you a quote'
 bannerDescription: >-
-  Together, with responsibility, we can create the outdoor space you and your
-  family needs at home during this challenging time.
+  Together, with responsibility, we can create the "indoor" and outdoor space
+  you and your family needs at home during this challenging time.
 bannerImage: /images/uploads/garage-conversion.jpg
 bannerButton:
   label: Enquire
