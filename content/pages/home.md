@@ -8,7 +8,7 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: 'COVID-19 update: 27th March 2020  '
+welcomeTitle: Now that COVID-19 is keeping us home
 welcomeButton:
   label: we can remote quote your new project
   link: promotions-specials-events
