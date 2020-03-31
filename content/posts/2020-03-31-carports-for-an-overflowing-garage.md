@@ -12,20 +12,23 @@ Whether you have an over-flowing garage or have turned your garage into a home o
 
 ![null](/images/uploads/caravanroof.jpg)
 
-# There are 3 areas of consideration: Location, Design and Budget
+Adding a Carport to your home not only protects your cars, caravans and boats from the weather, it can also increase the value and street appeal of your home. 
+
+A well designed carport can be cost efficient and complimentary addition to the façade of your home whether it be a modern sleek design or something more traditional.
+
+There are 3 areas of consideration: Location, Design and Budget
+
+## Location
 
 The location of the carport is important when considering what is possible to be built as well as suitability of the area for the vehicles which are intended to be covered
 
-## **What is possible?**
-
-## Approvals
+## **What is possible. **Approvals
 
 Carports on standard house blocks will almost always require a relaxation from council due to proximity to a boundary. If the carport is closer than 1.5m to a side boundary or 6m from a front boundary, a relaxation from council will be required for certification. For carports close to a side boundary, you may also have to get an agreement from your neighbour.
 
 ![null](/images/uploads/dutch-gable-front-gable-back.png)
 
 ## Suitability of the area for your vehicle.
-
 
 ## Vehicle Requirements.
 
@@ -40,6 +43,8 @@ Some vehicles have specific requirements when considering the suitability of a c
 ## Style of Build.
 
 Ideally the carport design should complement the existing street view of the house. But complement does not always mean matching. There are 3 common roof designs for carports: Flat, Skillion and Gable. 
+
+![](/images/uploads/carport-icons.jpg)
 
 Consideration should also be given to the engineering of the carport as to whether it needs to be attached to the existing house or is a freestanding independent structure.
 
