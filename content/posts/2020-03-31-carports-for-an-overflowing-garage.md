@@ -22,7 +22,7 @@ There are 3 areas of consideration: Location, Design and Budget
 
 The location of the carport is important when considering what is possible to be built as well as suitability of the area for the vehicles which are intended to be covered
 
-## **What is possible. **Approvals
+## What is possible. Approvals
 
 Carports on standard house blocks will almost always require a relaxation from council due to proximity to a boundary. If the carport is closer than 1.5m to a side boundary or 6m from a front boundary, a relaxation from council will be required for certification. For carports close to a side boundary, you may also have to get an agreement from your neighbour.
 
@@ -44,7 +44,7 @@ Some vehicles have specific requirements when considering the suitability of a c
 
 Ideally the carport design should complement the existing street view of the house. But complement does not always mean matching. There are 3 common roof designs for carports: Flat, Skillion and Gable. 
 
-![](/images/uploads/carport-icons.jpg)
+![null](/images/uploads/carport-icons.jpg)
 
 Consideration should also be given to the engineering of the carport as to whether it needs to be attached to the existing house or is a freestanding independent structure.
 
