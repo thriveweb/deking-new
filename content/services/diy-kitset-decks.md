@@ -15,12 +15,12 @@ welcomeDescription: >-
   for drinks. 
 
 
-  But who usually has time to build a deck? 
+  But who usually has time to build a deck or patio roof? 
 
 
-  That's why at DeKIng Decks we usually build decks for our clients. But times
-  have changed and while we are still building decks there are many people
-  considering building their own.
+  That's why at DeKing Decks we usually build decks and roofs for our clients.
+  But times have changed. While we are still building decks and roofs there are
+  also many people deciding to build their own.
 
 
   ## DIY Deck and Patio Roof Kit Options
