@@ -49,20 +49,21 @@ welcomeDescription: >-
   See more info about our **patio roof kit** below
 
 
-  Read the ‘Product Description’ below to see a list of things included in the
-  kits. All kits come with necessary materials as well as an instructional DVD
-  to help you put together the deck properly. 
-
-
-  Make sure you have all the necessary tools to build it.  
+  All kits come with necessary materials as well as an instructional DVD to help
+  you put together the deck properly. Make sure you have all the necessary tools
+  to build it.  
 
 
   See our price guide below to get an estimated price for our 5x4 m and the 3m
   x1.5m will be less.  
 
 
-  To order [contact us](https://www.dekingdecks.com.au/contact/) or give us a
-  call on 1800 335 464
+  [Request a ‘Product Description’](https://www.dekingdecks.com.au/contact/) to
+  see a list of things included in the kits.
+
+
+  To order a kit  [contact us](https://www.dekingdecks.com.au/contact/) or give
+  us a call on 1800 335 464
 
 
 
@@ -88,10 +89,16 @@ welcomeDescription: >-
   us](https://www.dekingdecks.com.au/contact/) or call us on 1800 335 464.
 welcomeImage: /images/uploads/diy-kitset-deck.jpg
 accordion:
-  - description: ''
-    title: ''
-  - description: ''
-    title: ''
+  - description: >-
+      Request a ‘Product Description’ to see a list of things included in the
+      kit.  To order a kit go to our contact us page or give us a call on 1800
+      335 464
+    title: 5m x 4m DIY Deck Kit
+  - description: >-
+      Request a ‘Product Description’ to see a list of things included in the
+      kit.  To order a kit go to our contact us page or give us a call on 1800
+      335 464
+    title: 3m x 1.5m Deck in A Day Kit
 servicePriceTitle: Price Guide
 QuoteTitle: '5m x 4m '
 servicePriceDescription:
@@ -106,7 +113,15 @@ servicePods:
 
 
       Just send us your measurements and requirements, we will send you back an
-      engineered drawing with a price and you are good to go
+      engineered drawing with a price and you are good to go.
+
+
+      [Request a ‘Product Description’](https://www.dekingdecks.com.au/contact/)
+      to see a list of things included in the kit.
+
+
+      To order a kit  [contact us](https://www.dekingdecks.com.au/contact/) or
+      give us a call on 1800 335 464
     podImage: /images/uploads/fullsizeoutput_2123.jpg
     podsTitle: Kitset Patio for the DIY
 videoTitle: ' '
