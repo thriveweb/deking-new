@@ -4,14 +4,70 @@ title: DIY Kitset Decks & Patios
 status: Published
 date: '2018-10-06'
 featuredImage: /images/uploads/diy-kitset-deck.jpg
-excerpt: Need a little help from the experts to build your own Deck or Patio?
-welcomeTitle: The Australian "Give it a go" attitude
+excerpt: Build a Patio Roof or  Deck in a Day and Create More Space for Your Family?
+welcomeTitle: Missing the Great Outdoors! Now that you are isolating?
 welcomeDescription: >-
-  Welcome to the DeKing Decks DIY shop. Here you can purchase one of our do it
-  yourself (DIY) Kitset decking kits. At present we have 2 DIY kits to choose
-  from: the ‘DIY Deck’ or ‘Deck In A Day’. Click on one of the decking kits
-  listed below to get more detailed information in the ‘Product Description’
-  section about the size of each deck and what come as part of the kit.  
+  Most of us in Australia would love a deck with  roof.
+
+
+  A place to relax - with both sun and shade options.  Even if we don't have a
+  pool. The grass is great but there are green ants! and it's not flat enough
+  for drinks. 
+
+
+  But who usually has time to build a deck? 
+
+
+  That's why at DeKIng Decks we usually build decks for our clients. But times
+  have changed and while we are still building decks there are many people
+  considering building their own.
+
+
+  ## DIY Deck and Patio Roof Kit Options
+
+
+  **1. 5m x 4m DIY Deck**
+
+
+  **2. 3m x 1.5m Deck in A Day**
+
+
+  **3. Kitset Patio Roof**
+
+
+  Our **5m x 4m DIY Deck** may be the perfect solution for you. It’s a quality
+  product that is very reasonably priced and gives the luxury of a deck without
+  a major renovation. 
+
+
+  Our** Deck In A Day (3m x 1.5m)** might be a great option for you if you’re on
+  a tight budget and want a deck built quickly. It’s a high-quality product
+  that’s very affordable. It allows you to extend an area of your house and get
+  the benefits of a deck without needing a major renovation.
+
+
+  See more info about our **patio roof kit** below
+
+
+  Read the ‘Product Description’ below to see a list of things included in the
+  kits. All kits come with necessary materials as well as an instructional DVD
+  to help you put together the deck properly. 
+
+
+  Make sure you have all the necessary tools to build it.  
+
+
+  See our price guide below to get an estimated price for our 5x4 m and the 3m
+  x1.5m will be less.  
+
+
+  To order [contact us](https://www.dekingdecks.com.au/contact/) or give us a
+  call on 1800 335 464
+
+
+
+
+  ## The Australian "Give it a go" attitude
 
 
   Make sure you choose the right deck kit for your needs and that you have all
@@ -20,37 +76,22 @@ welcomeDescription: >-
   smaller area (3m x 1.5m).  
 
 
+  ## Need a Bigger Deck?
+
+
   Of course, if you need a bigger or more complex deck built, contact us—we’re
-  the experts in building timber decks and can custom design a deck to perfectly
-  suit your needs. If you have any questions about our products or services,
-  please call us on 1800 335 464.
+  the experts in designing and building timber decks. From Brisbane to the Gold
+  Coast we can custom design a deck or patio roof to perfectly suit your needs. 
+
+
+  If you have any questions about our products or services, please [contact
+  us](https://www.dekingdecks.com.au/contact/) or call us on 1800 335 464.
 welcomeImage: /images/uploads/diy-kitset-deck.jpg
 accordion:
-  - description: >-
-      DeKing Decks are experts at designing and building timber decks from
-      Brisbane to the Gold Coast to suit your needs. However, if you’re after a
-      more simple deck, our DIY Deck (5m x 4m) may be the perfect solution for
-      you. It’s a quality product that is very reasonably priced and gives the
-      luxury of a deck without a major renovation.  Read the ‘Product
-      Description’ below to see a list of things included in the kit. All kits
-      come with necessary materials as well as an instructional DVD to help you
-      put together the deck properly. Make sure you have all the necessary tools
-      to build it.  For product enquires please contact us.  See the estimated
-      price below of our DIY Deck.  
-    title: 5m x 4m DIY Deck
-  - description: >-
-      DeKing Decks can design and build the perfect timber deck to suit your
-      needs. We’ve been servicing South East Queensland for many years. But if
-      you’re on a tight budget and want a deck built quickly, our Deck In A Day
-      (3m x 1.5m) might be a great option for you. It’s a high-quality product
-      that’s very affordable. It allows you to extend an area of your house and
-      get the benefits of a deck without needing a major renovation.  Read the
-      ‘Product Description’ below to see a list of things included in the kit.
-      All our kits come with the necessary materials and an instructional DVD to
-      assist you when building the deck. Obviously, it’s important that you have
-      all the necessary tools and skills to build it.  For product enquires
-      please contact us.  
-    title: Deck in a Day
+  - description: ''
+    title: ''
+  - description: ''
+    title: ''
 servicePriceTitle: Price Guide
 QuoteTitle: '5m x 4m '
 servicePriceDescription:
