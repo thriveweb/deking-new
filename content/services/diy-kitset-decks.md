@@ -5,7 +5,7 @@ status: Published
 date: '2018-10-06'
 featuredImage: /images/uploads/diy-kitset-deck.jpg
 excerpt: Build a Patio Roof or  Deck in a Day and Create More Space for Your Family?
-welcomeTitle: Missing the Great Outdoors! Now that you are isolating?
+welcomeTitle: Missing the Great Australian Outdoors! Now that you are isolating?
 welcomeDescription: >-
   Most of us in Australia would love a deck with  roof.
 
@@ -66,8 +66,6 @@ welcomeDescription: >-
   us a call on 1800 335 464
 
 
-
-
   ## The Australian "Give it a go" attitude
 
 
@@ -75,14 +73,6 @@ welcomeDescription: >-
   the necessary tools and skills to be able to put the deck together properly.
   The DIY Deck is for a larger area (at 5m x 4m) and the Deck In A Day is for a
   smaller area (3m x 1.5m).  
-
-
-  ## Need a Bigger Deck?
-
-
-  Of course, if you need a bigger or more complex deck built, contact us—we’re
-  the experts in designing and building timber decks. From Brisbane to the Gold
-  Coast we can custom design a deck or patio roof to perfectly suit your needs. 
 
 
   If you have any questions about our products or services, please [contact
@@ -99,6 +89,12 @@ accordion:
       kit.  To order a kit go to our contact us page or give us a call on 1800
       335 464
     title: 3m x 1.5m Deck in A Day Kit
+  - description: >-
+      Of course, if you need a bigger or more complex deck built, contact
+      us—we’re the experts in designing and building timber decks. From Brisbane
+      to the Gold Coast we can custom design a deck or patio roof to perfectly
+      suit your needs. 
+    title: Need a Bigger Deck?
 servicePriceTitle: Price Guide
 QuoteTitle: '5m x 4m '
 servicePriceDescription:
