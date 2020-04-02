@@ -7,7 +7,7 @@ featuredImage: /images/uploads/diy-kitset-deck.jpg
 excerpt: Build a Patio Roof or  Deck in a Day and Create More Space for Your Family?
 welcomeTitle: Missing the Great Australian Outdoors! Now that you are isolating?
 welcomeDescription: >-
-  Most of us in Australia would love a deck with  roof.
+  Most of us in Australia would love a deck with roof.
 
 
   A place to relax - with both sun and shade options.  Even if we don't have a
@@ -20,7 +20,7 @@ welcomeDescription: >-
 
   That's why at DeKing Decks we usually build decks and roofs for our clients.
   But times have changed. While we are still building decks and roofs there are
-  also many people deciding to build their own.
+  also many people deciding to build their own. 
 
 
   ## DIY Deck and Patio Roof Kit Options
@@ -62,17 +62,8 @@ welcomeDescription: >-
   see a list of things included in the kits.
 
 
-  To order a kit  [contact us](https://www.dekingdecks.com.au/contact/) or give
-  us a call on 1800 335 464
-
-
-  ## The Australian "Give it a go" attitude
-
-
-  Make sure you choose the right deck kit for your needs and that you have all
-  the necessary tools and skills to be able to put the deck together properly.
-  The DIY Deck is for a larger area (at 5m x 4m) and the Deck In A Day is for a
-  smaller area (3m x 1.5m).  
+  **To order a kit**  [contact us](https://www.dekingdecks.com.au/contact/) or
+  give us a call on 1800 335 464
 
 
   If you have any questions about our products or services, please [contact
