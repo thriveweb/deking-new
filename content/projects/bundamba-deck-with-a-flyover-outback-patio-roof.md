@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: Bundamba Deck with a Flyover Outback Patio Roof
+title: Bundamba Deck with a Flyover V-Line Patio Roof
 status: Published
 date: '2019-01-25'
 featuredImage: /images/uploads/bundambadeckpatio.jpg
