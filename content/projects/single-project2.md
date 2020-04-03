@@ -21,7 +21,7 @@ accordion:
     title: Project cost
 feedback:
   - description: '25 Year warranty for the deck, and 15 years for the patio roof'
-    from: Deking Pty Ltd and Stratco
+    from: Deking Pty Ltd
 categories:
   - category: Timber Decks
   - category: Gazebos & Outdoor Rooms
