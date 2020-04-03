@@ -1,6 +1,6 @@
 ---
 template: SingleProject
-title: 'Attached Cooldek Patio, Redland Bay'
+title: 'Attached Insulated Patio, Redland Bay'
 status: Published
 date: '2019-01-28'
 featuredImage: /images/uploads/cooldekredlandbaymerbauposts.jpg
