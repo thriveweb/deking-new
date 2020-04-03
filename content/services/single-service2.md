@@ -3,7 +3,7 @@ template: SingleService
 title: Patio Roofs
 status: Featured
 date: '2018-02-20'
-featuredImage: /images/uploads/patios-verandah-carport-outback-cooldek-07.jpg
+featuredImage: /images/uploads/cooldekredlandbaymerbauposts.jpg
 excerpt: >-
   Get outside - no matter what the weather!
 
@@ -23,7 +23,7 @@ welcomeDescription: >-
   [Click here](https://www.dekingdecks.com.au/quote-calculator/) to the cost
   calculator page and get an estimate, or feel free to [contact
   us](https://www.dekingdecks.com.au/contact/) for an onsite measure and quote
-welcomeImage: /images/uploads/patios-verandah-carport-outback-cooldek-19.jpg
+welcomeImage: /images/uploads/cooldekredlandbay.jpg
 accordion:
   - description: >-
       The Stratco Outback patio roof is the classic patio roof, with its simple
@@ -32,8 +32,8 @@ accordion:
       provide a low maintenance roof for your additional space needs
     title: Flat or Skillion
   - description: >-
-      Cooldek insulated roofing is the modern approach to the popular Outback
-      roof. 
+      Insulated roofing panels are the modern approach to the popular single
+      skin roof. 
     title: Insulated roofing
   - description: >-
       The popular new look in patio roofs is the insulated flyover roof. A
@@ -44,11 +44,11 @@ accordion:
       living space. The special channels within the insulated panels can easily
       hide all the electrical wiring needed to fit downlights and ceiling fans.
       All the accessories, including the gutter, will be made to match your
-      home’s design to make it look like a natural extension. Stratco insulated
-      Cooldek panels come in 3 different thicknesses, making them suited to
-      small areas as well as large spans. Thicknesses include:  50mm 75mm 100mm.
-      Roofing options also include corrugated, to match your house roof, or the
-      classic style for a minimal pitch design.
+      home’s design to make it look like a natural extension. Insulated panels
+      come in 3 different thicknesses, making them suited to small areas as well
+      as large spans. Thicknesses include:  50mm 75mm 100mm. Roofing options
+      also include corrugated, to match your house roof, or the classic style
+      for a minimal pitch design.
     title: Flyover or raised Patio roof
   - description: >-
       Call us for your patio requirements and we will send you all the bits and
@@ -128,22 +128,21 @@ servicePods:
       * Ability to add lighting and fans
 
 
-      The Cooldek roofing sheets come in 2 roofing profiles: Classic (Trim deck)
-      and Corrugated with a total of 8 colours to choose from to match your
+      The insulated roofing sheets come in 2 roofing profiles: Classic (Trim
+      deck) and Corrugated with a range of colours to choose from to match your
       home. 3 thicknesses of 50mm, 75mm, and 100mm allow for spans from 5100mm
       to 7200mm without the need for additional beams. The ceiling is available
-      in 3 profiles: Smooth, V-Line, and Silkline with 3 colours of Off White,
-      Alpine White, and Classic Cream
-    podImage: /images/uploads/patios-verandah-carport-outback-cooldek-27.jpg
+      with a smooth white finish to best match the ceiling inside your home.
+    podImage: /images/uploads/deck-4-2.jpg
     podsTitle: Insulated Roofing
-videoTitle: Stratco advertising that we built!
+videoTitle: ''
 videoURL: ''
 bannerTitle: End of year Special
 bannerDescription: |-
-  Free ceiling lights with Cooldek patio roofs
+  Free ceiling lights with insulated patio roofs
   Minimum size 25m2.
   Available with 12 months interest free.
-  Offer ends EOFY 2020. Call for T's & C's
+  Offer ends June 2020. Call for T's & C's
 bannerImage: /images/uploads/cooldekredlandbay.jpg
 bannerButton:
   label: Contact Us
