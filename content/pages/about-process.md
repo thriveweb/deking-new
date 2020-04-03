@@ -101,13 +101,12 @@ processes:
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide.
     title: Enjoy
-bannerTitle: 2020 Special
+bannerTitle: End of June Special
 bannerDescription: |-
-  Free ceiling lights with Cooldek patio roofs. 
+  Free ceiling lights with Insulated patio roofs. 
   Minimum size 25m2.
-  Offer ends EOFY 2020. Call for T's & C's
-bannerImage: >-
-  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
+  Offer ends June 2020. Call for T's & C's
+bannerImage: /images/uploads/cooldekrooflightsvictoriapoint3.jpg
 bannerButton:
   label: Enquire
   link: contact
