@@ -9,9 +9,9 @@ gallery:
   - image: /images/uploads/redlandbay2.jpg
   - image: /images/uploads/redlandbay.jpg
 content: >-
-  An insulated patio roof using Stratco Cooldek roofing panels. The roof was
-  raised above the house roof using extenda brackets and flashed with rubber
-  dektites for a 100% water seal.
+  An insulated patio roof using insulated roofing panels. The roof was raised
+  above the house roof using extenda brackets and flashed with rubber dektites
+  for a 100% water seal.
 
 
   A Heatstrip was added for warmth in the winter months along with 2 fans for
