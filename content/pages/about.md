@@ -37,12 +37,12 @@ whatWeDo:
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
     title: 'Deck and Patio add on''s '
-bannerTitle: 2020 Special
+bannerTitle: End of June Special
 bannerDescription: |-
-  Free ceiling lights with Cooldek patio roofs
+  Free ceiling lights with insulated patio roofs
   Minimum size 25m2.
   12 months interest free terms are available
-  Offer ends EOFY 2020. Call for T's & C's
+  Offer ends June 2020. Call for T's & C's
 bannerImage: /images/uploads/cooldekrooflightsvictoriapoint.jpg
 bannerButton:
   label: Enquire
@@ -53,8 +53,6 @@ qualificationsLogos:
     logo: /images/uploads/25-year-warranty-shutterstock.jpg
   - link: 'https://www.dekingdecks.com.au/services/eco-decking/'
     logo: /images/uploads/ekodeking.jpg
-  - link: 'https://www.dekingdecks.com.au/about/guarantees/'
-    logo: /images/uploads/patios-stratco-outback-warranty-1.png
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
     logo: /images/uploads/deking_seal_deckcheck.jpg
   - link: 'https://www.dekingdecks.com.au/about/guarantees/'
