@@ -2,7 +2,7 @@
 template: ServicesIndex
 slug: services
 title: All Services
-featuredImage: /images/uploads/flat-outback-05.jpg
+featuredImage: /images/uploads/17.jpg
 bannerTitle: Services
 bannerDescription: .
 bannerImage: /images/uploads/deck-1-2.jpg
