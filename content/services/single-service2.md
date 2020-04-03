@@ -26,10 +26,10 @@ welcomeDescription: >-
 welcomeImage: /images/uploads/cooldekredlandbay.jpg
 accordion:
   - description: >-
-      The Stratco Outback patio roof is the classic patio roof, with its simple
-      yet strong design, and modern good looks will provide you with a cover to
-      suit all applications. The Outback flat roof is cost effective and will
-      provide a low maintenance roof for your additional space needs
+      The single skin V-line patio roof is the classic patio roof, with its
+      simple yet strong design, and modern good looks will provide you with a
+      cover to suit all applications. The Patio flat roof is cost effective and
+      will provide a low maintenance roof for your additional space needs
     title: Flat or Skillion
   - description: >-
       Insulated roofing panels are the modern approach to the popular single
