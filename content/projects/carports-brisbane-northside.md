@@ -54,7 +54,7 @@ accordion:
       in the $6K-10K range.
     title: Average Carport Price
   - description: >-
-      Our Stratco carports come with a 25 year Structural Warranty using quality
+      Our carports come with a 15 year Structural Warranty using quality
       Australian made materials and are installed by qualified and licensed
       tradesmen giving our clients confidence that the outcome is a well-built
       value for money structure.
