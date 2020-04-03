@@ -13,11 +13,11 @@ welcomeButton:
   label: we can remote quote your new project
   link: promotions-specials-events
 servicesTitle: How can we help you today?
-bannerTitle: 25 Year Deck & Patio Guarantee
+bannerTitle: 25 Year Diamond Deck Guarantee
 bannerDescription: >
   As we are confident that our workmanship and materials used are of the highest
   standard we are pleased to be able to offer you a 25 year warranty on our
-  decks and patios. T's & C's apply*
+  decks and 15 years on our patios. T's & C's apply*
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: enquire
