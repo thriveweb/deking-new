@@ -10,7 +10,6 @@ gallery:
   - image: /images/uploads/doublecarport2.jpg
   - image: /images/uploads/victoriapoint2.jpg
   - image: /images/uploads/carport.jpg
-  - image: /images/uploads/gable-clearspan-05.jpg
 content: >-
   Deking Decks and Patios designs and installs carports all across Brisbane, the
   Gold Coast and the lower Sunshine Coast. 
