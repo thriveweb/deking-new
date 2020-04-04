@@ -49,9 +49,8 @@ welcomeDescription: >-
   See more info about our **patio roof kit** below
 
 
-  All kits come with necessary materials as well as an instructional DVD to help
-  you put together the deck properly. Make sure you have all the necessary tools
-  to build it.  
+  All kits come with necessary materials to help you put together the deck
+  properly. Make sure you have all the necessary tools to build it.  
 
 
   See our price guide below to get an estimated price for our 5x4 m and the 3m
