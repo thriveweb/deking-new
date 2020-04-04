@@ -133,7 +133,7 @@ servicePods:
       home. 3 thicknesses of 50mm, 75mm, and 100mm allow for spans from 5100mm
       to 7200mm without the need for additional beams. The ceiling is available
       with a smooth white finish to best match the ceiling inside your home.
-    podImage: /images/uploads/deck-4-2.jpg
+    podImage: /images/uploads/10.jpg
     podsTitle: Insulated Roofing
 videoTitle: ''
 videoURL: ''
