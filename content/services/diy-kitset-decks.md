@@ -108,7 +108,7 @@ servicePods:
 
       To order a kit  [contact us](https://www.dekingdecks.com.au/contact/) or
       give us a call on 1800 335 464
-    podImage: /images/uploads/fullsizeoutput_2123.jpg
+    podImage: /images/uploads/diy-kitset-patio-roof.png
     podsTitle: DIY Patio Roof Kit
 videoTitle: ' '
 bannerTitle: DIY decking kits and kitset decks
