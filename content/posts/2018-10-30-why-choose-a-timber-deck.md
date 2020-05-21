@@ -27,17 +27,17 @@ Climate is one thing; they want a space that can withstand direct sunlight and t
 * They offer good aesthetic value
   * Timber decks are made from natural woods that are harvested through legal means. And aside from durability, they are also known for their attractive, rich colors. There are different variations of wood with unique color shades for each—something that not even the best artwork will be able to replicate.
 
-![](/images/uploads/image-13.jpg)
+![null](/images/uploads/image-13.jpg)
 
 * They are very durable
   * Hardwood timbers are graded based on their durability. As a standard, Class 1 timbers offer the most quality. They are designed to withstand harsh climates and can handle the biggest BBQ party you can throw at it.
 
-![](/images/uploads/flat-outback-05.jpg)
+![null](/images/uploads/bracken-ridge-3-.jpg)
 
 * They are environment-friendly
   * Timber decks mostly come from natural woods that carry Forest Stewardship Council (FSC) trademark. In other words, they were harvested using legal means and are also proven to be bio-degradable or safe for general use. Remember that trees take carbon out of our environment and store it for life.
 
-![](/images/uploads/bracken-ridge-3-.jpg)
+![null](/images/uploads/adam.jpg)
 
 * They provide uniformity
   * Timber decks are a great way to extend your home interior to the outdoors. They offer additional space which you can use for family reunions and personal relaxation. They can also counteract sloping and uneven landscape designs by adding additional steps, verandahs, handrails, and balustrades.
@@ -46,7 +46,7 @@ Climate is one thing; they want a space that can withstand direct sunlight and t
 
 Timber decking is an ongoing trend that provides quality for every homeowner. If you want to improve the value of your property through timber decks, feel free to [contact the Deking team today](https://www.dekingdecks.com.au/contact/). We provide affordable solutions that suit your needs. See more information and images of our [residential decking](https://www.dekingdecks.com.au/services/timber-decks/), [pool decking](https://www.dekingdecks.com.au/services/pool-decking/) and [commercial decking](https://www.dekingdecks.com.au/services/commercial-decking/).
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
-**
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim\*\*
+\*\*
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
