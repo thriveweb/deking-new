@@ -23,7 +23,7 @@ It is more cost effective and practical to have your pool and or pool and spa bu
 
 If you are reading this article, you are probably already considering timber decking around your pool, however in case you have missed a few we have listed some of the advantages of pool decking below.
 
-![pool decking with a view](/images/uploads/deck-and-patio-cover-designs-brisbane-australia-patio-roofs.jpg)
+![pool decking with a view](/images/uploads/building-a-timber-deck-in-brisbane-why-choose-timber.jpg)
 
 ## Advantages of Pool Decking
 
