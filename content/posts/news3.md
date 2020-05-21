@@ -40,30 +40,30 @@ There are many benefits to insulated patio roofing, but, let’s face it, most o
 * increasing the value of your house.
 * Our insulated patio roofs are also low-maintenance and strong.
 
-## Stratco Outback Range of Insulated Patio Roofing
+## Insulated Patio Roofing
 
-At _Deking Decks_, we use the Stratco Outback range of patio roofing. This range of roofing has been used to great success for many years in Brisbane the and surrounding areas, and is perfectly suited to our conditions.
+At _Deking Decks_, we use  range of patio roofing. This range of roofing has been used to great success for many years in Brisbane the and surrounding areas, and is perfectly suited to our conditions.
 
-**Cooldek**
+**Insulated panels**
 
-For insulated patio roofing, we use Stratco’s Cooldek range. Cooldek insulated panels are quite innovative in that they combine a roof, insulation and ceiling-like finish all in one product. So they’re functional as well as stylish.
+For insulated patio roofing, we use an insulated panel. Insulated panels are quite innovative in that they combine a roof, insulation and ceiling-like finish all in one product. So they’re functional as well as stylish.
 
-**Cooldek Panel Thickness**
+**Insulated Panel Thickness**
 
-The Cooldek range of insulated roofing panels come in 3 different thicknesses:
+The range of insulated roofing panels come in 3 different thicknesses:
 
 * 50mm
 * 75mm
 * 100mm.
 
-**Cooldek Styles**
+**Insulated Styles**
 
-Cooldek roofing also comes in 2 different styles:
+Insulated roofing also comes in 2 different styles:
 
-* Cooldek CGI (corrugated look)
-* Cooldek Classic (minimal pitch design).
+* CGI (corrugated look)
+* Classic (minimal pitch design).
 
-To find out more about the Stratco Cooldek range of insulated roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
+To find out more about the insulated range of insulated roofing, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
 ## Insulated Flyover Roof
 
