@@ -31,31 +31,27 @@ When the sun goes down and the heat dips with it, it’s party time in the sunsh
 
 **2. Timber patio with patio roofing to extend your living space**
 
-![](/images/uploads/deking-timber-deck-and-patio-roofing.jpg)
+![null](/images/uploads/deking-timber-deck-and-patio-roofing.jpg)
 
 **3. Create a whole extra living space with a tiled patio and patio roofing**
 
-![](/images/uploads/patios-verandah-carport-outback-gable-04.jpg)
+![null](/images/uploads/11.jpg)
 
 **4. Add a patio roof to an already existing outdoor area to make it useful in all weather conditions**
 
-![](/images/uploads/cooldekredlandbaymerbauposts.jpg)
+![null](/images/uploads/cooldekredlandbaymerbauposts.jpg)
 
 **5. Open up the kitchen so it is an indoor outdoor kitchen**
 
-![](/images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg)
+![null](/images/uploads/redlandbay.jpg)
 
 **6. Create a small patio roofed section for shade while keeping the pool in the sun**
 
-![](/images/uploads/img_7453.jpg)
-
-
+![null](/images/uploads/img_7453.jpg)
 
 **7. Build a Deck over the existing Patio**
 
-![](/images/uploads/deck-1-2.jpg)
-
-
+![null](/images/uploads/deck-1-2.jpg)
 
 ## Benefits of an Outdoor Patio
 
@@ -67,7 +63,7 @@ The combination of a pool and a patio is a classic Australian party tradition. A
 
 Planning on feeding a bunch of family and friends? A patio provides the perfect space for an outdoor BBQ so you can interact with all your guests while cooking. It also means no more ducking out to a quiet corner of the backyard to cook by yourself. With a deck, the BBQ—and you—can be at the centre of the party.
 
-![Why Every Summer Party Needs a Patio](/images/uploads/gable-clearspan-04.jpg)
+![Why Every Summer Party Needs a Patio](/images/uploads/victoriapointoutback2.jpg)
 
 ## Why choose Deking Decks to build your outdoor patio?
 
@@ -88,7 +84,7 @@ DeKing Decks doesn’t just build perfect patios for the iconic summer party. We
 * patio roof
 * pool house.
 
-![Why Every Summer Party Needs a Patio](/images/uploads/patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option-deking.jpg)
+![Why Every Summer Party Needs a Patio](/images/uploads/victoriapointoutback.jpg)
 
 ## Want to get your summer party started? Contact us
 
