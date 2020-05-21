@@ -3,7 +3,7 @@ template: SinglePost
 title: Deck Patio Combination Ideas
 status: Published
 date: '2015-04-17'
-featuredImage: /images/uploads/gable-clearspan-04.jpg
+featuredImage: /images/uploads/bundambadeckpatio.jpg
 shortDescription: >-
   When a customer is looking to add a really interesting feature to their home
   there are a number of deck patio combination ideas that are practical, as well
