@@ -3,8 +3,7 @@ template: SinglePost
 title: Patio Roofing Options
 status: Featured / Published
 date: '2016-02-17'
-featuredImage: >-
-  /images/uploads/patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
+featuredImage: /images/uploads/bundambadeckpatio2.jpg
 shortDescription: 'How to Choose the Right Patio Roof, and Why They’re Always a Good Option.'
 categories:
   - category: Patio Roofing
@@ -20,34 +19,32 @@ Are you thinking of adding a patio roof to your house, but aren’t sure what ki
 
 Below we’ve explained your options for building a patio roof. Of course, some people choose not to have a patio roof—that is an option too—but many live to regret it. So we’ve also included some timely reminders of why getting a patio roof, of any kind, is always a good option.
 
-![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg)
+![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/img_1806-1024x764.jpg)
 
 ## Our patio roofing styles
 
 For most people, the first step in choosing a patio roof option is deciding on a style. This means finding a style of roof that you like and that suits your house.
 
-At DeKing Decks, all our patio roofs are made using the **Stratco Outback** range. You can choose from the following styles:
+At DeKing Decks, all our patio roofs are made using a wide range. You can choose from the following styles:
 
-* Outback Flat
-* Outback Gable
-* Outback Curved
-* Outback Gazebo and Hip
-* Outback Heritage Gable
-* Outback Sunroof
-* Outback Pergola
+* Flat
+* Gable
+* Gazebo and Hip
+* Heritage Gable
+* Pergola
 
-See pictures of all these patio roof styles on the [Stratco website](https://www.stratco.com.au/products/patios/outback).
+See pictures of all these patio roof styles on our website
 
 ## Our patio roofing types
 
 Another important decision is what type of patio roof you’d like. The 2 main questions here are:
 
-* Do you want a [Cooldek insulated](https://www.stratco.com.au/au/roofing/roofing-and-walling/cooldek-cgi-topside--smooth-underside-right-laying-50mm-thick-65mm-cutback-slate-grey-topside--off/) roof or Outback non-insulated roof?
+* Do you want an insulated roof or non-insulated roof?
 * Do you want a [flyover style roof](https://www.dekingdecks.com.au/services/patio-roofs/) or a fascia attached roof?
 
-A Cooldek insulated patio roof will keep you cooler in summer, so this is a smart option. And a flyover patio roof is becoming a popular modern option. But the most important thing is to choose the right options for you.
+An insulated patio roof will keep you cooler in summer, so this is a smart option. And a flyover patio roof is becoming a popular modern option. But the most important thing is to choose the right options for you.
 
-![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg)
+![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/cooldekrooflightsvictoriapoint2.jpg)
 
 ## Patio roofing options - Image Gallery
 
@@ -79,7 +76,7 @@ Without patio roofing you and your deck (as well as your party plans) are all su
 
 With patio roofing you can use and enjoy your deck all year round in comfort.
 
-![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option-deking.jpg)
+![Outdoor Patio Roofing Options: Types & Materials - Brisbane](/images/uploads/cooldekrooflightsvictoriapoint.jpg)
 
 **Extend the living space of your home**
 
