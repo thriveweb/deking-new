@@ -141,8 +141,14 @@ teamMembers:
     occupation: Sleep & Eat
     profileImage: /images/uploads/floyd.jpg
     profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
-  - name: Aaron
-    occupation: Patio installer
+  - bio: >-
+      Ben is married with 3 children and lives on an acreage block where they
+      have plenty of room for outdoor activities, these include: off road
+      motorbikes, fishing, camping, etc.
+    name: Ben
+    occupation: Carpenter
+    profileImage: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
+    profileImage2: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
 bannerButton:
   label: Enquire
   link: contact
