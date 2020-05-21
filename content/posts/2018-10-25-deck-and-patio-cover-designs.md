@@ -3,8 +3,7 @@ template: SinglePost
 title: Deck and Patio Cover Designs
 status: Published
 date: '2017-03-16'
-featuredImage: >-
-  /images/uploads/deking-patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg
+featuredImage: /images/uploads/17.jpg
 shortDescription: >-
   This is What To Consider Before You Build. Getting the design right for a deck
   and patio cover can be the difference between a stunning addition to your home
@@ -37,7 +36,7 @@ But before you decide to build a deck or patio cover, there are a number of thin
 **Location of deck
 **
 
-![](/images/uploads/deck-design-process.jpg)
+![null](/images/uploads/deck-design-process.jpg)
 
 The location of your deck is particularly important, as it will determine many of the other design factors. For example, a large backyard deck will have different design considerations to a small deck adjoining a bedroom, a high-set deck, a second story deck, an entranceway deck, or one for a swimming pool. It will also partially determine the size.
 
@@ -61,7 +60,7 @@ The purpose and function of your proposed deck will also influence its design an
 
 If you have a garden or bush backyard, it’s a good idea to blend your deck design with the architectural flow of your home and reflect the characteristics of your property. You can further enhance and integrate your deck by adding a few well-placed plants, shrubs, and flowers.
 
-![Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs](/images/uploads/deck-and-patio-cover-designs-brisbane-australia-patio-roofs.jpg)
+![Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs](/images/uploads/7.jpg)
 
 ## Patio Cover Design Factors
 
@@ -87,13 +86,13 @@ Also, to get the most out of your investment, it’s important to design and pos
 
 **Brick houses with patio covers**
 
-![Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs](/images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg)
+![Deck and Patio Cover Designs, Brisbane, Australia - Patio Roofs](/images/uploads/9.jpg)
 
-If you have an older style brick house, [Stratco roofing products](https://www.stratco.com.au/products/roofing) have a great colour and style range to help your patio cover blend in. For example, the straight lines of the [Stratco Outback](https://www.stratco.com.au/products/patios/outback) range work well with well with brick homes.
+If you have an older style brick house, we have a great colour and style range to help your patio cover blend in. For example, the straight lines of the patio range work well with well with brick homes.
 
 **Timber houses with patio covers**
 
-![](/images/uploads/deck-5-2.jpg)
+![null](/images/uploads/deck-5-2.jpg)
 
 If you have a timber house, you may want to consider [Colorbond roofing](https://colorbond.com/products/roofing). You can achieve a simple but effective design with a corrugated roof that will add texture and character to your house. This is usually finished with a matching balustrade or handrail on your deck to provide your outdoor entertaining area with a touch of class.
 
