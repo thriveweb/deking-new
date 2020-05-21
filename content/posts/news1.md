@@ -3,7 +3,7 @@ template: SinglePost
 title: How Does a Patio Cover Add Value to a Home?
 status: Featured / Published
 date: '2014-11-11'
-featuredImage: /images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg
+featuredImage: /images/uploads/deck-4-2.jpg
 shortDescription: >-
   How does a patio cover add value to a home? Patio Covers are an affordable way
   to add the 'wow' factor to you home, increase resale value and more.
@@ -29,7 +29,7 @@ As far as home improvements go, a patio cover is an affordable project which ret
 
 ## Extends your living space
 
-![How Does a Patio Cover Add Value to a Home](/images/uploads/how-does-a-patio-cover-add-value-to-a-home.jpg)
+![How Does a Patio Cover Add Value to a Home](/images/uploads/deking-decks-insulated-patio-roofing-benefits-types-and-materials.jpg)
 
 A patio cover can transform your home by adding an indoor, outdoor area allowing you to enjoy the benefits of ‘outdoor’ living that Australia is renowned for.  Initially after having a cover installed over your patio you are likely to feel that you are going on holiday when you step out onto the patio for a BBQ or afternoon read.  Pretty soon though your patio becomes part of your home and the extended living area gets taken for granted as it becomes one of the most frequently used parts of your home.
 
@@ -51,7 +51,7 @@ If you patio is constructed of decking timbers, a cover over the timber decking 
 
 A patio cover over say a western area of your home will help keep your house cooler during the hot summer months.  By keeping direct sunlight off your windows and exterior walls this should assist in savings through reduced power bills from air-conditioner use.
 
-_**So, how does a patio cover add value to a home?  A patio cover is one of the most affordable and most impactful home improvements that you can do.  A patio cover will pay for itself over and over not only through your greater enjoyment of your home but also in the increased resale value of your residence.**_
+**_So, how does a patio cover add value to a home?  A patio cover is one of the most affordable and most impactful home improvements that you can do.  A patio cover will pay for itself over and over not only through your greater enjoyment of your home but also in the increased resale value of your residence._**
 
 If you need a patio then please [contact us](https://www.dekingdecks.com.au/contact/) or visit our [patio roof estimater](https://www.dekingdecks.com.au/quote-calculator/) or [timber deck patio calculator](https://www.dekingdecks.com.au/quote-calculator/) and we will be happy to help you out
 
