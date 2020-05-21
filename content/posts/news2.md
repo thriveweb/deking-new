@@ -3,7 +3,7 @@ template: SinglePost
 title: Deck Insulation and Patio Roofing Insulation
 status: Featured / Published
 date: '2015-05-31'
-featuredImage: /images/uploads/deck-insulation-and-patio-roofing-insulation-deking-decks.jpg
+featuredImage: /images/uploads/10.jpg
 shortDescription: >-
   Have you ever walked onto a deck in Summer time, to enjoy the summer breeze
   and shade, only to find the deck is hotter than any other place in the house?
@@ -28,7 +28,7 @@ Just like you insulate the inside of your home, to keep you cool in summer and w
 
 So, what is Insulation? Simply put, the purpose of insulation is to reduce heat from coming in, when outside temperatures are hot, and trapping heat when outside temperatures are cold. Because some materials conduct (transfer) heat better than others you can choose materials that are poor conductors of heat, meaning they trap heat from going in between them. These materials are what we are referring to when we talk about insulation.  Insulation is usually installed inside the roof and/or wall cavities of a home, but these can also be used in decks walls or roofing as well.
 
-![Deck Insulation and Patio Roofing Insulation](/images/uploads/deck-insulation-and-patio-roofing-insulation-deking-decks.jpg)
+![Deck Insulation and Patio Roofing Insulation](/images/uploads/16.jpg)
 
 During summer, heat from the sun radiates onto a decks roof and walls. Without deck insulation this heat is absorbed by the roof and transferred through the roof, into the space below the roof – effectively the entertainment area. This is why a deck can be shady, but extremely hot during summer. When insulation is installed, the suns heat radiates onto the roof, but rather than be absorbed into the space below, the insulation, being a poor conductor of heat, reduces the amount that is absorbed into the entertainment space below.
 
