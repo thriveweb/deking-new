@@ -3,8 +3,7 @@ template: SinglePost
 title: How to Build a Paved Patio
 status: Published
 date: '2014-08-25'
-featuredImage: >-
-  /images/uploads/patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option-deking.jpg
+featuredImage: /images/uploads/cooldekredlandbay.jpg
 shortDescription: >-
   Queensland offers beautiful landscapes and spaces for entertaining and
   relaxing in the great outdoors. Patios provide the perfect place for enjoying
@@ -37,7 +36,7 @@ Apply four inches of crushed gravel or a comparable material on top of the lands
 
 After the sand bed has been tampered, add another layer of sand about two inches thick. You will need to screed this layer of sand to make sure that it is uniform and level. Once the screeding is completed, you need to frame the patio area with landscape edging. Aluminium edging material is a better choice than plastic due to its lightweight, durable and flexible qualities. Lay the edging along the perimeter of the area and use metal shears to cut it to length. Use work gloves as the corners are usually sharp. Drive eight-inch nails through the pre-drilled holes with a sledgehammer to secure the edging.
 
-![How to Build a Paved Patio Brisbane, Gold Coast, Sunshine: DeKing](/images/uploads/patio-roofing-options-how-to-choose-the-right-patio-roof-and-why-they’re-always-a-good-option.jpg)
+![How to Build a Paved Patio Brisbane, Gold Coast, Sunshine: DeKing](/images/uploads/cooldekredlandbaymerbauposts.jpg)
 
 ## How to Finish Your Patio
 
