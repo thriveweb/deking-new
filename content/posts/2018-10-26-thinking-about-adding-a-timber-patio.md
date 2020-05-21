@@ -68,7 +68,7 @@ When thinking about your patio design, always keep privacy and noise in mind. Wh
 
 To help protect your privacy, a patio can include features that provide a boundary between you and your neighbours. These features can include café blinds or pull down roller blinds, fences, plants, rendered walls and privacy screens.
 
-![Timber Patios - Designs and Ideas Brisbane, Gold Coast](/images/uploads/timber-patios-designs-and-ideas-brisbane-gold-coast.jpg)
+![Timber Patios - Designs and Ideas Brisbane, Gold Coast](/images/uploads/1.jpg)
 
 ## DIY patio options
 
