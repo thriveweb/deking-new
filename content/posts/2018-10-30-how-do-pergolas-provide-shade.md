@@ -24,7 +24,7 @@ From a practical point of view a Pergola located on the western side of your hom
 
 **How do Pergolas Actually Provide Shade**
 
-![How do Pergolas Provide Shade? Living or Lattice Panels](/images/uploads/flat-and-pergola-01.jpg)
+![How do Pergolas Provide Shade? Living or Lattice Panels](/images/uploads/1.jpg)
 
 You can increase the amount of shade provided by a Pergola in a few ways.  You may wish to have ivy, star jasmine or other vine or creeper growing over the Pergola, creating a natural plant canopy. This also makes the Pergola feel more like it’s a part of the garden.
 
