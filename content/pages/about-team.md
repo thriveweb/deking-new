@@ -93,14 +93,6 @@ teamMembers:
     profileImage: /images/uploads/fullsizeoutput_1ece.jpg
     profileImage2: /images/uploads/fullsizeoutput_1ed0.jpg
   - bio: >-
-      Ben is married with 3 children and lives on an acreage block where they
-      have plenty of room for outdoor activities, these include: off road
-      motorbikes, fishing, camping, etc.
-    name: Ben
-    occupation: Carpenter
-    profileImage: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
-    profileImage2: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
-  - bio: >-
       Antony is a qualified carpenter with years of experience in metal
       construction which makes him a much valued asset for our patio department
     name: Antony
@@ -108,16 +100,13 @@ teamMembers:
     profileImage: /images/uploads/img_8922.jpg
     profileImage2: /images/uploads/img_4347.jpg
   - bio: >-
-      Laurie is our metal roofing guru with an inheritance of knowledge from
-      previously working in the trade with his fathers patio business (Now
-      retired)
-
-
-      His 5 year old daughter keeps him more than entertained in the weekends!
-    name: Laurie
-    occupation: Patio Installer
-    profileImage: /images/uploads/qa5l-8axrxwftg-16-t3fq.jpg
-    profileImage2: /images/uploads/oxncvwccqtudlf1jsowapw.jpg
+      Ben is married with 3 children and lives on an acreage block where they
+      have plenty of room for outdoor activities, these include: off road
+      motorbikes, fishing, camping, etc.
+    name: Ben
+    occupation: Carpenter
+    profileImage: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
+    profileImage2: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
   - bio: >-
       Luke is our newest recruit with just over a year with the Deking team.
       Luke gained his carpentry qualification through the armed services which
@@ -149,6 +138,17 @@ teamMembers:
     occupation: Sleep & Eat
     profileImage: /images/uploads/floyd.jpg
     profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
+  - bio: >-
+      Laurie is our metal roofing guru with an inheritance of knowledge from
+      previously working in the trade with his fathers patio business (Now
+      retired)
+
+
+      His 5 year old daughter keeps him more than entertained in the weekends!
+    name: Laurie
+    occupation: Patio Installer
+    profileImage: /images/uploads/qa5l-8axrxwftg-16-t3fq.jpg
+    profileImage2: /images/uploads/oxncvwccqtudlf1jsowapw.jpg
 bannerButton:
   label: Enquire
   link: contact
