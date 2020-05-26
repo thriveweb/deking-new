@@ -213,6 +213,15 @@ reviews:
       standard. Would I recommend this company to a close friend? With no
       hesitation.
     title: We could not have asked for a better building experience
+  - by: Darren Joe
+    details: >-
+      Just wanted to say thank you to the team at Deking. Whole experience has
+      been professional and pleasant. In particular, please thank Ben for doing
+      the work as I wasn’t at home when he had completed the work and left this
+      morning. His work and craftsmanship should be commended as he was
+      professional in every aspect. Very informative and would highly recommend
+      him and the team Deking.
+    title: Whole experience has been professional and pleasant
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/'
   description: >-
