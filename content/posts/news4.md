@@ -11,7 +11,7 @@ shortDescription: >
 categories:
   - category: Patio Roofing
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/posts/why-every-summer-party-needs-a-patio/'
+  canonicalLink: 'https://diamondpatiosbrisbane.com.au/blog/patio-cover-design-ideas/'
   description: >-
     Discover why every summer party needs a patio from DeKing Decks. We've been
     servicing South East Queensland for over 15 years and can build your dream
