@@ -85,6 +85,6 @@ Wow! What an amazing decking area. Enhancing the pool, entertaining areas, mood 
 
 At Deking we will be able to advise you on the best design for your outdoor deck.  We are outdoor decking specialists and experienced in both small and large deck designs.
 
-Please give us a call on 1800 335 464 or drop us an email and we can schedule a time to inspect your outdoor area and provide you with advice regarding the best design for you.
+Please give us a call on 1800 335 464 or [contact us](https://www.dekingdecks.com.au/contact/) and we can schedule a time to inspect your outdoor area and provide you with advice regarding the best design for you.
 
 Deking Decks Service Areas: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim.
