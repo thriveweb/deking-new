@@ -8,9 +8,9 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: Now that COVID-19 is keeping us home
+welcomeTitle: Are you ready for Brisbane’s Summer Storms?
 welcomeButton:
-  label: we can remote quote your new project
+  label: book your new patio roof now
   link: promotions-specials-events
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Diamond Deck Guarantee
