@@ -1,7 +1,7 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: Are you ready for Brisbane’s Summer Storms?
+title: Get ready for Brisbane’s Summer Storms.
 subtitle: >-
   Entertain your Family & Friends on your new deck with a Patio Roof to
   guarantee it’s the best Christmas holidays ever!
