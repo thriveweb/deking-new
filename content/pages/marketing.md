@@ -5,7 +5,7 @@ title: Are you ready for Brisbane’s Summer Storms?
 subtitle: >-
   Entertain your Family & Friends on your new deck with a Patio Roof to
   guarantee it’s the best Christmas holidays ever!
-featuredImage: /images/uploads/17.jpg
+featuredImage: /images/uploads/summer-storms.jpg
 welcomeTitle: >-
   With Summer just around the corner, now is the perfect time to get ready for
   the Sun, and Storms! Building a Deck and Patio Roof is quick and easy, and
