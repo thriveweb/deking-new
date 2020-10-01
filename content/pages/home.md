@@ -8,7 +8,7 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: Are you ready for Brisbane’s Summer Storms?
+welcomeTitle: Get ready for Brisbane’s Summer Storms.
 welcomeButton:
   label: book your new patio roof now
   link: promotions-specials-events
