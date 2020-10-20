@@ -137,12 +137,12 @@ servicePods:
     podsTitle: Insulated Roofing
 videoTitle: ''
 videoURL: ''
-bannerTitle: End of June Special
+bannerTitle: Summer Storm Special
 bannerDescription: |-
-  Free ceiling lights with insulated patio roofs
-  Minimum size 25m2.
-  Available with 12 months interest free.
-  Offer ends June 2020. Call for T's & C's
+  Free Patio Roof Ceiling Lights.
+  Minimum deck size 25m2.
+  Available with 6 months interest free terms.
+  Offer ends EOFY 2020. Call for T's & C's
 bannerImage: /images/uploads/cooldekredlandbay.jpg
 bannerButton:
   label: Contact Us
