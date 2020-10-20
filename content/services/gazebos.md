@@ -65,11 +65,11 @@ servicePods:
     podsTitle: Small Extensions & Additions
 videoTitle: ' '
 videoURL: ''
-bannerTitle: 2020 Special
+bannerTitle: Summer Storm Special
 bannerDescription: |-
-  Free ceiling lights with Cooldek patio roofs
-  Minimum size 25m2.
-  12 months interest free terms available
+  Free Patio Roof Ceiling Lights.
+  Minimum deck size 25m2.
+  Available with 6 months interest free terms.
   Offer ends EOFY 2020. Call for T's & C's
 bannerImage: /images/uploads/deking-gazebo.jpg
 bannerButton:
