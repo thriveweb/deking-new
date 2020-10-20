@@ -4,8 +4,7 @@ slug: about/finance
 title: Finance Options
 subtitle: >-
   Deking offers Deck & Patio Finance packages through SKYE. Giving you the
-  ability to have your new deck or patio now, and pay this off over time with no
-  interest repayments. (T's & C's apply)
+  ability to have your new deck or patio now. (T's & C's apply)
 featuredImage: /images/uploads/10.jpg
 welcomeTitle: 'SKYE Finance, Interest free terms for Decks & Patios'
 welcomeDescription: >-
