@@ -11,7 +11,7 @@ welcomeTitle: >-
   the Sun, and Storms! Building a Deck and Patio Roof is quick and easy, and
   best of all won’t break the bank which is important in these uncertain times.
 welcomeDescription: >-
-  It’s been an extremely crazy year and with Christmas less than 3 months away
+  It’s been an extremely crazy year and with Christmas less than 2 months away
   our books are nearly full. If you would like your new deck and or Patio Roof
   for the summer then please give us a call or send an email enquiry with some
   photos and a brief and we will get back to you with a budget.
