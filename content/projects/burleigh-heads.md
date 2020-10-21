@@ -27,7 +27,11 @@ content: >-
 
 
   See what DeKing Decks can do for your project.  Get in contact today and take
-  the first step in creating your dream deck.
+  the first step in creating your dream deck.  Check out our [6 simple step
+  process,](https://www.dekingdecks.com.au/about/process/) our extensive gallery
+  in our [projects](https://deking-decks.netlify.com/projects/) or try out our
+  online pricing
+  [calculators](https://deking-decks.netlify.com/quote-calculator/).
 accordion:
   - description: 'Merbau 140x19 decking boards with stainless screws. '
     title: Materials used
