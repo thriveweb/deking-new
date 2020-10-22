@@ -13,7 +13,7 @@ gallery:
   - image: /images/uploads/bracken-ridge-before.jpg
 content: >-
   A beautiful example of a low level timber deck with an open style rafter
-  pergola roof.  The traditional corrugated roof with exposed timber beams
+  pergola roof.  The traditional Colorbond roof with exposed timber beams
   harmonises with the warmth of the timber decking.
 
 
