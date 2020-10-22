@@ -11,7 +11,28 @@ gallery:
   - image: /images/uploads/bracken-ridge-3-.jpg
   - image: /images/uploads/bracken-ridge-4.jpg
   - image: /images/uploads/bracken-ridge-before.jpg
-content: Low level deck with open rafter style pergola roof
+content: >-
+  A beautiful example of a low level timber deck with an open style rafter
+  pergola roof.  The traditional corrugated roof with exposed timber beams
+  harmonises with the warmth of the timber decking.
+
+
+  The large outside area extends the living space of the home all year round and
+  the roof offers protection from the elements, so even when raining you can
+  have that barbecue on the back deck.
+
+
+  What a lovely place to relax and chill out with the family, or entertain and
+  host a party on the back pergola.
+
+
+  See what DeKing Decks can do for your back pergola project.  Get in contact
+  today and take the first step in creating your dream become reality.  Check
+  out our [6 simple step
+  process,](https://www.dekingdecks.com.au/about/process/) our extensive gallery
+  in our [projects](https://deking-decks.netlify.com/projects/) or try out our
+  online pricing
+  [calculators](https://deking-decks.netlify.com/quote-calculator/).
 accordion:
   - description: >-
       Treated timber frame and hardwood decking boards. Pergola roof including
