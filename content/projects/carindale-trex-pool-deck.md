@@ -10,13 +10,7 @@ gallery:
   - image: /images/uploads/carindalepooldeck2.jpg
   - image: /images/uploads/carindalepooldeck3.jpg
   - image: /images/uploads/carindalepooldeck1.jpg
-content: >-
-  The existing deck was well past its use by date and becoming a safety issue.
-  Neal the owner contacted us to pull down the existing deck and rebuild using
-  Trex composite decking because of its minimal maintenance requirements. 
-
-
-  The existing aluminium pool fencing was re-installed
+content: "The existing deck was well past its use by date and becoming a safety issue.  Neal the owner contacted us to pull down the existing deck and rebuild using Trex composite decking because of its minimal maintenance requirements.  The existing aluminium pool fencing was re-installed when the new deck was completed.\n\nTrex decking is great for pool decking.  It has many advantages over timber. Trex decking will not:\n\n* warp, rot or splinter\n* need seasonal sealing, painting, or staining\n* stain or fade\n* become termite food\n\nApart from that it looks amazing.  What a great example of a pool deck.  I can imagine lying on the deck chairs with a cocktail in hand in our glorious Queensland weather.\n\n\rSee what DeKing Decks can do for your pool deck. Get in contact today and take the first step in creating your dream become reality. Check out our 6 simple step process, our extensive gallery in our projects or try out our online pricing calculators."
 accordion:
   - description: 'Min $15,000 Max $20,000'
     title: Project Cost
