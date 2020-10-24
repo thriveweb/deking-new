@@ -9,7 +9,17 @@ gallery:
   - image: /images/uploads/dsc_0441.jpg
   - image: /images/uploads/dsc_0415.jpg
   - image: /images/uploads/dsc_0424.jpg
-content: 'Refurbishment to existing deck, with all new hardwood frame and decking'
+content: >-
+  This job involved refurbishing an existing deck to bring it back to its former
+  glory.  To create this wonderful result we used all new hardwood frame and
+  decking for this waterfront deck.  What an amazing boardwalk and deck for this
+  business.  What better way to enhance that view than with a deck like this.
+
+
+  See what DeKing Decks can do for your business. Get in contact today and take
+  the first step in creating your dream become reality. Check out our 6 simple
+  step process, our extensive gallery in our projects or try out our online
+  pricing calculators.
 accordion:
   - description: >-
       Deking was engaged to strip the existing deck including the joists and
