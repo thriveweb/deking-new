@@ -11,8 +11,24 @@ gallery:
   - image: /images/uploads/coroy3.jpg
   - image: /images/uploads/coroy4.jpg
 content: >-
-  Pool decking and pool compliant fencing with a Pergola shelter, finished with
-  an acrylic decking oil.
+  This raised timber deck is so picturesque.  Take in the views when overlooking
+  the native bush below, with peace of mind you are leaning on pool compliant
+  fencing.  Enjoy protection from the weather under the pergola, or laze about
+  in the Queensland sun on the beautiful timber decking that has been finished
+  with an acrylic decking oil.  External stairs finish the picture with access
+  to this amazing pool deck on the Sunshine Coast.
+
+
+  Completely separate from the home, this outside entertaining area is perfect. 
+  It is another great example of what a pool zone can look like.  Create a place
+  to chill with the family, keep and eye on the kids in the pool, enjoy meals in
+  the pergola shelter or entertain and host a pool party.
+
+
+  See what DeKing Decks can do for your pool decking. Get in contact today and
+  take the first step in creating your dream become reality. Check out our 6
+  simple step process, our extensive gallery in our projects or try out our
+  online pricing calculators.
 accordion:
   - description: >-
       Spotted Gum decking for the deck. The pool fencing is black aluminium
