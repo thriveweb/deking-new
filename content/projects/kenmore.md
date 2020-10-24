@@ -10,7 +10,23 @@ gallery:
   - image: /images/uploads/image-1.jpg
   - image: /images/uploads/image.jpg
   - image: /images/uploads/image-3.jpg
-content: Pool house including a raised deck and gazebo with cafe blinds
+content: >-
+  This raised timber deck is awesome on so many levels.  Firstly, being a raised
+  deck it gives the perfect view over the pool.  The deck also includes a pool
+  house gazebo with cafe blinds that drop down to give extra protection from
+  rain and wind.  The external stairs lead to the pool and the garden.
+
+
+  Completely separate from the home, this outside entertaining area is perfect. 
+  It is another great example of what a backyard can look like.  Create a zone
+  to chill with the family, keep and eye on the kids, enjoy meals in the gazebo
+  or entertain and host a party.
+
+
+  See what DeKing Decks can do for your backyard. Get in contact today and take
+  the first step in creating your dream become reality. Check out our 6 simple
+  step process, our extensive gallery in our projects or try out our online
+  pricing calculators.
 accordion:
   - description: >-
       A raised hardwood deck with 2 sets of steps for access to the pool and
