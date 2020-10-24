@@ -13,8 +13,28 @@ gallery:
   - image: /images/uploads/img_6925.jpg
   - image: /images/uploads/img_6946.jpg
 content: >-
-  Traditional style Pergola Roof with Spotted Gum Decking and Louvred Privacy
-  Screens.
+  This traditional style pergola is a great example of how classic and simple
+  can look amazing.
+
+
+  This back pergola is built in a traditional style with a Colorbond roof and
+  exposed timber beams.  At the end of the deck you will see louvred privacy
+  screens.  Louvred so they can be fully closed for complete privacy or they can
+  be open to allow for ventilation and lighting.  The Spotted Gum timber used in
+  the decking brings a natural warmth to the outdoor area.  The external stairs
+  give easy access down to the backyard.
+
+
+  This zone creates another living area, and is perfect for outside
+  entertaining.  It is another great example of what a pergola can look like. 
+  Create a place to chill with the family, keep and eye on the kids in the
+  backyard, enjoy meals on the back pergola or entertain and host a party.
+
+
+  See what DeKing Decks can do for your backyard pergola. Get in contact today
+  and take the first step in creating your dream become reality. Check out our 6
+  simple step process, our extensive gallery in our projects or try out our
+  online pricing calculators.
 accordion:
   - description: Decking used was Spotted Gum for that authentic Australian look and feel
     title: Spotted Gum Deck
