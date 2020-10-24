@@ -12,8 +12,28 @@ gallery:
   - image: /images/uploads/dsc_0465.jpg
   - image: /images/uploads/dsc_0454.jpg
 content: >-
-  Larger hardwood decking boards with stainless fasteners for longevity and low
-  maintenance
+  This is a great example of a larger hardwood pool deck.  This deck uses larger
+  hardwood decking boards with stainless steel fasteners for longevity and low
+  maintenance.
+
+
+  What an amazing pool deck for guests to lay back and relax and enjoy the zone
+  that has been created around the pool.
+
+
+  Love how the natural hardwood compliments the rock wall and water feature on
+  the opposite side of the pool.   Although there is not much greenery in this
+  zone, it still feels like you are escaping with nature.  What better way to
+  soak up some of our beautiful Queensland rays, poolside on a natural timber
+  deck.
+
+
+  See what DeKing Decks can do for your business and pool deck.  Get in contact
+  today and take the first step in creating your dream deck.  Check out our [6
+  simple step process,](https://www.dekingdecks.com.au/about/process/) our
+  extensive gallery in our
+  [projects](https://deking-decks.netlify.com/projects/) or try out our online
+  pricing [calculators](https://deking-decks.netlify.com/quote-calculator/).
 accordion:
   - description: >-
       Commercial decking requires a slightly different approach to the design
