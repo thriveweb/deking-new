@@ -17,6 +17,30 @@ content: >-
   Trex composite decking was chosen for its low maintenance and good looks, the
   chosen colour of "Island Mist" blended perfectly with the current contemporary
   colour scheme of the building.
+
+
+  Trex decking is great for pool decking.  It has many advantages over timber.
+  Trex decking will not:
+
+
+  * warp, rot or splinter
+
+  * need seasonal sealing, painting, or staining
+
+  * stain or fade
+
+  * become termite food
+
+
+  Apart from that it looks amazing.  What a great example of a pool deck.  I am
+  sure the tenants will enjoy those deck chairs by the pool with our glorious
+  Queensland weather.
+
+
+  See what DeKing Decks can do for your pool deck. Get in contact today and take
+  the first step in creating your dream become reality. Check out our 6 simple
+  step process, our extensive gallery in our projects or try out our online
+  pricing calculators.
 feedback:
   - description: That's Great!
     from: Pan Zeng
