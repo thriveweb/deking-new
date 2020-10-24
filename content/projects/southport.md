@@ -11,8 +11,19 @@ gallery:
       /images/uploads/commercial-timber-deck-southport-gold-coast-deking-decks-queensland-deck-builders.jpg
   - image: /images/uploads/commercial-deck-at-southport-gold-coast-deking-decks.jpg
 content: >-
-  Cafe deck to increase seating capacity for this business, including a child
-  safe handrail.
+  This thriving business needed to increase seating capacity to meet demand.  
+
+
+  We installed this Cafe deck to tick the client's brief and also installed a
+  child safe handrail to keep their patrons safe when enjoying their coffee. 
+  The client's colours were used on poles and railing and a shade sail installed
+  for comfort of patrons.
+
+
+  See what DeKing Decks can do for your business. Get in contact today and take
+  the first step in creating your dream become reality. Check out our 6 simple
+  step process, our extensive gallery in our projects or try out our online
+  pricing calculators.
 accordion:
   - description: 'Cafe deck, more space for the cafe owners to seat their customers'
     title: Project description
