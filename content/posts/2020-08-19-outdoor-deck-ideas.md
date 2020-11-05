@@ -8,7 +8,10 @@ shortDescription: Outdoor Decking Ideas to extend your living space
 categories:
   - category: Timber Decks
 meta:
-  noindex: true
+  description: >-
+    Designing and planning the perfect outdoor deck can seem an enormous task,
+    especially when you don't know where to begin.  Here's some inspiration
+  noindex: false
   title: 'Outdoor Deck Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 ## Different Types of Outdoor Decks
@@ -17,7 +20,7 @@ Designing and planning the perfect outdoor deck can seem an enormous task, espec
 
 **1. Pool Decking**
 
-The pool deck is the area adjacent to the swimming pool.  The pool deck accommodates lounge chairs, banana lounges, chairs, tables and other backyard and pool furniture.  The pool deck is the feel of the swimming zone and creates the style and look of the area.  It is a fantastic space to relax around the pool.
+The [pool deck](https://www.dekingdecks.com.au/services/pool-decking/) is the area adjacent to the swimming pool.  The pool deck accommodates lounge chairs, banana lounges, chairs, tables and other backyard and pool furniture.  The pool deck is the feel of the swimming zone and creates the style and look of the area.  It is a fantastic space to relax around the pool.
 
 ![null](/images/uploads/8.jpg)
 
@@ -47,13 +50,13 @@ A flyover roof which covers your deck, is a roof that extends over your home's e
 
 **6. Gazebo**
 
-A gazebo is a free-standing structure usually constructed in the back yard which provides shelter, shade, a place to relax and options to train climbing plants up the structure that will create a beautiful, natural place to escape the day to day grind.  Quite often just simple furniture (chairs and/or table) will offer the perfect place to relax and unwind with nature.
+A [gazebo](https://www.dekingdecks.com.au/services/gazebos-outdoor-rooms/) is a free-standing structure usually constructed in the back yard which provides shelter, shade, a place to relax and options to train climbing plants up the structure that will create a beautiful, natural place to escape the day to day grind.  Quite often just simple furniture (chairs and/or table) will offer the perfect place to relax and unwind with nature.
 
 ![null](/images/uploads/c4831938f51f464571d9b9313e9532db.jpg)
 
 **7. Eco Decking**
 
-Eco decking is another alternative to timber.  It looks great and is low maintenance. It will not require painting, oiling, or sealing.  Eco decking is available in a wide variety of colours and is made from recycled wood and recycled plastic.
+[Eco decking](https://www.dekingdecks.com.au/services/eco-decking/) is another alternative to timber.  It looks great and is low maintenance. It will not require painting, oiling, or sealing.  Eco decking is available in a wide variety of colours and is made from recycled wood and recycled plastic.
 
 ![null](/images/uploads/carindalepooldeck2.jpg)
 
