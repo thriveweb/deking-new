@@ -7,6 +7,12 @@ featuredImage: /images/uploads/doublecarport.jpg
 shortDescription: Brisbane carports and caravan shelters
 categories:
   - category: carport
+meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/carports-for-an-overflowing-garage/'
+  description: >-
+    Whether you have an over-flowing garage or have turned your garage into a
+    home office, we can design and build a quality carport to suit your needs.
+  title: 'Carport Regulations and Suitability Brisbane, QLD'
 ---
 Whether you have an over-flowing garage or have turned your garage into a home office, we can design and build a quality carport to suit your needs. We can provide design options, cost estimates as well as certifications and approvals. We are fully licensed and insured giving you peace of mind that your new carport will be of the highest quality.
 
