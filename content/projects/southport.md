@@ -35,7 +35,7 @@ meta:
   description: >-
     Cafe deck to increase seating capacity for this business, including a child
     safe handrail.
-  noindex: true
+  noindex: false
   title: Gold Coast Commercial Decking | Deking Decks
 ---
 
