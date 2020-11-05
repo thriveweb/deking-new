@@ -56,11 +56,11 @@ qualificationsLogos:
   - link: 'https://www.houzz.com.au/pro/deking/deking-decks-brisbane'
     logo: /images/uploads/badge_49_8-2x.png
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/promotions-special-events/'
+  canonicalLink: ''
   description: >-
-    DeKing provides home office builds, garage conversions, outdoor studios,
-    granny flats, small extensions and additions.
+    DeKing provides decks, patio roofs, home office builds, garage conversions,
+    outdoor studios, granny flats, small extensions and additions.
   noindex: false
-  title: 'Garage Conversion Brisbane, Convert Garage to Office, Home Office Build'
+  title: Deck and Patio Specials - Deking Decks
 ---
 
