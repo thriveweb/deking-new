@@ -8,6 +8,7 @@ shortDescription: Outdoor Decking Ideas to extend your living space
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/outdoor-deck-ideas/'
   description: >-
     Designing and planning the perfect outdoor deck can seem an enormous task,
     especially when you don't know where to begin.  Here's some inspiration
