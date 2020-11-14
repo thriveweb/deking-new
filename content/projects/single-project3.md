@@ -12,8 +12,22 @@ gallery:
   - image: /images/uploads/21.jpg
   - image: /images/uploads/before.jpg
 content: >-
-  High level deck with insulated patio roof and stairs. Traditional style
-  balustrade
+  This high-level deck has created a wonderful outdoor dining/entertainment area
+  and extended the living area of the home.
+
+
+  The deck has an insulated patio roof which allow the homeowners to use this
+  space all year round.  The roof not only protects against the weather and the
+  scorching Queensland sun, but also keeps the area cooler and quieter with the
+  insulation in the roof.
+
+
+  The deck is finished with traditional style balustrade and stairs to lead down
+  to the front yard, all painted in colours to match the home.
+
+
+  What a beautiful addition to this home. There will be many fun times to be had
+  on this deck.
 accordion:
   - description: >-
       Treated timber frame with hardwood decking. Insulated flyover patio roof
