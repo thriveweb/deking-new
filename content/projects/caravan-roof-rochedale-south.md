@@ -9,13 +9,26 @@ gallery:
   - image: /images/uploads/caravanroof.jpg
   - image: /images/uploads/caravancover.jpg
 content: >-
-  The tricky driveway angles needed a good design to make parking the caravan an
-  easy job. Screening slats were also added for additional protection and to
-  provide visually take the height out of the roof.
+  This is an excellent example of a caravan cover to protect the van from storms
+  and damaging UV rays.
 
 
-  All the council permits were taken care of by Deking to take the hassles out
-  for the owners
+  DeKing Decks took care of all council permits to make this build hassle-free
+  for the homeowners.
+
+
+  Having limited space and tricky driveway angles made the design of this
+  caravan cover a little more challenging than some builds.  The design chosen
+  permits easy parking of the caravan.
+
+
+  Screening slats were added for protection and visually they also reduce the
+  height of the roof.  The slats also offer some side protection to the caravan
+  during storms and offer privacy from the road frontage.
+
+
+  What an awesome solution to keep the caravan safe, without having to
+  compromise the look of the home.
 categories:
   - category: Patio Roofs
 meta:
