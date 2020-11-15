@@ -12,8 +12,24 @@ gallery:
   - image: /images/uploads/cooldekrooflightsvictoriapoint3.jpg
   - image: /images/uploads/cooldekrooflightsvictoriapoint.jpg
 content: >-
-  2 Light boxes were added to this attached insulated patio roof so the living
-  room of the house was not affected by the extra shade of the new roof
+  This patio has created a wonderful outdoor dining/entertainment area and
+  extended the living area of the home.  
+
+
+  To ensure the living room of the home was not affected by the extra shade
+  created by the new patio roof, the homeowners added two light boxes to the
+  patio roof.  The allows plenty of natural light into the patio and also the
+  living room of the home.
+
+
+  This patio has an insulated roof which allow the homeowners to use this space
+  all year round.  The roof not only protects against the weather and the
+  scorching Queensland sun, but also keeps the area cooler and quieter with the
+  insulation in the roof.  The area has been finished with lightning and fans.
+
+
+  What a beautiful addition to this home.  The patio extends from the living
+  room to create this outdoor area that will be used all year round.
 categories:
   - category: Patio Roofs
 meta:
