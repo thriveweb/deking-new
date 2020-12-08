@@ -3,10 +3,10 @@ template: FinancePage
 slug: about/finance
 title: Finance Options
 subtitle: >-
-  Deking offers Deck & Patio Finance packages through SKYE. Giving you the
+  Deking offers Deck & Patio Finance packages through Humm90. Giving you the
   ability to have your new deck or patio now. (T's & C's apply)
 featuredImage: /images/uploads/10.jpg
-welcomeTitle: 'SKYE Finance, Interest free terms for Decks & Patios'
+welcomeTitle: 'Humm90 Finance, Interest free terms for Decks & Patios'
 welcomeDescription: >-
   We look forward to creating a wonderful outdoor extension to your home and a
   space you and your family will really love.
@@ -18,14 +18,14 @@ welcomeDescription: >-
 
   Other payment periods are available, 12, 18, 24 months with an additional
   facility fee
-welcomeImage: /images/uploads/skye_card_float_angle_rgb_jcitizen.png
+welcomeImage: /images/uploads/humm90_midnight_rgb_we.png
 faq:
   - content: >-
-      Deking offer Deck Finance options through SKYE for Decks, patios, patio
+      Deking offer Deck Finance options through Humm90 for Decks, patios, patio
       roofing and more from Brisbane to the Gold Coast and Sunshine Coast.
       Giving you the option to have a deck or patio roof now and pay this off
       over time with no interest.
-    title: SKYE Finance for For Decks & Patios
+    title: Humm90 Finance for For Decks & Patios
   - content: >-
       We look forward to creating a wonderful outdoor extension to your home and
       a space your family will really love.
@@ -42,21 +42,21 @@ faq:
       application and best of all there is No Interest. (6 month plan)
 
 
-      Payment plans are for 12 months, or longer options are available with an
+      Payment plans are for 6 months, or longer options are available with an
       additional facility fee.
-    title: What is a SKYE Payment Plan?
+    title: What is a Humm90 Payment Plan?
   - content: >-
-      Please read your SKYE continuing credit payment plan agreement carefully.
-      This outlines all fees and charges payable along with their frequency,
-      throughout your purchase term.
+      Please read your Humm90 continuing credit payment plan agreement
+      carefully. This outlines all fees and charges payable along with their
+      frequency, throughout your purchase term.
 
 
-      When you make a purchase, SKYE will open an account for you. You will pay
-      an establishment fee of $99 to set up your account. This is payable over
-      the term of the purchase. The account will provide you access to online
-      information about your purchase(s), credit schedule(s), access to our 1800
-      customer call in facility and other benefits.
-    title: What are the fees and charges for SKYE?
+      When you make a purchase, Humm90 will open an account for you. You will
+      pay an establishment fee of $99 to set up your account. This is payable
+      over the term of the purchase. The account will provide you access to
+      online information about your purchase(s), credit schedule(s), access to
+      our 1800 customer call in facility and other benefits.
+    title: What are the fees and charges for Humm90?
   - content: 'No, just the annual fee of $99'
     title: Are there any other charges?
   - content: >-
@@ -65,7 +65,7 @@ faq:
       your account or paying out early.
     title: Can I close my account and are there any charges?
 learnMore: Call or email for an online application link
-learnMoreImage: /images/uploads/skye_logo_gradient_rgb.png
+learnMoreImage: /images/uploads/shop-now-6-months-interest-free_1080x1080_dust.png
 learnMoreLink: 'https://www.dekingdecks.com.au/contact/'
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/finance/'
