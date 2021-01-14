@@ -11,12 +11,18 @@ shortDescription: >-
   investment.
 categories:
   - category: Pool Decking
+meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/spa-deck-ideas/'
+  description: >-
+    DeKing Decks offer a wide range of decking ideas to create the pool and spa
+    deck of your dreams. 
+  title: 'Spa Deck Ideas Brisbane, Gold Coast, Sunshine Coast: DeKing'
 ---
 DeKing Decks offer a wide range of decking alternatives to create the pool and spa deck of your dreams. By selecting the right materials for your spa deck, you will end up with a long-lasting and durable deck which is a great investment.
 
 ## Why get in a professional?
 
-The block slope, changes in elevation, available space, aspect of pool/spa and who the users will be can all affect the deck options.  If you have multiple factors listed above (eg. unusual block shape, steep slope and elevation changes) then it is worth hiring a professional deck builder to custom design the perfect deck for your pool and spa area. The specialist builders at DeKing Decks have a wealth of experience in the design of pool and spa decks which enrich and enhance the water deck area.
+The block slope, changes in elevation, available space, aspect of pool/spa and who the users will be can all affect the deck options.  If you have multiple factors listed above (eg. unusual block shape, steep slope and elevation changes) then it is worth hiring a professional deck builder to custom design the perfect deck for your pool and spa area. The specialist builders at DeKing Decks have a wealth of experience in the design of [pool decks](https://www.dekingdecks.com.au/services/pool-decking/) and decks suitable for spas which enrich and enhance the water deck area.
 
 ![null](/images/uploads/building-a-timber-deck-in-brisbane-why-choose-timber.jpg)
 
