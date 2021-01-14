@@ -16,10 +16,11 @@ content: >-
   business.  What better way to enhance that view than with a deck like this.
 
 
-  See what DeKing Decks can do for your business. Get in contact today and take
-  the first step in creating your dream become reality. Check out our 6 simple
-  step process, our extensive gallery in our projects or try out our online
-  pricing calculators.
+  See what [DeKing Decks can do for your
+  business](https://www.dekingdecks.com.au/services/commercial-decking/). Get in
+  contact today and take the first step in creating your dream become reality.
+  Check out our 6 simple step process, our extensive gallery in our projects or
+  try out our online pricing calculators.
 accordion:
   - description: >-
       Deking was engaged to strip the existing deck including the joists and
@@ -31,8 +32,10 @@ categories:
   - category: 'Commercial '
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/titanium-bar-gold-coast/'
-  description: 'Refurbishment to an existing deck, with all new hardwood frame and decking'
+  description: >-
+    Refurbishment to an existing deck at the Titanium bar on the Gold Coast,
+    with all new hardwood frame and decking.
   noindex: false
-  title: Titanium Bar Gold Coast | Deking Decks
+  title: 'Titanium Bar Gold Coast Commercial Deck Project | Deking '
 ---
 
