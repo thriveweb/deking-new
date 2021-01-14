@@ -12,13 +12,13 @@ gallery:
   - image: /images/uploads/img_9612.jpg
   - image: /images/uploads/trex-sample.jpg
 content: >-
-  This high quality composite pool deck in Kenmore is an example of the pool
-  decks we complete all across Brisbane, the lower Sunshine Coast and Gold
-  Coast.
+  This high quality composite [pool
+  deck](https://www.dekingdecks.com.au/services/pool-decking/) in Kenmore is an
+  example of the pool decks we complete all across Brisbane, the lower Sunshine
+  Coast and Gold Coast.
 
 
   **What is Tex Composite**
-
 
 
   Trex is our preferred composite decking product as it gives our customers a
@@ -26,15 +26,12 @@ content: >-
   enjoying the pool area rather than maintaining it.
 
 
-
   Trex composite is a commercial grade composite product which comes with a 25
   year warranty in a variety of modern and traditional colours. 
 
 
-
   Its concealed fix finish gives an uninterrupted clean surface which speaks to
   consistency and quality in design.
-
 
 
   **Special Considerations**
@@ -47,6 +44,9 @@ content: >-
   Composite decking boards can be installed for pools irrespective of the shape
   being rounded or square edged.
 
+
+  For more informaton on [eco
+  decking](https://www.dekingdecks.com.au/services/eco-decking/). 
 
 
   To get an indication of cost, please use our [free online
