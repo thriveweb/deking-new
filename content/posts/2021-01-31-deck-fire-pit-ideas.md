@@ -12,11 +12,17 @@ meta:
 ---
 ## Deck Fire Pit Ideas
 
+![](/images/uploads/deck-fire-pit-ideas3.jpg)
 
+![](/images/uploads/deck-fire-pit-ideas2.jpg)
+
+
+
+![](/images/uploads/deck-fire-pit-ideas1.jpg)
 
 ## Contact David at DeKing Decks
 
-To discuss your balustrade, deck, balcony and veranda railing and handrail ideas, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
+To discuss your deck and fire pit ideas, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
 **
