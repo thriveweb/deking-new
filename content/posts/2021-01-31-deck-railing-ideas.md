@@ -4,7 +4,9 @@ title: Deck Railing Ideas
 status: Published
 date: '2021-01-31'
 featuredImage: /images/uploads/malaneydeck4.jpg
-shortDescription: Deck Railing Ideas
+shortDescription: >-
+  Types of railings available for your deck, balcony, veranda, patio or porch.
+  Be inspired.
 categories:
   - category: Timber Decks
 meta:
