@@ -4,7 +4,11 @@ title: Deck Steps Ideas
 status: Published
 date: '2021-01-31'
 featuredImage: /images/uploads/stairway-manly-west-3.jpg
-shortDescription: Deck Steps Ideas
+shortDescription: >-
+  What is the main purpose of the deck steps? Some steps are functional, for
+  example access to a high level deck from outside. Other step styles are more
+  decorative, for example corner box steps or cascading steps with planter
+  boxes.
 categories:
   - category: Timber Decks
 meta:
