@@ -4,38 +4,22 @@ slug: promotions-specials-events
 title: Come See us at the Brisbane Home Show
 subtitle: Friday 26th - Sunday 28th February. Brisbane Convention & Exhibition Centre
 featuredImage: /images/uploads/home-show.jpg
-welcomeTitle: >-
-  With Summer just around the corner, now is the perfect time to get ready for
-  the Sun, and Storms! Building a Deck and Patio Roof is quick and easy, and
-  best of all won’t break the bank which is important in these uncertain times.
+welcomeTitle: Come see us at the show with your plans and we'll provide you a quick quote
 welcomeDescription: >-
-  It’s been an extremely crazy year and with Christmas less than 2 months away
-  our books are nearly full. If you would like your new deck and or Patio Roof
-  for the summer then please give us a call or send an email enquiry with some
-  photos and a brief and we will get back to you with a budget.
+  Bring along your ideas and grand plan that you have envisioned and we'll get
+  the process started for you by showing you the process, starting with what's
+  possible through to the completed project. You'll be flipping burgers on your
+  new deck in no time!
 welcomeImage: /images/uploads/c271487f-5009-4a7c-a902-11347b985d1b_1_201_a.jpeg
 welcomeButton:
   label: enquire
   link: contact
-whatWeDoTitle: How to get started
-whatWeDo:
-  - description: Give us a call or simply send us an email enquiry to get the ball rolling
-    icon: /images/uploads/red-telephone-icon.jpg
-    title: Make contact
-  - description: >-
-      1 of our trade professionals will meet with you at your home and run
-      through your ideas and formulate a solution for you
-    icon: /images/uploads/red-tape-measure-icon.jpg
-    title: 'Onsite Measure & Design '
-  - description: >-
-      A detailed quote will be presented, changes can be made and when you are
-      happy, simply approve and we will book in your new build
-    icon: /images/uploads/red-tick-icon.png
-    title: Quote Acceptance
-bannerTitle: 'Simply send us some photos, basic measurements, and we''ll provide you a quote'
+whatWeDoTitle: How to get your Decking Project started
+whatWeDo: []
+bannerTitle: 'Simply bring us some photos, basic measurements, and we''ll provide you a quote'
 bannerDescription: >-
-  Together, with responsibility, we can create the "indoor" and outdoor space
-  you and your family needs at home during this challenging time.
+  Together, we can create the indoor and outdoor space you and your family needs
+  to create beautiful memories. 
 bannerImage: /images/uploads/c196923b-aec0-4d89-801c-0827b2d87d13.jpeg
 bannerButton:
   label: Enquire
