@@ -8,9 +8,9 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: Get ready for Brisbane’s Summer Storms.
+welcomeTitle: Come See us at the Brisbane Home Show
 welcomeButton:
-  label: book your new patio roof now
+  label: Bring in your plans for an instant quote
   link: promotions-specials-events
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Diamond Deck Guarantee
