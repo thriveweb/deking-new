@@ -1,11 +1,9 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: Get ready for Brisbane’s Summer Storms.
-subtitle: >-
-  Entertain your Family & Friends on your new deck with a Patio Roof to
-  guarantee it’s the best Christmas holidays ever!
-featuredImage: /images/uploads/summer-storms.jpg
+title: Come See us at the Brisbane Home Show
+subtitle: Friday 26th - Sunday 28th February. Brisbane Convention & Exhibition Centre
+featuredImage: /images/uploads/home-show.jpg
 welcomeTitle: >-
   With Summer just around the corner, now is the perfect time to get ready for
   the Sun, and Storms! Building a Deck and Patio Roof is quick and easy, and
@@ -15,7 +13,7 @@ welcomeDescription: >-
   our books are nearly full. If you would like your new deck and or Patio Roof
   for the summer then please give us a call or send an email enquiry with some
   photos and a brief and we will get back to you with a budget.
-welcomeImage: /images/uploads/16.jpg
+welcomeImage: /images/uploads/c271487f-5009-4a7c-a902-11347b985d1b_1_201_a.jpeg
 welcomeButton:
   label: enquire
   link: contact
