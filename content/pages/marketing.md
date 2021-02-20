@@ -3,14 +3,14 @@ template: MarketingPage
 slug: promotions-specials-events
 title: Come See us at the Brisbane Home Show
 subtitle: Friday 26th - Sunday 28th February. Brisbane Convention & Exhibition Centre
-featuredImage: /images/uploads/home-show.jpg
+featuredImage: /images/uploads/c271487f-5009-4a7c-a902-11347b985d1b_1_201_a.jpeg
 welcomeTitle: Come see us at the show with your plans and we'll provide you a quick quote
 welcomeDescription: >-
   Bring along your ideas and grand plan that you have envisioned and we'll get
   the process started for you by showing you the process, starting with what's
   possible through to the completed project. You'll be flipping burgers on your
   new deck in no time!
-welcomeImage: /images/uploads/c271487f-5009-4a7c-a902-11347b985d1b_1_201_a.jpeg
+welcomeImage: /images/uploads/home-show.jpg
 welcomeButton:
   label: enquire
   link: contact
