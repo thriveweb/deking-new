@@ -12,11 +12,13 @@ meta:
 ---
 ## Enclosed Deck Ideas
 
-
+![enclosed decking](/images/uploads/13.jpg)
 
 ## Contact David at DeKing Decks
 
-To discuss your balustrade, deck, balcony and veranda railing and handrail ideas, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
+![](/images/uploads/enclosed-decking.jpg)
+
+To discuss your enclosed deck, balcony and veranda ideas, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
 **DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
 **
