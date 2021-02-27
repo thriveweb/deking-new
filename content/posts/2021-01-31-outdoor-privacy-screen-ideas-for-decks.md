@@ -8,11 +8,17 @@ shortDescription: Outdoor Privacy Screen Ideas For Decks
 categories:
   - category: Timber Decks
 meta:
-  noindex: true
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/outdoor-privacy-screen-ideas-for-decks/'
+  description: >-
+    Privacy Screens can be installed for many reasons, but the most common
+    reasons are privacy or to hide unsightly views
+  noindex: false
+  title: 'Outdoor Privacy Screen Ideas For Decks Brisbane, Gold Coast'
 ---
 ## What is a Privacy Screen?
 
-It is a structure that will provide a visual barrier or screen between an outdoor area or a habitable room window on a lot and the adjoining lot.  It does not have an individual opening that is over 30 millimetres wide and the total area of openings can not exceed 30% surface area of the barrier or screen.  It could also be a window, entirely made from translucent glass and not able to be opened.
+A privacy screen is a structure that will provide a visual barrier or screen between an outdoor area or a habitable room window on a lot and the adjoining lot.  It does not have an individual opening that is over 30 millimetres wide and
+ the total area of openings can not exceed 30% surface area of the barrier or screen.  It could also be a window, entirely made from translucent glass and not able to be opened.
 
 Privacy Screens can be installed for many reasons, but the most common reasons are:
 
@@ -23,27 +29,25 @@ Privacy Screens can be installed for many reasons, but the most common reasons a
 
 The lovely warmth of timber. Simple horizontal slats to give much needed privacy.
 
-![](/images/uploads/13.jpg)
+![null](/images/uploads/13.jpg)
 
 Again simple horizontal slats, this time in painted aluminium.
 
-![](/images/uploads/fullsizeoutput_1f17.jpg)
+![null](/images/uploads/fullsizeoutput_1f17.jpg)
 
 The traditional lattice look.
 
-![](/images/uploads/privacy-screen-2.gif)
+![null](/images/uploads/privacy-screen-2.gif)
 
 There is a huge range available now of metal privacy screens.  There are some amazing design patterns available, some of them spread across multiple panels.  These panels can be mounted vertically or horizontally.
 
-![](/images/uploads/privacy-screen-1.jpg)
+![null](/images/uploads/privacy-screen-1.jpg)
 
-![](/images/uploads/privacy-screen-4.jpg)
+![null](/images/uploads/privacy-screen-4.jpg)
 
 The frosted glass look, gives the privacy needed without blocking out the sunlight.
 
-![](/images/uploads/privacy-screen-3.jpg)
-
-
+![null](/images/uploads/privacy-screen-3.jpg)
 
 ## Contact David at DeKing Decks
 
