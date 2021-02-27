@@ -12,5 +12,7 @@ gallery:
   - image: /images/uploads/home-studio-office.jpg
 content: Brisbane home office conversions and outdoor studios
 categories: []
+meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/projects/home-offices/'
 ---
 
