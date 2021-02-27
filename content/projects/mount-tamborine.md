@@ -35,7 +35,9 @@ content: >-
   required on the lower deck.
 
 
-  It looks sensational and ties in both zones to look as one.
+  It looks sensational and ties in both zones to look as one. Find out more
+  about our [pool decking
+  service](https://www.dekingdecks.com.au/services/pool-decking/).
 accordion:
   - description: >-
       Hardwood decking was used for its hardwearing abilities along with an
@@ -60,6 +62,6 @@ meta:
     Upper and lower pool deck and flyover insulated patio roof with glass
     fencing and external steps
   noindex: false
-  title: Gold Coast Pool Decking & Flyover Patio Roof | Deking Decks
+  title: Pool Decking & Flyover Patio Roof Gold Coast | Deking Decks
 ---
 
