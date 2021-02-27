@@ -8,7 +8,9 @@ shortDescription: Enclosed Deck Ideas
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/enclosed-deck-ideas/'
   noindex: true
+  title: 'Enclosed Deck Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 ## Enclosed Deck Ideas
 
