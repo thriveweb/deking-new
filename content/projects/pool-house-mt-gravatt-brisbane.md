@@ -30,10 +30,11 @@ content: >-
   pool party.
 
 
-  See what DeKing Decks can do for your pool decking. Get in contact today and
-  take the first step in creating your dream become reality. Check out our 6
-  simple step process, our extensive gallery in our projects or try out our
-  online pricing calculators.
+  See what [DeKing Decks can do for your pool
+  decking](https://www.dekingdecks.com.au/services/pool-decking/). Get in
+  contact today and take the first step in creating your dream become reality.
+  Check out our 6 simple step process, our extensive gallery in our projects or
+  try out our online pricing calculators.
 accordion:
   - description: >-
       Hardwood decking with a treated pine frame.The pergola is treated pine and
@@ -46,7 +47,9 @@ categories:
   - category: Pool Decking
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/pool-house-grange-brisbane/'
-  description: Colorbond Roofed Pool House with timber deck
+  description: >-
+    Colorbond Roofed Pool House with timber deck in Mt Gravatt Brisbane. A
+    little piece of Heaven in south-east Queensland
   noindex: false
   title: 'Pool House, Mt Gravatt, Brisbane | Deking Decks'
 ---
