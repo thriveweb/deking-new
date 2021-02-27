@@ -37,10 +37,11 @@ content: >-
   Queensland weather.
 
 
-  See what DeKing Decks can do for your pool deck. Get in contact today and take
-  the first step in creating your dream become reality. Check out our 6 simple
-  step process, our extensive gallery in our projects or try out our online
-  pricing calculators.
+  See what DeKing Decks can do for your [pool
+  deck](https://www.dekingdecks.com.au/services/pool-decking/). Get in contact
+  today and take the first step in creating your dream become reality. Check out
+  our 6 simple step process, our extensive gallery in our projects or try out
+  our online pricing calculators.
 feedback:
   - description: That's Great!
     from: Pan Zeng
@@ -53,6 +54,6 @@ meta:
     The existing deck at the Silhouette Apartments was starting to deteriorate
     and needed upgrading to make it safe for the tenants of the complex. 
   noindex: false
-  title: South Brisbane Trex Pool Decking | Deking Decks
+  title: Eco Pool Decking South Brisbane with Trex | DeKing Decks
 ---
 
