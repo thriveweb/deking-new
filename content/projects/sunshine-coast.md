@@ -11,12 +11,12 @@ gallery:
   - image: /images/uploads/coroy3.jpg
   - image: /images/uploads/coroy4.jpg
 content: >-
-  This raised timber deck is so picturesque.  Take in the views when overlooking
-  the native bush below, with peace of mind you are leaning on pool compliant
-  fencing.  Enjoy protection from the weather under the pergola, or laze about
-  in the Queensland sun on the beautiful timber decking that has been finished
-  with an acrylic decking oil.  External stairs finish the picture with access
-  to this amazing pool deck on the Sunshine Coast.
+  This raised timber pool deck is so picturesque.  Take in the views when
+  overlooking the native bush below, with peace of mind you are leaning on pool
+  compliant fencing.  Enjoy protection from the weather under the pergola, or
+  laze about in the Queensland sun on the beautiful timber decking that has been
+  finished with an acrylic decking oil.  External stairs finish the picture with
+  access to this amazing pool deck on the Sunshine Coast.
 
 
   Completely separate from the home, this outside entertaining area is perfect. 
@@ -25,10 +25,11 @@ content: >-
   the pergola shelter or entertain and host a pool party.
 
 
-  See what DeKing Decks can do for your pool decking. Get in contact today and
-  take the first step in creating your dream become reality. Check out our 6
-  simple step process, our extensive gallery in our projects or try out our
-  online pricing calculators.
+  See what DeKing Decks can do for your [pool
+  decking](https://www.dekingdecks.com.au/services/pool-decking/). Get in
+  contact today and take the first step in creating your dream become reality.
+  Check out our 6 simple step process, our extensive gallery in our projects or
+  try out our online pricing calculators.
 accordion:
   - description: >-
       Spotted Gum decking for the deck. The pool fencing is black aluminium
@@ -45,6 +46,6 @@ meta:
   description: >-
     Pool decking and pool compliant fencing with a Pergola shelter, finished
     with an acrylic decking oil.
-  title: Sunshine Coast Pool Deck & Gazebo | Deking Decks
+  title: Sunshine Coast Pool Deck & Gazebo | DeKing Decks
 ---
 
