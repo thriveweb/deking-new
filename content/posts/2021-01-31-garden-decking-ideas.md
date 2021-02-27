@@ -12,9 +12,11 @@ meta:
 ---
 ## Garden Decking Ideas
 
-![](/images/uploads/deck-wide-frontage-steps.png)
+![](/images/uploads/garden-decking.jpg)
 
-![](/images/uploads/c4831938f51f464571d9b9313e9532db.jpg)
+![null](/images/uploads/deck-wide-frontage-steps.png)
+
+![null](/images/uploads/c4831938f51f464571d9b9313e9532db.jpg)
 
 ## Contact David at DeKing Decks
 
