@@ -8,7 +8,9 @@ shortDescription: Deck Fire Pit Ideas
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/deck-fire-pit-ideas/'
   noindex: true
+  title: 'Deck Fire Pit Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 ## Deck Fire Pit Ideas
 
