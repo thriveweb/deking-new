@@ -15,8 +15,9 @@ content: >-
   2 sides of the pool with storage bench seating. 
 
 
-  Decking Decks and Patios supply and install pergolas and pool houses all
-  across Brisbane, the lower sunshine coast and the Gold Coast.
+  Decking Decks and Patios [supply and install pergolas and pool
+  houses](https://www.dekingdecks.com.au/services/pool-decking/) all across
+  Brisbane, the lower Sunshine Coast and the Gold Coast.
 
 
   Poolside structures provide a space for gathering to enjoy and appreciate the
