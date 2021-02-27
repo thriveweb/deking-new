@@ -36,8 +36,9 @@ content: >-
   **Roofing Options Insulated vs Non Insulated**
 
 
-  Pergolas / Pool houses can be supplied in timber or steel frames with
-  insulated or non-insulated roofing.
+  [Pergolas / Pool
+  houses](https://www.dekingdecks.com.au/services/pool-decking/) can be supplied
+  in timber or steel frames with insulated or non-insulated roofing.
 
   Insulated roofing provides protection from heat transference and is especially
   useful in spaces which are not always naturally ventilated with cross
@@ -50,8 +51,6 @@ content: >-
 
   Non-insulated single skin roofing provides an economical shade structure where
   additional protection from heat transference is not required.
-
-
 
 
   [Contact Decking Decks and Patios](https://www.dekingdecks.com.au/contact/) to
