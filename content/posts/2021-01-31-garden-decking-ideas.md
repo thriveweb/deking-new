@@ -8,7 +8,9 @@ shortDescription: Garden Decking Ideas
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/garden-decking-ideas/'
   noindex: true
+  title: 'Garden Decking Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 ## Garden Decking Ideas
 
