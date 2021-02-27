@@ -28,7 +28,8 @@ content: >-
   deck.
 
 
-  See what DeKing Decks can do for your business and pool deck.  Get in contact
+  See what DeKing Decks can do for your [business and pool
+  deck](https://www.dekingdecks.com.au/services/pool-decking/).  Get in contact
   today and take the first step in creating your dream deck.  Check out our [6
   simple step process,](https://www.dekingdecks.com.au/about/process/) our
   extensive gallery in our
@@ -48,9 +49,9 @@ categories:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/pink-poodle-gold-coast/'
   description: >-
-    Larger hardwood decking boards with stainless fasteners for longevity and
-    low maintenance
+    At the Pink Poodle we instaled larger hardwood decking boards with stainless
+    fasteners for longevity and low maintenance
   noindex: true
-  title: Pink Poodle Gold Coast | Deking Decks
+  title: Pink Poodle Hardwood Decking Gold Coast | Deking Decks
 ---
 
