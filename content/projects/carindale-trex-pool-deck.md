@@ -59,7 +59,7 @@ categories:
 meta:
   description: >-
     Pool deck rebuild using Trex composite decking in Carindale, Brisbane. Great
-    for minimal maintenance and long lasting decks
+    for minimal maintenance and long-lasting decks
   title: Carindale Trex Pool Deck Project | Deking Decks
 ---
 
