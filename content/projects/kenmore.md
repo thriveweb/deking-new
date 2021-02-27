@@ -23,10 +23,11 @@ content: >-
   or entertain and host a party.
 
 
-  See what DeKing Decks can do for your backyard. Get in contact today and take
-  the first step in creating your dream become reality. Check out our 6 simple
-  step process, our extensive gallery in our projects or try out our online
-  pricing calculators.
+  See what DeKing Decks can do for your [backyard pool house and or
+  gazebo](https://www.dekingdecks.com.au/services/pool-decking/). Get in contact
+  today and take the first step in creating your dream become reality. Check out
+  our 6 simple step process, our extensive gallery in our projects or try out
+  our online pricing calculators.
 accordion:
   - description: >-
       A raised hardwood deck with 2 sets of steps for access to the pool and
@@ -41,7 +42,9 @@ categories:
   - category: Gazebos & Outdoor Rooms
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/brisbane-pool-deck-patio-roof/'
-  description: Pool house including a raised deck and gazebo with cafe blinds
-  title: Brisbane Pool Deck & Patio Roof | Deking Decks
+  description: >-
+    Pool house including a raised deck and gazebo with cafe blinds. What a
+    wonderful way to enjoy paradise in Queensland
+  title: 'Pool House, Raised Deck and Gazebo Project Brisbane'
 ---
 
