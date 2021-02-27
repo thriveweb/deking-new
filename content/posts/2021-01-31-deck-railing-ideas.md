@@ -10,41 +10,49 @@ shortDescription: >-
 categories:
   - category: Timber Decks
 meta:
-  noindex: true
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/deck-railing-ideas/'
+  description: >-
+    If your deck is raised from the ground over a certain height you may be
+    required to have railing on the deck to reduce the chance of accidental
+    falls.
+  noindex: false
+  title: 'Deck Railing Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 ## Do I need railing installed on my deck?
 
-If your deck is raised from the ground over a certain height you may be required to have railing on the deck to reduce the chance of accidental falls.  If the deck is surrounding a pool, then there are legal requirements to have a pool safe fence around the area.  DeKing Decks will always check Government regulations and advise you what is needed.
+If your deck is raised from the ground over a certain height you may be required to have railing on the deck to reduce the chance of accidental falls.  If the deck is surrounding a pool, then there are legal requirements to have a pool safe fence around the area.  [DeKing Decks](https://www.dekingdecks.com.au/) will always check Government regulations and advise you what is needed.
 
 ## What types of railings are available?
 
-**Timber balustrades** are a classic look railing and can be either stained or painted to suit the look and decor of the home.  This timeless classic is popular for decks, verandas, balconies, patios and porches alike.
+**Decking Balustrade Ideas**
 
-![](/images/uploads/10.jpg)
+Timber balustrades are a classic look railing and can be either stained or painted to suit the look and decor of the home.  This timeless classic is popular for decks, verandas, balconies, patios and porches alike. These deck rails give you a wooden handrail.
 
-![](/images/uploads/16.jpg)
+![null](/images/uploads/10.jpg)
 
-**Glass and Stainless Steel Wire** are often used together are they offer a clear view from the deck or balcony.  This is especially important when watching kids in the pool, but equally so just to enjoy the picturesque scenery while having that morning cuppa.
+![null](/images/uploads/16.jpg)
 
-![](/images/uploads/balustrade_handrail_stainlesssteelwire.jpg)
+Glass and Stainless Steel Wire are often used together are they offer a clear view from the deck or balcony.  This is especially important when watching kids in the pool, but equally so just to enjoy the picturesque scenery while having that morning cuppa.
 
-**Stainless Steel cable** railing that is tensioned in natural timber handrails.  Leaving you with lovely clear views and the warmth that only timber can give.
+![null](/images/uploads/balustrade_handrail_stainlesssteelwire.jpg)
 
-![](/images/uploads/bundambahandrail.jpg)
+**More Balcony and Verandah Railing Ideas**
 
-**Glass Pool Fencing Panels** are the perfect choice when you don't want anything to interfere with the view.  The latest style panels don't require posts at all, the glass is securely held in place from the bottom.
+Stainless Steel cable railing that is tensioned in natural timber handrails.  Leaving you with lovely clear views and the warmth that only timber can give.
 
-![](/images/uploads/caloundra-2-660x1024.jpg)
+![null](/images/uploads/bundambahandrail.jpg)
+
+Glass Pool Fencing Panels are the perfect choice when you don't want anything to interfere with the view.  The latest style panels don't require posts at all, the glass is securely held in place from the bottom.
+
+![null](/images/uploads/caloundra-2-660x1024.jpg)
 
 Another example of **stainless steel cables mounted in beautiful timber hand rails**.  There isn't a better option when overlooking the magnificent natural trees and gardens below.  This style really brings nature to the deck or balcony as the leaves and flowers can protrude through the wire.
 
-![](/images/uploads/do-you-need-a-permit-to-build-a-deck-in-queensland.jpg)
+![null](/images/uploads/do-you-need-a-permit-to-build-a-deck-in-queensland.jpg)
 
 The modern **aluminium panels** are also worth a look, they are simple and elegant and visually appealing.
 
-![](/images/uploads/patios-verandah-carport-outback-flat-04.jpg)
-
-
+![null](/images/uploads/patios-verandah-carport-outback-flat-04.jpg)
 
 ## Contact David at DeKing Decks
 
