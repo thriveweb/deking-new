@@ -19,7 +19,7 @@ meta:
   noindex: false
   title: 'Deck Steps Ideas Brisbane, Gold Coast, Sunshine Coast: DeKing'
 ---
-There are many types and styles of steps and stairs available for your new deck.  The first question you need to answer is:
+There are many types and styles of steps and stairs available for your [new deck](https://www.dekingdecks.com.au/posts/deck-steps-ideas/).  The first question you need to answer is:
 
 ## **What is the main purpose of the deck steps?**
 
@@ -39,31 +39,29 @@ Some steps are functional, for example access to a high level deck from outside.
 
 **Floating Steps** create a magical pathway between different levels in the garden.  Using clever planting around these steps make a lovely back to nature option.
 
-![](/images/uploads/deck-steps-and-planter-boxes.png)
+![null](/images/uploads/deck-steps-and-planter-boxes.png)
 
 **Cascading Steps with Built-in Planter Boxes** make a beautiful transition from the deck to the area below.  Depending how many steps are involved, you could break them up with a landing or two and even add a  seat to enjoy the beautiful plants in the boxes.
 
-![](/images/uploads/deck-fire-pit-ideas1.jpg)
+![null](/images/uploads/deck-fire-pit-ideas1.jpg)
 
 **Steps down to the Fire Pit** that can also be used as the seating area around the fire pit.  Simple, yet elegant and functional.
 
-![](/images/uploads/3.jpg)
+![null](/images/uploads/3.jpg)
 
-![](/images/uploads/dsc_0174.jpg)
-
-
+![null](/images/uploads/dsc_0174.jpg)
 
 **Steps to link decks on different levels** - This can be multiple split levels like a pool and garden area or simply a deck down to the pool.  The different tiers of the deck are seamlessly connected.
 
-![](/images/uploads/deking-gazebo.jpg)
+![null](/images/uploads/deking-gazebo.jpg)
 
 **Gazebo Entrance Steps** - a grand entrance to the garden gazebo.
 
-![](/images/uploads/fullsizeoutput_1d14.jpg)
+![null](/images/uploads/fullsizeoutput_1d14.jpg)
 
 **Access Steps** to get to a higher level - if the deck is raised and needs access from outside then more steps will be required.  These steps can be simple or more extravagant with turns and landings or possibly even benches to sit on.
 
-![](/images/uploads/deck-ramp.png)
+![null](/images/uploads/deck-ramp.png)
 
 **Ramp Access **to the deck.  Sometimes stairs will not be accessible for the homeowner.   They may be in a wheelchair, elderly or disabled and not able to manage stairs.  Ramps are a great option to allow the homeowner to have the deck of their dreams.
 
