@@ -26,12 +26,13 @@ content: >-
   Great use of space tucked in the corner, but makes the deck area look huge.
 
 
-  See what DeKing Decks can do for your project.  Get in contact today and take
-  the first step in creating your dream deck.  Check out our [6 simple step
-  process,](https://www.dekingdecks.com.au/about/process/) our extensive gallery
-  in our [projects](https://deking-decks.netlify.com/projects/) or try out our
-  online pricing
-  [calculators](https://deking-decks.netlify.com/quote-calculator/).
+  See what DeKing Decks can do for your [pool
+  deck](https://www.dekingdecks.com.au/services/pool-decking/) project.  Get in
+  contact today and take the first step in creating your dream deck.  Check out
+  our [6 simple step process,](https://www.dekingdecks.com.au/about/process/)
+  our extensive gallery in our
+  [projects](https://deking-decks.netlify.com/projects/) or try out our online
+  pricing [calculators](https://deking-decks.netlify.com/quote-calculator/).
 accordion:
   - description: 'Merbau 140x19 decking boards with stainless screws. '
     title: Materials used
@@ -44,7 +45,9 @@ categories:
   - category: Pool Decking
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/projects/burleigh-heads-pool-decking/'
-  description: Pool deck with extra wide decking boards and integrated seating
-  title: Burleigh Heads Pool decking | Deking Decks
+  description: >-
+    Pool deck with extra wide decking boards and integrated seating in Burleigh
+    Heads on the Gold Coast
+  title: Pool Decking Burleigh Heads Gold Coast| DeKing Decks
 ---
 
