@@ -25,19 +25,19 @@ Enclosing a deck can mean a couple of different things.
 
 Simply adding screening to a deck will enclose the area and offer more privacy for the owners. This option is still an open outside area, but screens out unwanted prying eyes and/or ugly views.
 
-![enclosed decking](/images/uploads/13.jpg)
+![enclosed deck with privacy screen](/images/uploads/13.jpg)
 
 This next example shows a great outdoor dining and entertainment deck on the upper level, which has been enclosed with railings and fly screens. This designs still allows fresh air to enter and circulate the deck area, but keeps those pesky insects out. With a roof the owners also have the luxury of fans and lights for their entertainment deck.
 
-![null](/images/uploads/enclosed-decking.jpg)
+![upper level enclosed deck with fly screens and railings](/images/uploads/enclosed-decking.jpg)
 
 This is another awesome example of an enclosed deck, this time utilising privacy screens, railings and a roof to enclose the deck area. Power, fans and lighting have all been included for comfort and to make the area usable day or night. What a great space!
 
-![](/images/uploads/10.jpg)
+![enclosed deck with privacy screens and railings](/images/uploads/10.jpg)
 
 The last example is a fully enclosed deck that weather proofs the space completely with large sliding windows.  It creates a wonderful bright living area, with great ventilation when the windows are open, and also offers the owners another inside/outside area that is protected from the weather elements totally.
 
-![](/images/uploads/enclosed-deck-complete.jpg)
+![fully enclosed deck with sliding windows](/images/uploads/enclosed-deck-complete.jpg)
 
 ## Contact David at DeKing Decks
 
