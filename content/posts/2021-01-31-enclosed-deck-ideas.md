@@ -2,14 +2,17 @@
 template: SinglePost
 title: Enclosed Deck Ideas
 status: Published
-date: '2021-01-31'
+date: '2021-03-08'
 featuredImage: /images/uploads/17.jpg
 shortDescription: Enclosed Deck Ideas
 categories:
   - category: Timber Decks
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/enclosed-deck-ideas/'
-  noindex: true
+  description: >-
+    Here are some enclosed deck ideas with the benefits of the different types
+    of options available.
+  noindex: false
   title: 'Enclosed Deck Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 ## Enclosing a Deck
