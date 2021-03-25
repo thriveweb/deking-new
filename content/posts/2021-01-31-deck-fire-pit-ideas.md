@@ -9,6 +9,9 @@ categories:
   - category: Timber Decks
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/posts/deck-fire-pit-ideas/'
+  description: >-
+    A deck firepit houses a fire for cooking, warmth, toasting marshmallows and
+    great nights with friends and family.
   noindex: false
   title: 'Deck Fire Pit Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
@@ -18,7 +21,7 @@ A firepit is a pit that is either dug into the ground or surrounded by a structu
 
 ## Firepits and Decks - why not merge them both into one area
 
-It makes sense, that if you have a deck (or are thinking of building one) and you also want a firepit at home to integrate both into the one area.
+It makes sense, that if you have a deck (or are [thinking of building one](https://www.dekingdecks.com.au)) and you also want a firepit at home to integrate both into the one area.
 
 * It will be easier to keep the area clean and tidy and free from leaf litter and debris
 * It will be safer having a flat level surface for walking around at night time
@@ -39,11 +42,11 @@ This lovely deck has a screen on the road frontage to enclose the area and make 
 
 A very stylish and simplistic deck, a step down from the patio to a beautiful square timber deck. This area could have some lovely outdoor furniture added or for a more relaxed feel decorate with bean bags and blankets.  Being a smaller deck the firepit is on one end of the deck rather than centred in the middle.
 
-![](/images/uploads/deck-fire-pit-ideas2.jpg)
+![null](/images/uploads/deck-fire-pit-ideas2.jpg)
 
 And the final example is a sunken deck and firepit.  Again this is not a huge area but it is such great use of the space available. The steps lead down into a dedicated firepit zone of the garden to keep it segmented from the kids play area. The seating is crafted with the same timber on two sides of the deck with back supports and the square firepit is centred in the remaining space at the lowest part of the sunken area. The simplistic, geometric design harmonises perfectly in this one and makes it a truly three-dimensional space.
 
-![](/images/uploads/deck-fire-pit-ideas1.jpg)
+![null](/images/uploads/deck-fire-pit-ideas1.jpg)
 
 ## Contact David at DeKing Decks
 
