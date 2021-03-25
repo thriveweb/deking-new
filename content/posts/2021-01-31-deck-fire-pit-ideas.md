@@ -2,7 +2,7 @@
 template: SinglePost
 title: Deck Fire Pit Ideas
 status: Published
-date: '2021-01-31'
+date: '2021-03-23'
 featuredImage: /images/uploads/deck-fire-pit-ideas3.jpg
 shortDescription: Deck Fire Pit Ideas
 categories:
