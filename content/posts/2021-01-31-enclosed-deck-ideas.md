@@ -21,7 +21,7 @@ A deck is flat platform, which usually has no roof and adjoins the home. Decks a
 
 Enclosing a deck can mean a couple of different things.
 
-1. To make the area more liveable you may choose to add a roof of some sort, railings, privacy screens or fly screens to keep those pesky mosquitos away. This option the deck is still open to the outside and not completely enclosed. Quite commonly called outdoor living areas because they blend the indoors and outdoors.
+1. To make the area more liveable you may choose to [add a roof ](https://www.dekingdecks.com.au/services/patio-roofs/)of some sort, railings, privacy screens or fly screens to keep those pesky mosquitos away. This option the deck is still open to the outside and not completely enclosed. Quite commonly called outdoor living areas because they blend the indoors and outdoors.
 2. The other option is to completely enclose the outdoor deck and basically create another indoor area, possibly with an outdoor feel and more windows to see outside. To fully enclose an existing deck you will need to approach local council for consent and meet relevant building code requirements.
 
 ## Here are some enclosed deck ideas ...
