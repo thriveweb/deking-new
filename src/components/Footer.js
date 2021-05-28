@@ -78,64 +78,67 @@ class Footer extends React.Component {
                   </p>
                 )}
 
-                
+
               </div>
               <div className="section flex two-thirds">
                 <div className="one-third">
-                    CONTACT
+                  CONTACT
+                  <br/>1800 335 464
+                  <br/>07 3804 6400
+                  <br/>PO Box 54, Camp Hill, 4152
                 </div>
                 <div className="one-third">
-                    SERVICES
+                  SERVICES
                 </div>
                 <div className="one-third">
-                    ABOUT
+                  ABOUT
                     <div className="socialMediaCard">
-                  {socialMediaCard.twitter && (
-                    <a
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href={socialMediaCard.twitter}
-                    >
-                      <i className="fab fa-houzz" />
-                    </a>
-                  )}
-                  {socialMediaCard.facebook && (
-                    <a
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href={socialMediaCard.facebook}
-                    >
-                      <Facebook />
-                    </a>
-                  )}
-                  {socialMediaCard.instagram && (
-                    <a
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href={socialMediaCard.instagram}
-                    >
-                      <Instagram />
-                    </a>
-                  )}
-                  {socialMediaCard.youtube && (
-                    <a
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href={socialMediaCard.youtube}
-                    >
-                      <Youtube />
-                    </a>
-                  )}
-                  {socialMediaCard.pintrest && (
-                    <a
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href={socialMediaCard.pintrest}
-                    >
-                      <MapPin />
-                    </a>
-                  )}
-                </div>
+                    {socialMediaCard.twitter && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        href={socialMediaCard.twitter}
+                      >
+                        <i className="fab fa-houzz" />
+                      </a>
+                    )}
+                    {socialMediaCard.facebook && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        href={socialMediaCard.facebook}
+                      >
+                        <Facebook />
+                      </a>
+                    )}
+                    {socialMediaCard.instagram && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        href={socialMediaCard.instagram}
+                      >
+                        <Instagram />
+                      </a>
+                    )}
+                    {socialMediaCard.youtube && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        href={socialMediaCard.youtube}
+                      >
+                        <Youtube />
+                      </a>
+                    )}
+                    {socialMediaCard.pintrest && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        href={socialMediaCard.pintrest}
+                      >
+                        <MapPin />
+                      </a>
+                    )}
+                  </div>
                 </div>
               </div>
               {/* <div className="section taCenter one-third">
@@ -152,7 +155,7 @@ class Footer extends React.Component {
                   </div>
                 )}
               </div>*/}
-            </div> 
+            </div>
           </div>
           <div className="CopyFooter dark">
             <div className="container taCenter">
