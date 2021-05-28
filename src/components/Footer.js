@@ -37,8 +37,8 @@ class Footer extends React.Component {
                     src="/images/icon-phone.svg"
                     alt="phone"
                   />
-                  <h3 className="Button">Call us</h3>
-                  {phone}
+                  <h3>Call Us</h3>
+                  <span className="details">{phone}</span>
                 </a>
               )}
               {email && (
@@ -48,8 +48,8 @@ class Footer extends React.Component {
                     src="/images/icon-email.svg"
                     alt="phone"
                   />
-                  <h3 className="Button">Email us</h3>
-                  {email}
+                  <h3>Email Us</h3>
+                  <span className="details">{email}</span>
                 </a>
               )}
               <a href="/quote-calculator/" className="one-third">
@@ -58,14 +58,17 @@ class Footer extends React.Component {
                   src="/images/icon-calculator.svg"
                   alt="phone"
                 />
-                <h3 className="Button">Calculator</h3>
-                get a quick quote
+                <h3>Calculator</h3>
+                <span className="details">Get a Quick Quote</span>
               </a>
             </div>
           </div>
-          <div className="section MainFooter dark">
-            <div className="container flex">
-              <div className="one-third">
+          <div className="MainFooter dark">
+            <div className="flex">
+              <div className="section taCenter one-third midDark">
+                {warrantyLogo && (
+                  <div className="warrantyLogo"><Image src={warrantyLogo} alt="25 year warranty" /></div>
+                )}
                 {locations && <p className="one-half">{locations}</p>}
                 {email && (
                   <p>
@@ -75,7 +78,18 @@ class Footer extends React.Component {
                   </p>
                 )}
 
-                <div className="socialMediaCard">
+                
+              </div>
+              <div className="section flex two-thirds">
+                <div className="one-third">
+                    CONTACT
+                </div>
+                <div className="one-third">
+                    SERVICES
+                </div>
+                <div className="one-third">
+                    ABOUT
+                    <div className="socialMediaCard">
                   {socialMediaCard.twitter && (
                     <a
                       target="_blank"
@@ -122,13 +136,9 @@ class Footer extends React.Component {
                     </a>
                   )}
                 </div>
+                </div>
               </div>
-              <div className="one-third warrantyLogo">
-                {warrantyLogo && (
-                  <Image src={warrantyLogo} alt="25 year warranty" />
-                )}
-              </div>
-              <div className="one-third taRight">
+              {/* <div className="section taCenter one-third">
                 {phone && (
                   <div className="phone-numbers taRight">
                     <div>
@@ -141,8 +151,8 @@ class Footer extends React.Component {
                     </div>
                   </div>
                 )}
-              </div>
-            </div>
+              </div>*/}
+            </div> 
           </div>
           <div className="CopyFooter dark">
             <div className="container taCenter">
