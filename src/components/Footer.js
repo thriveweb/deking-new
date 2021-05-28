@@ -65,34 +65,54 @@ class Footer extends React.Component {
           </div>
           <div className="MainFooter dark">
             <div className="flex">
-              <div className="section taCenter one-third midDark">
+              <div className="section one-third midDark">
                 {warrantyLogo && (
                   <div className="warrantyLogo"><Image src={warrantyLogo} alt="25 year warranty" /></div>
-                )}
-                {locations && <p className="one-half">{locations}</p>}
-                {email && (
-                  <p>
-                    <span>Brisbane | Gold Coast | Sunshine Coast</span>
-                    <br />
-                    <a href={`mailto:${email}`}>{email}</a>
-                  </p>
-                )}
-
+                )}                
+                <h4>SERVICE AREAS</h4>
+                  <ul>
+                    <li>Brisbane, Northside, Southside, Redlands,</li>
+                    <li>Logan, Ipswich, Moreton Bay, Gold Coast,</li>
+                    <li>Sunshine Coast, Toowoomba</li>
+                  </ul>
 
               </div>
               <div className="section flex two-thirds">
                 <div className="one-third">
-                  CONTACT
-                  <br/>1800 335 464
-                  <br/>07 3804 6400
-                  <br/>PO Box 54, Camp Hill, 4152
+                  <h4>CONTACT</h4>
+                  <ul>
+                    <li><a href={`tel:${phone}`}>{phone}</a></li>
+                    <li><a href={`tel:${phone2}`}>{phone2}</a></li>
+                    <li>PO Box 54, Camp Hill, 4152</li>
+                  </ul>
+
+                  <h4>LOCATION</h4>
+                  <ul>
+                    <li>Deking Decks Brisbane</li>
+                    <li>Unit 13/22 Mavis Court</li>
+                    <li>Ormeau QLD 4208</li>
+                  </ul>
                 </div>
                 <div className="one-third">
-                  SERVICES
+                  <h4>OUR SERVICES</h4>
+                  <ul>
+                    <li>Timber Decks</li>
+                    <li>Patio Roofs</li>
+                    <li>Pool Decking</li>
+                    <li>Projects</li>
+                    <li>Calculator</li>
+                    <li>6 Step Process</li>
+                  </ul>
                 </div>
                 <div className="one-third">
-                  ABOUT
-                    <div className="socialMediaCard">
+                  <h4>ABOUT</h4>
+                  <ul>
+                    <li>Contact Us</li>
+                    <li>FAQ</li>
+                    <li>Privacy Policy</li>
+                  </ul>
+                  <h4>CONNECT</h4>
+                  <div className="socialMediaCard">
                     {socialMediaCard.twitter && (
                       <a
                         target="_blank"
@@ -141,36 +161,21 @@ class Footer extends React.Component {
                   </div>
                 </div>
               </div>
-              {/* <div className="section taCenter one-third">
-                {phone && (
-                  <div className="phone-numbers taRight">
-                    <div>
-                      <Phone />
-                      <a href={`tel:${phone}`}>{phone}</a>
-                    </div>
-                    <div>
-                      <Phone />
-                      <a href={`tel:${phone2}`}>{phone2}</a>
-                    </div>
-                  </div>
-                )}
-              </div>*/}
             </div>
           </div>
-          <div className="CopyFooter dark">
-            <div className="container taCenter">
-              © 2002-
-              {new Date().getFullYear()} DeKing Decks | All Rights Reserved.{' '}
-              <span>
-                Crafted by{' '}
-                <a
-                  href="https://thriveweb.com.au"
-                  target="_blank"
-                  rel="nofollow"
-                >
-                  Thrive
+          <div className="CopyFooter dark flex">
+            <div className="one-half text">
+              © {new Date().getFullYear()} DeKing Decks | All Rights Reserved.{' '}
+            </div>
+            <div className="one-half taRight text">
+              Site by{' '}
+              <a
+                href="https://thriveweb.com.au"
+                target="_blank"
+                rel="nofollow"
+              >
+                Thrive
                 </a>
-              </span>
             </div>
           </div>
         </footer>
