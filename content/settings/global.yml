@@ -6,7 +6,23 @@ siteDescription: >-
 phone: 1800 335 464
 phone2: 07 3804 6400
 email: info@dekingdecks.com.au
+contactaddress: 'PO Box 54, Camp Hill, 4152'
 warrantyLogo: /images/uploads/25-year-warranty.png
+serviceAreas: >-
+  Brisbane, Northside, Southside, Redlands, Logan, Ipswich, Moreton Bay, Gold
+  Coast, Sunshine Coast, Toowoomba
+location: |-
+  Deking Decks Brisbane 
+  Unit 13/22 Mavis Court 
+  Ormeau QLD 4208
+footerServices:
+  - title: Timber Deck
+    url: /services/timber-decks/
+  - title: Patio Roofs
+    url: /services/patio-roofs/
+footerLinks:
+  - title: Contact Us
+    url: /contact
 socialMediaCard:
   facebook: 'https://www.facebook.com/dekingdecks/'
   image: /images/uploads/card-og.jpg
