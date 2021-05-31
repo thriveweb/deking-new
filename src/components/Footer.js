@@ -20,7 +20,11 @@ class Footer extends React.Component {
       phone,
       phone2,
       email,
-      locations,
+      contactaddress,
+    	serviceAreas,
+    	location,
+    	footerServices,
+    	footerLinks,
       socialMediaCard
     } = globalSettings
 
@@ -70,10 +74,8 @@ class Footer extends React.Component {
                   <div className="warrantyLogo"><Image src={warrantyLogo} alt="25 year warranty" /></div>
                 )}                
                 <h4>SERVICE AREAS</h4>
-                  <ul>
-                    <li>Brisbane, Northside, Southside, Redlands,</li>
-                    <li>Logan, Ipswich, Moreton Bay, Gold Coast,</li>
-                    <li>Sunshine Coast, Toowoomba</li>
+                  <ul className="serviceareas">
+                    <li>{serviceAreas}</li>
                   </ul>
 
               </div>
@@ -83,33 +85,28 @@ class Footer extends React.Component {
                   <ul>
                     <li><a href={`tel:${phone}`}>{phone}</a></li>
                     <li><a href={`tel:${phone2}`}>{phone2}</a></li>
-                    <li>PO Box 54, Camp Hill, 4152</li>
+                    <li>{contactaddress}</li>
                   </ul>
 
                   <h4>LOCATION</h4>
-                  <ul>
-                    <li>Deking Decks Brisbane</li>
-                    <li>Unit 13/22 Mavis Court</li>
-                    <li>Ormeau QLD 4208</li>
+                  <ul className="location">
+                    <li>{location}</li>
                   </ul>
                 </div>
                 <div className="one-third">
                   <h4>OUR SERVICES</h4>
                   <ul>
-                    <li>Timber Decks</li>
-                    <li>Patio Roofs</li>
-                    <li>Pool Decking</li>
-                    <li>Projects</li>
-                    <li>Calculator</li>
-                    <li>6 Step Process</li>
+                    {footerServices && footerServices.map((link)=>(
+                      <li><a href={link.url}>{link.title}</a></li>
+                    ))}
                   </ul>
                 </div>
                 <div className="one-third">
                   <h4>ABOUT</h4>
                   <ul>
-                    <li>Contact Us</li>
-                    <li>FAQ</li>
-                    <li>Privacy Policy</li>
+                    {footerLinks && footerLinks.map((link)=>(
+                      <li><a href={link.url}>{link.title}</a></li>
+                    ))}
                   </ul>
                   <h4>CONNECT</h4>
                   <div className="socialMediaCard">

@@ -37,14 +37,6 @@
   align-items: center;
 }
 
-@media (max-width: 650px) {
-  .Footer .one-third,
-  .WelcomeFooter .one-third {
-    padding: 1rem 0 0 0;
-    margin: 0;
-  }
-}
-
 .WelcomeFooter .one-third .bobble {
   animation: bobble 2s ease-in-out infinite;
   margin-bottom: 2.5rem;
@@ -104,6 +96,14 @@
   margin: 0 0 7rem 0;  
   list-style-type: none;
   padding: 0;  
+}
+
+.MainFooter ul.serviceareas {
+  width: 80%;
+}
+
+.MainFooter ul.location {
+  width: 60%;
 }
 
 .MainFooter li {
@@ -186,5 +186,26 @@
   }
   .socialMediaCard {
     justify-content: center;
+  }
+}
+
+@media (max-width: 650px) {
+  .Footer .one-third,
+  .WelcomeFooter .one-third {
+    padding: 1rem 0 0 0;
+    margin: 0;
+  }
+
+  .MainFooter ul.serviceareas, 
+  .MainFooter ul.location {
+    width: 100%;
+  }
+
+  .MainFooter ul.serviceareas {
+    padding: 0 3rem;
+  }
+
+  .CopyFooter .text {
+    text-align: center !important;
   }
 }
