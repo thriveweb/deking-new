@@ -1594,12 +1594,40 @@ collections: # A list of collections the CMS should be able to edit
           - { label: phone, name: phone, widget: string, required: false }
           - { label: phone2, name: phone2, widget: string, required: false }
           - { label: email, name: email, widget: string, required: false }
+          - { label: contactaddress, name: contactaddress, widget: string, required: false }
           - {
               label: warranty Logo,
               name: warrantyLogo,
               widget: image,
               required: false,
             }
+          - {
+              label: Service Areas,
+              name: serviceAreas,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Location,
+              name: location,
+              widget: text,
+              required: false,
+            }
+          - label: 'Footer Services'
+            name: 'footerServices'
+            widget: 'list'
+            hint: 'These links would come in Services section in the Footer'
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Link, name: url, widget: string}
+
+          - label: 'Footer Links'
+            name: 'footerLinks'
+            widget: 'list'
+            hint: 'These links would come in About Us section in the Footer'
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Link, name: url, widget: string}
           #
           # - {
           #     label: subscribeFormTitle,

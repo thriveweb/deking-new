@@ -20,9 +20,21 @@ footerServices:
     url: /services/timber-decks/
   - title: Patio Roofs
     url: /services/patio-roofs/
+  - title: Pool Decking
+    url: /services/pool-decking/
+  - title: Projects
+    url: /projects/
+  - title: Calculator
+    url: /quote-calculator/
+  - title: 6 Step Process
+    url: /about/process/
 footerLinks:
   - title: Contact Us
     url: /contact
+  - title: FAQ
+    url: /#
+  - title: Privacy Policy
+    url: /#
 socialMediaCard:
   facebook: 'https://www.facebook.com/dekingdecks/'
   image: /images/uploads/card-og.jpg

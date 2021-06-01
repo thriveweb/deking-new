@@ -100,6 +100,17 @@ export const query = graphql`
       phone
       phone2
       email
+      contactaddress
+    	serviceAreas
+    	location
+    	footerServices {
+        title
+        url
+      }
+    	footerLinks {
+        title
+        url
+      }
       socialMediaCard {
         image
         twitter

@@ -186,6 +186,11 @@ blockquote {
   color: white;
 }
 
+.midDark {
+  background-color: var(--midGrey);
+  color: white;
+}
+
 .relative {
   position: relative;
 }
