@@ -8,10 +8,10 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: Come See us at the Brisbane Home Show
+welcomeTitle: ''
 welcomeButton:
-  label: Bring in your plans for an instant quote
-  link: promotions-specials-events
+  label: ''
+  link: ''
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Diamond Deck Guarantee
 bannerDescription: >
