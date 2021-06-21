@@ -16,6 +16,8 @@ import { ProcessPageTemplate } from '../templates/ProcessPage'
 import { TeamPageTemplate } from '../templates/TeamPage'
 import { JoinPageTemplate } from '../templates/JoinPage'
 import { GuaranteesPageTemplate } from '../templates/GuaranteesPage'
+import { PrivacyPolicyPageTemplate } from '../templates/PrivacyPolicyPage'
+import { FAQPageTemplate } from '../templates/FAQPage'
 
 if (
   window.location.hostname === 'localhost' &&
