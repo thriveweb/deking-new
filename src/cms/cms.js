@@ -72,3 +72,9 @@ CMS.registerPreviewTemplate('about-join-page', ({ entry }) => (
 CMS.registerPreviewTemplate('about-guarantees-page', ({ entry }) => (
   <GuaranteesPageTemplate {...entry.toJS().data} />
 ))
+CMS.registerPreviewTemplate('privacy-policy-page', ({ entry }) => (
+  <PrivacyPolicyPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('faq-page', ({ entry }) => (
+  <FAQPageTemplate {...entry.toJS().data} />
+))
