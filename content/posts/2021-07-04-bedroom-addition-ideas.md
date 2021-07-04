@@ -18,6 +18,8 @@ meta:
 ---
 # 
 
+
+
 ![extra bedroom, additional room, home extension](/images/uploads/deking-need-more-space.png)
 
 # Are you in need of more space?
@@ -44,7 +46,7 @@ Another functional idea to create an additional bedroom for the home is to steal
 
 This option is not available for all homes, but if you live in a Queenslander or post war home then you may be able to raise the home and build in underneath which will create a lot more floor space.  This could provide the opportunity to add in the additional bedroom, bathroom, family room, home office, laundry or storage facilities.
 
-## Re-purpose an Existing Room/s 
+## Re-purpose an Existing Room/s
 
 If there is a room in your home that is hardly used, then you might consider changing the purpose for that room.  It might be the formal living room is not used much as the majority of the time the family use the more casual family room. What a cheap and easy way to add that additional bedroom to your home!  There may be a few small changes needed to convert the formal living room to a bedroom like the addition of a wardrobe, lighting and power points, relocation of door entries and the like.
 
@@ -53,8 +55,6 @@ If there is a room in your home that is hardly used, then you might consider cha
 Building a home extension to the rear, side or front of the property is another great idea that will give you additional space in the home which could be used for those additional bedrooms.
 
 ![home extension, rear extension, added room](/images/uploads/deking-extension.png)
-
-
 
 ## Garage Conversion
 
@@ -68,16 +68,20 @@ Another common way to add additional bedrooms is to create a second story to a h
 
 If you need a lot of extra living area you could double the floor space of the home if you added the second story over the existing floor plan of the home. 
 
-## Master Bedroom Ideas 
+# Master Bedroom Inspiration
 
-Above we have discussed the bedroom addition ideas in relation to how the additional physical space for the addition or extension can be accomplished.  Below we have also included some ideas in relation to master bedrooms as these are now far more elaborate than they once were. 
+Above we have discussed how the additional physical space for the additional bedroom or home extension can be accomplished.  Now we will give you some inspiration to create that perfect master bedroom as this room is far more elaborate than just a bedroom. 
 
-It is now fairly standard for master bedroom ideas to include built in robes and access to an ensuite bathroom.  New homes now often including a master retreat which includes not only the bedroom, the ensuite, the walk in robe but also a parent only living area.  Master retreats are often planned to be as separate as possible to the rest of the home, sometimes taking up the full upstairs of the house or being a different ‘wing’ of the home. 
+![master bedroom and ensuite](/images/uploads/deking-master-bathroom.png)
 
-Contemporary master bedroom ideas can also include a free standing bathroom in the actual bedroom, making it a feature rather than a functional item. 
+It is now common for the master bedroom to include built in robes and access to an ensuite bathroom.  New homes now offer a master retreat which includes the bedroom, ensuite, walk in robe and a parent only living area.  Master retreats are often separated from from the rest of the home, sometimes the retreat will take up the full upstairs of the house or a different wing of the home. 
 
-Really good master bedroom ideas include those that make use of clever window ideas.  These window ideas need to balance the need for privacy in our bedrooms as well as desire for natural light and ideally attractive views as well.  Who doesn’t, on the weekend, enjoy breakfast in bed whilst admiring a view?  For those who can afford it, bedrooms are no longer just functional, they are a holiday in their own right and a pleasure to be in. 
+Contemporary master bedroom ideas could include having a free standing bathroom in the bedroom itself, making it a feature as well as a functional room. 
 
- 
+![contemporary master bedroom and bathroom](/images/uploads/deking-master-bath.png)
 
-If you are contemplating adding one or more rooms to your existing home we would love to talk to you about your ideas and requirements.  Please contact us on 1800 335 464 or complete an enquiry form our website.
+Really good master bedrooms make clever use of windows.  The bedroom windows need to balance the need for privacy, natural light and ideally attractive views as well.  Who doesn’t enjoy breakfast in bed while admiring the view?  Bedrooms are no longer just functional, they can be a holiday in your own home and a pleasure to be in. 
+
+![master bedroom windows](/images/uploads/deking-master-windows.png)
+
+If you are thinking of adding to your home the team at DeKing Decks would love to speak with you about your ideas and requirements.  Please contact us on 1800 335 464 or complete an enquiry form our website.
