@@ -10,11 +10,12 @@ shortDescription: >-
 categories:
   - category: additions
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/blog/bedroom-extension-ideas/'
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/bedroom-extension-ideas/'
   description: >-
     Bedroom addition ideas, master bedroom ideas, space creation ideas, rear
     home extensions and garage conversions
-  title: Bedroom Addition Ideas | Bedroom Extension Ideas | DeKing
+  noindex: false
+  title: Bedroom Addition Ideas Brisbane | Bedroom Extension Ideas
 ---
 # 
 
