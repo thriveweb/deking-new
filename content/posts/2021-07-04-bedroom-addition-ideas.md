@@ -19,8 +19,6 @@ meta:
 ---
 # 
 
-
-
 ![extra bedroom, additional room, home extension](/images/uploads/deking-need-more-space.png)
 
 # Are you in need of more space?
@@ -73,13 +71,11 @@ If you need a lot of extra living area you could double the floor space of the h
 
 Above we have discussed how the additional physical space for the additional bedroom or home extension can be accomplished.  Now we will give you some inspiration to create that perfect master bedroom as this room is far more elaborate than just a bedroom. 
 
-![master bedroom and ensuite](/images/uploads/deking-master-bathroom.png)
+![contemporary master bedroom and bathroom](/images/uploads/deking-master-bath.png)
 
 It is now common for the master bedroom to include built in robes and access to an ensuite bathroom.  New homes now offer a master retreat which includes the bedroom, ensuite, walk in robe and a parent only living area.  Master retreats are often separated from from the rest of the home, sometimes the retreat will take up the full upstairs of the house or a different wing of the home. 
 
 Contemporary master bedroom ideas could include having a free standing bathroom in the bedroom itself, making it a feature as well as a functional room. 
-
-![contemporary master bedroom and bathroom](/images/uploads/deking-master-bath.png)
 
 Really good master bedrooms make clever use of windows.  The bedroom windows need to balance the need for privacy, natural light and ideally attractive views as well.  Who doesn’t enjoy breakfast in bed while admiring the view?  Bedrooms are no longer just functional, they can be a holiday in your own home and a pleasure to be in. 
 
