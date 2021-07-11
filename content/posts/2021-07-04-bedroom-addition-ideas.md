@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Bedroom Addition Ideas
+title: Bedroom Extension Ideas
 status: Published
 date: '2021-07-04'
 featuredImage: /images/uploads/deking-extension-plan.png
