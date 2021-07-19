@@ -25,7 +25,7 @@ bannerButton:
 promoTitle: We can simply make it happen.
 promoButton:
   label: Our Process
-  link: 'process   '
+  link: process
 teamTitle: DeKing Decks – Brisbane  – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
