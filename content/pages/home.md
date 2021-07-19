@@ -21,11 +21,11 @@ bannerDescription: >
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: enquire
-  link: about/guarantees/
+  link: guarantees
 promoTitle: We can simply make it happen.
 promoButton:
   label: Our Process
-  link: 'about/process   '
+  link: 'process   '
 teamTitle: DeKing Decks – Brisbane  – The Timber Deck Builder Specialists
 teamDescription: >-
   Since 2003 the friendly [team of
