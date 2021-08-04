@@ -33,6 +33,6 @@ meta:
     DeKing Decks can build one or more additional rooms to your existing home -
     bedrooms, living room, media or theatre room, home office, any type of room
     or a complete rear home extension.
-  title: Room Builder | One Room Extension | Back home Extensions
+  title: 'Room Builder Brisbane, One Room Extension, Back Additions'
 ---
 
