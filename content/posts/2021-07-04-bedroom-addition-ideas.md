@@ -23,7 +23,7 @@ meta:
 
 # Are you in need of more space?
 
-There are many reasons that you may be needing more space in your home.  Do any of the following sound familiar?
+There are many reasons that you may need an [extra room in your home](https://www.dekingdecks.com.au/services/room-builder/).  Do any of the following sound familiar?
 
 * Has the family outgrown the current home?  New baby on the way?
 * Is the family coming to visit?  Or a family elder moving in?
