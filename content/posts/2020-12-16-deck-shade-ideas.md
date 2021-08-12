@@ -18,7 +18,7 @@ meta:
     Once you have made the decision to build a deck, the next consideration
     should be what shade is required for the deck area.
   noindex: false
-  title: 'Deck Shade Ideas Brisbane, Gold Coast, Sunshine Coast: DeKing'
+  title: 'Deck Shade Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 Once you have made the decision to build a deck, the next consideration should be what shade is required for the deck area.  Getting this overall design right for the deck and cover can be the difference between an awesome addition to the home where you want to spend your relaxation time or an expensive, regrettable decision which leads to an area that you avoid.
 
