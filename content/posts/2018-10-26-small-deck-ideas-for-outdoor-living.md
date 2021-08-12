@@ -15,7 +15,7 @@ meta:
   description: >-
     Small outdoor decks can be a challenge. We share five small deck ideas to
     make the most of small outdoor spaces in SE Queensland.
-  title: 'Small Deck Ideas for Outdoor Living in Brisbane, Gold Coast, Logan'
+  title: 'Small Deck Ideas for Outdoor Living in Brisbane, Gold Coast'
 ---
 Small outdoor decking areas can be a challenge and over the years we have faced this challenge many times.  We share five small deck ideas to make the most of small outdoor spaces.
 
