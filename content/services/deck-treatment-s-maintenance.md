@@ -72,6 +72,6 @@ meta:
   description: >-
     Deck Oil or Acrylic for Treatment and Maintenance. Here what DeKing Decks
     have to say about the best options for Australian Deck
-  title: 'Deck Treatment & Maintenance Brisbane, Gold Coast & SE QLD'
+  title: 'Deck Treatment & Maintenance Brisbane, Gold Coast QLD'
 ---
 
