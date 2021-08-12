@@ -17,7 +17,7 @@ meta:
     There are many types and styles of steps and stairs. It's important to
     consider the main purpose of the deck steps?
   noindex: false
-  title: 'Deck Steps Ideas Brisbane, Gold Coast, Sunshine Coast: DeKing'
+  title: 'Deck Steps Ideas Brisbane, Gold Coast, Sunshine Coast'
 ---
 There are many types and styles of steps and stairs available for your [new deck](https://www.dekingdecks.com.au/posts/deck-steps-ideas/).  The first question you need to answer is:
 
