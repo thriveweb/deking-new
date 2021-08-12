@@ -68,5 +68,12 @@ bannerButton:
   label: Remote quote
   link: contact
 categories: []
+meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/services/home-offices-garage-conversions-small-additions-extensions/
+  description: >-
+    DeKing provides home office builds, garage conversions, outdoor studios,
+    granny flats, small extensions and additions.
+  title: 'Garage Conversion Brisbane, Convert Garage to Home Office'
 ---
 
