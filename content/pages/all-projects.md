@@ -18,6 +18,6 @@ meta:
     decking, Pergolas, Gazebos and outdoor rooms, Patio and deck roofing and Eco
     Decking.
   noindex: false
-  title: 'Decking Designs Brisbane, Gold Coast Deck Design, Decking Gallery'
+  title: 'Decking Designs Brisbane: Deck Design, Decking Gallery'
 ---
 
