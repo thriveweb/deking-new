@@ -13,9 +13,9 @@ meta:
   canonicalLink: >-
     https://www.dekingdecks.com.au/posts/do-you-need-a-permit-to-build-a-deck-in-qld/
   description: >-
-    Thinking about building a deck or patio extension on your house? Don't
-    forget that you need a permit to build a deck. Find out the steps involved.
-  title: Do you need a permit to build a deck in Queensland? | Deking Decks
+    Thinking about building a deck or patio extension on your house in Brisbane?
+    You need a permit to build a deck. Find out the steps involved.
+  title: Can I Build a Deck Without a Permit in Brisbane
 ---
 Yes indeed, you need a permit to build a deck — certainly in Australia, anyway. As David from DeKing Decks has discovered, some Aussies would probably prefer to be able to build a deck or a patio extension on their house without needing permission. Some would even like to build a deck right up to their property fence! (Well that’s one way to get close to your neighbours!) And others want to take the DIY approach to a whole new level: ‘Especially for low-level decks, a lot of people think you can just put decking boards over the ground,’ David laughed.
 
