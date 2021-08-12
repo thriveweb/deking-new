@@ -78,6 +78,6 @@ meta:
     TREX Composite decking is made from 95% recycled materials and comes with a
     25 year warranty with minimal maintenance. Installed by DeKing Decks and
     Patios
-  title: 'TREX Decking Brisbane, Gold Coast, Lower Sunshine Coast | Deking Decks'
+  title: 'TREX Decking Installation Brisbane, Gold Coast,Sunshine Coast '
 ---
 
