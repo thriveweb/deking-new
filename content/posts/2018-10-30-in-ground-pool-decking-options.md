@@ -15,7 +15,7 @@ meta:
   description: >-
     By choosing the right kind of pool decking, you’ll have a durable and
     long-lasting deck and that means value for money.
-  title: Inground Pool Decking Options & Ideas For SE QLD | Deking Decks
+  title: Inground Pool Decking Options & Ideas Brisbane QLD
 ---
 At DeKing Decks, we offer a range of [in-ground pool decking options](https://www.dekingdecks.com.au/services/pool-decking/) to meet your needs. By choosing the right kind of pool decking, you’ll have a durable and long-lasting deck—and that means value for money.
 
