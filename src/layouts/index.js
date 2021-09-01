@@ -40,14 +40,15 @@ export default ({ children, data }) => {
           fbq('init', '198898540694859');
           fbq('track', 'PageView');`}
         </script>
-
+        <script type='text/javascript' async='true' src='https://www.clickcease.com/monitor/stat.js' />
         <noscript>
           {`<img
             height="1"
             width="1"
             style="display:none"
             src="https://www.facebook.com/tr?id=198898540694859&ev=PageView&noscript=1"
-          />`}
+          />
+          <a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com/stats/stats.aspx' alt='ClickCease'/></a>`}
         </noscript>
       </Helmet>
 

@@ -58,11 +58,6 @@ class Meta extends React.Component {
           content="qG89fWbh3KTY5XWB33kJJpbA_pqfuq8T4FHLTKpkIxw"
         />
         <meta name="msvalidate.01" content="B0112812CA622A13C327AF572E2BA5B5" />
-
-        <script type='text/javascript' async='true' src='https://www.clickcease.com/monitor/stat.js' />
-        <noscript>
-          <a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com/stats/stats.aspx' alt='ClickCease'/></a>
-        </noscript>
       </Helmet>
     )
   }
