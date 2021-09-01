@@ -57,7 +57,7 @@ export const HomePageTemplate = ({
       <div className="home--banner section-image">
         {externalVideoURL &&
           externalVideoURL.length && (
-            <BackgroundVideo poster={videoPoster.publicURL}>
+            <BackgroundVideo poster={videoPoster && videoPoster.publicURL}>
               <source src={externalVideoURL} type="video/mp4" />
             </BackgroundVideo>
           )}
