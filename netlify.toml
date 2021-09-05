@@ -4,15 +4,3 @@
 [build.environment]
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
-
-[[redirects]]
-  from = "/services/home-offices-garage-conversions-small-additions-extensions/"
-  to = "/services/home-offices-garage-conversions/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/home-office-garage-conversions/"
-  to = "/services/home-offices-garage-conversions/"
-  status = 301
-  force = true
