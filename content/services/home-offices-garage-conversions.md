@@ -70,7 +70,7 @@ bannerButton:
 categories: []
 meta:
   canonicalLink: >-
-    https://www.dekingdecks.com.au/services/home-offices-garage-conversions-small-additions-extensions/
+    https://www.dekingdecks.com.au/services/home-offices-garage-conversions/
   description: >-
     DeKing provides home office builds, garage conversions, outdoor studios,
     granny flats, small extensions and additions.
