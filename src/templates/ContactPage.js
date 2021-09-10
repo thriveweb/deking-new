@@ -5,6 +5,7 @@ import { MapPin, Smartphone, Mail } from 'react-feather'
 import Meta from '../components/Meta'
 import PageHeader from '../components/PageHeader'
 import EnquiryFormSimple from '../components/EnquiryFormSimple'
+import BuilderTrendContactForm from '../components/BuilderTrendContactForm';
 // import SimpleMap from '../components/SimpleMap'
 import Content from '../components/Content'
 import './ContactPage.css'
@@ -114,7 +115,8 @@ export const ContactPageTemplate = ({
           </div>
 
           <div>
-            <EnquiryFormSimple name="Simple Form" />
+            {/* <EnquiryFormSimple name="Simple Form" /> */}
+            <BuilderTrendContactForm />
           </div>
         </div>
       </div>
