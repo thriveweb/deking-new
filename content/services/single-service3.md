@@ -22,6 +22,15 @@ welcomeDescription: >-
 
   The addition of a pool house in similar materials will create a lovely shady
   area and BBQ zone.
+
+
+  DeKing Decks can help you create the perfect custom made deck for your new
+  pool, or the deck can be built while the pool is being constructed, or
+  overhaul and revamp your existing pool area with a new deck.
+
+
+  We can also complete the pool deck with ranges of fencing materials that meet
+  all certification regulations.
 welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
   - description: >-
