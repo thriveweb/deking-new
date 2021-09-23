@@ -9,12 +9,19 @@ excerpt: >-
   built pool deck
 welcomeTitle: Swimming Pool Decks
 welcomeDescription: >-
-  Pool decks are a great way to add space to a pool area, a place to relax on
-  lounge chairs, a way to access all sides of the pool, or a connection to the
-  house for an extended feel. By adding change of heights in the deck, a new
-  area is created which adds more interest and is more visually appealing along
-  with the ability to have different areas to lounge about or entertain on. With
-  matching materials a pool house can be added for shade or for a bbq area
+  Pool decks are a great way to create additional space to the pool area.  The
+  deck can add a relaxing place for lounge chairs, create a safe accessible area
+  to all sides of the pool, and offer a seamless connection to the entrance of
+  the home. 
+
+
+  Using height and level changes in the deck creates other areas, this adds more
+  interest, is visually attractive and gives the ability to create different
+  zones for lounging and entertaining. 
+
+
+  The addition of a pool house in similar materials will create a lovely shady
+  area and BBQ zone.
 welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
   - description: >-
@@ -52,15 +59,32 @@ servicePriceDescription:
     size: 6 metres by 4 metres
 servicePods:
   - podDescription: >-
-      Be it a space to simply sunbathe on or an outdoor entertaining area for
-      all your friends and family, we at Deking can build you a magnificent pool
-      deck to suit your needs which is not only strong and safe but will last
-      for years to come.
+      Pool decks are most commonly used for sunbathing or outdoor entertaining
+      with family and friends. Let's face it, who doesn't love soaking up the
+      beautiful Queensland rays and enjoying quality time with the people you
+      love, a beer or wine and a good BBQ.  But pool decks can be used for so
+      many other purposes as well.
 
 
-      Check out our 25 year warranty
+      It might be your quiet escape where you can read your favourite book while
+      listening to the lapping water and the song birds.
+
+
+      It could be your gardening oasis, with beautiful flowers alongside the
+      deck with lovely fragrances all year round, attracting the native birds
+      and butterflies to your pool area.
+
+
+      The pool deck might be your creative zone in the home, for writing that
+      next book, painting your next masterpiece or crafting to your hearts
+      content.  
+
+
+      Whatever you use your pool deck for, Deking Decks can build you a
+      magnificent pool deck to suit your needs which is not only strong and safe
+      but will last for years to come.  Check out our 25 year warranty
     podImage: /images/uploads/bare_feet_deck.jpg
-    podsTitle: What do you do on your pool deck?
+    podsTitle: What will you use your pool deck for?
   - podDescription: >-
       Timber Pool Decking looks great and will last a life time when properly
       designed and built to exacting standards. Special considerations need to
@@ -86,11 +110,21 @@ videoTitle: ''
 videoURL: ''
 bannerTitle: ' Can I build a deck around an above ground pool?'
 bannerDescription: >
-  Yes, you can build a deck around an above ground pool. Pool decking provides a
-  great place to play for your family, friends and guests. Pool decking can be
-  constructed to extend over the edge of the pool for a totally seamless in
-  ground look or finish under the pool capping edge for possible future liner
-  replacement ease. 
+  Yes, you can build a deck around an above ground pool. 
+
+
+  Pool decking provides a great place to play for your family, friends and
+  guests. Having a deck around an above ground pool links the outside area to
+  the pool itself, the kids can run and dive, or bomb dive siblings ... things
+  that are not normally possible with an above ground pool. Parents can sunbathe
+  on the decking or sit comfortably and keep watch over the kids and clearly see
+  the entire pool, which is not always possible sitting on the outside of an
+  above ground pool.
+
+
+  The pool decking can be constructed to extend over the edge of the pool for a
+  totally seamless in ground look or finish under the pool capping edge for
+  possible future liner replacement ease. 
 bannerImage: /images/uploads/img_3130.jpg
 bannerButton:
   label: Contact Us
