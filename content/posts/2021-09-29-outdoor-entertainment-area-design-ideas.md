@@ -25,17 +25,13 @@ Summer is fast approaching. We have already seen the SE Queensland temperatures 
 
 How is your outdoor entertainment area looking?  Are you ready for Summer? Or does your outdoor area need some love and attention and a much needed makeover to create the perfect entertainer zone?
 
-What makes an amazing outdoor BBQ area?
-
-If you already have a deck (or you are considering building one) then you should think seriously about what you will use this outdoor area for. Living in Queensland we have the perfect weather all year round for outside entertaining. It would be a wasted deck opportunity if you did not incorporate a BBQ area into your deck plans.
-
 ## What do you plan to use the entertaining area for?
 
 This might seem a simple question, but there are many different uses for an outdoor entertainment area. Informal after work meetings, intimate catch ups with family and friends, a complete outdoor kitchen setup, a safe undercover area for the kids and grandkids to play, a chill out zone by the pool, or a quiet oasis to sit back and read or create alone or with friends.
 
-## Some things to consider when planning your outdoor entertainment area:
+## What makes the perfect outdoor entertainment area?
 
-
+Living in Queensland we are blessed with near perfect weather all year round, which is ideal for outside entertaining. When planning your entertainment area you want to consider some important points:
 
 * Aspect - does the entertainment area face to the east or the west? If it does there will be times during the day where sun will flood this area. Shade cloths and roller blinds may be useful to block out the majority of the sun in the morning or late afternoon.
 * Wind and rain direction - if your deck is located in a position where you may suffer with directional rain and strong winds then you may want to look at transparent screens to protect against the unpleasant weather conditions. 
@@ -66,5 +62,7 @@ This gazebo is a great example of a separate outdoor entertaining area. Elevated
 ![outdoor entertainment area](/images/uploads/dsc_0174.jpg)
 
 Two separate decks, but one perfect home. A luxurious timber deck around the pool creates a great zone to chill by the pool. The pool deck is linked seamlessly to the raised back deck by complementing stairs. The deck has a high flyover patio that allows plenty of light and ventilation and overlooks the pool. A great area to keep an eye on the kids in the pool, having lunch or dinner outside in Summer or entertaining family and friends. 
+
+## What's next ...
 
 If you are looking to build or upgrade the outdoor entertainment area of your home, please [contact us](https://www.dekingdecks.com.au/contact/) for a chat or quote.  DeKing's team of experienced professionals can bring your vision to life - designing and constructing your outdoor entertainment area perfect for your home and budget.
