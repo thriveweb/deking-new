@@ -11,17 +11,17 @@ shortDescription: >-
 categories:
   - category: Outdoor BBQ area
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/posts/outdoor-BBQ-area-design-ideas/'
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/outdoor-bbq-area-design-ideas/'
   description: >-
     An outdoor BBQ area can have BBQ for cooking, dining area and a zone for
     relaxing making for great nights with friends and family.
-  title: 'Outdoor BBQ Area Design Ideas Brisbane, Gold Coast, Sunshine Coast'
+  title: 'Outdoor BBQ Area Design Ideas Brisbane, Gold Coast'
 ---
 ## What is a BBQ?
 
-
-
 The word barbecue derives from the Taino Caribbean Indian tribe. The word barbacoa means to grill on a raised wooden grate.  Barbecue (BBQ) today is a little more diverse to include cooking methods that use smoke and/or fire to cook food.  Traditional barbecues utilised flames and hot coals generated from burnt wood to cook on. Today's barbecues often use gas to create heat and then cooking happens on metal grills or plates. Smokers are on trend currently as they provide very succulent slow cooked meats. A smoker is an apparatus that fits to the barbecue and allows you to cook the food in a controlled and smoky environment at low temperatures over a long period of time.
+
+![](/images/uploads/dekingdecks-timber-deck.jpg)
 
 ## What makes an amazing outdoor BBQ area?
 
@@ -40,27 +40,25 @@ Here are some things to keep in mind when planning the perfect outdoor BBQ area:
 
 ## Here's some Outdoor BBQ Area Design ideas to inspire you ...
 
-![](/images/uploads/1.jpg)
+![null](/images/uploads/1.jpg)
 
 What an amazing space. The outdoor area spans the entire length of the home, plenty of room to create different zones for cooking, eating and relaxing.
 
-![](/images/uploads/11.jpg)
+![null](/images/uploads/11.jpg)
 
 The beautiful warmth of natural timber gives this outdoor BBQ area a lovely atmosphere. Timber balustrades to overlook the estate after the meal. All mod cons with lighting and fans under the roof to make this area usable all year round.
 
-![](/images/uploads/cooldekredlandbaymerbauposts.jpg)
+![null](/images/uploads/cooldekredlandbaymerbauposts.jpg)
 
 A great example of a ground level patio and BBQ area. Separate zones are created with BBQ, dining table and chairs and corner couches with coffee table. Potted plants add that splash of colour.
 
-![](/images/uploads/heatstrip_special_2.jpg)
+![null](/images/uploads/heatstrip_special_2.jpg)
 
 This is an amazing outdoor entertaining area. Huge timber table and lazy susan complements the timber decking. Heat strips, fans and lighting on the ceiling makes this outdoor BBQ area usable all year round. The lounge area is on the other side of the undercover deck, and both areas overlook the swimming pool with clear glass fencing so as to not ruin that view.
 
 ## Get in touch with David at DeKing Decks
 
-Discuss your outdoor BBQ area ideas and get an obligation free quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
-
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Sunshine Coast and Scenic Rim areas.
+Discuss your outdoor BBQ area ideas and get an obligation free quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).**
 **
 
 Check out the [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or 
