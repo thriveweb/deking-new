@@ -31,6 +31,9 @@ welcomeDescription: >-
 
   We can also complete the pool deck with ranges of fencing materials that meet
   all certification regulations.
+
+
+  ##  Important things to consider when it comes to pool decking
 welcomeImage: /images/uploads/image-2-1024x576.jpg
 accordion:
   - description: >-
@@ -41,7 +44,7 @@ accordion:
       within the splash zone. This includes the decking screws, concrete anchors
       into the pool shell, and joist hangers. Stirrups are heavy duty and hot
       dipped galvanised which are set into 20 Mpa poured concrete
-    title: What are some important things to consider when it comes to pool decking?
+    title: Materials to withstand the weather
   - description: >-
       We can build pool decking on all kinds of blocks including those with
       unusual elevations/slopes and interesting pool designs. By incorporating
