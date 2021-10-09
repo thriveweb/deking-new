@@ -59,10 +59,10 @@ servicePods:
 
       If you are considering a home extension or the addition of one or more
       rooms to your house we would love to assist you and talk about your plans
-      and ideas. Contact us by phone 1800 335 464 or complete an online enquiry
-      form. DeKing Decks service greater Brisbane, Sunshine Coast and Gold Coast
-      areas and we would be thrilled to get your dream home extensions and room
-      additions underway.
+      and ideas. Contact us by phone 1800 335 464 or complete an [online enquiry
+      form](https://www.dekingdecks.com.au/contact/). DeKing Decks service
+      greater Brisbane, Sunshine Coast and Gold Coast areas and we would be
+      thrilled to get your dream home extensions and room additions underway.
 
 
       ##
