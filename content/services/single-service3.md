@@ -62,13 +62,13 @@ accordion:
       coming to the market every year so call us to find a solution for your
       decking needs 
     title: Types of decking
-servicePriceTitle: Price guide
+  - description: >-
+      Size: 6 metres by 4 metres using Merbau hardwood decking with a treated
+      pine frame Min: $7,500 Max: $10,000
+    title: 'Price Guide '
+servicePriceTitle: What's Next
 QuoteTitle: Get an instant online estimate on your custom pool decking
-servicePriceDescription:
-  - materials: Merbau hardwood decking with a treated pine frame
-    max: '$10,000'
-    min: '$7,500'
-    size: 6 metres by 4 metres
+servicePriceDescription: []
 servicePods:
   - podDescription: >-
       Pool decks are most commonly used for sunbathing or outdoor entertaining
