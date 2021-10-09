@@ -90,6 +90,9 @@ servicePods:
 
       * it is becoming more common these days to have aging parent/s come and
       live at home rather than go into a nursing home as they get older.
+    podImage: /images/uploads/2.jpg
+  - podDescription: >-
+      ## Extra Living Areas
 
 
       Adding another living area is also on trend: 
@@ -123,7 +126,8 @@ servicePods:
       may want to create some additional outdoor room with the addition of a
       deck for outdoor entertaining as well. We are blessed with the perfect
       Queensland climate to enjoy indoor/outdoor living all year.
-    podImage: /images/uploads/2.jpg
+    podImage: /images/uploads/deking-extension.png
+    podsTitle: ''
 videoTitle: ''
 videoContent: ''
 bannerTitle: Request a Remote Quote
