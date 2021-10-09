@@ -17,7 +17,7 @@ meta:
     inspiration.  
   title: 'Pool Area Designs Brisbane, Gold Coast | DeKing Decks '
 ---
-# Your Pool Area Design Options
+# Your Pool Area Options
 
 People say that the kitchen is the heart of the home, however, those of us who live in Queensland know that the true heart of the home, particularly in the warmer months, is the pool area. 
 
