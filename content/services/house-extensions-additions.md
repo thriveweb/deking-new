@@ -132,6 +132,6 @@ meta:
     DeKing Decks can extend your home or build one or more additional rooms to
     create more space in your existing home - bedrooms, living areas, media or
     theatre rooms, home office.
-  title: 'House Extensions & Room Additions | Brisbane, Gold Coast, Sunshine Coast'
+  title: 'House Extensions & Room Additions | Brisbane, Gold Coast'
 ---
 
