@@ -149,6 +149,13 @@ teamMembers:
     occupation: Patio Installer
     profileImage: /images/uploads/qa5l-8axrxwftg-16-t3fq.jpg
     profileImage2: /images/uploads/oxncvwccqtudlf1jsowapw.jpg
+  - bio: >-
+      Jarrod is our 1st year apprentice carpenter who always has a grin on his
+      face. In his spare time, Jarrod can be found on the basketball court
+      shooting hoops
+    name: Jarrod Schulte
+    occupation: Apprentice Carpenter
+    profileImage: /images/uploads/jarrod.jpg
 bannerButton:
   label: Enquire
   link: contact
