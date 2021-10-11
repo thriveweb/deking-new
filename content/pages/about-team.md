@@ -126,6 +126,7 @@ teamMembers:
     name: Jarrod Schulte
     occupation: Apprentice Carpenter
     profileImage: /images/uploads/jarrod.jpg
+    profileImage2: /images/uploads/jarrod.jpg
   - bio: >-
       Let’s not forget Floydy the fat cat, office mascot. He is a well-loved
       part of the Deking family, although we are not sure what his role is, as
