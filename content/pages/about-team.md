@@ -158,6 +158,13 @@ teamMembers:
     occupation: Carpenter
     profileImage: /images/uploads/roland.jpg
     profileImage2: /images/uploads/roland.jpg
+  - bio: >-
+      Aaron works with Laurie to make up our patio roof team. In his free time
+      Aaron can be found fishing in his tinniw with his young family
+    name: Aaron Pollard
+    occupation: Patio Roof Installer
+    profileImage: /images/uploads/aaronpollard.jpg
+    profileImage2: /images/uploads/aaronpollard.jpg
 bannerButton:
   label: Enquire
   link: contact
