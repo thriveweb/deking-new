@@ -151,6 +151,13 @@ teamMembers:
     occupation: Carpenter
     profileImage: /images/uploads/robert.jpg
     profileImage2: /images/uploads/robert.jpg
+  - bio: >-
+      Roland is a true craftsman and can be found making furniture in his
+      weekends
+    name: Roland Ohlsson
+    occupation: Carpenter
+    profileImage: /images/uploads/roland.jpg
+    profileImage2: /images/uploads/roland.jpg
 bannerButton:
   label: Enquire
   link: contact
