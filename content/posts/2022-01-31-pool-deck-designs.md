@@ -29,84 +29,42 @@ Pool decks look stunning and increase the value of your home, but they also have
 * A deck allows better drainage of water (between the gaps in the boards), This reduces slip hazards caused by puddles of water.
 * The value of your home increases when there is a good quality pool deck installed.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Some inspiration for your pool deck design ...
-
-
 
 ![pool deck](/images/uploads/coroy3.jpg)
 
-
-
-
+**Back to nature with this spotted gum pool deck.**
 
 This pool area is enhanced by a lovely spotted gum deck. The black aluminium fence shows off the idyllic native bush view. The spotted gum fence posts and top rails ensure continuity. The pergola is a beautiful and functional shelter and will offer some shade from the sun while being open for good ventilation. The pergola has also been constructed using spotted gum posts to ensure all areas are tied together.
 
+![pool deck](/images/uploads/img_9614.jpg)
+
+**A multi-level contemporary grey pool deck.**
+
+Right now, grey is the latest rage in modern design. This contemporary pool deck utilises glass fence panels to create a sleek and clean look. The multiple deck levels create separate niches that allow families to spend time in the same area, but different zones. The kids can swim and play in the pool and the lower deck, while the adults can enjoy a beer or wine on the higher deck which includes a barbecue area and large dining table for entertaining. The Trex decking gives a clean and uninterrupted surface which means it is basically maintenance free. It can be installed around curved or straight pools, above-ground or in-ground pools and it has a 25 year warranty.
+
+![](/images/uploads/dsc_0211.jpg)
+
+**Poolside shade and entertainment**
+
+Even smaller areas can benefit greatly from adding a pool deck and structure for shade. This pool deck takes full advantage of the high position to get the best possible views. The hardwood deck panels extend all the way to the edge of the pool. The timber slats at the back of the pergola allow for privacy while still providing ventilation. The minimalist wire cable and timber fencing allows views of the natural scenery. This classic style pool deck creates an amazing place to relax, host a party or enjoy a meal. 
+
+![](/images/uploads/pool_decking.jpg)
+
+**Connection between two zones.**
 
 
 
+The large deck above looks over the beautiful timber pool deck below. The upper deck is a great outdoor entertaining area or ideal for keeping eyes on the kids playing in the pool below. The glass pool fencing allows the owners to enjoy wonderful views of the pool area and surrounding nature. The external timber stairs lead down to the pool deck area. The gate for the pool is situated on the upper deck, therefore another gate is not needed on the pool deck. Both zones combine as one and it looks sensational.
 
 
 
+## DeKing Decks can help with your pool deck needs
 
+DeKing Decks use the highest quality materials which are guaranteed to withstand the Queensland climate, the unrelenting wear and tear and constant pool splashes. We have in-house design specialists that are experienced in designing different decks to suit each customers’ needs. Whether you want to design the ultimate entertainment area, or need a deck designed for a small backyard pool, the team at DeKing Decks  will come up with a practical and stunning pool deck solution for you.
 
-Multi level contemporary grey pool beck by DeKing Decks
-
-
-
-Grey is all the rage in modern design right now, and this contemporary pool area takes full advantage of that, along with glass fencing panels, to give it a sleek look. The addition of multiple levels creates different niches, allowing for family groups to spend time in the same area seamlessly. Let the children splash in the pool and run around the lower portion of the deck, while the adults enjoy a drink on the raised section, complete with a large entertaining table and barbeque area. This beautiful, concealed finish, Trex decking product is a favourite of ours at DeKing Decks as it gives an uninterrupted, clean surface and is completely maintenance free, so is perfect for busy families. The beauty of this is that it can be installed around straight or round-edged pools, and also in-ground or above-ground pools, and it comes with a 25 year warranty!
-
-
-
-Pool shade and entertaining by Deking Decks
-
-
-
-Here is a prime example of the versatility of pool area design. Even small areas like this one can benefit immensely from the addition of a pool deck and shade structure. This classic design was formulated around the existing gorgeous stone pavers and took advantage of the view this high position provides. The durable, hardwood decking panels extend right to the pool edge, creating a seamless transition between the two areas. The wooden slats on the back of the pergola provide privacy without sacrificing ventilation, and the minimalist timber and wire cable fencing invites the natural scenery in. This pool area design creates the perfect place to take a break from swimming, host a pool party or relax and enjoy a meal with friends.
-
-
-
-
-
-DeKing Decks
-
-
-
-A DeKing Deck is also a practical solution for your pool area, as we use the highest quality materials that are guaranteed to withstand the wear and tear or pool splashes and the Queensland climate, like hardwood decking boards, minimum H3 treated pine frames and stainless-steel fasteners and screws.
-
-
-
-We have in-house design specialists who are experienced in designing different kinds of decks to suit our customers’ needs and spaces, so whether you have a small backyard pool and would like a deck around it or you want to design the ultimate outdoor entertaining area, we will have a stunning and practical pool area solution for you.
-
-At DeKing Decks we are experts in Pool Decking; we will advise you on the most appropriate materials and even suggest design options for you. Have a look at some of the pool decks that we have built and you will get an idea of the high standard and both attractive and functional decks that we provide for our customers.
-
-
-
-pool decking design
-
-
-
-See some more of our Pool Decking designs in our decking gallery
-
-
+We will suggest design options and advise on the most appropriate materials to use. Have a look through the [gallery](https://www.dekingdecks.com.au/services/pool-decking/) of pool decks that we have previously built to get an idea of the quality that we can provide for you. [Contact us](https://www.dekingdecks.com.au/contact/) for more information.
 
 DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
-
-
 
 See our average cost to build a deck with or without a patio. Or use our Decking Calculator, Patio Roofing Calculator to get a more accurate estimate.
