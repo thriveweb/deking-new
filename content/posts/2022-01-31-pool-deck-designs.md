@@ -23,7 +23,7 @@ meta:
 
 The kitchen is often said to be the heart of the home, but in Queensland (particularly during Summer) the pool is definitely where all the action is.
 
-Pool decks look stunning and increase the value of your home, but they also have many functional benefits as well. A pool deck is the perfect place to unwind after work and keep an eye on the kids while they play in the pool. It's also a great outdoor entertainment area, an alternative outside dining area, a great party location and pre-dinner drinks area. Having a deck installed makes the pool area safer and adds to the aesthetic beauty. Wet feet are kept off the grass which will reduce the transfer of mud and debris into the home.
+[Pool decks](https://www.dekingdecks.com.au/services/pool-decking/) look stunning and increase the value of your home, but they also have many functional benefits as well. A pool deck is the perfect place to unwind after work and keep an eye on the kids while they play in the pool. It's also a great outdoor entertainment area, an alternative outside dining area, a great party location and pre-dinner drinks area. Having a deck installed makes the pool area safer and adds to the aesthetic beauty. Wet feet are kept off the grass which will reduce the transfer of mud and debris into the home.
 
 ## Pool Decking Advantages
 
@@ -51,21 +51,17 @@ This pool area is enhanced by a lovely spotted gum deck. The black aluminium fen
 
 Right now, grey is the latest rage in modern design. This contemporary pool deck utilises glass fence panels to create a sleek and clean look. The multiple deck levels create separate niches that allow families to spend time in the same area, but different zones. The kids can swim and play in the pool and the lower deck, while the adults can enjoy a beer or wine on the higher deck which includes a barbecue area and large dining table for entertaining. The Trex decking gives a clean and uninterrupted surface which means it is basically maintenance free. It can be installed around curved or straight pools, above-ground or in-ground pools and it has a 25 year warranty.
 
-![](/images/uploads/dsc_0211.jpg)
+![null](/images/uploads/dsc_0211.jpg)
 
 **Poolside shade and entertainment**
 
 Even smaller areas can benefit greatly from adding a pool deck and structure for shade. This pool deck takes full advantage of the high position to get the best possible views. The hardwood deck panels extend all the way to the edge of the pool. The timber slats at the back of the pergola allow for privacy while still providing ventilation. The minimalist wire cable and timber fencing allows views of the natural scenery. This classic style pool deck creates an amazing place to relax, host a party or enjoy a meal. 
 
-![](/images/uploads/pool_decking.jpg)
+![null](/images/uploads/pool_decking.jpg)
 
 **Connection between two zones.**
 
-
-
 The large deck above looks over the beautiful timber pool deck below. The upper deck is a great outdoor entertaining area or ideal for keeping eyes on the kids playing in the pool below. The glass pool fencing allows the owners to enjoy wonderful views of the pool area and surrounding nature. The external timber stairs lead down to the pool deck area. The gate for the pool is situated on the upper deck, therefore another gate is not needed on the pool deck. Both zones combine as one and it looks sensational.
-
-
 
 ## DeKing Decks can help with your pool deck needs
 
