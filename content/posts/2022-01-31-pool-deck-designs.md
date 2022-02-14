@@ -11,12 +11,13 @@ shortDescription: >-
 categories:
   - category: Pool Decking
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/pool-deck-designs/'
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/pool-deck-designs/'
   description: >-
     The perfect pool and surrounds. What makes for the perfect deck to surround
     your pool? Read on for inspiration about pool decks, fencing and surrounds
     to create a beautiful pool area that works together.
-  title: Pool Deck Designs
+  noindex: false
+  title: 'Pool Deck Designs Ideas Brisbane, Gold Coast'
 ---
 ## The perfect pool and surrounds
 
