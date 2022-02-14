@@ -13,22 +13,21 @@ shortDescription: >-
 categories:
   - category: Gazebos & Outdoor Rooms
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/outdoor-room-ideas/'
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/outdoor-room-ideas/'
   description: >-
-    The simple definition is a room that is outdoors. It's 
-
-    an indoor-outdoor living space that is taken to the next level. One part
-    room/One part porch - a bit like a sunroom except it is open air! Confused
-    yet? Keep reading ...
-  title: Outdoor Room Ideas
+    An outdoor room extends your living space and takes your home to the next
+    level.See examples here
+  title: 'Outdoor Room Ideas Brisbane, Gold Coast - DeKing'
 ---
 ## What is an outdoor room?
 
-The simple definition is a room that is outdoors. It's an indoor-outdoor living space that is taken to the next level. One part room/One part porch - a bit like a sunroom except it is open air! Confused yet? Keep reading ...
+The simple definition is a room that is outdoors. It's 
+an indoor-outdoor living space that is taken to the next level. One part room/One part porch - a bit like a sunroom except it is open air! Confused yet? Keep reading ...
 
 The distinction between the outdoors and indoors can be blurred. It's not always black and white. In Queensland we have a beautiful climate and tend to spend a lot of time outside. Finally our outdoor living areas are getting the attention they deserve. 
 
-To get a great result for your outdoor room you need to approach it just as you would an indoor room. Consider things like the lighting, temperature, scale, materials, coordination to other rooms and know how you want to utilise this new part of your home.
+To get a great result for your [outdoor room](https://www.dekingdecks.com.au/services/room-builder/) you need to 
+approach it just as you would an indoor room. Consider things like the lighting, temperature, scale, materials, coordination to other rooms and know how you want to utilise this new part of your home.
 
 Outdoor rooms are not limited to just one type of room. You can have an outdoor room for parties and  entertaining, dining, cooking, lounge, firepit, pool house, even a bedroom. 
 
