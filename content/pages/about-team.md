@@ -120,16 +120,13 @@ teamMembers:
     profileImage: /images/uploads/img_4140.jpg
     profileImage2: /images/uploads/img_4356.jpg
   - bio: >-
-      Grant has been in the fold for over 7 years with a track record of
-      "nothing is a problem"
-
-
-      Grant spends most of his free time with his family including weekend rugby
-      with his 2 boys
-    name: Grant
-    occupation: Carpenter
-    profileImage: /images/uploads/img_4200.jpg
-    profileImage2: /images/uploads/img_8929.jpg
+      Jarrod is our 1st year apprentice carpenter who always has a grin on his
+      face. In his spare time, Jarrod can be found on the basketball court
+      shooting hoops
+    name: Jarrod Schulte
+    occupation: Apprentice Carpenter
+    profileImage: /images/uploads/jarrod.jpg
+    profileImage2: /images/uploads/jarrod.jpg
   - bio: >-
       Let’s not forget Floydy the fat cat, office mascot. He is a well-loved
       part of the Deking family, although we are not sure what his role is, as
@@ -149,6 +146,25 @@ teamMembers:
     occupation: Patio Installer
     profileImage: /images/uploads/qa5l-8axrxwftg-16-t3fq.jpg
     profileImage2: /images/uploads/oxncvwccqtudlf1jsowapw.jpg
+  - bio: 'Robert is our young family man, 1 small boy and a brand new baby girl.'
+    name: Robert Hatcher
+    occupation: Carpenter
+    profileImage: /images/uploads/robert.jpg
+    profileImage2: /images/uploads/robert.jpg
+  - bio: >-
+      Roland is a true craftsman and can be found making furniture in his
+      weekends
+    name: Roland Ohlsson
+    occupation: Carpenter
+    profileImage: /images/uploads/roland.jpg
+    profileImage2: /images/uploads/roland.jpg
+  - bio: >-
+      Aaron works with Laurie to make up our patio roof team. In his free time
+      Aaron can be found fishing in his tinniw with his young family
+    name: Aaron Pollard
+    occupation: Patio Roof Installer
+    profileImage: /images/uploads/aaronpollard.jpg
+    profileImage2: /images/uploads/aaronpollard.jpg
 bannerButton:
   label: Enquire
   link: contact
