@@ -119,3 +119,6 @@ https://deking-decks.netlify.com/* https://dekingdecks.com.au/:splat 301!
 /deck-stairs /posts/get-creative-with-your-deck-stairs
 /how-to-build-a-deck /posts/how-to-build-a-deck
 /patio-installation-cost /quote-calculator
+# Redirects added on 31-Mar-2022
+/services/patio-builders-brisbane /services/patio-roofs
+/services/gazebos /services/gazebos-outdoor-rooms
