@@ -10,14 +10,19 @@ shortDescription: >-
   be the perfect solution to make working from home a great solution.
 categories:
   - category: garage
+meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/converting-garage-to-office/'
+  description: >-
+    Many changes have occurred over the last couple of years with Covid-19 still
+    causing havoc around the globe. Converting the garage to an office might
+    just be the perfect solution to make working from home a great solution.
+  title: Converting the garage to the perfect home office
 ---
 Many changes have occurred over the last couple of years with Covid-19 still causing havoc around the globe. One huge change that occurred is many work places allowing employees to work from home. Initially due to enforced lockdowns, then splitting the workforce into groups to avoid having everyone affected and having to quarantine if someone contracted Covid-19, now to being flexible to work from home if isolating.
 
 Converting the garage to an office might just be the perfect solution to make working from home a great solution.
 
 Garages are already an enclosed space therefore making them the perfect area to convert into a home office.
-
-
 
 ## Steps to convert the garage to office
 
