@@ -15,195 +15,27 @@ Many changes have occurred over the last couple of years with Covid-19 still cau
 
 Converting the garage to an office might just be the perfect solution to make working from home a great solution.
 
+Garages are already an enclosed space therefore making them the perfect area to convert into a home office.
 
 
 
+## Steps to convert the garage to office
 
-If you’re looking for a way to save on space and add an extra home office to your humble abode, look no further than your garage. Since garages are enclosed spaces, they can serve as ideal areas to create home office conversions.
+It's really not too hard to transform the humble garage into an amazing workspace.
 
+Just follow these simple steps:
 
+1. **Council approval** - If you are planning to utilise your garage for business use, then you may need council approval when converting the garage into a habitable room. This is particularly important if you are planning on having to have employees and/or clients visiting your new office.
+2. **Empty the garage** - the garage tend to accumulate clutter and ends up being the dumping zone for many items. This step is probably the hardest part - clearing out the clutter. Sort the items into what you can get rid of and what you need to keep. You may need to build a small outdoor shed to store items or add some shelving into the garage conversion to keep it organised. You now have a blank canvas ready to create your ideal office area.
+3. **Access the area** - survey the cleared space and figure out what you need to complete your office conversion, and also what your budget is. A quick lick of paint may be sufficient, or you may want to add extra lighting, power outlets, built-in shelving, or maybe cover the concrete floor with something more appealing. 
+4. **Temperature control **- you need to be comfortable in your new workspace. Since garages were not designed to be lived in you may need to look at heating or cooling options to keep the workspace comfortable all year round. Check the walls and ceiling and fix any gaps, maybe consider adding drywall to insulate the area.
+5. **Good lighting** - having decent lighting in an office is very important. If the garage has a window to allow natural lighting that is a bonus. Outfit the new office space with good overhead lighting and also lighting on desks if required.
+6. **Check the wi-fi **- test your home wi-fi reaches and has a good connection in the garage. If not, you may need to run a cable to the new office for internet connection, or add a wi-fi extender or hotspot.
+7. **Personalise the space** - if you are going to be working from home then you will be spending a lot of time in this room. It is worth investing in a good ergonomic chair and desk, but also add some warmth with furniture and throw rugs. Add ambience to the zone, hang pictures and photos of scenery or warm and bright images. A great vibe equals great productivity!
 
-Here’s what you’ll need to turn your car’s home into your new home office.
+You may find it difficult to visualise what a garage converted to an office could look like, especially when the garage contains your car, bicycle, mower, gardening equipment, paint tins, etc.
 
-
-
-6 Ways to Convert a Garage Into a Home Office
-
-1. Empty It Out
-
-Garages can often be a one-size-fits-all dumping ground for everything from holiday decorations to paint cans you’re storing for future home improvement projects.
-
-
-
-Before you can figure out how to convert a garage to a home office, you’ll need to figure out if it’s even possible. And that starts with clearing out the clutter!
-
-
-
-Figure out what you have to keep and what you can get rid of. Then, find a place to store the things you need to hang on to. Consider getting an outdoor shed or installing shelves in the garage to help organize everything and keep it out of your way.
-
-
-
-2. Survey the Space
-
-Once you’ve cleared the clutter, survey your garage and figure out what you like and need to do for your garage to office conversion.
-
-
-
-For example, most garages consist of a concrete floor, some sort of overhead lighting, and garage doors. For a quick and easy facelift, paint the walls a light color for a fresh, clean look. If your garage has a regular door, you can give it a quick coat of paint for a more professional look.
-
-
-
-For more intensive projects (think: a new hardwood floor or overhead lighting that requires new outlets), you may be better off consulting with a pro.
-
-
-
-3. Consider Comfort
-
-Since garages are not year-round living spaces, you’ll need to ensure proper heating and cooling, so you don’t freeze during the winters and broil in the summertime.
-
-
-
-To adapt easily (and cheaply) to the changing temperatures outside in the short-term, you can invest in a portable space heater as well as a fan and a portable air conditioner for warmer days.
-
-
-
-Long-term, though, you’ll likely need to invest in a more permanent HVAC system to ensure the garage’s temperature stays consistent and comfortable year round.
-
-
-
-4. Light It Up
-
-If you’re one of the few who have windows in your garage, consider yourself lucky! But for those in a windowless room, proper lighting is a must-have. In lieu of natural lighting, make sure that your home office is outfitted with lamps not only on your desk but in other parts of your garage, too. That way, you won’t feel like you’re working in a cave with the only light source right next to you.
-
-
-
-5. Check Your Tech
-
-If you have an attached garage, you might think that you can rely on your Wi-Fi connection, and that might be the case. But, make sure you give your connection a solid test run before you move in. It’s one thing to do some casual browsing. It’s another to have a video meeting and multiple open tabs at the same time.
-
-
-
-As part of learning how to convert a garage to a home office, consider that many attached garages are built with fire safety in mind, and Wi-Fi signals may have a hard time penetrating the garage walls. Depending on your situation, you may need to invest in a wired internet connection, Wi-Fi extenders, or a portable hotspot.
-
-
-
-6. Make It Your Own
-
-Sure, you could simply invest in an ergonomic chair and desk, but why not take the opportunity to really design a beautiful home office? Add personal touches such as throw rugs, furniture, and framed pictures.
-
-
-
-From Thought to Reality
-
-It’s hard to imagine what a garage turned office space could look like—especially if your garage contains nothing but cars, a lawnmower, and other assorted non-office items. Here are a few garage to office conversions to help you see what’s possible.
-
-
-
- 
-
-
-
-
-
-Image credit: SmallBizDaily
-
-
-
- 
-
-
-
-
-
-Image credit: Decoist
-
-
-
- 
-
-
-
-
-
-Image credit: Houzz.com
-
-
-
-From Garage to Functional Home Office
-
-Consider your new space to be a blank canvas for you to design any way that you’d like. After all, if you take the time to make the space your own, you’ll add a new dynamic to your work-from-home arrangement.
-
-
-
-
-
-
-
-But, when you really think about it, there’s a lot of logic in doing so.
-
-
-
-A garage is a large space, is generally underused within the home (especially if you don’t own a car or can park the car in an alternative location). It is, in fact, typically large enough to house a small business with a couple of employees, and has the added advantage of being spatially removed from the kind of home distractions that can affect your productivity,
-
-
-
-If you work from home or you’re looking to startup a new business and want to keep the cost of having an office space down, a garage conversion could be your ideal solution.
-
-
-
-Here’s how best to go about it.
-
-
-
-Get council approval
-
-If you’re looking to use the garage for business purposes, then you need to seek council approval to convert an inhabitable space into a habitable room. Many people don’t do this, and this runs certain risks for being out of regulation. This is especially so if you’re planning on having employees and clients coming and going.
-
-
-
-Hiring a drafter to help present the plans for the space to council and organise this part of the process is a great idea to ensure things are kept running smoothly. 
-
-
-
-2. Make the space weather proof and comfortable
-
-Once you’ve got approvals, the next step is to guard your space against weather conditions – both for the sake of your equipment and your own comfort. Plug any wall gaps, and consider putting up drywall around the space to further insulate it. If there’s an alternative way into the garage, such as through a door leading to the house, consider locking down the main entry point and covering it with blankets or curtains.
-
-
-
-Finally, invest in a good heater and fan, so you're equipped for all seasons. Garage spaces tend to absorb the full impact of weather extremes, and you’ll want to have control over the temperature in order to make the space comfortable in the depths of summer and winter.
-
-
-
-3. Consider the ambience
-
-Work spaces that have a negative vibe or ambience don’t encourage productivity, so the next step when constructing your garage office is to give the space a great atmosphere. The first thing to consider is lighting; it’s unlikely that your garage has windows, and if you’re not able to install some, you’re going to need to employ an alternative solution. The best way to do this is to print large pictures of natural scenery or other bright, warm images, and hang them around the space.
-
-
-
-If the office will lack natural light, make sure you install effective lighting. The space should be well lit throughout, and desks should be placed close to sources of light.
-
-
-
-4. Add extra touches to make the space more enjoyable
-
-One of the best reasons for having your own office space is you can design it any way you want. Have a lot of clients come an visit? Some comfortable lounges for meetings could be ideal. Is the space more insular, for just  yourself and maybe your employees? Pinball machines, a Friday drinks bar space, fun posters – include whatever works well for and inspires you and your team.
-
-
-
-Using some of the space for fun and relaxation is an excellent way to help develop the culture of your business, and something that is uniquely possible with a garage office, thanks to the large amount of available space.
-
-
-
-5. Get the latest in technology and set it up right
-
-Make sure you have reliable and effective technology. Many homes have wireless networks now, but often that wireless signal is weak or non-existent by the time it travels the distance to the garage. Buy additional routers or wireless signal boosters to create a stable connected environment in your new home office. Also invest in higher quality technology for data storage, computing, and printing as necessary. Wire it all together in a way that keeps the cords neat and out of the way as much as possible.
-
-
-
-And after all that... you’ll have a perfect home office! Congratulations!
-
-Here are some amazing examples of garage conversions to create the perfect office at home. It doesn't matter whether single or double garage, you can create an amazing office to work from home.
+Here are some amazing examples of garage conversions that create the perfect office at home. It doesn't matter whether single or double garage - you can create an amazing office to enjoy working from the comfort of your own home.
 
 ![single garage to office conversion](/images/uploads/deking-garage-to-office6.png)
 
@@ -223,7 +55,7 @@ Here are some amazing examples of garage conversions to create the perfect offic
 
 ## Contact DeKing Decks for advice
 
-To discuss your garage conversion, room additions, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
+To discuss your garage conversion or room additions, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
 **Servicing: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Sunshine Coast and Scenic Rim areas.
 **
