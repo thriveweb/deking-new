@@ -3,18 +3,18 @@ template: SinglePost
 title: Utilise that spare bedroom in your home - turn it into a flex room
 status: Published
 date: '2022-05-01'
-featuredImage: /images/uploads/deking-garage-to-office2.png
+featuredImage: /images/uploads/deking-decks-flex-study.png
 shortDescription: >-
   Do you have a guest room that is vacant and unused most of the time? Stop
   wasting that space or filling it with junk. Repurpose the room. Transform it
-  into a space that you can utilise and enjoy.
+  into a flex room that you can utilise and enjoy.
 categories:
   - category: home extension
 meta:
   description: >-
     Do you have a guest room that is vacant and unused most of the time? Stop
     wasting that space or filling it with junk. Repurpose the room. Transform it
-    into a space that you can utilise and enjoy.
+    into a flex room that you can utilise and enjoy.
   title: Utilise that spare bedroom in your home - turn it into a flex room
 ---
 Do you have a guest room that is vacant and unused most of the time? Stop wasting that space or filling it with junk. Repurpose the room. Transform it into a space that you can utilise and enjoy.
@@ -27,169 +27,119 @@ A flex room doesn't have to be a spare bedroom. It could be the small room desig
 
 Having a flex room lets you change your home for different stages of your life, new hobbies or crafts, studying or working from home, a growing family, teenage space or having a space for elderly parents to call their own. A flex room can increase the value of your home.
 
-
-
-
-
 ## Get creative - what can you use the flex room for?
-
-
 
 Before making the decision on what to use the flex room for, consider the space. Is it in the attic or basement? It is near a bathroom? Is is quiet enough to work or study? Is is easy access for guests? Get creative. Use colour and space saving furniture to turn this unused space into a functional room you will love.
 
-You don't need to pick just one use for the flex room. Make it a combination room - a multi-purpose room that could be used for 2-3 different uses.  A guest room, playroom, nursery, office/study, library, music room,
+You don't need to pick just one use for the flex room. Make it a combination room - a multi-purpose room that could be used for 2-3 different uses.  A guest room, playroom, nursery, office/study, library, music room, gaming, entertainment, yoga or library.
 
-Clever furniture ideas will help the transition of the flex room between multiple uses. Storage containers and furniture with hidden storage compartments can hide away the office work, toys, 
-
-when you have visitors stay the night. An ottoman is a great place to store linen, towels, pillows and blankets for guest use. A fold out couch will save floor space during the day and fold out to a bed when you have guests use the flex room.
-
-
-
-Nothing is stopping you from taking two or more of the ideas described above and creating a room that serves multiple purposes. Combine a yoga studio and library into a single space for meditation and reading. Set up a home office, but also use it for reading and creating. Add movie-style seating to a playroom to turn your spare bedroom into a fun-filled family theater. 
-
-
-
-
+Clever furniture ideas will help the transition of the flex room between multiple uses. Storage containers and furniture with hidden storage compartments can hide away the office clutter, toys and games when you have visitors stay the night. An ottoman is a great place to store linen, towels, pillows and blankets for guest use. A fold out couch, futon or drop down bed will save floor space during the day and fold out to a bed when you have guests use the flex room.
 
 ## Suggested flex room uses
 
-**Air BnB**
+**Airbnb**
 
-Rake in a few extra bucks during the year by renting out your guest room through Airbnb. Outfit the space with essentials like towels, toiletries, and toilet paper, and make sure your home's Wi-Fi password is prominently displayed.
+Bring in extra income by renting out the spare guest room through Airbnb. Add the essential items to the room like toiletries, towels and toilet paper. Share the home wi-fi password clearly so guests can connect.
 
 **Nursery**
 
-Tuck your little one into a cozy flex room nursery. Whether the room is large or small, flex spaces are perfect for nurseries, as they can easily transition to a toddler’s room in no time. With a crib, a comfy chair, and multi-function changing table, you can truly maximize your available space for your family!
+A small room is perfect for a baby's nursery room. The nursery can be easily transformed into a toddler's room as the child grows. A bassinet or cot does not take a lot of space. Just add the essentials - a comfy chair for breast feeding or reading stories, a change table, some drawers or shelves for storage and some hanging mobiles and you have a beautiful nursery for your baby.
 
 **Playroom**
 
-Having trouble corralling all of the toys in the house? Give them their own home in a flex playroom! Kids of all ages will love to play in a colorful, unique space that’s just for them. Add furniture like small tables, easels for art projects, and big cushions or beanbag chairs. Make storing toys, books, and games easy with bookshelves and cabinets. Or use storage containers and baskets to keep them organized under tables.
-
-Turning your spare room into your kids' playroom will let you declutter the rest of your house and keep toys under control. Have fun with the project by customizing the room to suit your children's interests and style.
+Sick of picking up toys from every room in the home? Give the toys their own home by creating a flex playroom. Kids of any age will love having a room that has been created just for them. Decorate in beautiful, bright colours. Add child size tables and chairs, easels, bean bags and book shelves. Cube storage with baskets are awesome to hide away the toys and keep the room looking clean. Having a dedicated playroom helps to declutter the rest of the home, as toys have a designated area. The room can easily be adjusted as children grow into different phases and interests.
 
 **Home Office**
 
-Turn your flex space into a home office or study so you can work from home! With bookshelves and easy-to-move furniture, you can easily organize and change the space in case you need a makeshift guest bedroom or playroom. You can even add French doors in the entryway to keep the space separate and quiet from the rest of the house. Need an office space for two? There are plenty of ways to save space with a shared office!
+Work from home in your home office. One thing to come from Covid-19 is many people are now able to work from home, either full time or part time. Having a home office set up gives you a dedicated workspace to maximise your time in the office. Add an ergonomic desk and chair, bookshelves, computer, printer and whiteboard and you are all set. The quiet zone in the home where you can get your work done.
 
-Guess what? No rule says that your spare room has to be able to accommodate guests. Let work be the focus of the space by turning it into a dedicated, ultra-organized, and beautiful home office.
+With the addition on a futon or fold out couch the home office can easily double as a spare bedroom when required.
 
-This midcentury modern-inspired home office features bright pops of color and cleverly reimagined closet space. Roomy bookshelves and a filing cabinet provide plenty of storage, and the spacious desk offers enough room for two to work side by side.
-
-Whether you’re a writer or an entrepreneur, having a safe space to work out your ideas is invaluable. Refashion your spare room into an office with whiteboards and plenty of empty wall space where you can map out your thoughts and get your creative juices flowing.
+![Flex Office](/images/uploads/deking-decks-flex-office.png)
 
 **Homework/Study Zone**
 
-Doing homework at the kitchen table is so passé. Create a space where kids and teens can concentrate on their after-school projects with all the necessary tools and supplies at the ready.
+Create an awesome study zone where your teens and kids can concentrate on home work, assignments and projects with all necessary supplies on hand.
 
-Board game aficionados know that the kitchen table is often the worst place to settle in for a marathon dice-based battle—the table is cramped and often too small, and the seating is uncomfortable. When you set up a dedicated game room, you can furnish it with cozy chairs and an expansive table that can accommodate large boards. If you're an enthusiastic gamer, set up a console corner with beanbag chairs. And for a luxe touch, add a mini-fridge filled with game-night beverages.
+This space can also double as a library or place for family board game battles. Just add some comfortable chairs to lounge back and read or table and chairs for board games and bookshelves for storage.
+
+![Flex Homework](/images/uploads/deking-decks-flex-homework.png)
 
 **Living/Lounge Room**
 
-Why have one when you can have two? Turning a bonus space into a second living room gives you the option of having both a formal living room for guests and an informal space for family time.
+Why not use the spare room as a second living room. You can have a formal living room and also an informal family living room with bean bags, fluffy cushions and blankets.
 
-Looking for a place to unwind after a long day? A bonus room is the perfect spot to create your own private lounge area. This room can be used for a quiet reading area, a cozy nap space, or watching your favorite television show. Add a chaise lounge or armchair, fluffy pillows, and blankets, and let the relaxation wash over you.
+This is also a perfect room for multiple uses - reading, television, movies, gaming.
 
 **Media/Home Theatre Room**
 
-An extra room is a great place to set up a home movie theater. Add bookshelves or floating shelves along walls to store DVDs and Blu-Rays. You can also swap out your TV for a projector to create a true big-screen home theater feel. And don’t forget about comfy furniture! Whether you go with a sectional for the whole family to share or leather armchairs for each person, good seating will make movie nights even better.
-
-Turn that extra bedroom into a home movie theater. With a big-screen TV, ultra-comfortable seating, and a few bags of popcorn, you'll be all set to enjoy your favorite flicks. For a real cinema experience, spring for a video projector and a surround sound system.
+Why not a dedicated home theatre room? Add some floating shelves or bookshelves on the walls to store the DVD/Blu Ray collection. Add some good speakers. If the room is large enough swap the television for a projector for the big-screen feel at home. Comfortable furniture to create your own gold class at home, or lounge on bean bags and crash matts. Just add popcorn and you are good to go for a wonderful night in.
 
 **Bar/Entertainment Room**
 
-A flex room is an excellent spot for a bar! Set up an island with bar stools, include plenty of storage space for spirits and glassware, and throw in a TV for catching the big game. Then, you’ll have an entertaining spot in your home that’s perfect for cocktail parties and small get-togethers.
+For the fancier nights in or poker nights with the boys, use that spare room as your personal bar. 
 
-For a flex room that puts the fun in functional, turn that bonus space into an entertainment room. A foosball or pool table provides a great centerpiece to the room while darts, billiards, and other space-saving games can be mounted on the wall. Include a flat screen TV and small wet bar, and you have a room you’ll never want to leave!
+Maybe an island bar with stools and shelving to show off the spirits and glassware. Add a television for watching the game. If the room is large enough you might consider adding a pool table or foosball table for some extra fun. A dart board mounted on the wall to complete the room. Or style it up and use the room to mingle with cocktails at your next dinner party.
 
-Do you love to entertain but lack the space to do it in style? Swap the traditional guest bedroom for a discreet bar and lounge space where guests can gather and mingle at your next dinner party.
+![Flex Bar](/images/uploads/deking-decks-flex-bar.png)
 
 **Gaming Room**
 
-Keep video and arcade games out of the living room by creating their own separate game room! A flex game room is a great place for setting up gaming computers, video game consoles, and old-school arcade games. Don’t forget comfy loveseats, floor cushions, and bean bag chairs for those long game nights!
+Keep the Xbox, Playstation and Nintendo out of the living room by using the flex room as a gaming room. It can be a great space for gaming PCs, video game consoles and the old style arcade games. Comfortable chairs, beanbags or floor cushions make the ideal seats in a gaming room.
 
 **Teenage Retreat**
 
-Upgrade an open flex space into a bright and cheerful spot for older kids to hang out. Jazz up the room with colorful bean bag chairs or a long sectional couch. Not only does this bonus living room keep the kids and their friends out of the main living room, but it allows everyone to have a little privacy as well.
+As the kids get older they want some independence and space of their own. Turn that spare room into a cool teenage retreat where your kids can take their friends to hang out, watch television or a movie, play games and have some privacy.
 
 **Spare Bedroom**
 
-Growing families aren’t the only ones who need additional bedroom space. Bonus rooms can easily be turned into a bedroom for a third roommate or a relative planning a long-term stay. A futon or day bed makes for a great space-saving seating area that can easily be turned into a sleeping spot for guests.
+A spare bedroom is the main use for any unused rooms in a home. It doesn't need to be the sole use for that room though. Yes you need a spare room when family and friends sleep over, but how often does that actually happen? Utilise this room for other purposes. Use a futon, day bed, fold out couch or drop down bed in this room to save space when it is not being used as a bedroom. These can also be used for seating in the room the rest of the time. 
 
-Make efficient use of an extra bedroom by combining a work space with a cozy sleep corner. For the greatest versatility, incorporate a hideaway bed and easy-to-move pieces.
+Think of using this room to store household items. Pick furniture that offers the best storage possibilities. A captain's bed can store winter clothing in the drawers below, a dresser can be used to store tableware and vases that are used infrequently, bedding and linen can be stored in armoire. 
 
-Is your home short on storage space? Outfit your spare bedroom with furniture pieces that offer a variety of storage possibilities. Store linens in an antique armoire, stash rarely used tableware in a dresser, or invest in a captain's bed and stow away bulky winter clothing in the drawers.
+![Flex Bedroom](/images/uploads/deking-decks-flex-bedroom.png)
 
 **Hobby/Craft/Sewing Room**
 
-When you don’t have a designated area for your hobbies, it can be difficult to focus on what you love. But with a flex room, you can build an art studio that’s just for painting, writing, yoga, crafts, and more! To create more space in your hobby room, incorporate free-standing bookshelves to store supplies. An industrial table with stools is good to have if you plan to work on long projects, too.
+Having a designated area for your crafts and hobbies will give you the chance to enjoy it more often. This might be an art studio for painting, building models, writing, scrap booking, crafts, sewing, knitting, and more! Add bookshelves to give yourself plenty of storage space, desks or tables, easels and good lighting.
 
-If crafting and creating is your jam, your maker space should reflect your imaginative personality. With smart choices of furnishings, storage accessories, and lighting, even the tiniest of rooms can become a bright and airy space for transforming ideas into reality.
-
-A craft room need not be cluttered and uninviting—and it can still double as a guest bedroom in a pinch. The blogger at Home to Heather designed a space that's perfect for both crafts and guests by placing an eclectic creative nook next to a cozy vintage-style sleeping area. 
-
-Even the smallest extra bedroom can give you space to express yourself artistically. Place an easel or a drafting table in a bright nook, hang shelves or bring in a cabinet for storage, and you're ready to create. If the room is big enough, you can even pull in a comfortable couch or sofa bed for overnight guests. 
-
-Don’t feel obliged to sacrifice a corner of your bedroom or a section of a dingy basement for your sewing needs. Equip your extra room with a sewing machine, storage for notions, and a generous worktable, and you'll have a cheerful space fit for an accomplished sewist.
+As this is your creative zone, style it and use colours to match your passion.
 
 **Music Room**
 
-If you’re a music aficionado, turning a flexible living space into a music room is a great idea! No matter if you play piano, drums, guitar, or another instrument, small music rooms are good for practicing, as well as storing and displaying your instrument or record collection.
+If playing music is your passion, then use that spare room as your music room. Whether it's drums, piano, guitar or something else a music room is a great place to practice and store all your instruments and musical memorabilia. It's also a great place to jam with friends and if the space is big enough you could set up your own recording studio! Thick carpet will help soak up sound and add some comfy cushions for your audience to listen to you play.
 
-Practice guitar, jam with friends, or compose your first hit song in a room dedicated to music. Lay down thick carpeting to soak up sound, and add a few comfortable floor cushions for musically inclined visitors.
+![Flex Music](/images/uploads/deking-decks-flex-music.png)
 
 **Gym/Workout/Yoga Room**
 
-With a few free weights, a yoga mat, cardio equipment like a stationary bike or treadmill, you can create the perfect home gym that has free membership! Grab a few fans to keep the space cool, put up some mirrors on the walls, and add a bluetooth speaker for some great music. Rubber mats under cardio equipment or weights will prevent damage to floors, and you can even add a small table for equipment cleaning wipes, water bottles, candles for yoga practice, and more!
+Create your perfect gym at home. Add some free weights, cardio equipment and a yoga mat you can have your gym at home 24/7. Add some fans for air circulation, some inspirational posters, some mirrors and some music through blue tooth speakers and you are good to go. The use of rubber mats under heavy equipment will help to protect the floors.
 
-Whether you practice yoga, run, or do strength training, you'll be more motivated, better disciplined, and more excited about your workouts if you establish a dedicated exercise space. So, get moving! Drag that treadmill out of the basement or family room, and quit using it to hold dirty laundry. 
-
-Close your eyes. Inhale. Exhale. Sure, yoga can be done anywhere you can lay down a mat, but it’s infinitely more soothing to stretch your limbs in a room devoted to relaxation. Add a small console table for Zen-inspired decor, and use a diffuser to set the mood.
+![Flex Gym](/images/uploads/deking-decks-flex-gym.png)
 
 **Home Library**
 
-Do you have a book collection that you want to display? A flex room library allows you to keep all of your literary favorites in one spot. Line the walls with shelves for all your novels, magazines, and comic books, and add a few comfy chairs to read on. Bonus if the room has built-in bookshelves already installed!
-
-Have you ever dreamed of twirling around in your own private library, surrounded by towering bookshelves, like Belle from "Beauty and the Beast"? If you don't have the square footage for a traditional living room library, your spare bedroom is the next best thing. Line the walls with shelving and save a corner for the comfiest chair you can afford.
+If you are an avid reader and love a good book then turn your flex room into a library and reading nook. DIsplay that collection of books. Add shelving to house your books, magazines and comic books. A nice cosy chair, cushions and blanket in the corner with a decent floor lamp and you are all set.
 
 **Walk-in Closet**
 
-Are you running out of space for your clothes and accessories? A flexible living space can be the perfect spot for your dream walk-in closet! Install small hooks to hang your hats, scarves, and belts. Add a few floating shelves or cabinets to store purses and handbags. Set up cube storage shelves for your shoe collection. And hang some wooden rods to hold blouses, coats, dresses, and more!
-
-If your closet is cluttered and cramped, why not migrate your clothes to a spacious new space—that underused spare room? With careful organization and a few storage accessories, you can turn your spare room into a luxurious walk-in closet.
-
-
-
-
+If you are short on space for your clothes and accessories then use that flex room to create the ultimate walk-in closet. Install hooks to hang those scarves, hats and belts. Add cabinets and floating shelves to show off those hand bags and purses. Cube storage is perfect for the show collection. Wooden rods for your dresses, blouses, skirts, coats, suits, etc. Declutter and create a luxurious space to show off your clothes.
 
 **Gardening**
 
-Gardening enthusiasts who lack the space or budget for a greenhouse can cultivate seedlings in their spare room from the waning days of winter through early spring. Buy ready-made shelving or DIY your own, and outfit them with light fixtures appropriate for nurturing baby plants.
+If you lack the budget or space for a greenhouse setup then use the flex room to cultivate seedlings from the the start of winter to spring. Add shelving and add the appropriate light fixtures to nurture your baby plants.
 
 **Pet Room**
 
-You may have to evict Fido from his bedroom lair when guests arrive, but all the other days of the year, your furry friend can enjoy a private pet sanctuary. Include your pet’s favorite toys, and don’t forget to adorn the walls with dog- or cat-themed art.
+Your furbaby may be a little spoiled and deserves their own room. Include their favourite toys and decorate with cat or dog themed art pieces. Or you might be an animal lover and fostering a cat and kittens or a dog and pups. It is sometimes a good idea to have them in their own room to keep track on where the furbabies are! Baby gates are good to keep dogs in, magnetic fly screens are good for cats.
 
 **Expand the Bathroom**
 
-Is your useless spare bedroom right next to a cramped bathroom? Think bigger! Create a spa-worthy retreat by tearing down a wall, expanding the space, and adding indulgent touches like a freestanding tub or sauna. 
+If you have a small bathroom and your spare room is right next door, then maybe think of knocking down the wall and making a bigger bathroom! You could have that spa or freestanding bathtub or even a sauna.
 
 **Formal Dining Room**
 
-If a formal dining room is on your wish list but you're stuck with something less grand, think about using your spare room for  dining. All you need is a table and chairs, and some dining room-appropriate decor to transform the space.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dreaming of a formal dining room, but stuck with blah. Look at transforming that spare room into your formal dining room. Open the entrance space and add the fancy table and chairs and decor to transform the space.
 
 ## Want to discuss expanding your home? Contact us
 
