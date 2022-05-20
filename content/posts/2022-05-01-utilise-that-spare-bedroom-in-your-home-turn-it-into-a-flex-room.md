@@ -11,13 +11,15 @@ shortDescription: >-
 categories:
   - category: home extension
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/utilise-that-spare-bedroom-in-your-home-turn-it-into-a-flex-room/
   description: >-
     Do you have a guest room that is vacant and unused most of the time? Stop
     wasting that space or filling it with junk. Repurpose the room. Transform it
     into a flex room that you can utilise and enjoy.
-  title: Utilise that spare bedroom in your home - turn it into a flex room
+  title: Spare Bedroom Ideas - Create A Flex Room - DeKing Brisbane
 ---
-Do you have a guest room that is vacant and unused most of the time? Stop wasting that space or filling it with junk. Repurpose the room. Transform it into a space that you can utilise and enjoy.
+Do you have a guest room that is vacant and unused most of the time? Stop wasting that space or filling it with junk. Repurpose the room. Transform it into a space that you can utilise and enjoy. Or maybe you want an [extra room](https://www.dekingdecks.com.au/services/room-builder/) added to your home so it can be a flex room.
 
 ## A flex room - what is that?
 
@@ -101,7 +103,7 @@ Think of using this room to store household items. Pick furniture that offers th
 
 **Hobby/Craft/Sewing Room**
 
-Having a designated area for your crafts and hobbies will give you the chance to enjoy it more often. This might be an art studio for painting, building models, writing, scrap booking, crafts, sewing, knitting, and more! Add bookshelves to give yourself plenty of storage space, desks or tables, easels and good lighting.
+Having a designated area for your crafts and hobbies will give you the chance to enjoy it more often. This might be an art studio for painting, building models, writing, scrap booking, crafts, sewing, knitting, and more! Add bookshelves to give yourself plenty of storage space, desks or tables, easels, and good lighting.
 
 As this is your creative zone, style it and use colours to match your passion.
 
@@ -143,7 +145,7 @@ Dreaming of a formal dining room, but stuck with blah. Look at transforming that
 
 ## Want to discuss expanding your home? Contact us
 
-There is no time like the present. [Contact DeKing Decks](https://www.dekingdecks.com.au/contact/) to discuss how we can help create more space in your home. We can help with home modifications and extensions.
+There is no time like the present. [Contact DeKing Decks](https://www.dekingdecks.com.au/contact/) to discuss how we can help create more space in your home. We can help with home modifications and room extensions.
 
 You can also use our [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get estimate, or check out our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. 
 
