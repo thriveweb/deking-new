@@ -3,7 +3,7 @@ siteUrl: 'https://dekingdecks.thrivex.xyz/'
 siteDescription: >-
   DeKing Decks create stunning Decks and Patio Roofing for Homes across South
   East QLD
-phone: 1800 335 464
+phone: 3804 6400
 phone2: 07 3804 6400
 email: info@dekingdecks.com.au
 contactaddress: 'PO Box 54, Camp Hill, 4152'
@@ -32,9 +32,9 @@ footerLinks:
   - title: Contact Us
     url: /contact
   - title: FAQ
-    url: /#
+    url: '/#'
   - title: Privacy Policy
-    url: /#
+    url: '/#'
 socialMediaCard:
   facebook: 'https://www.facebook.com/dekingdecks/'
   image: /images/uploads/card-og.jpg
@@ -42,8 +42,9 @@ socialMediaCard:
   pintrest: 'https://www.pinterest.com.au/DekingDecks/'
   twitter: 'https://www.houzz.com.au/pro/deking/deking-pty-ltd?irs=US'
   youtube: 'https://www.youtube.com/channel/UCtcPx6hv5-mBISS-YdQTWKw'
-headerScripts: |
+headerScripts: >
   <!-- Facebook Pixel Code -->
+
   <script>
     !function(f,b,e,v,n,t,s)
     {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -56,11 +57,18 @@ headerScripts: |
     fbq('init', '198898540694859');
     fbq('track', 'PageView');
   </script>
-  <script type='text/javascript' async='true' src='https://www.clickcease.com/monitor/stat.js' />
+
+  <script type='text/javascript' async='true'
+  src='https://www.clickcease.com/monitor/stat.js' />
+
   <noscript><img height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=198898540694859&ev=PageView&noscript=1"
-  /><a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com/stats/stats.aspx' alt='ClickCease'/></a></noscript>
+  /><a href='https://www.clickcease.com' rel='nofollow'><img
+  src='https://monitor.clickcease.com/stats/stats.aspx'
+  alt='ClickCease'/></a></noscript>
+
   <!-- End Facebook Pixel Code -->
+
 
   <!-- Start of Chatcode -->
 
