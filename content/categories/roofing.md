@@ -10,6 +10,8 @@ meta:
     View our Gazebos & Outdoor Room gallery for inspiration for your new
     project. Use our Decking Calculators for a Free Quote
   noindex: false
-  title: 'Gazebos & Outdoor Rooms Brisbane, Gold Coast | Deking Decks'
+  title: >-
+    Gazebos & Outdoor Rooms Brisbane, Gold Coast, Toowoomba and Lockyer Valley |
+    Deking Decks
 ---
 
