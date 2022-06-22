@@ -16,6 +16,8 @@ meta:
     Decking, Gazebos and Outdoor Rooms, Deck Treatment, Maintenance and
     Accessories.
   noindex: false
-  title: 'Decks Logan, Ipswich, Redlands, Bayside, Moreton Bay, Scenic Rim'
+  title: >-
+    Decks Logan, Ipswich, Redlands, Bayside, Moreton Bay, Scenic Rim, Toowoomba,
+    Lockyer Valley
 ---
 
