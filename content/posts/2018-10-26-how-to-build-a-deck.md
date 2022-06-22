@@ -45,7 +45,7 @@ Once you have fixed your plate and determined your bearer height, you need to tr
 
 To attach the bearers to the stumps, you can drive nails through the bearer and into the stumps at an angle. You can also use framing anchors and nail plates if you would like. Continually check all of your levels and angles throughout the framing process. The joists should set on top of the bearers every 400 to 600mm.
 
-![](/images/uploads/white-ant-repair.jpg)
+![null](/images/uploads/white-ant-repair.jpg)
 
 ## 
 
@@ -55,7 +55,7 @@ Since the surface will always be the most visible part of the deck, you should t
 
 Drive one galvanised decking nail about 15mm from each board edge to secure the boards. Remember to leave a gap of approximately 4mm between each board for drainage. To avoid splitting, you can drill each board end before nailing. Always make sure that the joins in each board are staggered and occur on top of a joist. Leave some extra length overhanging on your boards so that you can cut them with a saw after completing the step. This will help you achieve a straight edge.
 
-![]()
+![null]()
 
 ## Step 6: Finishing
 
@@ -67,4 +67,4 @@ If however you would like us to professionally build a deck for you[ click here 
 
 ![How to Build a Deck.: Step by Step Instructions](/images/uploads/how-to-build-a-deck-step-by-step-instructions.jpg)
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
