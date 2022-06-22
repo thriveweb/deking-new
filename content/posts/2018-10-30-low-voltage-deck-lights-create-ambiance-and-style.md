@@ -34,4 +34,4 @@ This can really create some “Visual Wow” especially if you have a beautiful 
 
 Info: Low Voltage Deck Lights are constructed from 304 stainless steel, they are easy to install you just need access to a power point. They are available in square or round fittings. 
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
