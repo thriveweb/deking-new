@@ -51,7 +51,7 @@ Garden decks don't need all the bells and whistles.  With a good design you can 
 
 To discuss your garden deck ideas, or to get a quote click here to [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
 **
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio.  Or
