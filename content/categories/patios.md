@@ -11,6 +11,8 @@ meta:
     Stratco Insulated, non insulated, Carports, Caravans, Deck, Pool Roofing.
     Use our Decking Calculators for a Free Quote
   noindex: false
-  title: 'Patio Roof Design Photos: Brisbane, Gold Coast Stratco, Insulated'
+  title: >-
+    Patio Roof Design Photos: Brisbane, Gold Coast, Toowoomba and Lockyer Valley
+    Stratco, Insulated
 ---
 
