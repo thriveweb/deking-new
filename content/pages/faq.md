@@ -2,14 +2,13 @@
 template: FAQPage
 slug: faq
 title: Frequently Asked Questions
-subtitle: >-
-  Some of the frequently Asked Questions
+subtitle: Some of the frequently Asked Questions
 faq:
   - content: >-
       Deking offer Deck Finance options through Humm90 for Decks, patios, patio
-      roofing and more from Brisbane to the Gold Coast and Sunshine Coast.
-      Giving you the option to have a deck or patio roof now and pay this off
-      over time with no interest.
+      roofing and more from Brisbane to the Gold Coast, Toowoomba and Lockyer
+      Valley. Giving you the option to have a deck or patio roof now and pay
+      this off over time with no interest.
     title: Humm90 Finance for For Decks & Patios
   - content: >-
       We look forward to creating a wonderful outdoor extension to your home and
