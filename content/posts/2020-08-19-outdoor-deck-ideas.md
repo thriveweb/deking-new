@@ -90,4 +90,4 @@ Wow! What an amazing decking area. Enhancing the pool, entertaining areas, mood 
 
 Please give us a call on 1800 335 464 or [contact us](https://www.dekingdecks.com.au/contact/) and we can schedule a time to inspect your outdoor area and provide you with advice regarding the best design for you.
 
-Deking Decks Service Areas:  Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim.
+Deking Decks Service Areas:  Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim.
