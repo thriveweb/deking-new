@@ -16,7 +16,9 @@ meta:
     When considering different deck and patio cover designs there are numerous
     things to decide, such as size, usage requirements, functionality and
     materials. 
-  title: 'Deck and Patio Roof Designs, Brisbane, Gold Coast Australia'
+  title: >-
+    Deck and Patio Roof Designs, Brisbane, Gold Coast, Toowoomba and Lockyer
+    Valley, Australia
 ---
 When considering different deck and patio cover designs there are numerous things to decide, such as size, usage requirements, functionality and materials. Getting the design right for a [deck and patio cover](https://www.dekingdecks.com.au/services/patio-roofs/) can be the difference between a stunning addition to your home and an out-of-place novelty. In terms of functionality, it can also mean the difference between a space that you love to be in and one that you avoid.
 
@@ -109,7 +111,7 @@ We have some great pictures on our website showing various deck and patio cover 
 * Pool houses – gazebos
 * Extensions and additions
 
-Remember, the best deck and patio cover design is the one that’s ideal for <em>you</em>.
+Remember, the best deck and patio cover design is the one that’s ideal for you.
 
 ## Contact David at DeKing Decks
 
@@ -117,7 +119,7 @@ To discuss deck and patio cover designs, or to get a quote, [contact David at D
 
 <iframe src="https://www.youtube.com/embed/dghAJ8aBZGM?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
 **
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio.
