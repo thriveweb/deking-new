@@ -52,6 +52,6 @@ Spa-N-Deck by The Flood Company or Ultradeck by Intergrain can now be applied as
 
 If you would prefer to have a professional do it for you and you live in Australia then please [Contact us](https://www.dekingdecks.com.au/contact/) today to get a free quote or to learn more about our services.
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
 
 Use our [Decking and Patio roof Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
