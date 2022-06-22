@@ -77,4 +77,4 @@ The addition of a seating area that is covered will provide the homeowner with a
 [Contact](https://www.dekingdecks.com.au/contact/) DeKing Decks 
 to discuss your spa and pool decking options. We can design and build the perfect deck with you.
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim.
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim.
