@@ -20,13 +20,13 @@ meta:
 ---
 Building a Deck in QLD? - 10 things you probably don't know. For example, do you need a permit? how big can the deck be? can I build over a swimming pool?
 
-DeKing Decks started out in 2003 as a 1800 number—don’t worry, not _that_ kind of 1800 number—and has now grown into a world-class decking business servicing all of South East Queensland, including the Sunshine and Gold Coasts. But as David Rider explains, there’s still quite a lot that people don’t know about decks.
+DeKing Decks started out in 2003 as a 1800 number—don’t worry, not _that_ kind of 1800 number—and has now grown into a world-class decking business servicing all of South East Queensland, including the Gold Coast, Toowoomba and Lockyer Valley. But as David Rider explains, there’s still quite a lot that people don’t know about decks.
 
 After working for builders in the housing sector, David found a real need for a company that specialised in timber outdoor decking, and now builds decks, patios, carports, roofing, and gazebos.
 
 Whatever your needs, David is always up for a challenge. ‘We get all sorts of requests from decking over the top of garages to decking over the top of swimming pools that people no longer want … we’ve done a couple of them now,’ David said.
 
-![](/images/uploads/alfresco_decking.jpg)
+![null](/images/uploads/alfresco_decking.jpg)
 
 David loves meeting and talking with new clients, working out how to meet their decking needs, solving problems, and turning the job around quickly. But his biggest thrill is seeing the client’s excitement at the finished product—their brand new living space. ‘It’s not like a bathroom renovation—you always had a bathroom, so to get a new one is good, but it’s not a massive big wow! But when you build a deck on someone’s house, all of a sudden they’ve got a view and an entertaining area and a place to put a new BBQ,’ David said.
 
@@ -55,11 +55,11 @@ Although, creating a beautiful new living space the whole family will love isn�
 * **Block size**
   * If you’re on a limited size block, especially a small lot code, you’re only allowed to build on a percentage of that block. A lot of the time it’s 50%, sometimes less.
 
-![](/images/uploads/dsc_0204.jpg)
+![null](/images/uploads/dsc_0204.jpg)
 
 Deking Decks’ most popular product is their [deck and patio roof combinations](https://www.dekingdecks.com.au/services/patio-roofs/). They also offer a ‘flyover’ roof that sits above the roofline of your house and covers the deck. This creates extra space underneath the patio roof, making it cooler in summer. ‘I think a lot of people get this done rather than getting an extension on their house with a proper walled-in room. Just for cost effectiveness, you get a lot more value for your dollar,’ David said.
 
-![](/images/uploads/bundambadeck.jpg)
+![null](/images/uploads/bundambadeck.jpg)
 
 And once you’ve got your new deck, how do you keep it looking fabulous all-year-round? Deking Decks offer an oil treatment that will give your deck that brand-new look and feel. Some people opt to do this on an annual basis.
 
@@ -67,6 +67,6 @@ Although the business has grown significantly, some things have always remained 
 
 See some more of our Decking designs in our decking gallery
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
