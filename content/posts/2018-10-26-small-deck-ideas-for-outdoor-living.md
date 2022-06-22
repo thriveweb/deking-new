@@ -57,14 +57,14 @@ This does not have to be the case.  One solution is to make the privacy wall fe
 
 Another solution is to install outdoor shutters which will provide you with privacy but also light and an outlook.
 
-![](/images/uploads/8xxojs-oqfojkartuimtkg.jpg)
+![null](/images/uploads/8xxojs-oqfojkartuimtkg.jpg)
 
 ## For more ideas
 
 At Deking we will be able to advise you on the best use of your small garden area.  We are outdoor decking specialists and experienced in both small and large deck designs.
 
-Please give us a call on **1800 335 464** or drop us an risbane, Redlands, Bayside, Logan, Ipswich, Moreton and we can schedule a time to inspect you small outdoor area and provide you with advice regarding the best design for you.
+Please give us a call on **1800 335 464** or drop us an Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton and we can schedule a time to inspect you small outdoor area and provide you with advice regarding the best design for you.
 
 **Deking Decks Service Areas:**
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
