@@ -15,7 +15,7 @@ meta:
   description: >-
     Deck Stairs - check out our 4 creative ideas for your deck stairs. DeKing
     Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold
-    Coast, Sunshine Coast, Scenic Rim
+    Coast, Toowoomba, Lockyer Valley and Scenic Rim
   title: 'Deck Stairs Ideas Brisbane, Gold Coast, Logan, Sunshine Coast'
 ---
 When it comes to designing your [dream deck](https://www.dekingdecks.com.au/) you must consider what style or size you would like your steps to be. Steps can make a huge difference to the look and feel of your deck and the overall appeal of the area.
