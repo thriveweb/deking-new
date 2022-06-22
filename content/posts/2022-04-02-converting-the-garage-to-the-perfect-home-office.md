@@ -62,7 +62,7 @@ Here are some amazing examples of garage conversions that create the perfect off
 
 To discuss your garage conversion or room additions, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
-**Servicing: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Sunshine Coast and Scenic Rim areas.
+**Servicing: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim areas.
 **
 
 Use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
