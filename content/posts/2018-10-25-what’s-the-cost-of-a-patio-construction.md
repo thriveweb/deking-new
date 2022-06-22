@@ -64,6 +64,6 @@ Want to find out more about DeKing Deck’s patios? Read our [10-Step Process](h
 
 And of course, if you’d rather just have a chat, give David a call on **1800 335 464 **— he loves talking to new clients and helping make their patio dreams a reality.
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
