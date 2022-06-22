@@ -50,7 +50,7 @@ Although some plants with thorns, spines and sharp leaves are very beautiful; th
 
 **Don't** **Pick Enormous Pots**
 
-Not only do oversized pots stand out as an eye sore around your deck, but they are also very difficult to maneuver when needed. You should always be aware of the combined weight of the soil, pot and plant, not just the weight of the pot itself. Use wheeled platforms when possible. Remember, you may need to move your plants for protection during weather events.
+Not only do oversized pots stand out as an eye sore around your deck, but they are also very difficult to manoeuvre when needed. You should always be aware of the combined weight of the soil, pot and plant, not just the weight of the pot itself. Use wheeled platforms when possible. Remember, you may need to move your plants for protection during weather events.
 
 Landscaping around your deck should be a fun process that brings out your creative side. Just be careful to keep all of these factors in mind when making decisions. Follow these dos and don’ts and you’ll be enjoying the beautiful setting around your deck in no time!
 
