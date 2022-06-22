@@ -45,7 +45,7 @@ While some of these timber decking mistakes are a result of lack of knowledge s
 
 * **Termite Hazard**
   * Termites love damp, rotting wood.  The damage caused by termites can be extensive and may not be limited to just your deck but also your home. The simple solution to this problem is to use steel stirrups and have regular termite inspections.
-* Dangerous Stairs
+* **Dangerous Stairs**
   * Another mistake often made (usually to save money) is to build the deck stairs too narrow and too steep.  This can be a dangerous mistake as deck stairs are not only for access but also an emergency exit.
   * Narrow, steep stairs are also dangerous just for day to day use as people are more likely to trip and fall.  It is also important that each step is of the same height. Whilst not as important it is preferable not to leave an open space between steps.  Again this is a tripping hazard best avoided if possible.
   * An added benefit of constructing your deck stairs correctly is that they will feature as an attractive component of your deck.
@@ -84,4 +84,4 @@ Image source: [www.mosbybuildingarts.com](https://mosbybuildingarts.com/)
 
 **Deking Decks Service Areas:**
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
