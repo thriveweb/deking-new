@@ -62,8 +62,8 @@ We also have a range of [eco decking options](https://www.dekingdecks.com.au/ser
 
 If you’re looking to build an outdoor entertaining area in South East Queensland, see our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculato](https://www.dekingdecks.com.au/quote-calculator/)r, [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate from the experts at DeKing Decks. We can transform your home by building a range of spaces using the best quality timber products.
 
-We’ve been building outdoor entertainment spaces in Brisbane, the Sunshine Coast, the Gold Coast, and beyond since 2003. Whether you’re after a new deck, patio, patio roof, verandah, pergola, gazebo, or pool house, we can build you the perfect outdoor entertaining area you’ll be sure to use all-year-round.
+We’ve been building outdoor entertainment spaces in Brisbane, the Gold Coast, Toowoomba, Lockyer Valley and beyond since 2003. Whether you’re after a new deck, patio, patio roof, verandah, pergola, gazebo, or pool house, we can build you the perfect outdoor entertaining area you’ll be sure to use all-year-round.
 
 **Deking Decks Service Areas:**
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
