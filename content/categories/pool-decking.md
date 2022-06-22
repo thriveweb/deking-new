@@ -10,6 +10,8 @@ meta:
     project. We also provide Eco Decking and patio/ deck/ pool roofing. Use our
     Decking Calculators for a Free Quote
   noindex: false
-  title: 'Pool Decking, Pool House Design Photos Brisbane, Gold Coast'
+  title: >-
+    Pool Decking, Pool House Design Photos Brisbane, Gold Coast, Toowoomba and
+    Lockyer Valley
 ---
 
