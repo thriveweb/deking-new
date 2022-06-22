@@ -24,12 +24,12 @@ servicePriceDescription:
 servicePods:
   - podDescription: >-
       For many years, DeKing has been one of the top deck builders in the
-      Brisbane, Gold Coast and Sunshine Coast areas. EKODEKING, a special
-      division of services at DeKing, now allows us to build the highest quality
-      decks with a variety of environmentally friendly materials. Our Eco and
-      recycled decking services present the ultimate eco decking options to meet
-      your lifestyle. At DeKing, we believe that you should be able to enjoy the
-      outdoors from your deck without harming the environment.
+      Brisbane, Gold Coast, Toowoomba and Lockyer Valley areas. EKODEKING, a
+      special division of services at DeKing, now allows us to build the highest
+      quality decks with a variety of environmentally friendly materials. Our
+      Eco and recycled decking services present the ultimate eco decking options
+      to meet your lifestyle. At DeKing, we believe that you should be able to
+      enjoy the outdoors from your deck without harming the environment.
 
 
       ![ekodeking](/images/uploads/logo.png)
@@ -102,6 +102,6 @@ meta:
   description: >-
     ECO Decking - At DeKing, we believe that you should be able to enjoy the
     outdoors from your deck without harming the environment.
-  title: 'ECO Decking Brisbane, Gold Coast, Sunshine Coast'
+  title: 'ECO Decking Brisbane, Gold Coast, Toowoomba and Lockyer Valley'
 ---
 
