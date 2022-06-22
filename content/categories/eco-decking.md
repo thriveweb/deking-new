@@ -9,6 +9,8 @@ meta:
   description: >-
     View our Eco Decking gallery for inspiration for your new project. Use our
     Decking Calculators for a Free Quote
-  title: 'Eco Decking Photos Brisbane, Gold Coast | Deking Decks'
+  title: >-
+    Eco Decking Photos Brisbane, Gold Coast, Toowoomba, Lockyer Valley | Deking
+    Decks
 ---
 
