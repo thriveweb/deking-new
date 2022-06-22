@@ -19,7 +19,7 @@ meta:
 ---
 When it comes to landscaping around your deck, your own ideas and creativity will determine the majority of the job. Good landscaping can make your deck feel like a natural environment for outdoor relaxation. Poorly designed landscaping can compromise the size of your space, make maintenance a constant headache and destroy the quality of your outdoor space. While a professional landscaping designer can help you in this area, understanding the dos and don’ts of deck landscaping will give you a great head start!
 
-![](/images/uploads/img_0451.jpg)
+![null](/images/uploads/img_0451.jpg)
 
 ## Good Deck Landscaping Options...
 
@@ -35,7 +35,7 @@ You should have an idea of what you want to achieve with the fragrances. For exa
 
 Planting small trees in large artistic pots adds a lot of charm to any deck landscaping design, especially if you don’t have much fresh ground to work with. Potted trees can serve as important distractions from bare walls or other objects you don’t want your guests to notice. You can also use them as visual partitions and for added privacy.
 
-![](/images/uploads/3.jpg)
+![null](/images/uploads/3.jpg)
 
 ## Not so Good Deck Landscaping Options...
 
@@ -58,7 +58,7 @@ If you do not as yet have a deck to landscape we are happy to help you design on
 
 ![Deck Landscaping Ideas and Tips Australia](/images/uploads/image-2-1024x768.jpg)
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
 **
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Patio Roofing and Deck Calculator](https://www.dekingdecks.com.au/quote-calculator/)  to get a more accurate estimate.
