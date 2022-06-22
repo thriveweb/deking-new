@@ -47,7 +47,7 @@ To help you estimate the patio installation cost, David has developed the [Decki
 
 Once you’ve completed the calculator’s 3 easy steps, you’ll have an estimate emailed to you in seconds. The whole process shouldn’t take more than a few minutes.
 
-Keep in mind, though, that the calculator can only provide you with an <em>estimate</em> of your costs.
+Keep in mind, though, that the calculator can only provide you with an estimate of your costs.
 
 ## Patio Roof Calculator
 
@@ -64,6 +64,6 @@ If you’d like a fixed price quote for a timber patio and/or patio roof, [conta
 David loves talking to new clients and helping make their dreams a reality. Call him today on **1800 335 464
 **
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
 
 Use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
