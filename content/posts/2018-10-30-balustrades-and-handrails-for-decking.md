@@ -51,6 +51,6 @@ If you need further assistance, the Deking team will be more than happy to show 
 
 <iframe src="https://www.youtube.com/embed/8HptJMlOyRs?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.
