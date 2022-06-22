@@ -9,6 +9,8 @@ meta:
     View our Timber Deck gallery for inspiration for your new project. Use our
     Decking Calculators for a Free Quote
   noindex: false
-  title: 'Timber Decks Photo Gallery Brisbane, Gold Coast | Deking Decks'
+  title: >-
+    Timber Decks Photo Gallery Brisbane, Gold Coast, Toowoomba and Lockyer
+    Valley | Deking Decks
 ---
 
