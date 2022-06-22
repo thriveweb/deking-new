@@ -38,4 +38,4 @@ Once you have your Pergola built it is then time to add great outdoor furniture 
 
 If you feel your backyard landscape is lacking something special well now is the time to consider a Metal or Timber Pergola. The Deking Team are available to discuss your ideas give professional advice to assist you to make your dream Pergola come to life.  We are experts in constructing Timber Pergolas and  Metal pergolas as part of a patio roof.
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, the Gold Coast, Sunshine Coast and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
