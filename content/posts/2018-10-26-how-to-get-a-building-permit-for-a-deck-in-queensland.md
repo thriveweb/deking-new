@@ -64,7 +64,7 @@ Again, we can help you with this stage of the process as we deal with draftsman 
 
 We can look after every stage of the process for you: from planning, design, approvals and building.
 
-David has over 12 years’ experience building stunning wooden decks and his top priority is customer satisfaction. [Contact David at DeKing Decks](https://www.dekingdecks.com.au/contact/) today and experience the DeKing difference.
+David has many years of experience (since 2003) building stunning wooden decks and his top priority is customer satisfaction. [Contact David at DeKing Decks](https://www.dekingdecks.com.au/contact/) today and experience the DeKing difference.
 
 **Deking Decks Service Areas:**
 
