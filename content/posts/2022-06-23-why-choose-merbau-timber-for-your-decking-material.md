@@ -19,10 +19,6 @@ meta:
 ---
 Merbau hardwood timber continues to rise in popularity, especially for decking and pergola construction. It is a stylish timber, that is also durable, affordable and low maintenance.
 
-
-
-
-
 In this blog we explain where merbau timber comes from, how to care for it, and discuss the pros and cons of this beautiful timber.
 
 ![Merbau hardwood decking. Seat box with lids for storing kids toys. Low voltage LED lighting for ambience.](/images/uploads/ep29netysia1-ssxg4w3ma.jpg)
@@ -39,22 +35,6 @@ The merbau wood is mainly used for decking, fencing, flooring, outdoor furniture
 
 Much of the Australian supply of merbau timber comes from North Queensland, SE Asia and South Pacific managed plantations. The Kwila tree species can be found in other tropical climates around the world -Indo Pacific islands (Fiji, Samoa, Papua New Guinea, Philippines, King Islands), and also India, Tanzania and Madagascar.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Treated timber frame with Merbau hardwood decking boards](/images/uploads/11.jpg)
 
 ## Why choose Merbau for decking? The advantages.
@@ -65,33 +45,9 @@ Much of the Australian supply of merbau timber comes from North Queensland, SE A
 * **Durability** - Merbau can handle any type of weather which makes it a very durable timber decking material. It resists shrinking when subjected to heat, water or moisture and this makes merbau a very stable and perfect material for open air use.
 * **Longevity** - Merbau has a C1 timber durability rating, which is the highest score possible. This makes it a great long lasting timber.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![Treated timber frame with Merbau hardwood decking boards](/images/uploads/10.jpg)
 
 ## 
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Downsides of Merbau timber
 
@@ -101,18 +57,6 @@ It is important to also look at the negatives when making a decision. Merbau tim
 * **Environmental Considerations** - Using merbau (like other timbers) causes deforestation of rainforests. Unsustainable logging practices (mainly overseas) make merbau timber more expensive not only on your pocket, but also the environment. At the present logging rate it is estimated that the Kwila tree could be extinguished within the next 35-40 years. Each tree takes 75-80 years to reach maturity. Individual Kwila trees are scarce and can be difficult to access, hence the surrounding forest is destroyed in the process when logging merbau. Merbau timber is still readily accessible in the Australian market.
 * **Cost **- With all good quality timbers, there are ongoing costs after the initial purchase and install. There will be ongoing maintenance costs to consider too. The main cost being staining every 3-6 months for the rest of the deck's life to keep it in perfect condition.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![Merbau pool deck with seating](/images/uploads/deck_box2.jpg)
 
 ## How to care for Merbau timber
@@ -120,10 +64,6 @@ It is important to also look at the negatives when making a decision. Merbau tim
 During periods of rain or heavy dew merbau timber can bleed dark brown/red tannins, this is because it is rich in natural oils. Owners can let the merbau timber deck bleed naturally over time or speed the process by using a deck wash.
 
 Regular oiling of the merbau deck is recommended (1-2 times a year). This will keep the timber in great condition and looking beautiful for many years to come while maintaining the rich, warm hues of the timber. The appearance of merbau improves with time.
-
-
-
-
 
 ## DeKing Decks can answer all your Merbau timber questions
 
