@@ -9,7 +9,7 @@ welcomeDescription: >-
   The Deking Decks company was established in 2003 by director David Rider.
   Servicing Brisbane, Gold Coast, Toowoomba and Lockyer Valley, Deking Decks has
   grown from strength to strength and prides itself on building strong and
-  ongoing client relationships. 16 years down the track, bursting with
+  ongoing client relationships. Almost 20 years down the track, bursting with
   experience and a new larger factory and office at Ormeau, our team includes 3
   passionate design consultants, licensed trade professionals, our apprentice
   and Shelley our awesome, “only too happy to help“, client service
