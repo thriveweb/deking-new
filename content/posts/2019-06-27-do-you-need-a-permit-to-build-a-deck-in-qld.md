@@ -48,7 +48,7 @@ Once the plans for your deck are returned to us from the draftsmen, we can send 
 
 ## Contact DeKing Decks
 
-David from DeKing Decks can work with you throughout the process of building your dream deck. He has over 12 years experience in not only building decks but also working with design ideas and submissions to draftsmen and private certifiers.
+David from DeKing Decks can work with you throughout the process of building your dream deck. He has a lot of experience (DeKing started in 2003) in not only building decks but also working with design ideas and submissions to draftsmen and private certifiers.
 
 Contact David from Deking Decks today on 1800 335 464. He loves working with new clients and coming up with solutions for their decking and patio-roof needs.
 
