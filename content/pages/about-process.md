@@ -52,10 +52,10 @@ processes:
       credit card. Financing options are also available.
 
 
-      With over 15 years’ experience, Deking project management makes it simple.
-      We take care of your project including necessary documents, and drafted
-      plans, as well as Council lodgements/permits and Queensland Building and
-      construction commission (QBCC) insurances.
+      With almost 20 years’ experience, Deking project management makes it
+      simple. We take care of your project including necessary documents, and
+      drafted plans, as well as Council lodgements/permits and Queensland
+      Building and construction commission (QBCC) insurances.
 
 
       Your payments are scheduled into stages.
