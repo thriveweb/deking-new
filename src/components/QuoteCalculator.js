@@ -119,7 +119,8 @@ class QuoteCalculator extends React.Component {
         skipOptions: skippy,
         quotePrice: ResultAmount({
           option: this.state.option,
-          sqm: this.state.width * this.state.length,
+          width: this.state.width,
+          length: this.state.length,
           extras: {
             stairs: this.state.stairs,
             handrail: this.state.handrail,
@@ -668,7 +669,8 @@ class QuoteCalculator extends React.Component {
               name="quotePrice"
               value={ResultAmount({
                 option: option,
-                sqm: width * length,
+                width: width,
+                length: length,
                 extras: {
                   stairs: stairs,
                   handrail: handrail,
@@ -808,7 +810,8 @@ class QuoteCalculator extends React.Component {
               <div className={`ResultAmount`}>
                 <ResultAmount
                   option={option}
-                  sqm={width * length}
+                  width={width}
+                  length={length}
                   extras={{
                     stairs,
                     handrail,
@@ -820,7 +823,7 @@ class QuoteCalculator extends React.Component {
             </div>
             <div className="Result--Calculations-Row council">
               <div className="title">Plans, Council Permit QBCC:</div>
-              <div className="amount">$1,500</div>
+              <div className="amount">$2,000</div>
             </div>
           </div>
           <div className="Result--Content taCenter">
