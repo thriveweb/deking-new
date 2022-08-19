@@ -11,11 +11,13 @@ shortDescription: >-
 categories:
   - category: Timber Decks
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/why-choose-merbau-timber-for-your-decking-material/
   description: >-
     Merbau hardwood timber continues to rise in popularity, especially for
     decking and pergola construction. It is a stylish timber, that is also
     durable, affordable and low maintenance.
-  title: Why choose Merbau timber for your decking material?
+  title: Why Choose Merbau Timber for your Decking? Deking Brisbane
 ---
 Merbau hardwood timber continues to rise in popularity, especially for decking and pergola construction. It is a stylish timber, that is also durable, affordable and low maintenance.
 
