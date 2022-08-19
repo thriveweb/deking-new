@@ -19,8 +19,8 @@ export default ({ option, length, width, extras }) => {
       max = max + 5000
     }
     if (extras.handrail === 'handrail') {
-      min = min + ((width+length+length) * 330)
-      max = max + ((width+length+length) * 370)
+      min = min + ((parseInt(width)+parseInt(width)+parseInt(length)) * 330)
+      max = max + ((parseInt(width)+parseInt(width)+parseInt(length)) * 370)
     }
   }
   if (option === 'poolDeck') {
