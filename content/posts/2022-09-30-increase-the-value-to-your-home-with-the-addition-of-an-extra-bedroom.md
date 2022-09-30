@@ -31,7 +31,7 @@ A new room addition should still be undertaken with caution - consider the area 
 
 Take into consideration the demographic that would likely buy or rent the property. Understanding your demographic and renovating your home to meet those requirements is what will add value to your home.
 
-Example 1 - if your property is located in an area that is populated mainly with families, then the addition of an extra bedroom or two is almost guaranteed to add value to the property.
+Example 1 - if your property is located in an area that is populated mainly with families, then the addition of an extra bedroom or two is almost guaranteed to add value to the property. Having a nice size master bedroom is also important.
 
 Example 2 - if your property is located in an area populated mainly by first home buyers or retirees then having an extra bedroom may not be as profitable.
 
