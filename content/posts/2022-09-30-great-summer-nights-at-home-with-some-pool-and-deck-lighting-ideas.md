@@ -20,17 +20,11 @@ The addition of lights in the pool and the surrounding deck area not only looks 
 * Pool lighting ensures safety to all that access the the area. The lighting of the area should encompass the surrounds and pool deck. This will allow observation of swimmers into the evening and night from the comfort of the deck. Good lighting also reduces with risk of injury from tripping or stumbling on obstacles in the dark. In Australia, good pool lighting will also alert swimmers to other dangers like snakes and spiders in or around the pool area that may not be spotted in darkness.
 * Pool lighting can create atmosphere and make a stylish statement. With the use of different colours, dimmers and even flashing options you can set the ambience and mood of the pool area from a romantic moonlight swim to a rocking summer pool party with the flick of a switch.
 
+![deck lighting](/images/uploads/9s6upf4itnaxawhrgcsn7w.jpg)
 
+![pool decking lighting](/images/uploads/image-13.jpg)
 
-
-
-
-
-
-
-
-
-
+![pool decking lighting](/images/uploads/image-21.jpg)
 
 ## Where should the lights be positioned?
 
@@ -39,6 +33,12 @@ The addition of lights in the pool and the surrounding deck area not only looks 
 * Water feature lighting can make any area look truly magical. Coloured back-lighting behind a waterfall will make the space look incredible. Lighting in subtle hues for a heated spa creates a tranquil space for relaxation.
 * The addition of low voltage deck lights in stairs and steps makes it safer to navigate in darkness but also creates a subtle glow in the darkness. Add more lights on each step for a more dramatic and brighter look. Deck lighting will help your guests navigate your deck area safely.
 * Light your decking edges to clearly show where not to walk, but this style also creates a beautiful road map highlighting the deck to its fullest.
+
+![pool deck lighting](/images/uploads/deking-pty-ltd-pool-deking.jpg)
+
+![deck lighting](/images/uploads/inground-pool-decking-options-ideas-in-australia.jpg)
+
+![deck lighting](/images/uploads/yhwd2jfuqzg0yc2hb8sdog.jpg)
 
 ## DeKing Decks are experts in pool and deck lighting, ask us about your pool and deck today.
 
