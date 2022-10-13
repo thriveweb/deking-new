@@ -9,8 +9,16 @@ shortDescription: >-
   looks stunning, but also has some other major benefits as well.
 categories:
   - category: Pool Decking
+meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/great-summer-nights-at-home-with-some-pool-and-deck-lighting-ideas/
+  description: >-
+    The addition of lights in the pool and the surrounding deck area not only
+    looks stunning, but also has some other major benefits as well.
+  noindex: false
+  title: Pool and Deck Lighting Ideas - Deking Decks Brisbane
 ---
-The pool deck is the ideal place to relax and unwind after hard day at work, and you can monitor the kids while they play in the swimming pool. It's also an amazing entertaining area, outdoor dining area, the perfect party location and pre-meal drinks zone. 
+The [pool deck](https://www.dekingdecks.com.au/services/pool-decking/) is the ideal place to relax and unwind after hard day at work, and you can monitor the kids while they play in the swimming pool. It's also an amazing entertaining area, outdoor dining area, the perfect party location and pre-meal drinks zone. 
 
 The addition of lights in the pool and the surrounding deck area not only looks stunning, but also has some other major benefits as well.
 
