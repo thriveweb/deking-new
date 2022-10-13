@@ -10,10 +10,17 @@ shortDescription: >-
   the increase in the home valuation.
 categories:
   - category: Room Builder
+meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/increase-the-value-to-your-home-with-the-addition-of-an-extra-bedroom/
+  description: >-
+    Ensure the extra bedroom add-on is cost-effective. Investing in your home
+    can give a high return on investment
+  title: Increase Home Value with an Extra Bedroom - Deking Brisbane
 ---
 Any property additions are investments for homeowners, whether it's a full blown addition project, a remodel or a small bump-out addition. 
 
-If you don't plan to move anytime soon, then the value that you receive from the extra bedroom can be enjoyed for years to come. If you plan to sell your home then you will need to consider the resale value. Ensure the extra bedroom add-on is cost-effective. Investing in your home can give a high return on investment, especially when the room addition is completed tastefully.
+If you don't plan to move anytime soon, then the value that you receive from the [extra bedroom](https://www.dekingdecks.com.au/services/room-builder/) can be enjoyed for years to come. If you plan to sell your home then you will need to consider the resale value. Ensure the extra bedroom add-on is cost-effective. Investing in your home can give a high return on investment, especially when the room addition is completed tastefully.
 
 ## Does the addition of a bedroom really increase the value of your property?
 
