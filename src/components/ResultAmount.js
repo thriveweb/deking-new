@@ -51,45 +51,51 @@ export default ({ option, length, width, extras }) => {
   }
   if (option === 'upperLevelDeckPatio') {
     if (extras.stairs === 'stairs') {
-      min = min + 3700
-      max = max + 4700
+      min = min + 4000
+      max = max + 5000
     }
     if (extras.handrail === 'handrail') {
-      min = min + 250
-      max = max + 300
-    }
-    if (extras.insulated === 'insulated') {
-      bats = 75 * sqm
-      min = min + bats
-      max = max + bats
-    }
+      min = min + 330
+      max = max + 370
+    }    
     if (extras.attached === 'attached') {
-      min = sqm * 180 + min
-      max = sqm * 230 + max
+      min = sqm * 260 + min
+      max = sqm * 300 + max
+      if (extras.insulated === 'insulated') {
+        min = min + (100 * sqm)
+        max = max + (140 * sqm)
+      }
     }
     if (extras.attached === 'flyover') {
-      min = sqm * 225 + min
-      max = sqm * 275 + max
-    }
-    min = sqm * 370 + min
-    max = sqm * 400 + max
+      min = sqm * 280 + min
+      max = sqm * 330 + max
+      if (extras.insulated === 'insulated') {
+        min = min + (100 * sqm)
+        max = max + (150 * sqm)
+      }
+    }    
+    min = sqm * 500 + min
+    max = sqm * 600 + max
   }
   if (option === 'lowerLevelDeckPatio') {
-    if (extras.insulated === 'insulated') {
-      bats = 75 * sqm
-      min = min + bats
-      max = max + bats
-    }
     if (extras.attached === 'attached') {
-      min = sqm * 180 + min
-      max = sqm * 230 + max
+      min = sqm * 260 + min
+      max = sqm * 300 + max
+      if (extras.insulated === 'insulated') {
+        min = min + (100 * sqm)
+        max = max + (140 * sqm)
+      }
     }
     if (extras.attached === 'flyover') {
-      min = sqm * 225 + min
-      max = sqm * 275 + max
-    }
-    min = sqm * 300 + min
-    max = sqm * 330 + max
+      min = sqm * 280 + min
+      max = sqm * 330 + max
+      if (extras.insulated === 'insulated') {
+        min = min + (100 * sqm)
+        max = max + (150 * sqm)
+      }
+    } 
+    min = sqm * 400 + min
+    max = sqm * 500 + max
   }
 
   const totalMin = min
