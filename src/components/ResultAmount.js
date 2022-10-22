@@ -12,8 +12,8 @@ export default ({ option, length, width, extras }) => {
     max = sqm * 500
   }
   if (option === 'upperLevelDeck') {
-    min = sqm * 500
-    max = sqm * 600
+    min = sqm * 550
+    max = sqm * 650
     if (extras.stairs === 'stairs') {
       min = min + 4000
       max = max + 5000
@@ -30,22 +30,22 @@ export default ({ option, length, width, extras }) => {
   if (option === 'patioRoof') {
     if (extras.insulated === 'insulated') {
       if (extras.attached === 'attached') {
-        min = sqm * 360 + min
+        min = sqm * 340 + min
         max = sqm * 440 + max
       }
       if (extras.attached === 'flyover') {
-        min = sqm * 380 + min
-        max = sqm * 480 + max
+        min = sqm * 360 + min
+        max = sqm * 460 + max
       }
     }
     else { //non-insulated
       if (extras.attached === 'attached') {
         min = sqm * 260 + min
-        max = sqm * 300 + max
+        max = sqm * 340 + max
       }
       if (extras.attached === 'flyover') {
         min = sqm * 280 + min
-        max = sqm * 330 + max
+        max = sqm * 350 + max
       }
     }    
   }
@@ -60,22 +60,22 @@ export default ({ option, length, width, extras }) => {
     }    
     if (extras.attached === 'attached') {
       min = sqm * 260 + min
-      max = sqm * 300 + max
+      max = sqm * 340 + max
       if (extras.insulated === 'insulated') {
-        min = min + (100 * sqm)
-        max = max + (140 * sqm)
+        min = min + (80 * sqm)
+        max = max + (100 * sqm)
       }
     }
     if (extras.attached === 'flyover') {
       min = sqm * 280 + min
-      max = sqm * 330 + max
+      max = sqm * 350 + max
       if (extras.insulated === 'insulated') {
-        min = min + (100 * sqm)
-        max = max + (150 * sqm)
+        min = min + (80 * sqm)
+        max = max + (110 * sqm)
       }
     }    
-    min = sqm * 500 + min
-    max = sqm * 600 + max
+    min = sqm * 550 + min
+    max = sqm * 650 + max
   }
   if (option === 'lowerLevelDeckPatio') {
     if (extras.attached === 'attached') {
