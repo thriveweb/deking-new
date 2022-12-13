@@ -20,7 +20,7 @@ bannerDescription: >
   decks and 15 years on our patios. T's & C's apply*
 bannerImage: /images/uploads/10.jpg
 bannerButton:
-  label: enquire
+  label: More Info
   link: 'https://www.dekingdecks.com.au/about/guarantees/'
 promoTitle: We can simply make it happen.
 promoButton:
