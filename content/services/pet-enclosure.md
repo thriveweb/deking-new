@@ -58,7 +58,7 @@ servicePods:
       destructive scratching behaviour inside your home.
 
 
-      Images above and below are pet enclosures built by [Cat
+      Images to the left and below are pet enclosures built by [Cat
       Topia](https://www.thecattopia.com/catio-builds/) browse their site to see
       more ideas
     podImage: /images/uploads/gazebo-catio.jpeg
