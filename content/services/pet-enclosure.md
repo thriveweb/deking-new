@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Pet Enclosure
-status: Draft
+status: Published
 date: '2023-06-19'
 featuredImage: /images/uploads/enclosed-deck-complete.jpg
 excerpt: 'DeKing are licensed Carpenters proudly building Custom Pet Enclosures '
