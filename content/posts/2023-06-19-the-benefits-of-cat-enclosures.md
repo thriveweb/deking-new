@@ -12,6 +12,7 @@ shortDescription: >-
 categories:
   - category: Pet Enclosure
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/the-benefits-of-cat-enclosures/'
   description: >-
     Here are some benefits of cat enclosures that make them a worthwhile
     investment for any cat owner
