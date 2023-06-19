@@ -22,6 +22,53 @@ welcomeDescription: >-
 
   Our team of experienced professionals can help turn your outdoor space into a
   safe and stimulating environment for your furry friend to explore and enjoy.
+
+
+  ## Why Build a Dog or Cat Enclosure?
+
+
+  There are many reasons why pet owners choose to build enclosures. Some of the
+  benefits of having an enclosure include:
+
+
+  **1. Safety: **
+
+
+  A dog or cat enclosure allows your pet to enjoy the outdoors without the risks
+  associated with roaming freely. This can include being taken to the pound,
+  exposure to traffic, other animals, and diseases.
+
+
+  **2. Exercise: **
+
+
+  A cat enclosure provides a safe space for your cat to run, jump, and play,
+  which is great for their physical health and mental stimulation. Depending on
+  the size of the enclosure and the size of the dog they may be able to exercise
+  too. Especially if you have a long deck or verandah that will be enclosed.
+
+
+  **3. Fresh Air and Sunshine: **
+
+
+  Just like humans, dogs and cats need fresh air and sunshine to stay healthy. A
+  pet enclosure allows your cat or dog to enjoy the outdoors while staying safe
+  and protected.
+
+
+  **4. Reduced Scratching: **
+
+
+  A dog or cat enclosure can help reduce destructive scratching behaviour inside
+  your home.
+
+
+  Images above and below are pet enclosures built by [Cat
+  Topia](https://www.thecattopia.com/catio-builds/) browse their site to see
+  more ideas
+
+
+  ![](/images/uploads/gazebo-catio.jpeg)
 welcomeImage: /images/uploads/enclosed-decking.jpg
 servicePriceTitle: 'Do you want a Deck or Patio Roof built as well? '
 QuoteTitle: >-
@@ -161,6 +208,6 @@ meta:
     If you're interested in building a pet enclosure contact us today! Our team
     of experts is ready to help you create the perfect outdoor space for your
     furry friends
-  title: Pet Enclosure Installation - Brisbane. Gold Coast
+  title: Custom Pet Enclosure Design & Installation - Brisbane & SEQLD
 ---
 
