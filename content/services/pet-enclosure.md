@@ -22,53 +22,6 @@ welcomeDescription: >-
 
   Our team of experienced professionals can help turn your outdoor space into a
   safe and stimulating environment for your furry friend to explore and enjoy.
-
-
-  ## Why Build a Dog or Cat Enclosure?
-
-
-  There are many reasons why pet owners choose to build enclosures. Some of the
-  benefits of having an enclosure include:
-
-
-  **1. Safety: **
-
-
-  A dog or cat enclosure allows your pet to enjoy the outdoors without the risks
-  associated with roaming freely. This can include being taken to the pound,
-  exposure to traffic, other animals, and diseases.
-
-
-  **2. Exercise: **
-
-
-  A cat enclosure provides a safe space for your cat to run, jump, and play,
-  which is great for their physical health and mental stimulation. Depending on
-  the size of the enclosure and the size of the dog they may be able to exercise
-  too. Especially if you have a long deck or verandah that will be enclosed.
-
-
-  **3. Fresh Air and Sunshine: **
-
-
-  Just like humans, dogs and cats need fresh air and sunshine to stay healthy. A
-  pet enclosure allows your cat or dog to enjoy the outdoors while staying safe
-  and protected.
-
-
-  **4. Reduced Scratching: **
-
-
-  A dog or cat enclosure can help reduce destructive scratching behaviour inside
-  your home.
-
-
-  Images above and below are pet enclosures built by [Cat
-  Topia](https://www.thecattopia.com/catio-builds/) browse their site to see
-  more ideas
-
-
-  ![](/images/uploads/gazebo-catio.jpeg)
 welcomeImage: /images/uploads/enclosed-decking.jpg
 servicePriceTitle: 'Do you want a Deck or Patio Roof built as well? '
 QuoteTitle: >-
@@ -83,39 +36,26 @@ servicePods:
       the benefits of having an enclosure include:
 
 
-      **1. Safety: **
+      **1. Safety:  **A dog or cat enclosure allows your pet to enjoy the
+      outdoors without the risks associated with roaming freely. This can
+      include being taken to the pound, exposure to traffic, other animals, and
+      diseases.
 
 
-      A dog or cat enclosure allows your pet to enjoy the outdoors without the
-      risks associated with roaming freely. This can include being taken to the
-      pound, exposure to traffic, other animals, and diseases.
+      **2. Exercise:  **A cat enclosure provides a safe space for your cat to
+      run, jump, and play, which is great for their physical health and mental
+      stimulation. Depending on the size of the enclosure and the size of the
+      dog they may be able to exercise too. Especially if you have a long deck
+      or verandah that will be enclosed.
 
 
-      **2. Exercise: **
+      **3. Fresh Air and Sunshine: **Just like humans, dogs and cats need fresh
+      air and sunshine to stay healthy. A pet enclosure allows your cat or dog
+      to enjoy the outdoors while staying safe and protected.
 
 
-      A cat enclosure provides a safe space for your cat to run, jump, and play,
-      which is great for their physical health and mental stimulation. Depending
-      on the size of the enclosure and the size of the dog they may be able to
-      exercise too. Especially if you have a long deck or verandah that will be
-      enclosed.
-
-
-      **3. Fresh Air and Sunshine: **
-
-
-      Just like humans, dogs and cats need fresh air and sunshine to stay
-      healthy. A pet enclosure allows your cat or dog to enjoy the outdoors
-      while staying safe and protected.
-
-
-      **4. Reduced Scratching: **
-
-
-      A dog or cat enclosure can help reduce destructive scratching behaviour
-      inside your home.
-
-
+      **4. Reduced Scratching: **A dog or cat enclosure can help reduce
+      destructive scratching behaviour inside your home.
 
 
       Images above and below are pet enclosures built by [Cat
@@ -141,48 +81,29 @@ servicePods:
       Our enclosure building process typically includes the following steps:
 
 
-      **1. Consultation: **
+      **1. Consultation: **We will schedule a consultation to discuss your pet's
+      needs and your vision for your enclosure.
 
 
-      We will schedule a consultation to discuss your pet's needs and your
-      vision for your enclosure.
+      **2. Design: **Our team will create a custom dog or cat enclosure design
+      that meets your specific needs and preferences.
 
 
-      **2. Design: **
+      **3. Materials: **We use only high-quality materials to ensure the safety
+      and durability of your pet enclosure.
 
 
-      Our team will create a custom dog or cat enclosure design that meets your
-      specific needs and preferences.
+      **4. Construction: **Our team of experienced professionals will construct
+      your enclosure on your deck or the side of your house, or in the front or
+      backyard.
 
 
-      **3. Materials: **
+      **5. Finishing Touches: **We will add any finishing touches to make your
+      pet enclosure look and function beautifully.
 
 
-      We use only high-quality materials to ensure the safety and durability of
-      your pet enclosure.
-
-
-      **4. Construction: **
-
-
-      Our team of experienced professionals will construct your enclosure on
-      your deck or the side of your house, or in the front or backyard.
-
-
-      **5. Finishing Touches: **
-
-
-      We will add any finishing touches to make your pet enclosure look and
-      function beautifully.
-
-
-      **6. Final Inspection: **
-
-
-      We will conduct a final inspection to ensure that your pet enclosure meets
-      our high standards of quality and safety.
-
-
+      **6. Final Inspection: **We will conduct a final inspection to ensure that
+      your pet enclosure meets our high standards of quality and safety.
 
 
       ## Contact Us Today!
@@ -194,7 +115,6 @@ servicePods:
       your furry friend.
     podImage: /images/uploads/catiospaces-catio-plans.jpeg
     podsTitle: Our Pet Enclosure Building Process
-  - podImage: /images/uploads/gazebo-catio.jpeg
 videoTitle: ''
 videoContent: ''
 bannerTitle: ''
