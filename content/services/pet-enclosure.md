@@ -147,6 +147,7 @@ servicePods:
       your furry friend.
     podImage: /images/uploads/catiospaces-catio-plans.jpeg
     podsTitle: Our Pet Enclosure Building Process
+  - podImage: /images/uploads/gazebo-catio.jpeg
 videoTitle: ''
 videoContent: ''
 bannerTitle: ''
