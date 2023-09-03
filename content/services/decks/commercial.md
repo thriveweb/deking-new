@@ -120,7 +120,7 @@ bannerButton:
 categories:
   - category: 'Commercial '
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/commercial-decking/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/commercial-decking/'
   description: >-
     Get the ultimate timber deck or boardwalk for your riverside restaurant,
     hotel pool, beachfront esplanade, community pool, vineyard walkway, or

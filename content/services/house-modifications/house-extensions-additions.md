@@ -143,7 +143,7 @@ bannerButton:
 categories:
   - category: house extensions and additions
 meta:
-  canonicalLink: ' https://www.dekingdecks.com.au/services/house-extension-addition/'
+  canonicalLink: ' https://www.dekingdecks.com.au/services/house-modifications/house-extension-addition/'
   description: >-
     DeKing Decks can extend your home or build one or more additional rooms to
     create more space in your existing home - bedrooms, living areas, media or

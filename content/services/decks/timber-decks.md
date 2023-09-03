@@ -100,7 +100,7 @@ bannerButton:
 categories:
   - category: Timber Decks
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/timber-decks/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/timber-decks/'
   description: >-
     DeKing are Timber Decking specialists on the Gold Coast, Brisbane, Ipswich,
     Logan, and Sunshine Coast. Use our Decking Calculators for a Free Quote.
