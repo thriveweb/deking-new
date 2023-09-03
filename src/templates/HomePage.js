@@ -425,7 +425,7 @@ export const pageQuery = graphql`
     }
     services: allMarkdownRemark(
       filter: {
-        fields: { contentType: { eq: "services" } }
+        fields: { contentType: { regex: "/services(.*)/" } }
         frontmatter: { status: { regex: "/Featured/i" } }
       }
       sort: { fields: [frontmatter___date], order: DESC }

@@ -62,19 +62,54 @@ export default class Nav extends Component {
           _get(page, 'fields.slug', '').indexOf(parentSlug) === 0
       )
 
-    const renderChildPageLinks = parentSlug => {
+    const renderChildPageLinks = (parentSlug, isSecondLevel) => {
       let childPages = _sortBy(getChildPages(parentSlug), 'frontmatter.date')
       childPages = _reject(childPages, ['fields.slug', '/services/'])
+      //add services sub pages
+      if (parentSlug === '/services/') {
+        const decksPage = {
+          fields: {
+            slug: "/services-decks/"
+          },
+          frontmatter: {
+            title: "Decks"
+          }
+        }
+        childPages.push(decksPage);
+        const houseModificationPage = {
+          fields: {
+            slug: "/services-house-modifications/"
+          },
+          frontmatter: {
+            title: "House Modifications"
+          }
+        }
+        childPages.push(houseModificationPage);
+      }
 
-      if (parentSlug === '/about/') {
-        const customOrder = [
-          '/about/process/',
-          '/about/',
-          '/about/team/',
-          '/about/join/',
-          '/about/guarantees/',
-          '/about/finance/'
-        ]
+      if (parentSlug === '/about/' || parentSlug === '/services/') {
+        let customOrder = [];
+        //custom order for about menu
+        if(parentSlug === '/about/') {
+          customOrder = [
+            '/about/process/',
+            '/about/',
+            '/about/team/',
+            '/about/join/',
+            '/about/guarantees/',
+            '/about/finance/'
+          ]
+        }
+        //custom order for services menu
+        if(parentSlug === '/services/') {
+          customOrder = [
+            '/services-decks/',
+            '/services/patio-roofs/',
+            '/services/gazebos-outdoor-rooms/',
+            '/services-house-modifications/'
+          ]
+        }
+        
         let orderedChildPages = customOrder.map(slug => {
           for (let page in childPages) {
             if (childPages[page].fields.slug === slug) return childPages[page]
@@ -85,26 +120,31 @@ export default class Nav extends Component {
 
       if (!childPages.length) return null
       return (
-        <div className={`SubNav SubNav-${_kebabCase(parentSlug)}`}>
-          {childPages.map(page => (
-            <NavLink
-              onClick={this.toggleActive}
-              key={page.fields.slug}
-              to={page.fields.slug}
-              exact
-            >
-              {page.frontmatter.title}
-            </NavLink>
-          ))}
+        <div className={`${isSecondLevel?`SubSubNav`:`SubNav SubNav-${_kebabCase(parentSlug)}`}`}>
+          {childPages.map(page => {
+            const isSecondLevel = page.fields.slug == '/services-decks/' || page.fields.slug == '/services-house-modifications/' ;
+            return (
+              <React.Fragment>
+                {!isSecondLevel && <NavLink
+                  onClick={this.toggleActive}
+                  key={page.fields.slug}
+                  to={page.fields.slug}
+                  exact
+                >
+                  {page.frontmatter.title}
+                </NavLink>}
+                {isSecondLevel && <NavLinkGroup to={page.fields.slug} title={page.frontmatter.title} isSecondLevel />}
+              </React.Fragment>
+            )
+          })}
         </div>
       )
     }
 
-    const NavLinkGroup = ({ to, title, ...props }) => (
+    const NavLinkGroup = ({ to, title, isSecondLevel, ...props }) => (
       <div
-        className={`NavLinkGroup ${
-          this.state.activeSubnav === to ? 'active' : ''
-        }`}
+        className={`NavLinkGroup${isSecondLevel?` SecondLevelParent`:``} ${this.state.activeSubnav === to ? 'active' : ''
+          }`}
       >
         <NavLink to={to} {...props} onClick={this.toggleActive}>
           {title}
@@ -114,7 +154,7 @@ export default class Nav extends Component {
             this.toggleSubnav(to)
           }}
         />
-        {renderChildPageLinks(to)}
+        {renderChildPageLinks(to, isSecondLevel)}
       </div>
     )
 
@@ -139,16 +179,6 @@ export default class Nav extends Component {
             <NavLinkGroup
               to="/services/"
               title="Services"
-              onClick={this.toggleActive}
-            />
-            <NavLinkGroup
-              to="/services-decks/"
-              title="Decks"
-              onClick={this.toggleActive}
-            />
-            <NavLinkGroup
-              to="/services-house-modifications/"
-              title="House Modifications"
               onClick={this.toggleActive}
             />
             <NavLink to="/projects/" onClick={this.toggleActive}>

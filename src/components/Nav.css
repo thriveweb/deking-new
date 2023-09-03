@@ -78,6 +78,35 @@
   background: var(--col1);
 }
 
+/* Third-level menu */
+.SubSubNav {
+  display: none;
+  position: relative;
+  transition: opacity 0.3s ease;
+}
+
+.SecondLevelParent:hover .SubSubNav {
+  opacity: 1;
+  display: block !important;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  background-color: #444; /* Change this to your desired background color */
+  min-width: 200px;
+}
+
+.SubSubNav .NavLink {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+.SubSubNav .NavLink:hover {
+  background: var(--col1);
+}
+
 @media (max-width: 650px) {
   .SubNav .NavLink {
     margin: 0;
