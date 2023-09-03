@@ -17,11 +17,11 @@ location: |-
   Ormeau QLD 4208
 footerServices:
   - title: Timber Deck
-    url: /services/decks/timber-decks/
+    url: /services-decks/timber-decks/
   - title: Patio Roofs
     url: /services/patio-roofs/
   - title: Pool Decking
-    url: /services/decks/pool-decking/
+    url: /services-decks/pool-decking/
   - title: Projects
     url: /projects/
   - title: Calculator

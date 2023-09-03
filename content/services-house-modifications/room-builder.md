@@ -90,7 +90,7 @@ bannerButton:
 categories:
   - category: room builder
 meta:
-  canonicalLink: ' https://www.dekingdecks.com.au/services/house-modifications/room-builder/'
+  canonicalLink: ' https://www.dekingdecks.com.au/services-house-modifications/room-builder/'
   description: >-
     DeKing Decks can build one or more additional rooms to your existing home -
     bedrooms, living room, media or theatre room, home office, any type of room
