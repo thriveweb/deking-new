@@ -1570,7 +1570,7 @@ collections: # A list of collections the CMS should be able to edit
           - { name: noindex, label: Noindex, widget: boolean, required: false }
   - name: 'servicesDecks'
     label: 'Services->Decks'
-    folder: 'content/services/decks'
+    folder: 'content/services-decks'
     delete: true
     create: true
     editor:
@@ -1771,7 +1771,7 @@ collections: # A list of collections the CMS should be able to edit
           - { name: noindex, label: Noindex, widget: boolean, required: false }
   - name: 'servicesHomeModifications'
     label: 'Services->HomeModifications'
-    folder: 'content/services/house-modifications'
+    folder: 'content/services-house-modifications'
     delete: true
     create: true
     editor:
