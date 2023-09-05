@@ -79,6 +79,11 @@
 }
 
 /* Third-level menu */
+.SecondLevelArrow::after {
+  content: "→";
+  float: right;
+}
+
 .SubSubNav {
   display: none;
   position: relative;

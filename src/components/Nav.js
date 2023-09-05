@@ -147,7 +147,7 @@ export default class Nav extends Component {
           }`}
       >
         <NavLink to={to} {...props} onClick={this.toggleActive}>
-          {title}
+          {title}<span className={isSecondLevel?'SecondLevelArrow':''}></span>
         </NavLink>
         <ChevronDown
           onClick={() => {
