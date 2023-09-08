@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Room Builder
+parentSlug: /house-modifications/
 status: Published
 date: '2021-07-12'
 featuredImage: /images/uploads/deking-extension.png

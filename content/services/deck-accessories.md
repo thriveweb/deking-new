@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: 'Deck Accessories '
+parentSlug: /decks/
 status: Published
 date: '2018-12-16'
 featuredImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg

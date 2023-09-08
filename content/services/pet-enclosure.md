@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Pet Enclosure
+parentSlug: /house-modifications/
 status: Published
 date: '2023-06-19'
 featuredImage: /images/uploads/enclosed-deck-complete.jpg
