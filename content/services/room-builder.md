@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Room Builder
-parentSlug: /services/house-modifications/
+parentSlug: /services/home-modifications/
 status: Published
 date: '2021-07-12'
 featuredImage: /images/uploads/deking-extension.png
@@ -91,7 +91,7 @@ bannerButton:
 categories:
   - category: room builder
 meta:
-  canonicalLink: ' https://www.dekingdecks.com.au/services-house-modifications/room-builder/'
+  canonicalLink: ' https://www.dekingdecks.com.au/services/home-modifications/room-builder/'
   description: >-
     DeKing Decks can build one or more additional rooms to your existing home -
     bedrooms, living room, media or theatre room, home office, any type of room
