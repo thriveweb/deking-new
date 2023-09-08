@@ -102,7 +102,7 @@ export default class Nav extends Component {
             const isSecondLevel = page.fields.slug == '/services/decks/' || page.fields.slug == '/services/home-modifications/';
             // console.log("******* page.fields.slug,isSecondLevel", page.fields.slug, isSecondLevel)
             return (
-              <React.Fragment>
+              <React.Fragment key={Math.random()}>
                 {!isSecondLevel && <NavLink
                   onClick={this.toggleActive}
                   key={page.fields.slug}
