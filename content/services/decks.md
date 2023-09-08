@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: Timber Decks
+title: Decks
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg

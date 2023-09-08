@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: ECO Decking
-parentSlug: /decks/
+parentSlug: /services/decks/
 status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/img_9614.jpg

@@ -68,7 +68,7 @@ export const pageQuery = graphql`
     }
 
     services: allMarkdownRemark(
-      filter: { fields: { contentType: { regex: "/services(.*)/" } } }
+      filter: { fields: { contentType: { eq: "services" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

@@ -60,33 +60,14 @@ export default class Nav extends Component {
         page =>
           // _get(page, 'fields.slug', '') !== parentSlug &&
           _get(page, 'fields.slug', '').indexOf(parentSlug) === 0
+          // && _get(page, 'frontmatter.parentSlug', '') === ''
       )
 
     const renderChildPageLinks = (parentSlug, isSecondLevel) => {
+      console.log("********* parentSlug, isSecondLevel",parentSlug, isSecondLevel)
       let childPages = _sortBy(getChildPages(parentSlug), 'frontmatter.date')
-      childPages = _reject(childPages, ['fields.slug', '/services/'])
-      //add services sub pages
-      if (parentSlug === '/services/') {
-        const decksPage = {
-          fields: {
-            slug: "/services-decks/"
-          },
-          frontmatter: {
-            title: "Decks"
-          }
-        }
-        childPages.push(decksPage);
-        const houseModificationPage = {
-          fields: {
-            slug: "/services-house-modifications/"
-          },
-          frontmatter: {
-            title: "House Modifications"
-          }
-        }
-        childPages.push(houseModificationPage);
-      }
-
+      childPages = _reject(childPages, ['fields.slug', '/services/'])      
+      console.log("******* childPages",childPages)
       if (parentSlug === '/about/' || parentSlug === '/services/') {
         let customOrder = [];
         //custom order for about menu
@@ -101,14 +82,14 @@ export default class Nav extends Component {
           ]
         }
         //custom order for services menu
-        if(parentSlug === '/services/') {
-          customOrder = [
-            '/services-decks/',
-            '/services/patio-roofs/',
-            '/services/gazebos-outdoor-rooms/',
-            '/services-house-modifications/'
-          ]
-        }
+        // if(parentSlug === '/services/') {
+        //   customOrder = [
+        //     '/services/decks/',
+        //     '/services/patio-roofs/',
+        //     '/services/gazebos-outdoor-rooms/',
+        //     '/services/house-modifications/'
+        //   ]
+        // }
         
         let orderedChildPages = customOrder.map(slug => {
           for (let page in childPages) {
@@ -116,13 +97,15 @@ export default class Nav extends Component {
           }
         })
         if (orderedChildPages) childPages = orderedChildPages
-      }
+        console.log("******* orderedChildPages",orderedChildPages)
+      }      
 
       if (!childPages.length) return null
       return (
         <div className={`${isSecondLevel?`SubSubNav`:`SubNav SubNav-${_kebabCase(parentSlug)}`}`}>
           {childPages.map(page => {
-            const isSecondLevel = page.fields.slug == '/services-decks/' || page.fields.slug == '/services-house-modifications/' ;
+            // const isSecondLevel = page.fields.slug == '/services-decks/' || page.fields.slug == '/services-house-modifications/' ;
+            const isSecondLevel = false;
             return (
               <React.Fragment>
                 {!isSecondLevel && <NavLink

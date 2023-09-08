@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Pool Decking
-parentSlug: /decks/
+parentSlug: /services/decks/
 status: Featured
 date: 2018-03-2
 featuredImage: /images/uploads/dsc_0041.jpg

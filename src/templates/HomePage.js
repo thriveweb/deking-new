@@ -425,7 +425,7 @@ export const pageQuery = graphql`
     }
     services: allMarkdownRemark(
       filter: {
-        fields: { contentType: { regex: "/services(.*)/" } }
+        fields: { contentType: { eq: "services" } }
         frontmatter: { status: { regex: "/Featured/i" } }
       }
       sort: { fields: [frontmatter___date], order: DESC }
@@ -434,10 +434,11 @@ export const pageQuery = graphql`
       edges {
         node {
           fields {
-            slug
+            slug            
           }
           frontmatter {
             title
+            parentSlug
             featuredImage {
               ...SmallImage
             }

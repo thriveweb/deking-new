@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Commercial Decking
-parentSlug: /decks/
+parentSlug: /services/decks/
 status: Published
 date: '2018-09-04'
 featuredImage: /images/uploads/dsc_0434.jpg

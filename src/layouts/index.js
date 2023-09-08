@@ -92,6 +92,7 @@ export const query = graphql`
           }
           frontmatter {
             title
+            parentSlug
             date
           }
         }

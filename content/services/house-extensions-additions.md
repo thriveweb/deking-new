@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: House Extensions & Additions
-parentSlug: /house-modifications/
+parentSlug: /services/house-modifications/
 status: Published
 date: '2021-09-24'
 featuredImage: /images/uploads/deking-extension.png

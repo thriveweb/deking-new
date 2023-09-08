@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Deck Treatment's & Maintenance
-parentSlug: /decks/
+parentSlug: /services/decks/
 status: Published
 date: '2018-09-03'
 featuredImage: /images/uploads/oiled_deck.jpg
