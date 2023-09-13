@@ -89,6 +89,9 @@
   position: relative;
   transition: opacity 0.3s ease;
 }
+.SecondLevelParent {
+  cursor: pointer;
+}
 
 .SecondLevelParent:hover .SubSubNav {
   opacity: 1;

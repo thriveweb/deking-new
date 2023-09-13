@@ -124,7 +124,7 @@ export default class Nav extends Component {
         className={`NavLinkGroup${isSecondLevel ? ` SecondLevelParent` : ``} ${this.state.activeSubnav === to ? 'active' : ''
           }`}
       >
-        <NavLink to={to} {...props} onClick={this.toggleActive}>
+        <NavLink to={!isSecondLevel?to:''} {...props} onClick={this.toggleActive}>
           {title}<span className={isSecondLevel ? 'SecondLevelArrow' : ''}></span>
         </NavLink>
         <ChevronDown
