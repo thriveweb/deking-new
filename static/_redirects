@@ -1,4 +1,4 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
-/services/decks /services 301
+/services/decks /services 301!
 /services/decksx /services
