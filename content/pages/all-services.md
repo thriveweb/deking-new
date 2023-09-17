@@ -17,7 +17,7 @@ meta:
     Accessories.
   noindex: false
   title: >-
-    Decks Logan, Ipswich, Redlands, Bayside, Moreton Bay, Scenic Rim, Toowoomba,
-    Lockyer Valley
+    Decks Logan, Ipswich, Redlands, Bayside, Moreton Bay, Scenic Rim, Lockyer
+    Valley
 ---
 
