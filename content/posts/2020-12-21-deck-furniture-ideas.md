@@ -95,4 +95,4 @@ If there is no roof or protection, then careful thought should be given to the t
 
 The perfect deck is the one designed especially for you.  DeKing Decks can help create your ideal deck and give advice on the furniture once completed. [Contact us](https://www.dekingdecks.com.au/contact/) today for more information.
 
-DeKing Decks servicing the following areas: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay,  Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim.
+DeKing Decks servicing the following areas: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay,  Gold Coast, Lockyer Valley and Scenic Rim.
