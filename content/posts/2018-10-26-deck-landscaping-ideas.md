@@ -58,7 +58,7 @@ If you do not as yet have a deck to landscape we are happy to help you design on
 
 ![Deck Landscaping Ideas and Tips Australia](/images/uploads/image-2-1024x768.jpg)
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim
 **
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Patio Roofing and Deck Calculator](https://www.dekingdecks.com.au/quote-calculator/)  to get a more accurate estimate.
