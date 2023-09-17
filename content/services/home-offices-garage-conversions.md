@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: 'Home Office''s, Garage Conversions'
+title: 'Home Offices, Garage Conversions'
 status: Published
 date: '2020-03-27'
 featuredImage: /images/uploads/garage-conversion.jpg
@@ -69,8 +69,7 @@ bannerButton:
   link: contact
 categories: []
 meta:
-  canonicalLink: >-
-    https://www.dekingdecks.com.au/services/home-offices-garage-conversions/
+  canonicalLink: 'https://www.dekingdecks.com.au/services/home-offices-garage-conversions/'
   description: >-
     DeKing provides home office builds, garage conversions, outdoor studios,
     granny flats, small extensions and additions.
