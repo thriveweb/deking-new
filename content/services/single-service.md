@@ -5,7 +5,7 @@ status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
 excerpt: 'A DeKing Deck will add Value, quality, longevity, and style to your home.'
-welcomeTitle: 'Brisbane, Gold Coast, Toowoomba and Lockyer Valley Deck Builder'
+welcomeTitle: 'Brisbane, Gold Coast, and Lockyer Valley Deck Builder'
 welcomeDescription: >-
   DeKing designs, builds, maintains and restores high quality commercial and
   residential decks. DeKings design and construction service comes with a 25
