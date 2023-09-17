@@ -62,10 +62,10 @@ So you’ve decided that you want to build an outdoor kitchen, but you don’t k
 
 There are some great outdoor kitchen ideas and inspiration available online that can help you get started (if you don’t know where to start) or narrow your focus (if you want help making decisions).
 
-If it’s pure inspiration you’re after, check out some of the amazing possibilities for an outdoor kitchen space in the **_Houzz_** article, ‘[How to Build the Perfect Outdoor Kitchen](https://www.houzz.com/magazine/how-to-build-the-perfect-outdoor-kitchen-stsetivw-vs~64023153?vm=thumbs)’.
+If it’s pure inspiration you’re after, check out some of the amazing possibilities for an outdoor kitchen space in the _**Houzz**_ article, ‘[How to Build the Perfect Outdoor Kitchen](https://www.houzz.com/magazine/how-to-build-the-perfect-outdoor-kitchen-stsetivw-vs~64023153?vm=thumbs)’.
 
 ## Contact Us
 
 If you’re thinking about adding an outdoor kitchen to your house, [Contact us](https://www.dekingdecks.com.au/contact/) at DeKing Decks today. We’d be happy to talk to you about your options and provide you with a quote.
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**
