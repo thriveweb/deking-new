@@ -16,9 +16,7 @@ meta:
     When looking to add an interesting feature to your home there are a number
     of deck patio combination ideas that are practical and interesting for SE
     QLD.
-  title: >-
-    Deck Patio Combination Ideas Brisbane, Gold Coast, Toowoomba, Lockyer
-    Valley, SE QLD
+  title: 'Deck Patio Combination Ideas Brisbane, Gold Coast, , Lockyer Valley, SE QLD'
 ---
 When a customer is looking to add a really interesting feature to their home there are a number of [deck patio combination](https://www.dekingdecks.com.au/services/patio-roofs/) ideas that are practical, as well as interesting, options to add additional living space to the property.
 
@@ -50,6 +48,6 @@ The Deck patio combination is a great way to enhance living space- whether it be
 
 <iframe src="https://www.youtube.com/embed/FTnnj4QX4pg?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**
 
 We hope these deck patio combination ideas are useful. If you live in SE Queensland and would like to talk about your specific situation then please call on 1800 335 464 or email us at <mailto:info@dekingdecks.com.au>. Also take a look at [Our Patios page](https://www.dekingdecks.com.au/services/) for more information or our [patio roof calculator](https://www.dekingdecks.com.au/quote-calculator/)  to find out the cost of a new patio.
