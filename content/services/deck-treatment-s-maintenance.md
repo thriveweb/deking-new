@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: Deck Treatment's & Maintenance
+title: Deck Treatments & Maintenance
 status: Published
 date: '2018-09-03'
 featuredImage: /images/uploads/oiled_deck.jpg
