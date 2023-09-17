@@ -75,6 +75,6 @@ DeKing have in-house design specialists. Whether you want to design the ultimate
 
 Have a look through the [gallery](https://www.dekingdecks.com.au/services/pool-decking/) of decks that we have previously built to get an idea of what we can offer. [Contact us](https://www.dekingdecks.com.au/contact/) for more information.
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim
 
 See our average cost to build a deck with or without a patio. Or use our Decking Calculator, Patio Roofing Calculator to get a more accurate estimate.
