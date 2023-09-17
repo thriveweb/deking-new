@@ -69,4 +69,4 @@ How has the timber been stored after it was recovered?
 
 Have a look through the [gallery](https://www.dekingdecks.com.au/services/pool-decking/) of pool decks that we have previously built to get an idea of the quality that we can provide for you. [Contact us](https://www.dekingdecks.com.au/contact/) for more information.
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**
