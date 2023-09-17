@@ -102,6 +102,6 @@ meta:
   description: >-
     ECO Decking - At DeKing, we believe that you should be able to enjoy the
     outdoors from your deck without harming the environment.
-  title: 'ECO Decking Brisbane, Gold Coast, Toowoomba and Lockyer Valley'
+  title: 'ECO Decking Brisbane, Gold Coast, and Lockyer Valley'
 ---
 
