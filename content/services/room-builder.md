@@ -73,9 +73,9 @@ servicePods:
       If you are contemplating adding one or more rooms (and maybe a deck as
       well) to your current home we would love to talk with you and discuss your
       ideas and requirements. Please contact us on 1800 335 464 or complete an
-      enquiry form on our website. We service Brisbane, Gold Coast, Toowoomba
-      and Lockyer Valley areas and would love to help you get your home
-      extension and deck dreams underway.
+      enquiry form on our website. We service Brisbane, Gold Coast, and Lockyer
+      Valley areas and would love to help you get your home extension and deck
+      dreams underway.
     podImage: /images/uploads/fullsizeoutput_2157.jpg
 videoTitle: ''
 videoContent: ''
