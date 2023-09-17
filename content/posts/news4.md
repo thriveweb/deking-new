@@ -91,4 +91,4 @@ DeKing Decks doesn’t just build perfect patios for the iconic summer party. We
 Now is the perfect time to [contact DeKing Decks](https://www.dekingdecks.com.au/contact/) and arrange for your patio to be built. Or use our [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate. See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. We can talk to you about your budget and what you want to do with your space. Get the summer season kick-started with your dream patio.
 
 **
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**
