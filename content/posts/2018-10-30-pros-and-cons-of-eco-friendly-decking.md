@@ -88,4 +88,4 @@ At DeKing Decks we offer customers the choice of timber and eco decking.
 [Click Here](https://www.dekingdecks.com.au/services/eco-decking/) for more information on Eco Decks at Deking Decks.
 
 **
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**
