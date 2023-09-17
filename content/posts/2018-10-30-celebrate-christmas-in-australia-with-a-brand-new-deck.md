@@ -37,7 +37,7 @@ Buying yourself a deck for Christmas may be the best present you ever get! It tr
 
 ## Why Choose DeKing for your Christmas Deck?
 
-DeKing Decks have been building world-class timber decks since 2003. We’re a local Queensland business servicing areas including Brisbane, Gold Coast, Toowoomba and Lockyer Valley.
+DeKing Decks have been building world-class timber decks since 2003. We’re a local Queensland business servicing areas including Brisbane, Gold Coast, and Lockyer Valley.
 
 We’ve been ‘beating Santa to the punch’ for ages, delivering quality decks in time for many South East Queensland homes just in time for Christmas.
 
@@ -61,4 +61,4 @@ If you want a deck for Christmas, now is the time to act. [Contact us at DeKing 
 
 **DeKing Decks Service Areas:**
 
-Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
+Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim
