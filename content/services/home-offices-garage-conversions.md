@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: 'Home Office''s, Garage Conversions'
+title: 'Home Offices, Garage Conversions'
 parentSlug: /services/home-modifications/
 status: Published
 date: '2020-03-27'
