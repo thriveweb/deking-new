@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Commercial Decking
+parentSlug: /services/decks/
 status: Published
 date: '2018-09-04'
 featuredImage: /images/uploads/dsc_0434.jpg
@@ -120,7 +121,7 @@ bannerButton:
 categories:
   - category: 'Commercial '
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/commercial-decking/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/commercial-decking/'
   description: >-
     Get the ultimate timber deck or boardwalk for your riverside restaurant,
     hotel pool, beachfront esplanade, community pool, vineyard walkway, or

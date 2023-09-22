@@ -1,11 +1,11 @@
 ---
 template: SingleService
-title: Timber Decks
+title: Decks
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
 excerpt: 'A DeKing Deck will add Value, quality, longevity, and style to your home.'
-welcomeTitle: 'Brisbane, Gold Coast, and Lockyer Valley Deck Builder'
+welcomeTitle: 'Brisbane, Gold Coast, Toowoomba and Lockyer Valley Deck Builder'
 welcomeDescription: >-
   DeKing designs, builds, maintains and restores high quality commercial and
   residential decks. DeKings design and construction service comes with a 25
@@ -100,10 +100,11 @@ bannerButton:
 categories:
   - category: Timber Decks
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/timber-decks/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/timber-decks/'
   description: >-
     DeKing are Timber Decking specialists on the Gold Coast, Brisbane, Ipswich,
     Logan, and Sunshine Coast. Use our Decking Calculators for a Free Quote.
   noindex: false
   title: Timber Deck Builders Brisbane - Wooden Decks SE QLD
 ---
+

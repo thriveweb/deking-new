@@ -97,7 +97,7 @@ class Footer extends React.Component {
                   <h4>OUR SERVICES</h4>
                   <ul>
                     {footerServices && footerServices.map((link)=>(
-                      <li><a href={link.url}>{link.title}</a></li>
+                      <li key={Math.random()}><a href={link.url}>{link.title}</a></li>
                     ))}
                   </ul>
                 </div>
@@ -105,7 +105,7 @@ class Footer extends React.Component {
                   <h4>ABOUT</h4>
                   <ul>
                     {footerLinks && footerLinks.map((link)=>(
-                      <li><a href={link.url}>{link.title}</a></li>
+                      <li key={Math.random()}><a href={link.url}>{link.title}</a></li>
                     ))}
                   </ul>
                   <h4>CONNECT</h4>

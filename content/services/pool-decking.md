@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Pool Decking
+parentSlug: /services/decks/
 status: Featured
 date: 2018-03-2
 featuredImage: /images/uploads/dsc_0041.jpg
@@ -144,7 +145,7 @@ bannerButton:
 categories:
   - category: Pool Decking
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/pool-decking/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/pool-decking/'
   description: >-
     DeKing Decks are Timber Pool Deck building specialists creating better
     lifestyles for you. Pool Decking Services from the Sunshine Coast to the

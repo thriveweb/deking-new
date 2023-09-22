@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Pet Enclosure
+parentSlug: /services/home-modifications/
 status: Published
 date: '2023-06-19'
 featuredImage: /images/uploads/enclosed-deck-complete.jpg
@@ -123,7 +124,7 @@ bannerButton:
   label: Contact Us
   link: 'https://www.dekingdecks.com.au/contact/'
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/pet-enclosure/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/home-modifications/pet-enclosure/'
   description: >-
     If you're interested in building a pet enclosure contact us today! Our team
     of experts is ready to help you create the perfect outdoor space for your

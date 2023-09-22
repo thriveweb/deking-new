@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: DIY Kitset Decks & Patios
+parentSlug: /services/decks/
 status: Published
 date: '2018-10-06'
 featuredImage: /images/uploads/diy-kitset-deck.jpg
@@ -137,7 +138,7 @@ categories:
   - category: Patio Roofs
   - category: Pool Decking
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/diy-kitset-decks-patios/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/diy-kitset-decks-patios/'
   description: >-
     DeKing DIY Deck Kits 5m x 4m  and 3m x 1.5m - Australian Species Hardwood
     sourced responsibly from renewable forests. Includes DVD. 

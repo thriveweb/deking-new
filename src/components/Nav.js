@@ -55,26 +55,38 @@ export default class Nav extends Component {
   render() {
     const { allPages, globalSettings } = this.props
     const { active } = this.state
-    const getChildPages = parentSlug =>
-      allPages.filter(
-        page =>
-          // _get(page, 'fields.slug', '') !== parentSlug &&
-          _get(page, 'fields.slug', '').indexOf(parentSlug) === 0
-      )
+    const getChildPages = (parentSlug, isSecondLevel) => {
+      let childPages = [];
+      if (!isSecondLevel) {
+        childPages = allPages.filter(
+          page => _get(page, 'fields.slug', '').indexOf(parentSlug) === 0 && _get(page, 'frontmatter.parentSlug') == null
+        )
+      } else {
+        childPages = allPages.filter(
+          page => _get(page, 'frontmatter.parentSlug') == parentSlug
+        )
+      }
+      // console.log("********* parentSlug, isSecondLevel, childPages", parentSlug, isSecondLevel, childPages)
+      return childPages;
+    }
 
-    const renderChildPageLinks = parentSlug => {
-      let childPages = _sortBy(getChildPages(parentSlug), 'frontmatter.date')
+    const renderChildPageLinks = (parentSlug, isSecondLevel) => {      
+      let childPages = _sortBy(getChildPages(parentSlug, isSecondLevel), 'frontmatter.date')
       childPages = _reject(childPages, ['fields.slug', '/services/'])
-
       if (parentSlug === '/about/') {
-        const customOrder = [
-          '/about/process/',
-          '/about/',
-          '/about/team/',
-          '/about/join/',
-          '/about/guarantees/',
-          '/about/finance/'
-        ]
+        let customOrder = [];
+        //custom order for about menu
+        if (parentSlug === '/about/') {
+          customOrder = [
+            '/about/process/',
+            '/about/',
+            '/about/team/',
+            '/about/join/',
+            '/about/guarantees/',
+            '/about/finance/'
+          ]
+        }
+
         let orderedChildPages = customOrder.map(slug => {
           for (let page in childPages) {
             if (childPages[page].fields.slug === slug) return childPages[page]
@@ -85,36 +97,42 @@ export default class Nav extends Component {
 
       if (!childPages.length) return null
       return (
-        <div className={`SubNav SubNav-${_kebabCase(parentSlug)}`}>
-          {childPages.map(page => (
-            <NavLink
-              onClick={this.toggleActive}
-              key={page.fields.slug}
-              to={page.fields.slug}
-              exact
-            >
-              {page.frontmatter.title}
-            </NavLink>
-          ))}
+        <div className={`${isSecondLevel ? `SubSubNav` : `SubNav SubNav-${_kebabCase(parentSlug)}`}`}>
+          {childPages.map(page => {
+            const isSecondLevel = page.fields.slug == '/services/decks/' || page.fields.slug == '/services/home-modifications/';
+            // console.log("******* page.fields.slug,isSecondLevel", page.fields.slug, isSecondLevel)
+            return (
+              <React.Fragment key={Math.random()}>
+                {!isSecondLevel && <NavLink
+                  onClick={this.toggleActive}
+                  key={page.fields.slug}
+                  to={page.fields.slug}
+                  exact
+                >
+                  {page.frontmatter.title}
+                </NavLink>}
+                {isSecondLevel && <NavLinkGroup to={page.fields.slug} title={page.frontmatter.title} isSecondLevel />}
+              </React.Fragment>
+            )
+          })}
         </div>
       )
     }
 
-    const NavLinkGroup = ({ to, title, ...props }) => (
+    const NavLinkGroup = ({ to, title, isSecondLevel, ...props }) => (
       <div
-        className={`NavLinkGroup ${
-          this.state.activeSubnav === to ? 'active' : ''
-        }`}
+        className={`NavLinkGroup${isSecondLevel ? ` SecondLevelParent` : ``} ${this.state.activeSubnav === to ? 'active' : ''
+          }`}
       >
-        <NavLink to={to} {...props} onClick={this.toggleActive}>
-          {title}
+        <NavLink to={!isSecondLevel?to:''} {...props} onClick={this.toggleActive}>
+          {title}<span className={isSecondLevel ? 'SecondLevelArrow' : ''}></span>
         </NavLink>
         <ChevronDown
           onClick={() => {
             this.toggleSubnav(to)
           }}
         />
-        {renderChildPageLinks(to)}
+        {renderChildPageLinks(to, isSecondLevel)}
       </div>
     )
 

@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: ECO Decking
+parentSlug: /services/decks/
 status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/img_9614.jpg
@@ -98,7 +99,7 @@ bannerButton:
 categories:
   - category: Eco Decking
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/eco-decking/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/eco-decking/'
   description: >-
     ECO Decking - At DeKing, we believe that you should be able to enjoy the
     outdoors from your deck without harming the environment.

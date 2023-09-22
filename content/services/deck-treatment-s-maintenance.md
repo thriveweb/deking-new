@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Deck Treatments & Maintenance
+parentSlug: /services/decks/
 status: Published
 date: '2018-09-03'
 featuredImage: /images/uploads/oiled_deck.jpg
@@ -68,7 +69,7 @@ bannerButton:
   link: ''
 categories: []
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/deck-treatments-maintenance/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/deck-treatments-maintenance/'
   description: >-
     Deck Oil or Acrylic for Treatment and Maintenance. Here what DeKing Decks
     have to say about the best options for Australian Deck

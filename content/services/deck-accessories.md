@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: 'Deck Accessories '
+parentSlug: /services/decks/
 status: Published
 date: '2018-12-16'
 featuredImage: /images/uploads/balustrade_handrail_stainlesssteelwire.jpg
@@ -109,7 +110,7 @@ bannerButton:
   link: contact
 categories: []
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/deck-accessories/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/decks/deck-accessories/'
   description: >-
     We don't just stop at building you a deck or patio roof, there is a full
     catalogue of add ons and accessories that are also available.

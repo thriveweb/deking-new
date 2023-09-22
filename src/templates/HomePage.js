@@ -434,10 +434,11 @@ export const pageQuery = graphql`
       edges {
         node {
           fields {
-            slug
+            slug            
           }
           frontmatter {
             title
+            parentSlug
             featuredImage {
               ...SmallImage
             }
