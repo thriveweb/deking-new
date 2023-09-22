@@ -48,6 +48,6 @@ Although building a patio with pavers seems fairly simple, building one that las
 
 Deking are highly experienced in building patios and if you should like to have a patio professionally built by us, we would welcome you to contact us in this regard.  Click on the links to find out more information on our capabilities in building patios.
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**
 
 [Contact Us](https://www.dekingdecks.com.au/contact/) to get started with your paved patio and patio roofing

@@ -6,15 +6,15 @@ status: Published
 date: '2018-09-04'
 featuredImage: /images/uploads/dsc_0434.jpg
 excerpt: >-
-  Commercial Decking Brisbane, Gold Coast, Toowoomba and Lockyer Valley.
+  Commercial Decking Brisbane, Gold Coast, and Lockyer Valley.
 
   Decks, boardwalks, pergolas, patios, handrails, balustrades, screening &
   more...
 welcomeTitle: Commercial Decking
 welcomeDescription: >-
   DeKing Pty Ltd has designed and built commercial decks, boardwalks, pergolas
-  and patios throughout the greater Brisbane, Gold Coast, Toowoomba and Lockyer
-  Valley areas. Getting the ultimate timber deck or boardwalk for your riverside
+  and patios throughout the greater Brisbane, Gold Coast, and Lockyer Valley
+  areas. Getting the ultimate timber deck or boardwalk for your riverside
   restaurant, hotel pool, beachfront esplanade, community pool, vineyard
   walkway, or seaside pier is easy with our professional deck design and deck
   construction team.

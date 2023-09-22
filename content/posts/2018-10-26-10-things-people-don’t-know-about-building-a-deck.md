@@ -20,7 +20,7 @@ meta:
 ---
 Building a Deck in QLD? - 10 things you probably don't know. For example, do you need a permit? how big can the deck be? can I build over a swimming pool?
 
-DeKing Decks started out in 2003 as a 1800 number—don’t worry, not _that_ kind of 1800 number—and has now grown into a world-class decking business servicing all of South East Queensland, including the Gold Coast, Toowoomba and Lockyer Valley. But as David Rider explains, there’s still quite a lot that people don’t know about decks.
+DeKing Decks started out in 2003 as a 1800 number—don’t worry, not _that_ kind of 1800 number—and has now grown into a world-class decking business servicing all of South East Queensland, including the Gold Coast, and Lockyer Valley. But as David Rider explains, there’s still quite a lot that people don’t know about decks.
 
 After working for builders in the housing sector, David found a real need for a company that specialised in timber outdoor decking, and now builds decks, patios, carports, roofing, and gazebos.
 
@@ -67,6 +67,6 @@ Although the business has grown significantly since 2003, some things have alway
 
 See some more of our Decking designs in our decking gallery
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) to get a more accurate estimate.

@@ -34,7 +34,7 @@ Follow[ DeKing Decks on Houzz](https://www.houzz.com.au/professionals/decks-pati
 
 ## About DeKing Decks
 
-Since 2003 the friendly team of people at Deking have been designing and building all types of Decks, Veranda’s, Patios, Carports, Pergolas, Pool Houses, Garage to Office conversions and all outdoor living spaces. In our 17 years in business, we have completed over 960 projects across Brisbane, Gold Coast, Toowoomba and Lockyer Valley.
+Since 2003 the friendly team of people at Deking have been designing and building all types of Decks, Veranda’s, Patios, Carports, Pergolas, Pool Houses, Garage to Office conversions and all outdoor living spaces. In our 17 years in business, we have completed over 960 projects across Brisbane, Gold Coast, and Lockyer Valley.
 
 We pride ourselves on our care, quality, our guarantees and our ability to see the potential in all backyards for our clients. Building on our specialist knowledge and personalised services is an affordable and easy way to enhance lifestyle, connect to your family and increase both living space and value in your home. 
 

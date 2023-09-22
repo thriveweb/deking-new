@@ -54,4 +54,4 @@ The Hunter pacific Icon has 54 inch timber blades and the same warranty as the 
 
 The Hunter pacific Icon is also available with sail blades in five different colours.
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim**

@@ -67,4 +67,4 @@ If however you would like us to professionally build a deck for you[ click here 
 
 ![How to Build a Deck.: Step by Step Instructions](/images/uploads/how-to-build-a-deck-step-by-step-instructions.jpg)
 
-DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
+DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim

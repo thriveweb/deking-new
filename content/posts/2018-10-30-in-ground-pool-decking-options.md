@@ -95,6 +95,6 @@ And, if you’re going to invest in an outdoor entertaining area, you may also w
 
 If you live in South East Queensland, [contact DeKing](https://www.dekingdecks.com.au/contact/) to discuss your in-ground pool decking options. We can help you design and build the perfect deck for you.
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim.**
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim.**
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio. Or use our [Decking Calculator](https://www.dekingdecks.com.au/quote-calculator/), [Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/)  to get a more accurate estimate.

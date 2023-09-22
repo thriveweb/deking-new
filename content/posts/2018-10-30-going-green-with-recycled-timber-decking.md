@@ -34,7 +34,7 @@ EKODEKING also provides an array of other decking and sustainability services to
 
 Although responsibly sourced timber is a great start, EKODEKING believes that it can do more to reduce our impact on the environment. The EKODEKING Replant Program is an initiative developed by DeKing that involves the planting of trees for every custom deck sold. For every 20 square meters of decking provided, DeKing plants one tree. This tree will be planted on your property in a spot designated by you!
 
-Recycled timber decking and the many other options provided by DeKing and its EKODEKING division show that we are committed to sustaining our beautiful environment. As one of the top deck builders in Brisbane, Gold Coast, Toowoomba and Lockyer Valley. DeKing takes responsibility for the sustainability of the community. [Contact us](https://www.dekingdecks.com.au/contact/) today and ask about eco-friendly decking options from DeKing!
+Recycled timber decking and the many other options provided by DeKing and its EKODEKING division show that we are committed to sustaining our beautiful environment. As one of the top deck builders in Brisbane, Gold Coast, and Lockyer Valley. DeKing takes responsibility for the sustainability of the community. [Contact us](https://www.dekingdecks.com.au/contact/) today and ask about eco-friendly decking options from DeKing!
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim
 **

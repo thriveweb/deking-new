@@ -65,4 +65,4 @@ Functionality is also very important.  You will need to ensure that there is ade
 
 The best deck and cover is the one designed especially for you.  DeKing Decks can help create your perfect deck. [Contact us](https://www.dekingdecks.com.au/contact/) today for more information.
 
-DeKing Decks servicing the following areas: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay,  Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim.
+DeKing Decks servicing the following areas: Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay,  Gold Coast, Lockyer Valley and Scenic Rim.

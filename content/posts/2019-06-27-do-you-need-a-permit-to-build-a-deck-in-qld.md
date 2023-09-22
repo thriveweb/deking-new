@@ -56,6 +56,6 @@ Contact David from Deking Decks today on 1800 335 464. He loves working with new
 
 Want to know more about decks? Read an interview blog post with David from DeKing Decks who discusses [10 Things People Don’t Know About Building A Deck](https://www.dekingdecks.com.au/posts/10-things-people-dont-know-about-building-a-deck/).
 
-Deking Decks service Brisbane, Brisbane North, Brisbane South, Redlands, Bayside, Logan, Moreton Bay, Scenic Rim, Ipswich, Gold Coast, Toowoomba and Lockyer Valley.
+Deking Decks service Brisbane, Brisbane North, Brisbane South, Redlands, Bayside, Logan, Moreton Bay, Scenic Rim, Ipswich, Gold Coast, and Lockyer Valley.
 
 Use our [Deck and Patio Roofing Calculator](https://www.dekingdecks.com.au/quote-calculator/) or [Contact Us](https://www.dekingdecks.com.au/contact/) to get a more accurate estimate.

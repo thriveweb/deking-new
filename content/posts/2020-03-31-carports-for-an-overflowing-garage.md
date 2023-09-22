@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Carports for an overflowing Garage
+title: Carports for an Overflowing Garage
 status: Published
 date: '2020-03-31'
 featuredImage: /images/uploads/doublecarport.jpg

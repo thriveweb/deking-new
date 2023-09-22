@@ -58,7 +58,7 @@ The modern **aluminium panels** are also worth a look, they are simple and elega
 
 To discuss your balustrade, deck, balcony and veranda railing and handrail visions, or to get a quote, [contact David at Deking Decks](https://www.dekingdecks.com.au/contact/).
 
-**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Toowoomba, Lockyer Valley and Scenic Rim
+**DeKing Decks service Brisbane, Redlands, Bayside, Logan, Ipswich, Moreton Bay, Gold Coast, Lockyer Valley and Scenic Rim
 **
 
 See our [average cost to build a deck](https://www.dekingdecks.com.au/posts/patio-installation-cost-timber-patio-and-roofing/) with or without a patio.
