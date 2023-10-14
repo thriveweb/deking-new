@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: 'Non Insulated Patio Roof '
+title: Non Insulated Patio Roofs
 parentSlug: services
 status: Published
 date: '2023-10-14'
@@ -15,6 +15,16 @@ welcomeDescription: >-
   crafting high-quality Single Skin, Non-Insulated Patio Roofs in Brisbane. Our
   team of experts is dedicated to transforming your outdoor areas into stylish,
   functional, and inviting spaces.
+
+
+  **Seamless Integration with Your Home**
+
+
+  At Deking Decks, we understand the importance of harmonising your outdoor
+  living space with your home's overall design. Our Single Skin Patio Roofs are
+  designed to seamlessly integrate with your house, creating a natural extension
+  of your living area. Whether you have a modern, traditional, or contemporary
+  home, we can customise the roof to complement your property's style.
 welcomeImage: /images/uploads/patios-verandah-carport-outback-flat-04.jpg
 servicePriceTitle: Price Guide
 QuoteTitle: Get an instant online estimate on your custom patio design
@@ -79,28 +89,13 @@ servicePods:
       a large area, as a heavy roof will require more labour and materials. 
 
 
-
-
       And, with our 15 year warranty, you can’t go wrong with a Single Skin
       Roof. 
 
 
 
 
-      Seamless Integration with Your Home
-
-
-      At Deking Decks, we understand the importance of harmonising your outdoor
-      living space with your home's overall design. Our Single Skin Patio Roofs
-      are designed to seamlessly integrate with your house, creating a natural
-      extension of your living area. Whether you have a modern, traditional, or
-      contemporary home, we can customise the roof to complement your property's
-      style.
-
-
-
-
-      Flexible Design Choices
+      ## Flexible Design Choices
 
 
       Our Single Skin Patio Roofs come in various designs and styles, ensuring
@@ -109,7 +104,7 @@ servicePods:
       the expertise to bring your vision to life. Choose from a range of colours
       and materials to match your home's exterior.
     podImage: /images/uploads/patios-verandah-carport-outback-flat-12.jpg
-    podsTitle: Ease of Installation & Low Costs
+    podsTitle: Ease of Installation & Costs
   - podDescription: >-
       Ready to take the next step in enhancing your outdoor living experience?
       Contact us at Deking Decks and explore the possibilities of Single Skin
