@@ -6,10 +6,10 @@ status: Published
 date: '2023-10-14'
 featuredImage: >-
   /images/uploads/deking-decks-insulated-patio-roofing-benefits-types-and-materials.jpg
-excerpt: 'Offering the aesthetic appeal of a higher ceiling, plus better ventilation'
-welcomeTitle: >-
+excerpt: >-
   Experience Your Dream Outdoor Space with Insulated Flyover Patio Roofs by
   Deking Decks in Brisbane
+welcomeTitle: Insulated Flyover Patio Roofs
 welcomeDescription: >-
   Are you yearning for a patio space that seamlessly blends the beauty of the
   outdoors with indoor comfort? Look no further than Deking Decks. We're your
@@ -45,8 +45,6 @@ servicePods:
       providing more space, headroom, and aesthetic appeal.
 
 
-
-
       ‘Flyover’ refers to the way this patio roof design overlaps the roof of
       the house, attaching to the walls but sitting above the roof structure,
       meaning it can be even higher than the ceilings in your house. This offers
@@ -57,8 +55,6 @@ servicePods:
       - yes, even on rare freezing Queensland winter days. 
 
 
-
-
       This modern design is highly customisable and creates a sense of luxury
       and elegance in any home. Insulation can make even the loudest
       neighbourhood more bearable, creating a garden oasis with reduced noise
@@ -67,19 +63,14 @@ servicePods:
       house seem far bigger and more upscale. 
 
 
-
-
       It’s clear why this is becoming an incredibly popular option for
       homeowners. 
 
 
-
-
-      ## Why choose an insulated flyover roof?
-
-
-
-
+      ##
+    podImage: /images/uploads/7.jpg
+    podsTitle: WHAT IS A FLYOVER INSULATED ROOF?
+  - podDescription: >-
       * **Expanded Living Area:** An insulated flyover roof adds a usable space
       to your home ideal for entertaining guests, hosting events, or simply
       enjoying outdoor activities.
@@ -105,10 +96,6 @@ servicePods:
       property's aesthetics.
 
 
-
-
-
-
       ## How is a flyover roof built?
 
 
@@ -124,12 +111,13 @@ servicePods:
       2. Fascia riser bracket. This method does not penetrate the roof surface
       but is instead fixed to the side of the house roof rafter and protrudes
       through the fascia, just under the gutter.
-    podImage: /images/uploads/7.jpg
-    podsTitle: WHAT IS A FLYOVER INSULATED ROOF?
+
+
+      ##
+    podImage: /images/uploads/bundambadeckpatio2.jpg
+    podsTitle: Why choose an insulated flyover roof?
   - podDescription: >-
       ## Seamless Integration of Indoor and Outdoor Living
-
-
 
 
       Breaking down the barriers between indoor and outdoor living is a hallmark
@@ -139,11 +127,7 @@ servicePods:
       home, bridging the gap between the indoors and the outdoors.
 
 
-
-
       ## Smart Functionality Enhancing Aesthetics
-
-
 
 
       Functionality meets aesthetics in our insulated panels. These panels house
@@ -153,11 +137,7 @@ servicePods:
       cool breeze of fans without any eyesores.
 
 
-
-
       ## Tailored Elegance for Every Home
-
-
 
 
       We understand that every house has a unique charm. This is why our flyover
@@ -168,11 +148,7 @@ servicePods:
       your property's appeal.
 
 
-
-
       ## Versatile Solutions for Every Space
-
-
 
 
       Be it a small corner or a sprawling expanse, our insulated roofing panels
@@ -180,23 +156,13 @@ servicePods:
       options—50mm, 75mm, and 100mm—we provide the flexibility to deliver a
       stunning flyover patio roof that aligns with your preferences and
       perfectly fits your distinct area.
-
-
-
-
-      ## Roofing Styles That Harmonise with Your Vision
-
-
-
-
+    podImage: /images/uploads/2.jpg
+    podsTitle: BENEFITS OF A FLYOVER INSULATED ROOF
+  - podDescription: >-
       Choice matters when it comes to your dream patio. Our range of roofing
       options includes classic designs and timeless corrugated styles, granting
       you the freedom to match your house's architectural aesthetic. With Deking
       Decks, your dream patio roof design is well within reach.
-
-
-
-
 
 
       Insulated roofing offers a clean and simple alternative to conventional
@@ -210,10 +176,6 @@ servicePods:
       * Ceiling like underside
 
       * Ability to add lighting and fans
-
-
-
-
 
 
       Want to see real life example of a flyover patio roof in Brisbane? Take a
@@ -231,8 +193,8 @@ servicePods:
       online quote](https://www.dekingdecks.com.au/quote-calculator/) today to
       embark on your journey towards an outdoor space that epitomises elegance,
       functionality, and innovation. Your ideal patio is only a call away!
-    podImage: /images/uploads/bundambadeckpatio2.jpg
-    podsTitle: BENEFITS OF A FLYOVER INSULATED ROOF
+    podImage: /images/uploads/how-to-get-a-deck-permit-in-qld-australia.jpeg
+    podsTitle: Roofing Styles That Harmonise with Your Vision
 videoTitle: ''
 videoContent: ''
 bannerTitle: ''
