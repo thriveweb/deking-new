@@ -4,7 +4,7 @@ title: Non Insulated Patio Roofs
 parentSlug: services
 status: Published
 date: '2023-10-14'
-featuredImage: /images/uploads/1.jpg
+featuredImage: /images/uploads/patios-verandah-carport-outback-flat-04.jpg
 excerpt: >-
   Elevate Your Outdoor Space with Single Skin Patio Roofs (Non-Insulated) by
   Deking Decks in Brisbane
