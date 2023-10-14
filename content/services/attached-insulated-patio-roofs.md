@@ -5,10 +5,10 @@ parentSlug: services
 status: Published
 date: '2023-10-14'
 featuredImage: /images/uploads/cooldekredlandbaymerbauposts.jpg
-excerpt: Seamlessly extend your living area to the outdoors
-welcomeTitle: >-
+excerpt: >-
   Elevate Your Outdoor Experience with Attached Insulated Patio Roofs by Deking
   Decks in Brisbane
+welcomeTitle: Insulated Attached Patio Roofs
 welcomeDescription: >-
   Ready to transform your outdoor space into a haven of comfort and style? Look
   no further than Deking Decks. We're your reliable partner in creating
