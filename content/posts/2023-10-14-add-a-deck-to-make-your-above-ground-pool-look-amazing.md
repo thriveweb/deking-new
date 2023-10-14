@@ -10,6 +10,8 @@ shortDescription: >-
 categories:
   - category: Pool Decking
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/add-a-deck-to-make-your-above-ground-pool-look-amazing
   description: >-
     Transform your above-ground pool with a well-designed deck, turning it into
     a stunning focal point in your outdoor space.
