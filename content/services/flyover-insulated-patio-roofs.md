@@ -69,7 +69,7 @@ servicePods:
 
       ##
     podImage: /images/uploads/7.jpg
-    podsTitle: WHAT IS A FLYOVER INSULATED ROOF?
+    podsTitle: What Is a Flyover Insulated Roof?
   - podDescription: >-
       * **Expanded Living Area:** An insulated flyover roof adds a usable space
       to your home ideal for entertaining guests, hosting events, or simply
@@ -96,30 +96,13 @@ servicePods:
       property's aesthetics.
 
 
-      ## How is a flyover roof built?
-
-
-      There are two methods of creating the lift above the house roof, with both
-      systems fully engineered to meet Australian standards and cyclonic
-      conditions:
-
-
-      1. Extenda brackets or SHS posts. These protrude through the roof surface
-      and are attached to the house framework. Rubber Dektite flashings are then
-      installed for a 100% water seal.
-
-      2. Fascia riser bracket. This method does not penetrate the roof surface
-      but is instead fixed to the side of the house roof rafter and protrudes
-      through the fascia, just under the gutter.
+      ## 
 
 
       ##
     podImage: /images/uploads/bundambadeckpatio2.jpg
     podsTitle: Why choose an insulated flyover roof?
   - podDescription: >-
-      ## Seamless Integration of Indoor and Outdoor Living
-
-
       Breaking down the barriers between indoor and outdoor living is a hallmark
       of modern design. Our insulated flyover roofs accomplish this seamlessly.
       Bid farewell to conventional patio roofing and welcome a new era with
@@ -137,7 +120,11 @@ servicePods:
       cool breeze of fans without any eyesores.
 
 
-      ## Tailored Elegance for Every Home
+      ##
+    podImage: /images/uploads/what-s-the-cost-of-patio-construction-in-queensland.jpg
+    podsTitle: Seamless Integration of Indoor and Outdoor Living
+  - podDescription: >-
+      ## 
 
 
       We understand that every house has a unique charm. This is why our flyover
@@ -156,8 +143,26 @@ servicePods:
       options—50mm, 75mm, and 100mm—we provide the flexibility to deliver a
       stunning flyover patio roof that aligns with your preferences and
       perfectly fits your distinct area.
-    podImage: /images/uploads/2.jpg
-    podsTitle: BENEFITS OF A FLYOVER INSULATED ROOF
+    podImage: /images/uploads/16.jpg
+    podsTitle: Tailored Elegance for Every Home
+  - podDescription: >-
+      ## 
+
+
+      There are two methods of creating the lift above the house roof, with both
+      systems fully engineered to meet Australian standards and cyclonic
+      conditions:
+
+
+      1. Extenda brackets or SHS posts. These protrude through the roof surface
+      and are attached to the house framework. Rubber Dektite flashings are then
+      installed for a 100% water seal.
+
+      2. Fascia riser bracket. This method does not penetrate the roof surface
+      but is instead fixed to the side of the house roof rafter and protrudes
+      through the fascia, just under the gutter.
+    podImage: /images/uploads/pool_decking.jpg
+    podsTitle: How is a flyover roof built?
   - podDescription: >-
       Choice matters when it comes to your dream patio. Our range of roofing
       options includes classic designs and timeless corrugated styles, granting
