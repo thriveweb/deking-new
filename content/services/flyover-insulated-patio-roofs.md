@@ -243,8 +243,9 @@ bannerButton:
 meta:
   canonicalLink: 'https://www.dekingdecks.com.au/services/flyover-insulated-patio-roofs/'
   description: >-
-    Flyover Patio Roofs offer the aesthetic appeal of a higher ceiling, plus
-    better ventilation
+    Flyover Insulated Patio Roofs offer the aesthetic appeal of a higher
+    ceiling, plus better ventilation. Use our Patio Roofing Calculator for a
+    Free Quote
   title: Flyover Insulated Patio Roofs Brisbane - DeKing
 ---
 
