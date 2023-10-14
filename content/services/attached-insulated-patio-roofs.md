@@ -59,18 +59,12 @@ servicePods:
       heat through the roof sheeting.
 
 
-
-
       Whilst Single Skin roofs are still effective and attractive, for the small
       increase in investment most people would find value in the presence of
       insulated panel especially in the hot Brisbane sun.
 
 
-
-
       ## Why Choose an Attached Insulated Patio Roof?
-
-
 
 
       * **Expanded Living Area:** Enjoy additional usable space for various
@@ -92,122 +86,10 @@ servicePods:
       natural extension that matches your property's aesthetics.
 
 
-
-
-      ## Discover the Wonders of Attached Insulated Patio Roofs
-
-
-
-
-      Our attached insulated patio roofs bring a touch of elegance to your
-      outdoor living. Imagine having a functional and stunning extension of your
-      home that perfectly integrates with (and enhances) your lifestyle. It's
-      more than just an addition—it's a complete transformation that enhances
-      both your living space and your home's value.
-
-
-
-
-
-
-      **Insulated roofing offers a clean and simple alternative to conventional
-      building methods with many advantages:**
-
-
-      * Pre painted with a choice of colours
-
-      * Insulated core to stop reflective heat and dampen noise from rain.
-
-      * Ceiling like underside
-
-      * Ability to add lighting and fans
-
-
-
-
-      ## Seamless Integration with Attached Insulated Patio Roofs
-
-
-
-
-      The days of a clear divide between indoor and outdoor spaces are long
-      gone. Our attached insulated patio roofs create a smooth transition,
-      allowing you to step from your home into a covered outdoor area without
-      missing a beat. Experience the comfort of indoor living while enjoying the
-      freedom of the outdoors.
-
-
-
-
-      Our insulated panels are designed with your comfort and aesthetics in
-      mind. These panels not only regulate temperature for year-round comfort
-      but also feature concealed channels for electrical wiring. Say goodbye to
-      unsightly wires and hello to a clean and clutter-free ceiling, adorned
-      with the warmth of soft lighting and the cool breeze of fans.
-
-
-
-
-      ## Tailored to Enhance Your Home's Aesthetics
-
-
-      Every home tells a unique story, and our Attached Insulated Patio Roofs
-      are designed to harmonise with your home's individual style. From matching
-      gutters to a design that seamlessly integrates, every detail is carefully
-      considered to ensure a cohesive and stylish extension of your property.
-
-
-
-
-      You have two top profiles to choose from: either the traditional
-      corrugated shape of the Insulated Panel CGI or the high performance
-      decking shape of the Classic Trimdek Insulated Panel. For the underside
-      ceiling, there is a smooth matt finish. The roof side comes in a choice of
-      colours to match in with your overall house look.
-
-
-
-
-
-
-      INSULATED PANEL INSULATION RATING (R VALUE)
-
-
-      * R Value (m2K/W) at 14°C Mean Temp
-
-      * 50 mm Panel 1.27 @ 1.48
-
-      * 75 mm Panel 1.91 @ 2.11
-
-      * 100mm Panel 2.54 @ 2.75
-
-
-
-
-
-
-      ## Versatile Comfort for Every Occasion
-
-
-
-
-      Whether you're hosting a lively gathering, enjoying a serene afternoon, or
-      simply unwinding after a busy day, our Attached Insulated Patio Roofs
-      provide the perfect setting. Create an inviting space for entertaining or
-      a tranquil oasis for relaxation—the choice is yours.
-
-
-
-
-
-
-      And, with our 15 year warranty, you can happily know that your Attached
-      Insulated roof will last for many beautiful outdoor days and nights. 
+      ## 
 
 
       …
-
-
 
 
       Want to see a real life example of an insulated patio roof in Brisbane?
@@ -216,8 +98,6 @@ servicePods:
 
 
       …
-
-
 
 
       Ready to transform your outdoor space into a haven of modern luxury? Use
@@ -230,7 +110,86 @@ servicePods:
     podImage: /images/uploads/newhomepatio.jpg
     podsTitle: How Does the Insulation Work?
 videoTitle: ''
-videoContent: ''
+videoContent: >-
+  ## Discover the Wonders of Attached Insulated Patio Roofs
+
+
+  Our attached insulated patio roofs bring a touch of elegance to your outdoor
+  living. Imagine having a functional and stunning extension of your home that
+  perfectly integrates with (and enhances) your lifestyle. It's more than just
+  an addition—it's a complete transformation that enhances both your living
+  space and your home's value.
+
+
+  **Insulated roofing offers a clean and simple alternative to conventional
+  building methods with many advantages:**
+
+
+  * Pre painted with a choice of colours
+
+  * Insulated core to stop reflective heat and dampen noise from rain.
+
+  * Ceiling like underside
+
+  * Ability to add lighting and fans
+
+
+  ## Seamless Integration with Attached Insulated Patio Roofs
+
+
+  The days of a clear divide between indoor and outdoor spaces are long gone.
+  Our attached insulated patio roofs create a smooth transition, allowing you to
+  step from your home into a covered outdoor area without missing a beat.
+  Experience the comfort of indoor living while enjoying the freedom of the
+  outdoors.
+
+
+  Our insulated panels are designed with your comfort and aesthetics in mind.
+  These panels not only regulate temperature for year-round comfort but also
+  feature concealed channels for electrical wiring. Say goodbye to unsightly
+  wires and hello to a clean and clutter-free ceiling, adorned with the warmth
+  of soft lighting and the cool breeze of fans.
+
+
+  ## Tailored to Enhance Your Home's Aesthetics
+
+
+  Every home tells a unique story, and our Attached Insulated Patio Roofs are
+  designed to harmonise with your home's individual style. From matching gutters
+  to a design that seamlessly integrates, every detail is carefully considered
+  to ensure a cohesive and stylish extension of your property.
+
+
+  You have two top profiles to choose from: either the traditional corrugated
+  shape of the Insulated Panel CGI or the high performance decking shape of the
+  Classic Trimdek Insulated Panel. For the underside ceiling, there is a smooth
+  matt finish. The roof side comes in a choice of colours to match in with your
+  overall house look.
+
+
+  INSULATED PANEL INSULATION RATING (R VALUE)
+
+
+  * R Value (m2K/W) at 14°C Mean Temp
+
+  * 50 mm Panel 1.27 @ 1.48
+
+  * 75 mm Panel 1.91 @ 2.11
+
+  * 100mm Panel 2.54 @ 2.75
+
+
+  ## Versatile Comfort for Every Occasion
+
+
+  Whether you're hosting a lively gathering, enjoying a serene afternoon, or
+  simply unwinding after a busy day, our Attached Insulated Patio Roofs provide
+  the perfect setting. Create an inviting space for entertaining or a tranquil
+  oasis for relaxation—the choice is yours.
+
+
+  And, with our 15 year warranty, you can happily know that your Attached
+  Insulated roof will last for many beautiful outdoor days and nights.
 bannerTitle: ''
 bannerDescription: ''
 bannerButton:
