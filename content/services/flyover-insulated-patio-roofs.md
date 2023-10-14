@@ -2,7 +2,7 @@
 template: SingleService
 title: Flyover Insulated Patio Roofs
 parentSlug: services
-status: Draft
+status: Published
 date: '2023-10-14'
 featuredImage: >-
   /images/uploads/deking-decks-insulated-patio-roofing-benefits-types-and-materials.jpg
