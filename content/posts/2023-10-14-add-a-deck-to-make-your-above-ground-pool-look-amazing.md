@@ -21,7 +21,7 @@ When it comes to enhancing the beauty and functionality of your above ground poo
 
 In this guide, we'll explore the functional and aesthetic aspects of pool decking for above ground pools, discuss various materials, designs and ideas, and provide insights on DIY versus professional installation and maintenance.
 
-![](/images/uploads/carindalepooldeck1.jpg)
+![null](/images/uploads/carindalepooldeck1.jpg)
 
 ## How can you make your above ground pool look and feel luxurious with a new deck?
 
@@ -48,7 +48,7 @@ Designing the perfect deck for your above ground pool involves careful considera
 **Deck Designs**
 
 * _Wraparound Deck:_ A wraparound deck encircles the entire pool, providing ample space for lounging, sunbathing, and entertaining. This design maximises functionality and aesthetics.
-* _Single-Side Deck: _If space is limited, consider a single-side deck that runs along one side of the pool. This design allows for easy access and creates a clean, streamlined look.
+* _Single-Side Deck:_ If space is limited, consider a single-side deck that runs along one side of the pool. This design allows for easy access and creates a clean, streamlined look.
 * _Multi-Level Decks:_ Multi-level decks create visual interest while optimising functionality. You can designate specific areas for various activities like dining, sunbathing, and relaxation.
 * _Platform Deck:_ For a minimalist look, a platform deck partially covers the pool, leaving one end exposed for entry. This design offers a sleek and modern aesthetic.
 
@@ -67,7 +67,7 @@ By carefully considering these factors and combining your personal preferences w
 
 The choice of materials for your pool deck is crucial, as it affects both aesthetics and longevity. Here are some popular options:
 
-**Tiles & Pavers **
+**Tiles & Pavers**
 
 Ceramic or porcelain tiles are known for their elegance and resistance to water. They come in various patterns and colours, allowing you to customise your deck's appearance.
 
@@ -148,7 +148,9 @@ If you plan to store pool equipment or accessories on your deck, include built-i
 * _Steps and Entry:_ Plan for easy entry into the pool with steps or a gently sloping entry. Built-in pool steps or a ladder can be integrated into the deck design.
 * _Pool Fence:_ Consider installing a pool fence around the deck to enhance safety and comply with local regulations.
 
-…
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 A well-designed deck can completely transform your above ground pool, turning it into a stunning focal point in your outdoor space. Whether you prefer the timeless appeal of wood or the low-maintenance benefits of composite materials, your deck will not only enhance functionality but also elevate the overall aesthetics of your pool area. 
 
