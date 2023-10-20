@@ -33,7 +33,7 @@ Above ground pools have come a long way, and they no longer resemble their simpl
 
 **Ensuring Safety:** A well-designed deck serves as a safe path around the pool, reducing the risk of slipping on wet grass or dirt.
 
-**Assisting with Drainage:** Properly constructed decks can help with water drainage, preventing puddles around your pool after rain.
+**Assisting with Drainage:** Properly constructed decks can help with water drainage, preventing puddles around your pool after rain, or even flooding.
 
 **Home Value:** A beautifully designed deck can increase the resale value of your home. It's a feature that many homebuyers find attractive, as it offers a space for relaxation and entertainment.
 
@@ -71,7 +71,7 @@ The choice of materials for your pool deck is crucial, as it affects both aesthe
 
 Ceramic or porcelain tiles are known for their elegance and resistance to water. They come in various patterns and colours, allowing you to customise your deck's appearance.
 
-Natural stone or pavers offer a timeless, elegant appearance and excellent slip resistance. They can complement various architectural styles. Pavers made from concrete or natural stone create a timeless and elegant look. They're durable and offer excellent slip resistance. The installation process can be more labour-intensive.
+Natural stone or pavers offer a timeless, elegant appearance and excellent slip resistance. They can complement various architectural styles. The installation process can be more labour-intensive.
 
 Concrete, similarly, is durable and versatile, offering a wide range of design possibilities. It can be stamped, stained, or textured to achieve various looks.
 
@@ -123,7 +123,7 @@ Integrate greenery into your deck design with potted plants, planter boxes, or r
 
 **Water Features**
 
-Consider the soothing sound of running water by incorporating small water features into your deck, such as a cascading fountain or a decorative pond. These elements can enhance the tranquillity of your pool area, even being included in the pool or running off into the pool.
+Consider the soothing sound of running water by incorporating water features into your deck, such as a cascading fountain or a decorative pond. These elements can enhance the tranquillity of your pool area, and can even be included in the pool or run off into the pool.
 
 **Poolside Bar**
 
@@ -147,8 +147,6 @@ If you plan to store pool equipment or accessories on your deck, include built-i
 * _Railing Systems:_ Choose a sturdy and visually appealing railing system to enhance safety and aesthetics. Options include wood, aluminium, and composite railings.
 * _Steps and Entry:_ Plan for easy entry into the pool with steps or a gently sloping entry. Built-in pool steps or a ladder can be integrated into the deck design.
 * _Pool Fence:_ Consider installing a pool fence around the deck to enhance safety and comply with local regulations.
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
