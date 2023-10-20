@@ -35,7 +35,7 @@ Above ground pools have come a long way, and they no longer resemble their simpl
 
 **Assisting with Drainage:** Properly constructed decks can help with water drainage, preventing puddles around your pool after rain.
 
-**Home Value: **A beautifully designed deck can increase the resale value of your home. It's a feature that many homebuyers find attractive, as it offers a space for relaxation and entertainment.
+**Home Value:** A beautifully designed deck can increase the resale value of your home. It's a feature that many homebuyers find attractive, as it offers a space for relaxation and entertainment.
 
 **Entertainment Space:** Your deck creates a designated space for entertaining friends and family. It's perfect for poolside parties, barbecues, or simply enjoying a quiet evening by the water.
 
