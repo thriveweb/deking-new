@@ -2,3 +2,8 @@
 
 /services/decks /services 301!
 /services/home-modifications /services 301!
+
+/residential-decking/ /services/timber-decks/ 301!
+/customer-reviews/ / 301!
+/timber-decks/ /services/timber-decks/ 301!
+/services/house-extension-addition/ /services/house-extensions-additions/ 301!
