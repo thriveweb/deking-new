@@ -99,7 +99,7 @@ export default class Nav extends Component {
       return (
         <div className={`${isSecondLevel ? `SubSubNav` : `SubNav SubNav-${_kebabCase(parentSlug)}`}`}>
           {childPages.map(page => {
-            const isSecondLevel = page.fields.slug == '/services/decks/' || page.fields.slug == '/services/home-modifications/';
+            const isSecondLevel = page.fields.slug == '/services/decks/' || page.fields.slug == '/services/home-modifications/' || page.fields.slug == '/services/patio-roofs/';
             // console.log("******* page.fields.slug,isSecondLevel", page.fields.slug, isSecondLevel)
             return (
               <React.Fragment key={Math.random()}>
