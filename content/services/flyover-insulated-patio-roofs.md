@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Flyover Insulated Patio Roofs
-parentSlug: services
+parentSlug: /services/patio-roofs/
 status: Published
 date: '2023-10-14'
 featuredImage: >-
