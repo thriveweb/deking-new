@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: 'Attached Insulated Patio Roofs '
-parentSlug: services
+parentSlug: /services/patio-roofs/
 status: Published
 date: '2023-10-14'
 featuredImage: /images/uploads/cooldekredlandbaymerbauposts.jpg
@@ -179,7 +179,7 @@ bannerButton:
   label: Contact Us
   link: contact
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/attached-insulated-patio-roofs/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/patio-roofs/attached-insulated-patio-roofs/'
   description: >-
     Attached Insulated Patio Roofs offer seamless extension between your living
     area and outdoors. Use our Patio Roofing Calculator for a Free Quote

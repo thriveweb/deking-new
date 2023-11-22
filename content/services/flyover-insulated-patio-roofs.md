@@ -208,7 +208,7 @@ bannerButton:
   label: Contact Us
   link: contact
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/flyover-insulated-patio-roofs/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/patio-roofs/flyover-insulated-patio-roofs/'
   description: >-
     Flyover Insulated Patio Roofs offer the aesthetic appeal of a higher
     ceiling, plus better ventilation. Use our Patio Roofing Calculator for a

@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Non Insulated Patio Roofs
-parentSlug: services
+parentSlug: /services/patio-roofs/
 status: Published
 date: '2023-10-14'
 featuredImage: /images/uploads/flat-outback-06.jpg
@@ -143,7 +143,7 @@ bannerButton:
   label: Contact Us
   link: contact
 meta:
-  canonicalLink: 'https://www.dekingdecks.com.au/services/non-insulated-patio-roofs/'
+  canonicalLink: 'https://www.dekingdecks.com.au/services/patio-roofs/non-insulated-patio-roofs/'
   description: >-
     Single Skin Non Insulated Patio Roofs offer a versatile and budget-friendly
     option for extending your outdoor living area. Use our Patio Roofing
