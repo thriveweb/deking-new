@@ -66,7 +66,7 @@ export const HomePageTemplate = ({
           !externalVideoURL.length &&
           videoPoster &&
           videoPoster.publicURL && (
-            <Image background src={videoPoster.publicURL} alt={title} style={{background: "linear-gradient(0deg, #ffffff 0%, transparent 100%)"}} />
+            <Image background src={videoPoster.publicURL} alt={title} className="VideoPoster--Image" />
           )}
 
         {title && (

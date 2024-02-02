@@ -53,6 +53,10 @@
   width: 100%;
 }
 
+.home--banner .VideoPoster--Image {
+  background: linear-gradient(0deg, #ffffff 0%, transparent 100%);
+}
+
 .home--banner .PageHeader--Title {
   color: black;
   position: relative;
