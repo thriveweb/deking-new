@@ -21,7 +21,7 @@ bannerDescription: >
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: More Info
-  link: 'https://www.dekingdecks.com.au/about/guarantees/'
+  link: 'about/guarantees'
 promoTitle: We can simply make it happen.
 promoButton:
   label: Our Process
