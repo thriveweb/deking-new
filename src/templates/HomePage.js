@@ -66,7 +66,7 @@ export const HomePageTemplate = ({
           !externalVideoURL.length &&
           videoPoster &&
           videoPoster.publicURL && (
-            <Image background src={videoPoster.publicURL} alt={title} className="VideoPoster--Image" />
+            <Image background src={videoPoster.publicURL} alt={title} />
           )}
 
         {title && (

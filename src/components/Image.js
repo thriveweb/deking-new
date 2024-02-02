@@ -21,6 +21,7 @@ class Image extends React.Component {
       background,
       backgroundSize = 'cover',
       className = '',
+      cname,
       src,
       srcSet,
       source,

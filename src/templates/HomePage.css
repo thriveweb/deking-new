@@ -53,8 +53,21 @@
   width: 100%;
 }
 
-.VideoPoster--Image {
-  background: linear-gradient(0deg, #ffffff 0%, transparent 100%);
+.VideoPoster--Overlay,
+.VideoPoster--Graident {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-position: center;
+  overflow: hidden;
+  background: url('/images/banner-graident.png') -100px 0 no-repeat;
+  background-size: cover;
+}
+
+.VideoPoster--Graident {
+  background: linear-gradient(0deg, #ffffff -50%, transparent 125%);
 }
 
 .home--banner .PageHeader--Title {
