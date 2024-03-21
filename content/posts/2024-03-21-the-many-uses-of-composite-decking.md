@@ -10,6 +10,7 @@ shortDescription: >-
 categories:
   - category: Eco Decking
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/the-many-uses-of-composite-decking/'
   description: >-
     Composite decking has revolutionised outdoor living spaces with its
     versatility, durability, and eco-friendly properties. 
