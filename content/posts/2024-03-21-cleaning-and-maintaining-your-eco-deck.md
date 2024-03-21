@@ -18,7 +18,7 @@ meta:
 ---
 Welcome to the ultimate guide on cleaning and maintaining your eco-friendly composite deck! At Deking Decks, we understand the importance of preserving the beauty and longevity of your prised outdoor investment. 
 
-Whether you're a homeowner in Brisbane or beyond, taking proper care of your deck ensures years of enjoyment and minimal maintenance. In this blog post, we'll walk you through the best practices for cleaning and maintaining your eco deck to keep it pristine for years to come.
+Whether you're a homeowner in Brisbane or beyond, taking proper care of your deck ensures years of enjoyment and minimal maintenance. In this blog post, we'll walk you through the best practices for cleaning and maintaining your [eco deck](https://www.dekingdecks.com.au/services/eco-decking/) to keep it pristine for years to come.
 
 ## Your Comprehensive Guide to Keeping Composite Decking Fresh and Beautiful for Years to Come
 
