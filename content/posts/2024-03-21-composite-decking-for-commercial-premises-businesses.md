@@ -11,6 +11,8 @@ shortDescription: >-
 categories:
   - category: Eco Decking
 meta:
+  canonicalLink: >-
+    https://www.dekingdecks.com.au/posts/composite-decking-for-commercial-premises-businesses/
   description: >-
     A composite deck can be enjoyed by staff, customers, or potential clients
     and business partners - it’s a win-win for any commercial space
