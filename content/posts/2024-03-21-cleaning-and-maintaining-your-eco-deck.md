@@ -10,6 +10,7 @@ shortDescription: >-
 categories:
   - category: Maintenance
 meta:
+  canonicalLink: 'https://www.dekingdecks.com.au/posts/cleaning-and-maintaining-your-eco-deck/'
   description: >-
     Whether you're a homeowner in Brisbane or beyond, taking proper care of your
     deck ensures years of enjoyment and minimal maintenance. 
