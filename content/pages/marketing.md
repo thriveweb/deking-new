@@ -1,7 +1,7 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: Winter Special Giveaway
+title: Winter Special Give Away
 subtitle: FREE Outdoor Heating Package
 featuredImage: /images/uploads/patio_heater.jpeg
 welcomeTitle: Winter Special
