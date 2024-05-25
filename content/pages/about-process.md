@@ -101,12 +101,12 @@ processes:
       In 12 months’ time, we will return to do a maintenance check as part of
       the care and warranty package we provide.
     title: Enjoy
-bannerTitle: End of June Special
-bannerDescription: |-
-  Free ceiling lights with Insulated patio roofs. 
-  Minimum size 25m2.
-  Offer ends June 2020. Call for T's & C's
-bannerImage: /images/uploads/cooldekrooflightsvictoriapoint3.jpg
+bannerTitle: Winter Special Giveaway
+bannerDescription: >-
+  Free ceiling lights with insulated patio roofs Minimum size 25m2. Free outdoor
+  heating package with Deck & Patio Roof combination, call for details and T's &
+  C's. Offer ends 30th June 2024
+bannerImage: /images/uploads/heatstrip_special_2.jpg
 bannerButton:
   label: Enquire
   link: contact
