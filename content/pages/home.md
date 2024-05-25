@@ -15,13 +15,14 @@ welcomeButton:
 servicesTitle: How can we help you today?
 bannerTitle: Winter Special Giveaway
 bannerDescription: >-
-  Free ceiling lights with insulated patio roofs Minimum size 25m2. Free outdoor
-  heating package with Deck & Patio Roof combination, call for details and T's &
-  C's. Offer ends 30th June 2024
+  Free ceiling lights with insulated patio roofs Minimum size 25m2. 
+
+  Free outdoor heating package with Deck & Patio Roof combination, call for
+  details and T's & C's. Offer ends 30th June 2024
 bannerImage: /images/uploads/heatstrip_special.jpg
 bannerButton:
-  label: Free
-  link: marketing
+  label: Winter Special
+  link: marketing-page
 promoTitle: We can simply make it happen.
 promoButton:
   label: Our Process
