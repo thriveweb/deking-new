@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Decks
+parentSlug: Services
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
@@ -22,8 +23,8 @@ servicePriceTitle: Price guide
 QuoteTitle: Get an instant online estimate for your custom deck
 servicePriceDescription:
   - materials: Treated pine frame with hardwood decking
-    max: '$9,000'
-    min: '$7,500'
+    max: '$13,000'
+    min: '$8,000'
     size: 6 metres by 4 metres
 servicePods:
   - podDescription: >-
@@ -87,12 +88,11 @@ servicePods:
       functional, and provides real value to your property.
     podImage: /images/uploads/21.jpg
     podsTitle: What style of Deck do you need?
-bannerTitle: Summer Storm Special
-bannerDescription: |-
-  Free Patio Roof Ceiling Lights.
-  Minimum deck size 25m2.
-  Available with 6 months interest free terms.
-  Offer ends EOFY 2020. Call for T's & C's
+bannerTitle: Winter Special Giveaway
+bannerDescription: >-
+  Free ceiling lights with insulated patio roofs Minimum size 25m2. Free outdoor
+  heating package with Deck & Patio Roof combination, call for details and T's &
+  C's. Offer ends 30th June 2024
 bannerImage: /images/uploads/patios-verandah-carport-outback-gable-04.jpg
 bannerButton:
   label: Contact Us
