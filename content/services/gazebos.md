@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Gazebos & Outdoor Rooms
+parentSlug: services
 status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/price-back.jpg
@@ -25,9 +26,9 @@ servicePriceTitle: Outdoor Rooms
 QuoteTitle: Pine framing - Hardwood framing
 servicePriceDescription:
   - materials: Hardwood posts and colorbond roofing
-    max: $6000.00
-    min: $4000.00
-    size: 4mx 4m
+    max: '$25,000.00'
+    min: '$15,000.00'
+    size: 5m x 3m
 servicePods:
   - podDescription: "Are you after a quiet place to be with your partner or need an entertaining area for your family and friends, an outdoor room may be the solution to your problem of not enough space in the house.\r\n\nAn outdoor room is a cost effective way of adding a new room to your home, increasing its worth and adding real value to your outdoor living lifestyle.\r With the addition of a solid wall to mount a TV, a bbq outdoor kitchen and a fridge placed underneath, what more do you need to entertain your friends whens its footy finals time.\r\n\nShow us your requirements and we will bring your dream alive, with sound advice and tradespeople with first class skills."
     podImage: /images/uploads/deking-gazebo.jpg
