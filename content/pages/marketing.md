@@ -3,7 +3,7 @@ template: MarketingPage
 slug: promotions-specials-events
 title: Winter Special Giveaway
 subtitle: FREE Outdoor Heating Package
-featuredImage: /images/uploads/heatstrip_special.jpg
+featuredImage: /images/uploads/patio_heater.jpeg
 welcomeTitle: Winter Special
 welcomeDescription: >-
   Free ceiling lights with insulated patio roofs
