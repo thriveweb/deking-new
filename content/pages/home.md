@@ -8,10 +8,10 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: ''
+welcomeTitle: Winter Special Giveaway
 welcomeButton:
-  label: ''
-  link: ''
+  label: Free Heating Package
+  link: marketing
 servicesTitle: How can we help you today?
 bannerTitle: 25 Year Diamond Deck Guarantee
 bannerDescription: >
@@ -21,7 +21,7 @@ bannerDescription: >
 bannerImage: /images/uploads/10.jpg
 bannerButton:
   label: More Info
-  link: 'about/guarantees'
+  link: about/guarantees
 promoTitle: We can simply make it happen.
 promoButton:
   label: Our Process
