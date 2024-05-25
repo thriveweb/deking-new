@@ -19,7 +19,7 @@ bannerDescription: >-
 
   Free outdoor heating package with Deck & Patio Roof combination, call for
   details and T's & C's. Offer ends 30th June 2024
-bannerImage: /images/uploads/heatstrip_special_2.jpg
+bannerImage: /images/uploads/patio_heater.jpg
 bannerButton:
   label: Winter Special
   link: marketing-page
