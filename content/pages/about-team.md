@@ -55,27 +55,16 @@ teamMembers:
       Roly loves a chat, so put the kettle on and be ready to discuss options
       for your next project, or your last fishing trip!
     name: Roly
-    occupation: Project Manager and Sales
+    occupation: Sales Manager
     profileImage: /images/uploads/img_4257.jpg
     profileImage2: /images/uploads/img_4287.jpg
   - bio: >-
-      Brett has a long background in the home improvement industry with his
-      speciality in metal products which makes him our Patio Roof Guru.
-
-
-      You'll find Brett in the weekends exploring the queensland coastline in
-      search of the perfect fishing spot
-    name: Brett
-    occupation: Patio Designer
-    profileImage: /images/uploads/brett.jpg
-    profileImage2: /images/uploads/brett.jpg
-  - bio: >-
-      Andrew A.K.A. Pants, has been with Deking for 10 plus years and is a
+      Andrew A.K.A. Pants, has been with Deking for 15 plus years and is a
       veteran of the team. Pants will work on your project like its his own and
       loves a challenging project to exercise his carpentry skills!
 
 
-      Spare time for Pants involves skateboards and motor racing along with
+      Spare time for Pants involves skateboards and motor bike riding along with
       precious moments with his daughter.
     name: Andrew (Pants)
     occupation: Carpenter
@@ -86,85 +75,60 @@ teamMembers:
       goes past Aaron unless its 100% spot on!
 
 
-      In his spare time Aaron can been found wake boarding or spending time on
-      his acreage property pottering around in his shed
+      In his spare time Aaron can be been found wake boarding or spending time
+      with his young family enjoying the outdoors
     name: Aaron
     occupation: Carpenter
     profileImage: /images/uploads/fullsizeoutput_1ece.jpg
     profileImage2: /images/uploads/fullsizeoutput_1ed0.jpg
   - bio: >-
-      Antony is a qualified carpenter with years of experience in metal
-      construction which makes him a much valued asset for our patio department
-    name: Antony
-    occupation: Carpenter
-    profileImage: /images/uploads/img_8922.jpg
-    profileImage2: /images/uploads/img_4347.jpg
-  - bio: >-
-      Ben is married with 3 children and lives on an acreage block where they
-      have plenty of room for outdoor activities, these include: off road
-      motorbikes, fishing, camping, etc.
-    name: Ben
-    occupation: Carpenter
-    profileImage: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
-    profileImage2: /images/uploads/ccd7aad1-8470-48b8-80c3-f96356c8e1d0_1_201_a.jpeg
-  - bio: >-
-      Luke is our newest recruit with just over a year with the Deking team.
-      Luke gained his carpentry qualification through the armed services which
-      has put him in good stead with getting the job done right the first time
-      and on time.
+      Luke has been with the Deking team for close on 7 years. Luke gained his
+      carpentry qualification through the armed services which has put him in
+      good stead with getting the job done right the first time and on time.
 
 
       Luke is married with 1 little girl who keeps him busy in his spare time
-    name: luke
+    name: Luke
     occupation: Carpenter
     profileImage: /images/uploads/img_4140.jpg
     profileImage2: /images/uploads/img_4356.jpg
   - bio: >-
-      Jarrod is our 1st year apprentice carpenter who always has a grin on his
-      face. In his spare time, Jarrod can be found on the basketball court
-      shooting hoops
-    name: Jarrod Schulte
-    occupation: Apprentice Carpenter
-    profileImage: /images/uploads/jarrod.jpg
-    profileImage2: /images/uploads/jarrod.jpg
-  - bio: >-
-      Let’s not forget Floydy the fat cat, office mascot. He is a well-loved
-      part of the Deking family, although we are not sure what his role is, as
-      he is too well looked after to even think twice about mice.
+      The Deking mascot lounges around in the office demanding pats and food,
+      mmmm food
     name: Floyd
     occupation: Sleep & Eat
     profileImage: /images/uploads/floyd.jpg
     profileImage2: /images/uploads/fullsizeoutput_1ec9.jpg
   - bio: >-
-      Laurie is our metal roofing guru with an inheritance of knowledge from
-      previously working in the trade with his fathers patio business (Now
-      retired)
+      Laurie has patio roofing in his blood, trained originally with his father
+      until his retirement and now with the Deking team.
 
 
-      His 5 year old daughter keeps him more than entertained in the weekends!
+      Laurie loves a good laugh and is our Edward Scissorhands of metal roofing
     name: Laurie
     occupation: Patio Installer
     profileImage: /images/uploads/qa5l-8axrxwftg-16-t3fq.jpg
     profileImage2: /images/uploads/oxncvwccqtudlf1jsowapw.jpg
-  - bio: 'Robert is our young family man, 1 small boy and a brand new baby girl.'
-    name: Robert Hatcher
-    occupation: Carpenter
-    profileImage: /images/uploads/robert.jpg
-    profileImage2: /images/uploads/robert.jpg
   - bio: >-
-      Roland is a true craftsman and can be found making furniture in his
-      weekends
-    name: Roland Ohlsson
-    occupation: Carpenter
-    profileImage: /images/uploads/roland.jpg
-    profileImage2: /images/uploads/roland.jpg
-  - bio: >-
-      Aaron works with Laurie to make up our patio roof team. In his free time
-      Aaron can be found fishing in his tinniw with his young family
-    name: Aaron Pollard
+      Aaron works as a team with Laurie to install amazing patio roofs and has
+      years of experience with metal roofing.
+
+
+      Aaron has a crew of children and loves fishing and camping with his family
+    name: Aaron
     occupation: Patio Roof Installer
     profileImage: /images/uploads/aaronpollard.jpg
     profileImage2: /images/uploads/aaronpollard.jpg
+  - bio: Isaac is our latest team member
+    name: 'Isaac '
+    occupation: Carpenter
+  - bio: Ryan is just completing his carpentry apprenticeship
+    name: 'Ryan '
+    occupation: Carpenter
+  - name: Shannon
+    occupation: Carpenter
+  - name: Broadie
+    occupation: Carpenter
 bannerButton:
   label: Enquire
   link: contact
