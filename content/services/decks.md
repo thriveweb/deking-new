@@ -2,7 +2,7 @@
 template: SingleService
 title: Decks
 parentSlug: /services
-status: Featured
+status: Published
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
 excerpt: 'A DeKing Deck will add Value, quality, longevity, and style to your home.'
