@@ -1,8 +1,8 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: Winter Special
-subtitle: Outdoor Heating Package
+title: Winter Special Giveaway
+subtitle: FREE Outdoor Heating Package
 featuredImage: /images/uploads/heatstrip_special.jpg
 welcomeTitle: Winter Special
 welcomeDescription: >-
