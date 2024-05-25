@@ -88,12 +88,10 @@ servicePods:
       functional, and provides real value to your property.
     podImage: /images/uploads/21.jpg
     podsTitle: What style of Deck do you need?
-bannerTitle: Summer Storm Special
-bannerDescription: |-
-  Free Patio Roof Ceiling Lights.
-  Minimum deck size 25m2.
-  Available with 6 months interest free terms.
-  Offer ends EOFY 2020. Call for T's & C's
+bannerTitle: Winter Heating Special
+bannerDescription: >-
+  Free outdoor heating package with Deck & Patio Roof combination, call for
+  details and T's & C's. Offer ends 30th June 2024
 bannerImage: /images/uploads/patios-verandah-carport-outback-gable-04.jpg
 bannerButton:
   label: Contact Us
