@@ -37,13 +37,17 @@ whatWeDo:
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
     title: 'Deck and Patio add on''s '
-bannerTitle: End of June Special
-bannerDescription: |-
+bannerTitle: Winter Special
+bannerDescription: >-
   Free ceiling lights with insulated patio roofs
+
   Minimum size 25m2.
-  12 months interest free terms are available
-  Offer ends June 2020. Call for T's & C's
-bannerImage: /images/uploads/cooldekrooflightsvictoriapoint.jpg
+
+  Free outdoor heating package with Deck & Patio Roof combination, call for
+  details and T's & C's.
+
+  Offer ends 30th June 2024
+bannerImage: /images/uploads/heatstrip_special_2.jpg
 bannerButton:
   label: Enquire
   link: contact
