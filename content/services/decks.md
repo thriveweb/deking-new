@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Decks
-parentSlug: /services/decks/
+parentSlug: /services/
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
