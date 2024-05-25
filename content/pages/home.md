@@ -13,7 +13,7 @@ welcomeButton:
   label: ''
   link: ''
 servicesTitle: How can we help you today?
-bannerTitle: Winter Special Giveaway
+bannerTitle: Winter Special Give away
 bannerDescription: >-
   Free ceiling lights with insulated patio roofs Minimum size 25m2. 
 
