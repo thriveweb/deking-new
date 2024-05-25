@@ -8,20 +8,20 @@ featuredImage: /images/uploads/11.jpg
 featureButton:
   label: Get started
   link: contact
-welcomeTitle: Winter Special Giveaway
+welcomeTitle: ''
 welcomeButton:
-  label: Free Heating Package
-  link: marketing
+  label: ''
+  link: ''
 servicesTitle: How can we help you today?
-bannerTitle: 25 Year Diamond Deck Guarantee
-bannerDescription: >
-  As we are confident that our workmanship and materials used are of the highest
-  standard we are pleased to be able to offer you a 25 year warranty on our
-  decks and 15 years on our patios. T's & C's apply*
-bannerImage: /images/uploads/10.jpg
+bannerTitle: Winter Special Giveaway
+bannerDescription: >-
+  Free ceiling lights with insulated patio roofs Minimum size 25m2. Free outdoor
+  heating package with Deck & Patio Roof combination, call for details and T's &
+  C's. Offer ends 30th June 2024
+bannerImage: /images/uploads/heatstrip_special.jpg
 bannerButton:
-  label: More Info
-  link: about/guarantees
+  label: Free
+  link: marketing
 promoTitle: We can simply make it happen.
 promoButton:
   label: Our Process
