@@ -1,22 +1,26 @@
 ---
 template: MarketingPage
 slug: promotions-specials-events
-title: Come See us at the Brisbane Home Show
-subtitle: Friday 26th - Sunday 28th February. Brisbane Convention & Exhibition Centre
-featuredImage: /images/uploads/c271487f-5009-4a7c-a902-11347b985d1b_1_201_a.jpeg
-welcomeTitle: Come see us at the show with your plans and we'll provide you a quick quote
+title: Winter Special
+subtitle: Outdoor Heating Package
+featuredImage: /images/uploads/heatstrip_special.jpg
+welcomeTitle: Winter Special
 welcomeDescription: >-
-  Bring along your ideas and grand plan that you have envisioned and we'll get
-  the process started for you by showing you the process, starting with what's
-  possible through to the completed project. You'll be flipping burgers on your
-  new deck in no time!
-welcomeImage: /images/uploads/home-show.jpg
+  Free ceiling lights with insulated patio roofs
+
+  Minimum size 25m2.
+
+  Free outdoor heating package with Deck & Patio Roof combination, call for
+  details and T's & C's.
+
+  Offer ends 30th June 2024
+welcomeImage: ''
 welcomeButton:
   label: enquire
   link: contact
 whatWeDoTitle: How to get your Decking Project started
 whatWeDo: []
-bannerTitle: 'Simply bring us some photos, basic measurements, and we''ll provide you a quote'
+bannerTitle: 'Simply email us some photos, basic measurements, and we''ll provide you a quote'
 bannerDescription: >-
   Together, we can create the indoor and outdoor space you and your family needs
   to create beautiful memories. 
