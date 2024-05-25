@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Patio Roofs
-parentSlug: services
+parentSlug: /services
 status: Featured
 date: '2018-02-20'
 featuredImage: /images/uploads/cooldekredlandbaymerbauposts.jpg
