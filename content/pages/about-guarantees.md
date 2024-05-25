@@ -10,7 +10,7 @@ guarantees:
     worked hard to maintain our commitment to design, construction, quality and
     customer service. The 25 Year  Guarantee is specific to the initial
     purchaser and is transferable to new owners of the home if they agree into
-    the maintenance plan.
+    the annual maintenance plan.
 
 
     1. **All our decks come with a 25 year warranty!***
@@ -45,8 +45,8 @@ meta:
   canonicalLink: 'https://www.dekingdecks.com.au/about/guarantees/'
   description: >-
     The 25 Year Structural Guarantee is specific to the initial purchaser and is
-    transferable to new owners of the home if they agree into the maintenance
-    plan.
+    transferable to new owners of the home if they agree into the annual
+    maintenance plan.
   noindex: false
   title: Our Guarantees | Deking Decks
 ---
