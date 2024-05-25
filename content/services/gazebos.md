@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Gazebos & Outdoor Rooms
-parentSlug: /services
+parentSlug: /services/
 status: Published
 date: '2018-09-09'
 featuredImage: /images/uploads/price-back.jpg
