@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Timber Decks
-parentSlug: /services/decks/
+parentSlug: /services/timber-decks/
 status: Featured
 date: '2018-01-27'
 featuredImage: /images/uploads/deck-1-2.jpg
