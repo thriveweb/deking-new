@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Patio Roofs
+parentSlug: services
 status: Featured
 date: '2018-02-20'
 featuredImage: /images/uploads/cooldekredlandbaymerbauposts.jpg
@@ -137,12 +138,10 @@ servicePods:
     podsTitle: Insulated Roofing
 videoTitle: ''
 videoURL: ''
-bannerTitle: Summer Storm Special
+bannerTitle: Winter Special
 bannerDescription: |-
   Free Patio Roof Ceiling Lights.
-  Minimum deck size 25m2.
-  Available with 6 months interest free terms.
-  Offer ends EOFY 2020. Call for T's & C's
+  Minimum Roof size 25m2.
 bannerImage: /images/uploads/cooldekredlandbay.jpg
 bannerButton:
   label: Contact Us
