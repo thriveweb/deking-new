@@ -37,7 +37,7 @@ whatWeDo:
       external blinds, privacy screens, etc, etc...
     icon: /images/uploads/icon-relax.svg
     title: 'Deck and Patio add on''s '
-bannerTitle: Winter Special
+bannerTitle: Winter Special Giveaway
 bannerDescription: >-
   Free ceiling lights with insulated patio roofs
 
