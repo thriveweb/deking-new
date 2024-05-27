@@ -22,7 +22,7 @@ bannerDescription: >-
 bannerImage: /images/uploads/patio_heater.jpeg
 bannerButton:
   label: Winter Special
-  link: marketing-page
+  link: promotions-specials-events
 promoTitle: We can simply make it happen.
 promoButton:
   label: Our Process
