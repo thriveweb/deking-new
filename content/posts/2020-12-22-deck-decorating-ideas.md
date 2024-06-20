@@ -25,8 +25,6 @@ Large pots and planter boxes are a great way to add greenery to an otherwise pla
 
 ![null](/images/uploads/deking-decks-plants-1.png)
 
-![null](/images/uploads/deking-decks-plants-2.png)
-
 Hanging baskets from the patio roof add another dimension to the zone, and they also add some beautiful colour and foliage.  The baskets also create movement as they sway in the breeze.  Lovely cascading colour combinations can be created with this simple decorating idea.
 
 ![null](/images/uploads/deking-decks-plants-3.png)
